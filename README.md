@@ -51,7 +51,31 @@ GitHub Pages 检测到提交后自动重新部署。
 
 Actions 页签 → 选 `Update Universe Data` → `Run workflow`。
 
-## 部署到 Vercel（推荐：支持实时 AI 搜索）
+## 部署到 Cloudflare Pages（推荐国内访问，无区域限制）
+
+### 步骤
+
+1. 代码已在 GitHub
+2. 登录 https://dash.cloudflare.com → 左侧 **Workers & Pages** → **Create** → **Pages** → **Connect to Git**
+3. 授权 GitHub → 选 `naberich/Universe` → **Begin setup**
+4. Build 设置：
+   - Framework preset: **None**
+   - Build command: （留空）
+   - Build output directory: `/`
+   - Root directory: `/`
+5. 点 **Save and Deploy**
+6. 等 1-2 分钟，会拿到 `https://universe-xxx.pages.dev`
+7. `functions/api/search.js` 会自动被识别为 API 路由 `/api/search`
+
+### 无需配置环境变量
+
+用户自带 key，服务器不需要存 key。如果想设一个**默认 key 作为 fallback**（未填写时使用你的账户），在项目 **Settings → Variables and Secrets** 加：
+- Name: `ANTHROPIC_API_KEY` 或 `OPENAI_API_KEY`
+- Value: 你的 key
+
+---
+
+## 部署到 Vercel（备选）
 
 GitHub Pages 只能部署静态，**不能跑 `/api/search` 搜索**。想要真 AI 联网检索必须走 Vercel。
 
