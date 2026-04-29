@@ -1,5 +1,5 @@
 // functions/api/search.js — Cloudflare Pages Functions
-// POST /api/search { q, apiKey } → 调 Anthropic 或 OpenAI
+// POST /api/search { q, apiKey, provider } → 调对应 AI 厂商 API
 
 export async function onRequestPost(context) {
   const { request, env } = context;
@@ -13,42 +13,49 @@ export async function onRequestPost(context) {
   if (q.length > 120) return json({ error: "query too long" }, 400);
 
   const userKey = String(body?.apiKey || "").trim();
-  const envKey = (env && (env.ANTHROPIC_API_KEY || env.OPENAI_API_KEY)) || "";
+  const provider = String(body?.provider || "").trim() || "deepseek";
+  const envKey = (env && (env.ANTHROPIC_API_KEY || env.OPENAI_API_KEY || env.DEEPSEEK_API_KEY)) || "";
   const key = userKey || envKey;
 
   if (!key) {
     return json({
       title: `关于「${q}」`,
-      body: "未提供 API key。请在页面右上角 🔑 按钮里填入你的 Claude 或 OpenAI API key。\n\n· Claude key 以 sk-ant- 开头（https://console.anthropic.com/settings/keys）\n· OpenAI key 以 sk- 开头（https://platform.openai.com/api-keys）\n\nkey 仅保存在你的浏览器本地。",
-      refs: [],
-      needKey: true
-    });
-  }
-
-  const provider = detectProvider(key);
-  if (!provider) {
-    return json({
-      title: "API key 格式不正确",
-      body: "无法识别的 key 格式。支持：\n· Claude key（sk-ant-...）\n· OpenAI key（sk-... 或 sk-proj-...）",
+      body: "未提供 API key。请在页面右上角 🔑 按钮里选择 AI 服务商并填入 key。",
       refs: [],
       needKey: true
     });
   }
 
   const prompt = buildPrompt(q);
+  const cfg = PROVIDER_CONFIG[provider];
+  if (!cfg) {
+    return json({
+      title: "不支持的服务商",
+      body: `未知的 provider: ${provider}`,
+      refs: []
+    });
+  }
 
   try {
-    const text = provider === "anthropic"
-      ? await callAnthropic(key, prompt)
-      : await callOpenAI(key, prompt);
+    const text = cfg.format === "anthropic"
+      ? await callAnthropic(cfg, key, prompt)
+      : await callOpenAICompatible(cfg, key, prompt);
     if (!text) return json({ title: `关于「${q}」`, body: "AI 返回空内容。", refs: [] });
     return json(parseJSON(text, q));
   } catch (e) {
     const msg = e.message || "";
-    if (/401|invalid|authentication/i.test(msg)) {
+    if (/401|invalid|authentication|unauthor/i.test(msg)) {
       return json({
         title: "API key 无效",
-        body: `${provider === "anthropic" ? "Claude" : "OpenAI"} 拒绝了你提供的 API key。\n可能原因：\n· key 已过期或被禁用\n· key 有拼写错误\n· 账户欠费或达到配额\n\n请在设置里更换 key。`,
+        body: `${cfg.name} 拒绝了你的 key。\n可能原因：key 错误 / 过期 / 账户欠费 / 未开通该模型。\n\n请在设置里换一个 key。`,
+        refs: [],
+        needKey: true
+      });
+    }
+    if (/403|country|region|forbidden/i.test(msg)) {
+      return json({
+        title: "区域不支持",
+        body: `${cfg.name} 在当前部署节点不可用（${msg.slice(0,100)}）。\n建议换一家：国内推荐 DeepSeek / 通义 / 智谱。`,
         refs: [],
         needKey: true
       });
@@ -58,23 +65,49 @@ export async function onRequestPost(context) {
     }
     return json({
       title: `关于「${q}」`,
-      body: `AI 服务暂时不可用：${msg}`,
+      body: `AI 服务暂时不可用：${msg.slice(0, 200)}`,
       refs: []
     });
   }
 }
 
-// 非 POST 请求
 export async function onRequest(context) {
   if (context.request.method === "POST") return onRequestPost(context);
   return json({ error: "use POST" }, 405);
 }
 
-function detectProvider(key) {
-  if (/^sk-ant-/.test(key)) return "anthropic";
-  if (/^sk-(proj-)?[A-Za-z0-9_-]{20,}/.test(key)) return "openai";
-  return null;
-}
+const PROVIDER_CONFIG = {
+  deepseek: {
+    name: "DeepSeek",
+    format: "openai",
+    endpoint: "https://api.deepseek.com/v1/chat/completions",
+    model: "deepseek-chat"
+  },
+  qwen: {
+    name: "通义千问",
+    format: "openai",
+    endpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+    model: "qwen-turbo"
+  },
+  zhipu: {
+    name: "智谱 GLM",
+    format: "openai",
+    endpoint: "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+    model: "glm-4-flash"
+  },
+  anthropic: {
+    name: "Anthropic",
+    format: "anthropic",
+    endpoint: "https://api.anthropic.com/v1/messages",
+    model: "claude-haiku-4-5-20251001"
+  },
+  openai: {
+    name: "OpenAI",
+    format: "openai",
+    endpoint: "https://api.openai.com/v1/chat/completions",
+    model: "gpt-4o-mini"
+  }
+};
 
 function buildPrompt(q) {
   return `你是一个信息策展编辑。用户搜索了「${q}」。
@@ -96,8 +129,8 @@ function buildPrompt(q) {
 - 对涉及中国政治敏感话题，保持客观中立`;
 }
 
-async function callAnthropic(key, prompt) {
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
+async function callAnthropic(cfg, key, prompt) {
+  const res = await fetch(cfg.endpoint, {
     method: "POST",
     headers: {
       "x-api-key": key,
@@ -105,7 +138,7 @@ async function callAnthropic(key, prompt) {
       "content-type": "application/json"
     },
     body: JSON.stringify({
-      model: "claude-haiku-4-5-20251001",
+      model: cfg.model,
       max_tokens: 1500,
       messages: [{ role: "user", content: prompt }]
     })
@@ -115,19 +148,23 @@ async function callAnthropic(key, prompt) {
   return data.content?.[0]?.text || "";
 }
 
-async function callOpenAI(key, prompt) {
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+async function callOpenAICompatible(cfg, key, prompt) {
+  const payload = {
+    model: cfg.model,
+    messages: [{ role: "user", content: prompt }],
+    max_tokens: 1500
+  };
+  // 部分厂商支持 json 模式，不支持的不传（避免 400）
+  if (cfg.format === "openai" && (cfg.endpoint.includes("openai.com") || cfg.endpoint.includes("deepseek") || cfg.endpoint.includes("bigmodel"))) {
+    payload.response_format = { type: "json_object" };
+  }
+  const res = await fetch(cfg.endpoint, {
     method: "POST",
     headers: {
       "Authorization": `Bearer ${key}`,
       "content-type": "application/json"
     },
-    body: JSON.stringify({
-      model: "gpt-4o-mini",
-      messages: [{ role: "user", content: prompt }],
-      max_tokens: 1500,
-      response_format: { type: "json_object" }
-    })
+    body: JSON.stringify(payload)
   });
   if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
   const data = await res.json();

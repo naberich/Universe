@@ -2083,14 +2083,22 @@
     <div class="modal-sub">首次使用 AI 搜索前需要填入你自己的 API key（支持 Claude 或 OpenAI）。key 仅保存在你的浏览器本地，<b>不会上传或被其他人看到</b>。</div>
 
     <div class="modal-field">
+      <label>AI 服务商</label>
+      <select id="apikey-provider">
+        <option value="deepseek">DeepSeek（推荐，国内可用、便宜）</option>
+        <option value="qwen">阿里通义 Qwen</option>
+        <option value="zhipu">智谱 GLM</option>
+        <option value="anthropic">Anthropic Claude（海外）</option>
+        <option value="openai">OpenAI（海外，国内需代理）</option>
+      </select>
+    </div>
+
+    <div class="modal-field">
       <label>API Key</label>
-      <input type="password" id="apikey-input" placeholder="sk-ant-... 或 sk-..." autocomplete="off">
+      <input type="password" id="apikey-input" placeholder="sk-..." autocomplete="off">
       <div id="apikey-msg" class="modal-inline-msg" style="display:none;"></div>
-      <div style="font-size:11px;color:var(--ink-muted);margin-top:6px;">
-        还没有 key？
-        <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener" style="color:#764ba2;">Claude →</a>
-        &nbsp;·&nbsp;
-        <a href="https://platform.openai.com/api-keys" target="_blank" rel="noopener" style="color:#764ba2;">OpenAI →</a>
+      <div style="font-size:11px;color:var(--ink-muted);margin-top:6px;" id="apikey-hint">
+        还没有 key？ <a id="apikey-link" href="https://platform.deepseek.com/" target="_blank" rel="noopener" style="color:#764ba2;">去 DeepSeek 申请 →</a>
       </div>
     </div>
 

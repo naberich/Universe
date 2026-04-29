@@ -148,24 +148,35 @@ let notifSettings = (() => {
 function saveNotifPersist() { return safeStorage.set(NOTIF_KEY, notifSettings); }
 
 // ================= API Key（用户自带） =================
-const API_KEY_STORE = "universe_api_key_v1";
+const API_KEY_STORE = "universe_api_key_v2";
+function getApiKeyData() {
+  const v = safeStorage.get(API_KEY_STORE, null);
+  if (v && typeof v === "object") return v;
+  // 兼容旧版（v1 只存了字符串 key）
+  const oldKey = safeStorage.get("universe_api_key_v1", "") || "";
+  if (oldKey) {
+    const provider = /^sk-ant-/.test(oldKey) ? "anthropic" : "openai";
+    return { key: oldKey, provider };
+  }
+  return { key: "", provider: "deepseek" };
+}
 function getApiKey() {
-  return safeStorage.get(API_KEY_STORE, "") || "";
+  return getApiKeyData().key || "";
 }
-function setApiKey(k) {
+function getApiProvider() {
+  return getApiKeyData().provider || "deepseek";
+}
+function setApiKey(k, provider) {
   const trimmed = String(k || "").trim();
-  if (trimmed) safeStorage.set(API_KEY_STORE, trimmed);
-  else safeStorage.remove(API_KEY_STORE);
-}
-function detectKeyProvider(k) {
-  if (!k) return null;
-  if (/^sk-ant-/.test(k)) return "anthropic";
-  if (/^sk-(proj-)?[A-Za-z0-9_-]{20,}/.test(k)) return "openai";
-  return null;
+  if (trimmed) {
+    safeStorage.set(API_KEY_STORE, { key: trimmed, provider: provider || "deepseek" });
+  } else {
+    safeStorage.remove(API_KEY_STORE);
+  }
+  safeStorage.remove("universe_api_key_v1"); // 清理旧版
 }
 function hasApiKey() {
-  const k = getApiKey();
-  return !!detectKeyProvider(k);
+  return !!getApiKey();
 }
 
 // ================= 日期 / 粒度 =================
@@ -465,7 +476,7 @@ Object.assign(window, {
   getCurrentGranularity: () => currentGranularity,
   // 工具
   safeStorage, safeFetch, safeNotify,
-  getApiKey, setApiKey, hasApiKey, detectKeyProvider,
+  getApiKey, setApiKey, hasApiKey, getApiProvider, getApiKeyData,
   rebuildEvents, saveCustomEvents, isCustomEvent,
   saveReadState, markNewsRead, markEventRead, isNewsRead, isEventRead, unreadCount,
   saveNotifPersist,

@@ -902,13 +902,41 @@ function showEvent(id) {
 // 简单实体抽取：中文专名词 + 英文大写连词 + 数字型版本号
 
 // ================= API Key Modal =================
+const PROVIDER_META = {
+  deepseek:  { name: "DeepSeek",  link: "https://platform.deepseek.com/api_keys",    placeholder: "sk-...（DeepSeek key）" },
+  qwen:      { name: "通义千问",   link: "https://bailian.console.aliyun.com/?apiKey=1", placeholder: "sk-...（DashScope key）" },
+  zhipu:     { name: "智谱 GLM",   link: "https://open.bigmodel.cn/usercenter/apikeys", placeholder: "xxxxx.xxxxx（含点号）" },
+  anthropic: { name: "Anthropic", link: "https://console.anthropic.com/settings/keys", placeholder: "sk-ant-api03-..." },
+  openai:    { name: "OpenAI",    link: "https://platform.openai.com/api-keys",       placeholder: "sk-..." }
+};
+
 function openApiKeyModal() {
-  const el = document.getElementById("apikey-input");
-  if (el) el.value = getApiKey();
+  const input = document.getElementById("apikey-input");
+  const providerSel = document.getElementById("apikey-provider");
+  const data = getApiKeyData();
+  if (input) input.value = data.key || "";
+  if (providerSel) providerSel.value = data.provider || "deepseek";
+  updateApiKeyHint(data.provider || "deepseek");
   setApiKeyMsg("", "");
-  if (el) el.classList.remove("input-error");
+  if (input) input.classList.remove("input-error");
+  // 监听 provider 切换，更新 placeholder 和链接
+  if (providerSel && !providerSel._bound) {
+    providerSel._bound = true;
+    providerSel.addEventListener("change", () => updateApiKeyHint(providerSel.value));
+  }
   document.getElementById("apikey-modal").classList.add("open");
-  setTimeout(() => el && el.focus(), 80);
+  setTimeout(() => input && input.focus(), 80);
+}
+
+function updateApiKeyHint(provider) {
+  const meta = PROVIDER_META[provider] || PROVIDER_META.deepseek;
+  const input = document.getElementById("apikey-input");
+  const link = document.getElementById("apikey-link");
+  if (input) input.placeholder = meta.placeholder;
+  if (link) {
+    link.href = meta.link;
+    link.textContent = `去 ${meta.name} 申请 →`;
+  }
 }
 function closeApiKeyModal() {
   document.getElementById("apikey-modal").classList.remove("open");
@@ -930,7 +958,9 @@ function setApiKeyMsg(text, type) {
 
 function saveApiKeyFromModal() {
   const input = document.getElementById("apikey-input");
+  const providerSel = document.getElementById("apikey-provider");
   const v = input.value.trim();
+  const provider = (providerSel && providerSel.value) || "deepseek";
   input.classList.remove("input-error");
   if (!v) {
     input.classList.add("input-error");
@@ -938,18 +968,30 @@ function saveApiKeyFromModal() {
     showToast("请填写 API key");
     return;
   }
-  const provider = detectKeyProvider(v);
-  if (!provider) {
+  // 简单格式校验
+  if (provider === "anthropic" && !/^sk-ant-/.test(v)) {
     input.classList.add("input-error");
     input.focus();
-    input.select();
-    showToast("key 格式不正确（支持 sk-ant- 或 sk-... 开头）");
+    showToast("Claude key 应以 sk-ant- 开头");
     return;
   }
-  setApiKey(v);
+  if (provider === "zhipu" && !/\./.test(v)) {
+    input.classList.add("input-error");
+    input.focus();
+    showToast("智谱 key 应含点号（如 abc.xyz）");
+    return;
+  }
+  if ((provider === "deepseek" || provider === "qwen" || provider === "openai") && !/^sk-/.test(v)) {
+    input.classList.add("input-error");
+    input.focus();
+    showToast("key 应以 sk- 开头");
+    return;
+  }
+  setApiKey(v, provider);
   closeApiKeyModal();
   refreshKeyIndicator();
-  showToast(`API key 已保存（${provider === "anthropic" ? "Claude" : "OpenAI"}）`);
+  const name = (PROVIDER_META[provider] || {}).name || provider;
+  showToast(`API key 已保存（${name}）`);
 }
 
 function clearApiKey() {
@@ -1556,11 +1598,12 @@ function runSearch() {
 // 调后端 /api/search；失败时回退到 fakeAIWebAnswer
 async function fetchAIWebAnswer(kw) {
   const apiKey = getApiKey();
+  const provider = getApiProvider();
   try {
     const res = await fetch("/api/search", {
       method: "POST",
       headers: { "content-type": "application/json" },
-      body: JSON.stringify({ q: kw, apiKey })
+      body: JSON.stringify({ q: kw, apiKey, provider })
     });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
