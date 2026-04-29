@@ -730,6 +730,45 @@ function showNews(catId, i) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+// 关联事件推荐 UI
+function renderSuggestedEvents(news, catId, i) {
+  try {
+    const list = suggestEvents(news, 3);
+    if (!list || !list.length) return "";
+    return `
+      <div class="timeline-wrap suggest-wrap">
+        <div class="timeline-title">
+          <span class="ai-brief-tag" style="margin:0;"><span class="pulse"></span>AI 关联推荐</span>
+        </div>
+        <div class="timeline-sub">根据标题和正文的实体识别，这些长期事件可能与本条资讯相关</div>
+        <div class="suggest-list">
+          ${list.map(({event, matched, score}) => `
+            <div class="suggest-item" onclick="showEvent('${event.id}')">
+              <div class="suggest-main">
+                <div class="suggest-name">${event.name}</div>
+                <div class="suggest-desc">${event.desc}</div>
+                <div class="suggest-match">
+                  ${matched.slice(0, 4).map(m => `<span class="match-chip">${m}</span>`).join("")}
+                  <span class="suggest-score">相关度 ${Math.round(score * 100)}%</span>
+                </div>
+              </div>
+              <div class="suggest-arr">→</div>
+            </div>
+          `).join("")}
+        </div>
+        ${news.eventId ? "" : `
+          <div style="margin-top:14px;">
+            <button class="btn-ghost" onclick='openEventModal(${JSON.stringify(news.title)}, null)'>＋ 或创建新事件追踪</button>
+          </div>
+        `}
+      </div>
+    `;
+  } catch (e) {
+    console.warn("[renderSuggestedEvents] error:", e);
+    return "";
+  }
+}
+
 function showAggregate(catId, g, periodKey) {
   const cat = categories[catId];
   const agg = getAggregate(catId, g, periodKey);
