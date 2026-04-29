@@ -147,6 +147,21 @@ let notifSettings = (() => {
 })();
 function saveNotifPersist() { return safeStorage.set(NOTIF_KEY, notifSettings); }
 
+// ================= API Key（用户自带） =================
+const API_KEY_STORE = "universe_api_key_v1";
+function getApiKey() {
+  return safeStorage.get(API_KEY_STORE, "") || "";
+}
+function setApiKey(k) {
+  const trimmed = String(k || "").trim();
+  if (trimmed) safeStorage.set(API_KEY_STORE, trimmed);
+  else safeStorage.remove(API_KEY_STORE);
+}
+function hasApiKey() {
+  const k = getApiKey();
+  return !!k && /^sk-ant-/.test(k);
+}
+
 // ================= 日期 / 粒度 =================
 let currentDate = new Date();
 let currentGranularity = "day";
@@ -444,6 +459,7 @@ Object.assign(window, {
   getCurrentGranularity: () => currentGranularity,
   // 工具
   safeStorage, safeFetch, safeNotify,
+  getApiKey, setApiKey, hasApiKey,
   rebuildEvents, saveCustomEvents, isCustomEvent,
   saveReadState, markNewsRead, markEventRead, isNewsRead, isEventRead, unreadCount,
   saveNotifPersist,

@@ -22,13 +22,28 @@ export default async function handler(req) {
   if (!q) return json({ error: "empty query" }, 400);
   if (q.length > 80) return json({ error: "query too long" }, 400);
 
-  const key = process.env.ANTHROPIC_API_KEY;
+  // 优先用用户自带 key，找不到才 fallback 到 env（env 也可能不设）
+  const userKey = String(body?.apiKey || "").trim();
+  const envKey = process.env.ANTHROPIC_API_KEY || "";
+  const key = userKey || envKey;
+
   if (!key) {
     return json({
       title: `关于「${q}」`,
-      body: "后端未配置 ANTHROPIC_API_KEY，暂时无法做实时综合检索。\n\n请在 Vercel 项目 Settings → Environment Variables 添加 ANTHROPIC_API_KEY 后重新部署。",
-      refs: []
-    });
+      body: "未提供 Claude API key。\n\n请在页面右上角「🔔」旁的「⚙」设置入口填入你的 Anthropic API key（以 sk-ant- 开头）。\n\nkey 仅存在你的浏览器里，不上传服务器。申请地址：https://console.anthropic.com/settings/keys",
+      refs: [],
+      needKey: true
+    }, 200);
+  }
+
+  // 简单校验 key 格式
+  if (!/^sk-ant-/.test(key)) {
+    return json({
+      title: "API key 格式不正确",
+      body: "Anthropic API key 应以 sk-ant- 开头。请在设置里检查填写的 key。",
+      refs: [],
+      needKey: true
+    }, 200);
   }
 
   const prompt = `你是一个信息策展编辑。用户搜索了「${q}」。
@@ -67,11 +82,27 @@ export default async function handler(req) {
     if (!res.ok) {
       const errText = await res.text();
       console.error("[search] claude error", res.status, errText);
+      // 401 特殊处理：提示 key 无效
+      if (res.status === 401) {
+        return json({
+          title: "API key 无效",
+          body: "Claude 拒绝了你提供的 API key。可能原因：\n· key 已过期或被禁用\n· key 有拼写错误\n· 账户欠费或达到配额\n\n请在设置里更换 key。",
+          refs: [],
+          needKey: true
+        }, 200);
+      }
+      if (res.status === 429) {
+        return json({
+          title: "请求过快",
+          body: "你的 Claude 账户被限流，请稍等一分钟再试。",
+          refs: []
+        }, 200);
+      }
       return json({
         title: `关于「${q}」`,
-        body: `AI 服务暂时不可用（${res.status}）。请稍后再试，或在看板里浏览已聚合的信息。`,
+        body: `AI 服务暂时不可用（${res.status}）。请稍后再试。`,
         refs: []
-      }, 200);  // 200 让前端正常渲染降级文案
+      }, 200);
     }
 
     const data = await res.json();

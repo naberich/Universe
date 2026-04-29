@@ -900,6 +900,55 @@ function showEvent(id) {
 
 // ================= 实体识别 / 聚类推荐 =================
 // 简单实体抽取：中文专名词 + 英文大写连词 + 数字型版本号
+
+// ================= API Key Modal =================
+function openApiKeyModal() {
+  const el = document.getElementById("apikey-input");
+  if (el) el.value = getApiKey();
+  document.getElementById("apikey-modal").classList.add("open");
+  setTimeout(() => el && el.focus(), 80);
+}
+function closeApiKeyModal() {
+  document.getElementById("apikey-modal").classList.remove("open");
+}
+function saveApiKeyFromModal() {
+  const v = document.getElementById("apikey-input").value.trim();
+  if (!v) {
+    showToast("未填写 key");
+    return;
+  }
+  if (!/^sk-ant-/.test(v)) {
+    showToast("key 格式不正确（应以 sk-ant- 开头）");
+    return;
+  }
+  setApiKey(v);
+  closeApiKeyModal();
+  refreshKeyIndicator();
+  showToast("API key 已保存到本地");
+}
+function clearApiKey() {
+  if (!confirm("确定清除已保存的 API key？")) return;
+  setApiKey("");
+  const el = document.getElementById("apikey-input");
+  if (el) el.value = "";
+  refreshKeyIndicator();
+  showToast("API key 已清除");
+}
+function refreshKeyIndicator() {
+  const btn = document.querySelector(".nav-key");
+  const dot = document.getElementById("key-dot");
+  if (!btn) return;
+  if (hasApiKey()) {
+    btn.classList.remove("needs-key");
+    if (dot) dot.style.display = "none";
+    btn.title = "Claude API Key 已配置";
+  } else {
+    btn.classList.add("needs-key");
+    if (dot) dot.style.display = "";
+    btn.title = "点击配置 Claude API Key（AI 搜索需要）";
+  }
+}
+
 // ================= 添加 / 删除事件 =================
 
 function openEventModal(keyword, aiAnswer) {
@@ -1457,20 +1506,28 @@ function runSearch() {
 
 // 调后端 /api/search；失败时回退到 fakeAIWebAnswer
 async function fetchAIWebAnswer(kw) {
+  const apiKey = getApiKey();
   try {
     const res = await fetch("/api/search", {
       method: "POST",
       headers: { "content-type": "application/json" },
-      body: JSON.stringify({ q: kw })
+      body: JSON.stringify({ q: kw, apiKey })
     });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     if (!data || !data.body) throw new Error("empty response");
+    // 如果后端提示需要 key，自动弹 modal
+    if (data.needKey) {
+      setTimeout(() => openApiKeyModal(), 400);
+    }
     return data;
   } catch (e) {
     console.warn("[search] api failed, fallback:", e.message);
     // 在静态部署（如 GitHub Pages）下 /api/search 不存在，降级到假文案
-    return fakeAIWebAnswer(kw);
+    // 同时提示用户切到 Vercel 或配 key
+    const fallback = fakeAIWebAnswer(kw);
+    fallback.body = "⚠ 实时 AI 搜索未启用（当前部署环境不支持后端 API 或尚未配置 key）。\n\n" + fallback.body;
+    return fallback;
   }
 }
 
@@ -1491,6 +1548,7 @@ Object.assign(window, {
   openShareCard, closeShare, copyShareUrl, downloadShareCard,
   openNotifModal, closeNotifModal, requestDesktopNotif, testNotif,
   saveNotifSettings, clearTime, fillTimeSelect,
+  openApiKeyModal, closeApiKeyModal, saveApiKeyFromModal, clearApiKey, refreshKeyIndicator,
   showToast, scrollToEvents
 });
 
@@ -1514,7 +1572,15 @@ function __initRender() {
     syncBodyViewClass();
     if (typeof handleShareHash === "function") handleShareHash();
     if (typeof updateBellBadge === "function") updateBellBadge();
+    if (typeof refreshKeyIndicator === "function") refreshKeyIndicator();
     if (typeof maybeDailyPush === "function") setInterval(maybeDailyPush, 30000);
+    // 首次访问且没 key → 轻量提示（不强制弹出打扰体验，用按钮指示即可）
+    if (!hasApiKey() && !safeStorage.get("universe_first_visit_notified", false)) {
+      safeStorage.set("universe_first_visit_notified", true);
+      setTimeout(() => {
+        showToast("点击右上角 🔑 配置 Claude API Key 即可使用 AI 搜索");
+      }, 1500);
+    }
   } catch (e) {
     console.error("[render.js] init failed:", e);
   }
