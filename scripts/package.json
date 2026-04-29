@@ -4,9 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch": "node scripts/fetch.mjs",
-    "serve": "python3 -m http.server 8765",
-    "dev": "python3 -m http.server 8765"
+    "fetch": "node fetch.mjs"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
