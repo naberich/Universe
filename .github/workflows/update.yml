@@ -2,8 +2,8 @@ name: Update Universe Data
 
 on:
   schedule:
-    # 每小时第 17 分（错开整点，降低 API 压力）
-    - cron: "17 * * * *"
+    # 每天北京时间 09:00 和 20:00（UTC 01:00 / 12:00）
+    - cron: "0 1,12 * * *"
   workflow_dispatch:  # 允许手动触发
 
 permissions:
