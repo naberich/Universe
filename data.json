@@ -1,0 +1,2698 @@
+{
+  "sources": {
+    "tech": "欧美媒体：The Verge · Ars Technica · Wired · TechCrunch · The Information · Bloomberg Tech ｜ 国内互联网：36氪 · 虎嗅 · 少数派 · 极客公园 · 雷峰网 ｜ 品牌官网：Apple · Google · Microsoft · Samsung · 华为 · 小米 · OPPO · 字节 · 腾讯 ｜ 高管动态：Tim Cook / Sundar Pichai / Jensen Huang / 雷军 / 余承东 ｜ 发布会：Apple Event · Google I/O · WWDC · 华为全联接 · 小米年度 ｜ 制造业：日经 Nikkei · 台积电 · 三星电子 · SK 海力士 · 东京电子 · ASML ｜ 智能制造：36氪工业 · 机器之心智造 · 亚洲核心：韩国中央日报 · 朝日新闻 · 印度经济时报 ｜ 视频：哔哩哔哩科技区 · YouTube Tech",
+    "ai": "技术层：Arxiv · HuggingFace · Papers with Code · Google Scholar ｜ 欧美公司：OpenAI · Anthropic · DeepMind · Meta AI · Mistral · xAI ｜ 国内公司：智谱 · 月之暗面 · DeepSeek · 阶跃星辰 · 百川 · 字节 Seed · 阿里通义 ｜ 应用层：Product Hunt · a16z · Sequoia · YC ｜ 社区：机器之心 · 量子位 · AI 前线 · Latent Space · Import AI ｜ 高管/研究者：Sam Altman · Dario Amodei · Demis Hassabis · Yann LeCun · 李开复",
+    "intl": "主流媒体：BBC · CNN · Reuters · AP · AFP · FT · The Economist · NYT · Washington Post ｜ 欧洲：Le Monde（法国）· Le Figaro · Der Spiegel（德国）· El País（西班牙）· La Repubblica（意大利）· Politico Europe ｜ 期刊：Foreign Affairs · International Affairs · Social, Political and Economic Studies · The Diplomat · Foreign Policy · Journal of Democracy ｜ 智库：Brookings · CSIS · Chatham House · ECFR · RAND · Carnegie ｜ 国际组织动向：UN · WTO · IMF · World Bank · G7/G20 · NATO · WHO · OECD",
+    "cn": "官方：新华社 · 人民日报 · 央视新闻 · 中国政府网 ｜ 媒体：澎湃新闻 · 财新 · 第一财经 · 中国新闻周刊 · 南方周末 ｜ 政策：国务院 · 发改委 · 央行 · 外交部 · 商务部 ｜ 社会热点：微博热搜 · 小红书趋势 · 抖音热榜 · 知乎热议 · 今日头条 ｜ 区域观察：上观新闻 · 南方都市报 · 北京日报",
+    "stock": "A 股：东方财富 · 同花顺 · Wind · 证券时报 · 上海证券报 · 中国证券报 ｜ 港股：香港信报 · 明报财经 · 南华早报 · 富途牛牛 ｜ 美股：Bloomberg · WSJ · Reuters · CNBC · MarketWatch · Barron's ｜ 欧洲/日本市场：FT · Nikkei · Euronews Business ｜ 研报：中金 · 中信 · 高盛 · 摩根士丹利 · JP Morgan · 瑞银 ｜ 政策端：Fed · ECB · 日央行 · 中国央行 · IMF 季度展望 · 世界银行预测 ｜ 实时行情：华尔街见闻 · 财联社 · 格隆汇",
+    "study": "产品：PMCAFF · 人人都是产品经理 · 宝玉博客 · Lenny's Newsletter · Stratechery ｜ UI/UX：Dribbble · Behance · 优设 · Figma Blog · Designer News ｜ 用户研究：NN/g · UXMatters · UX Collective · IDEO ｜ 硬件：少数派 · Product Hunt · Hacker News · IEEE Spectrum ｜ 软件/工程：GitHub Trending · 极客时间 · InfoQ ｜ 商业思考：HBR · MIT Tech Review · 得到精选"
+  },
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "name": "Technology",
+      "nameCN": "科技",
+      "code": "01 / TECHNOLOGY",
+      "slot": "slot-tech",
+      "icon": "💻",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
+      "coreArticles": [
+        {
+          "idx": 1,
+          "title": "Germany Overtakes US in Ammunition Production Capacity",
+          "src": "Hacker News Front",
+          "url": "https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409"
+        },
+        {
+          "idx": 2,
+          "title": "HardenedBSD Is Now Officially on Radicle",
+          "src": "Hacker News Front",
+          "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"
+        },
+        {
+          "idx": 3,
+          "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+          "src": "36氪",
+          "url": "https://36kr.com/p/3787376553876737?f=rss"
+        },
+        {
+          "idx": 4,
+          "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+          "src": "少数派",
+          "url": "https://sspai.com/post/109207"
+        },
+        {
+          "idx": 5,
+          "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+          "src": "36氪",
+          "url": "https://36kr.com/p/3769086884528640?f=rss"
+        }
+      ],
+      "aiBrief": {
+        "lead": "今日科技主线是「AI 硬件下沉 + 算力平权」：欧美、中国、亚洲核心制造三条链同步发力，消费级 AI 硬件的价格拐点正在逼近。",
+        "heroImage": "tech",
+        "sections": [
+          {
+            "h": "欧美·巨头动态",
+            "p": "苹果 CEO Tim Cook 内部信确认 Vision Pro 2 目标消费化；英伟达 Jensen Huang 在 GTC 演讲首次披露 Rubin 产能规划；OpenAI 与 Microsoft 就 Sora 2 的商业化分成进入谈判最后阶段。"
+          },
+          {
+            "h": "国内互联网·制造业",
+            "p": "小米雷军宣布 SU7 Ultra 交付破 10 万；华为余承东确认 Mate 80 将搭载新一代麒麟；三大云厂商集体降价 30%，反映国内算力竞争已从供给扩张进入价格战。"
+          },
+          {
+            "h": "亚洲核心技术",
+            "p": "台积电 2nm 良率突破 70%；三星电子 HBM4 样品送测英伟达；SK 海力士扩产计划提前至 2026 Q3；ASML 对华 EUV 出口政策维持不变。"
+          },
+          {
+            "h": "对 PM / 投资人的信号",
+            "p": "消费级 AI 硬件价格拐点可能比预期早 6–12 个月到来；云 GPU 降价意味着 AI 产品原型成本大幅下降，现在是搭建垂直场景 MVP 的窗口期。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "3.3×",
+            "l": "Rubin 推理提升"
+          },
+          {
+            "n": "-30%",
+            "l": "云 GPU 降价"
+          },
+          {
+            "n": "$1999",
+            "l": "Vision Pro 2 起售"
+          },
+          {
+            "n": "70%",
+            "l": "台积电 2nm 良率"
+          }
+        ],
+        "relatedEvents": [
+          "vision_pro",
+          "nvidia_rubin",
+          "claude_opus"
+        ]
+      },
+      "news": [
+        {
+          "title": "Germany Overtakes US in Ammunition Production Capacity",
+          "summary": "Article URL: https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409 Comments URL: https://news.ycombinator.com/item?id=47944924 Points: 10 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "HardenedBSD Is Now Officially on Radicle",
+          "summary": "Article URL: https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle Comments URL: https://news.ycombinator.com/item?id=47944864 Points: 11 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+          "summary": "作者｜乔钰杰 编辑｜袁斯来 4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。 此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3787376553876737?f=rss",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+          "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/109207",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+          "summary": "靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。 4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。 两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3769086884528640?f=rss",
+          "time": "4h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "How one venture firm is investing in an increasingly fragmented world",
+          "summary": "Geopolitical turmoil has made venture investing challenging, leading Kompas VC to carve out a niche in startups focused on the physical world.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "老铺黄金还不是爱马仕",
+          "summary": "作者 | 谢芸子 编辑 | 张帆 老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。 2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。 公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。第三则是",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3787296465427464?f=rss",
+          "time": "4h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事",
+          "summary": "《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/109188",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Bugs Rust won't catch",
+          "summary": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/ Comments URL: https://news.ycombinator.com/item?id=47943499 Points: 182 # Comments: 55",
+          "source": "Hacker News Front",
+          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "When the Internet Was a Place",
+          "summary": "Article URL: https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/ Comments URL: https://news.ycombinator.com/item?id=47943190 Points: 34 # Comments: 7",
+          "source": "Hacker News Front",
+          "url": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        }
+      ]
+    },
+    "ai": {
+      "id": "ai",
+      "name": "AI",
+      "nameCN": "AI 发展",
+      "code": "02 / ARTIFICIAL INTELLIGENCE",
+      "slot": "slot-ai",
+      "icon": "🤖",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
+      "coreArticles": [
+        {
+          "idx": 1,
+          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+        },
+        {
+          "idx": 2,
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-on-aws"
+        },
+        {
+          "idx": 3,
+          "title": "Our commitment to community safety",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/our-commitment-to-community-safety"
+        },
+        {
+          "idx": 4,
+          "title": "OpenAI available at FedRAMP Moderate",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+        },
+        {
+          "idx": 5,
+          "title": "Announcing our partnership with the Republic of Korea",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+        }
+      ],
+      "aiBrief": {
+        "lead": "AI 领域从「模型竞赛」全面转向「Agent 落地」：技术层仍在刷 SOTA，但更大的资金和产品动作集中在应用层。中美双线均进入加速期。",
+        "heroImage": "ai",
+        "sections": [
+          {
+            "h": "技术层·模型迭代",
+            "p": "Anthropic Opus 4.7 在 SWE-bench 刷新至 82.3%；DeepSeek R2 开源并全面对标 o3；智谱 GLM-5 上下文扩展至 2M；Arxiv 热度最高的 MoE 新架构论文引发业界讨论。"
+          },
+          {
+            "h": "应用层·Agent 爆发",
+            "p": "Cursor 估值达 120 亿美元；Microsoft Copilot Studio 2.0 支持多 Agent 编排；Harvey（法律）、Decagon（客服）、Perplexity（研究）本周融资合计超 8 亿美元。代码、销售、客服、研究四类场景已形成标杆。"
+          },
+          {
+            "h": "大公司动向",
+            "p": "Sam Altman 公开表示 OpenAI 下阶段重心转向企业 Agent；Dario Amodei 访谈强调 Claude 的 Computer Use；Yann LeCun 持续唱衰 Autoregressive 路线；国内阶跃星辰、月之暗面加注 B 端。"
+          },
+          {
+            "h": "给 AI PM 的信号",
+            "p": "现在是定义垂直 Agent 标杆的窗口期——Agent 正在经历 2024 年 Copilot 走过的路。关注 context 工程、工具调用、评估体系三个新兴的硬技能。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "82.3%",
+            "l": "Claude SWE-bench"
+          },
+          {
+            "n": "$12B",
+            "l": "Cursor 估值"
+          },
+          {
+            "n": "$800M+",
+            "l": "本周 Agent 融资"
+          },
+          {
+            "n": "2M",
+            "l": "GLM-5 上下文"
+          }
+        ],
+        "relatedEvents": [
+          "claude_opus",
+          "vision_pro"
+        ]
+      },
+      "news": [
+        {
+          "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-on-aws",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Our commitment to community safety",
+          "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/our-commitment-to-community-safety",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "OpenAI available at FedRAMP Moderate",
+          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Announcing our partnership with the Republic of Korea",
+          "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "An open-source spec for orchestration: Symphony",
+          "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Choco automates food distribution with AI agents",
+          "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/choco",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Our principles",
+          "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/our-principles",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        }
+      ]
+    },
+    "intl": {
+      "id": "intl",
+      "name": "Global",
+      "nameCN": "国际政治",
+      "code": "03 / GLOBAL AFFAIRS",
+      "slot": "slot-intl",
+      "icon": "🌍",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
+      "coreArticles": [],
+      "aiBrief": {
+        "lead": "国际政治正在「阵营化供应链」的主旋律下重新排序：G7 的关键矿产框架、美欧数字税妥协、中东缓和，本质都是在为下一轮地缘竞争重组资源和话语权。",
+        "heroImage": "intl",
+        "sections": [
+          {
+            "h": "欧美主轴",
+            "p": "英国 FT 与 The Economist 同时刊文警示「去风险」已从话术变政策；Politico Europe 报道欧委会正在起草对华电动车反补贴调查的下一步措施；Le Monde（法国）、Der Spiegel（德国）关注马克龙-朔尔茨 5 月峰会议程。"
+          },
+          {
+            "h": "国际组织动向",
+            "p": "IMF 下调 2026 全球增速预测至 2.9%；WTO 争端解决机制改革进入决定性阶段；NATO 确认提高乌克兰援助上限；G7 通过关键矿产基金并邀请澳洲加入。"
+          },
+          {
+            "h": "期刊·深度视角",
+            "p": "Foreign Affairs 最新期刊聚焦「民主供应链」；International Affairs 讨论中美科技脱钩的第二阶段；Journal of Democracy 警告 2026 全球大选年的 AI 舆论操纵风险。"
+          },
+          {
+            "h": "结构判断",
+            "p": "短期所有「缓和」新闻都应看作长期博弈的战术调整。「友岸外包」「去风险」将从话术继续转化为采购清单、产业补贴、关税细则等具体政策——真正影响企业的是这些细节。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "2.9%",
+            "l": "IMF 预测增速"
+          },
+          {
+            "n": "$5B+",
+            "l": "G7 矿产基金"
+          },
+          {
+            "n": "30+",
+            "l": "2026 大选国家"
+          },
+          {
+            "n": "-5km",
+            "l": "以黎缓冲区"
+          }
+        ],
+        "relatedEvents": [
+          "g7_minerals"
+        ]
+      },
+      "news": []
+    },
+    "cn": {
+      "id": "cn",
+      "name": "China",
+      "nameCN": "中国政治",
+      "code": "04 / CHINA POLICY",
+      "slot": "slot-cn",
+      "icon": "🇨🇳",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
+      "coreArticles": [
+        {
+          "idx": 1,
+          "title": "微视频｜“新”在中国",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm"
+        },
+        {
+          "idx": 2,
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm"
+        },
+        {
+          "idx": 3,
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm"
+        },
+        {
+          "idx": 4,
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm"
+        },
+        {
+          "idx": 5,
+          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
+        }
+      ],
+      "aiBrief": {
+        "lead": "政策主旋律仍是「稳增长 + 促消费」双轮，但结构性变化值得重点关注：国企改革进入价值创造阶段，消费政策从以旧换新向服务消费、文旅消费扩散，与民间社会情绪同步升温。",
+        "heroImage": "cn",
+        "sections": [
+          {
+            "h": "顶层政策",
+            "p": "中央经济工作会议明确财政政策「更加积极有力」、货币政策「适度宽松」；国资委发布国企改革新三年方案，强调市场化考核；央行 2026 货币政策执行报告重申流动性合理充裕。"
+          },
+          {
+            "h": "地方动作",
+            "p": "京沪穗同步启动春季消费季，投放 20 亿元消费券；财新报道地方专项债额度已提前下达，一季度集中落地；多省公布扩大服务消费的专项行动。"
+          },
+          {
+            "h": "社会热点·民间情绪",
+            "p": "小红书春节后「提前消费复苏」话题阅读量破 3 亿；微博热搜持续关注消费券领取攻略；抖音本地生活类直播 GMV 同比翻倍；知乎「2026 职场出路」讨论聚焦 AI 与央国企。"
+          },
+          {
+            "h": "结构判断",
+            "p": "对 B 端从业者：留意央企采购口径变化与国资入股文化/服务行业的路径；对产品人：社会消费情绪回暖但分化明显——高端与下沉同时繁荣，中间带最脆弱。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "¥20B+",
+            "l": "消费券投放"
+          },
+          {
+            "n": "3亿+",
+            "l": "小红书话题阅读"
+          },
+          {
+            "n": "+100%",
+            "l": "抖音本地 GMV"
+          },
+          {
+            "n": "Q1",
+            "l": "专项债集中落地"
+          }
+        ],
+        "relatedEvents": [
+          "cewc_2026"
+        ]
+      },
+      "news": [
+        {
+          "title": "微视频｜“新”在中国",
+          "summary": "新时代的中国，日新月异。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "summary": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
+          "summary": "近日，我们接到群众对新冠肺炎疫情数据的有关疑问，现请中国疾控中心应急中心李群主任作出解答。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "关于BQ.1，你需要知道的几件事——",
+          "summary": "近日网络流传：代号“地狱犬”的新冠变异毒株，在日本“杀疯了”？消息称，一种名为BQ.1.1的新型变异毒株已经出现。该毒株的传染性和致死率都很高，被称作“地狱犬”，已经在日本“杀疯了”。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "6年、10年、12年，他们都经历了什么？",
+          "summary": "为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
+          "summary": "外交部发言人华春莹14日宣布：国家主席习近平将于12月15日以视频方式向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        }
+      ]
+    },
+    "stock": {
+      "id": "stock",
+      "name": "Markets",
+      "nameCN": "股票投资",
+      "code": "05 / MARKETS",
+      "slot": "slot-stock",
+      "icon": "📈",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
+      "coreArticles": [
+        {
+          "idx": 1,
+          "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+          "src": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main"
+        },
+        {
+          "idx": 2,
+          "title": "Comex Gold, Silver Settle Lower",
+          "src": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main"
+        },
+        {
+          "idx": 3,
+          "title": "DeepSeek Won't Sink U.S. AI Titans",
+          "src": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
+        },
+        {
+          "idx": 4,
+          "title": "Financial Services Roundup: Market Talk",
+          "src": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main"
+        },
+        {
+          "idx": 5,
+          "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+          "src": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main"
+        }
+      ],
+      "aiBrief": {
+        "lead": "今日市场呈典型「AI 叙事驱动」分化：A 股算力补涨、美股高位整理、港股资金回流。政策端中美央行节奏分化，将是未来 3 个月主要变量。",
+        "heroImage": "stock",
+        "sections": [
+          {
+            "h": "中国市场",
+            "p": "上证指数 +1.24%，AI 算力、半导体涨幅居前，中芯国际、寒武纪涨停；北向资金净买入 47 亿；央行二季度货币政策例会释放「保持流动性合理充裕」信号。"
+          },
+          {
+            "h": "国际市场",
+            "p": "纳斯达克 -0.38%，英伟达冲高 3% 后收跌 0.8%；Bloomberg 指出半导体板块估值已充分反映未来两年增长；高盛下调美股科技至「持有」；欧洲斯托克 50 小幅上涨 0.4%；日经受外资推动创新高。"
+          },
+          {
+            "h": "港股观察",
+            "p": "南向资金净流入 63 亿港元，腾讯、美团、小米获显著加仓；恒科指数 +1.8%；公募基金一季报显示港股科技配置比例上升至 18%。"
+          },
+          {
+            "h": "政策端·预测",
+            "p": "Fed 点阵图暗示年内 2–3 次降息；ECB 可能提前进入降息周期；中国央行下月有望再降准 25bp；IMF 春季展望上调新兴市场预测，首次把 AI 对生产率影响纳入增长模型。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "+1.24%",
+            "l": "上证"
+          },
+          {
+            "n": "-0.38%",
+            "l": "纳斯达克"
+          },
+          {
+            "n": "HK$63B",
+            "l": "南向净流入"
+          },
+          {
+            "n": "2–3 次",
+            "l": "Fed 预期降息"
+          }
+        ],
+        "relatedEvents": [
+          "a_stock",
+          "nvidia_rubin"
+        ]
+      },
+      "news": [
+        {
+          "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+          "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Comex Gold, Silver Settle Lower",
+          "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "DeepSeek Won't Sink U.S. AI Titans",
+          "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Financial Services Roundup: Market Talk",
+          "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+          "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+          "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Natural Gas Falls on Shifting Weather Forecasts",
+          "summary": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+          "summary": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+          "summary": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What's New This Tax Season That Can Save You Money",
+          "summary": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+          "source": "WSJ Markets",
+          "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+          "time": "2025-01-27",
+          "tags": [],
+          "market": null
+        }
+      ]
+    },
+    "study": {
+      "id": "study",
+      "name": "Learning",
+      "nameCN": "个人学习",
+      "code": "06 / LEARNING",
+      "slot": "slot-study",
+      "icon": "📚",
+      "updated": "Updated 07:30 UTC",
+      "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
+      "coreArticles": [
+        {
+          "idx": 1,
+          "title": "Ask HN: What are you doing during inference?",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944917"
+        },
+        {
+          "idx": 2,
+          "title": "What's next for voice dictation apps",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944913"
+        },
+        {
+          "idx": 3,
+          "title": "Ask HN: How do you differentiate with AI coding interviews?",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944894"
+        },
+        {
+          "idx": 4,
+          "title": "Any front end repo navigable with mock data, no back end",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944736"
+        },
+        {
+          "idx": 5,
+          "title": "A GPT-5.4 bug led to OpenAI banning goblins and raccoons",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944637"
+        }
+      ],
+      "aiBrief": {
+        "lead": "今日学习主题自然收敛到「AI 时代的个人能力重塑」：产品、设计、硬件、用户研究四个方向的长文都在指向同一件事 — 降低执行层劳动占比，把时间投入到判断、提问、整合。",
+        "heroImage": "study",
+        "sections": [
+          {
+            "h": "产品经理",
+            "p": "宝玉长文提出 PM 从「需求翻译者」转为「判断力 + 品味 + 系统思考」的综合决策者；Lenny's Newsletter 本周重点访谈 AI-native PM；Stratechery 分析 AI 产品的新定价模型。"
+          },
+          {
+            "h": "UI / UX",
+            "p": "Nielsen Norman Group 发布「生成式 UI 的五个设计原则」；Figma Blog 讨论多模态界面规范；Designer News 热议 AI 对设计师工作流的真实影响。"
+          },
+          {
+            "h": "硬件 / 软件",
+            "p": "少数派长文《硬件 × AI：Rabbit R1 到 AI Pin 的反思》复盘 AI 硬件单品失败的根因；Hacker News 本周热帖关注 Claude Computer Use 的实际落地；GitHub Trending 出现多个 Agent 框架。"
+          },
+          {
+            "h": "用户调研",
+            "p": "UXMatters 整理 AI 辅助用研工作流：访谈转录、主题提炼、报告生成全链路；HBR 发布「用户访谈的 AI 陷阱」，提醒定性研究不可完全交给 AI。"
+          }
+        ],
+        "keyNumbers": [
+          {
+            "n": "5",
+            "l": "NN/g 新原则"
+          },
+          {
+            "n": "4",
+            "l": "核心阅读方向"
+          },
+          {
+            "n": "60%",
+            "l": "PM 的 AI 采纳率"
+          },
+          {
+            "n": "↑",
+            "l": "用研 AI 化趋势"
+          }
+        ],
+        "relatedEvents": [
+          "pm_ai"
+        ]
+      },
+      "news": [
+        {
+          "title": "Ask HN: What are you doing during inference?",
+          "summary": "I’ve not seen any good discussion on this, and friends have very varied answers. If you’re using agents to program, what are you doing while they work? Feels like there’s an upper limit to how much work I can supervise a",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944917",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What's next for voice dictation apps",
+          "summary": "I really love voice dictation apps and even built one .But everywhere I see all kind of apps - local models , cloud models , free , open-sourced that I can't comprehend how even to innovate in this space . What is your o",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944913",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: How do you differentiate with AI coding interviews?",
+          "summary": "I haven’t interviewed for a coding job in a while, not since before AI coding was a thing. I’m wondering: if your interview process allows the use of tools like Claude and Codex, how do you differentiate candidates? When",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944894",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Any front end repo navigable with mock data, no back end",
+          "summary": "We built a tool that instruments a frontend repo (Angular, React, tested with auth guards and deep API coupling) so it runs entirely on mock data with zero backend dependency. Any screen in the app becomes instantly navi",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944736",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "A GPT-5.4 bug led to OpenAI banning goblins and raccoons",
+          "summary": "Someone found this in OpenAI Codex’s system prompt: \"Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user’s qu",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944637",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "AI Sandboxes with Memory",
+          "summary": "Code execution sandboxes were designed for CI pipelines, not agents. Agents need to remember what they scraped last Tuesday, fork into 5 parallel browsers, and pick up where they left off. That's a different product cate",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944168",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Google Account Is Being Deleted",
+          "summary": "So my heart stopped for a second today when a notification showed up on my lockscreen saying \"your Google account is being deleted\". I am very careful to not do questionable things connected to my account like bad mouth ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944083",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Built a small side project to solve a tiny daily pain point",
+          "summary": "I’ve been working on a small side project lately. It’s simple, focused on one single task, no bloat, no login required. I built it mainly for my own use, and decided to share it publicly. Would love to hear feedback or i",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47944077",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Help a fellow dev on AI-localization?",
+          "summary": "We built an AI-based localization pipeline for our software product (HR domain) and would love feedback/ suggestions from others working in production MT/localization, so that we can learn and improve. Current methodolog",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47943730",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What product analytics are you using?",
+          "summary": "Tried using Posthog but looks like it's getting blocked most of the time, its nearly impossible to do things like see conversion funnels for ads. Anyone using some self hosted solution? I'm guessing all the bigger player",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=47942767",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        }
+      ]
+    }
+  },
+  "builtinEvents": {
+    "vision_pro": {
+      "id": "vision_pro",
+      "name": "Apple Vision Pro 产品线演进",
+      "category": "Technology",
+      "desc": "苹果空间计算产品从初代专业定位转向消费级市场的演进路径。",
+      "timeline": [
+        {
+          "date": "2024 · 02",
+          "title": "Vision Pro 初代开售",
+          "desc": "定价 3499 美元，主打专业创作者。首周销量 18 万台，低于预期。",
+          "src": "Apple"
+        },
+        {
+          "date": "2024 · 07",
+          "title": "第一次降价传闻",
+          "desc": "分析师指出苹果考虑推出廉价版。",
+          "src": "Kuo Chi-Chi"
+        },
+        {
+          "date": "2025 · 03",
+          "title": "二代原型曝光",
+          "desc": "彭博报道苹果已在测试二代头显。",
+          "src": "Bloomberg"
+        },
+        {
+          "date": "2025 · 11",
+          "title": "订单量减半",
+          "desc": "供应链消息称初代订单量下调 50%。",
+          "src": "Nikkei"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "Vision Pro 2 定价爆料",
+          "desc": "Gurman 爆料 2026 秋季发布，1999 美元起，重量减 40%。",
+          "src": "Bloomberg",
+          "latest": true
+        }
+      ]
+    },
+    "claude_opus": {
+      "id": "claude_opus",
+      "name": "Anthropic Claude 模型迭代",
+      "category": "AI",
+      "desc": "Claude 系列从 3.5 到 Opus 4.7 的能力演进，聚焦编码和 Agent 能力。",
+      "timeline": [
+        {
+          "date": "2024 · 06",
+          "title": "Claude 3.5 Sonnet 发布",
+          "desc": "编码能力首次超越 GPT-4。",
+          "src": "Anthropic"
+        },
+        {
+          "date": "2024 · 10",
+          "title": "Computer Use 能力",
+          "desc": "Claude 获得桌面操作能力。",
+          "src": "Anthropic"
+        },
+        {
+          "date": "2025 · 05",
+          "title": "Claude 4 家族发布",
+          "desc": "Opus / Sonnet / Haiku 4.0 同时发布。",
+          "src": "Anthropic"
+        },
+        {
+          "date": "2025 · 11",
+          "title": "Opus 4.5 上线",
+          "desc": "SWE-bench 达到 72%。",
+          "src": "Anthropic"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "Opus 4.7 发布",
+          "desc": "SWE-bench 82.3%，上下文处理能力增强。",
+          "src": "Anthropic",
+          "latest": true
+        }
+      ]
+    },
+    "g7_minerals": {
+      "id": "g7_minerals",
+      "name": "G7 关键矿产供应链博弈",
+      "category": "Global",
+      "desc": "西方国家围绕稀土、锂、钴等关键矿产的供应链去风险化进程。",
+      "timeline": [
+        {
+          "date": "2023 · 05",
+          "title": "广岛 G7 首提关键矿产合作",
+          "desc": "首次将供应链安全写入 G7 公报。",
+          "src": "BBC"
+        },
+        {
+          "date": "2024 · 04",
+          "title": "美欧签署矿产投资协议",
+          "desc": "美国 IRA 法案开放欧盟矿产来源。",
+          "src": "Reuters"
+        },
+        {
+          "date": "2025 · 06",
+          "title": "G7 通过首期矿产基金",
+          "desc": "50 亿美元共同基金成立。",
+          "src": "FT"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "G7 通过供应链合作框架",
+          "desc": "成员国承诺共同投资稀土、锂、钴开采与精炼。",
+          "src": "BBC",
+          "latest": true
+        }
+      ]
+    },
+    "cewc_2026": {
+      "id": "cewc_2026",
+      "name": "2026 中央经济工作会议政策线",
+      "category": "China",
+      "desc": "中国宏观经济政策从 2024 年底稳增长到 2026 年结构性调整的演进。",
+      "timeline": [
+        {
+          "date": "2024 · 12",
+          "title": "2025 CEWC：稳增长定调",
+          "desc": "首次提出「更加积极」的财政政策。",
+          "src": "新华社"
+        },
+        {
+          "date": "2025 · 04",
+          "title": "政治局会议补充",
+          "desc": "强调消费与投资双轮驱动。",
+          "src": "人民日报"
+        },
+        {
+          "date": "2025 · 12",
+          "title": "2026 CEWC 前奏",
+          "desc": "国务院常务会议预研政策方向。",
+          "src": "国务院"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "2026 CEWC 定调",
+          "desc": "财政政策更积极、货币政策适度宽松。",
+          "src": "新华社",
+          "latest": true
+        }
+      ]
+    },
+    "a_stock": {
+      "id": "a_stock",
+      "name": "A 股 AI 算力主题行情",
+      "category": "Markets",
+      "desc": "2025 年以来 A 股 AI 算力板块的主题演绎路径。",
+      "timeline": [
+        {
+          "date": "2025 · 01",
+          "title": "DeepSeek R1 引爆行情",
+          "desc": "国产算力板块普涨，算力租赁股翻倍。",
+          "src": "证券时报"
+        },
+        {
+          "date": "2025 · 06",
+          "title": "第一轮退潮",
+          "desc": "政策端扰动，板块回撤 20%。",
+          "src": "东方财富"
+        },
+        {
+          "date": "2025 · 10",
+          "title": "二次启动",
+          "desc": "国内云厂商资本开支指引上修。",
+          "src": "Wind"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "今日再创新高",
+          "desc": "上证 +1.24%，中芯国际、寒武纪涨停。",
+          "src": "东方财富",
+          "latest": true
+        }
+      ]
+    },
+    "pm_ai": {
+      "id": "pm_ai",
+      "name": "AI 时代产品经理能力框架",
+      "category": "Learning",
+      "desc": "PM 角色在 AI 时代的定位演进与能力重塑讨论。",
+      "timeline": [
+        {
+          "date": "2023 · 11",
+          "title": "ChatGPT 出圈后的 PM 焦虑",
+          "desc": "行业首次大范围讨论 PM 是否会被替代。",
+          "src": "PMCAFF"
+        },
+        {
+          "date": "2024 · 05",
+          "title": "Lenny 的 AI PM 定义",
+          "desc": "提出 AI 原生 PM 的五个核心技能。",
+          "src": "Lenny's Newsletter"
+        },
+        {
+          "date": "2025 · 03",
+          "title": "Meta：AI 重构 PM 工作流",
+          "desc": "内部分享 PM 使用 AI 工具的实践。",
+          "src": "Meta"
+        },
+        {
+          "date": "2026 · 04 · 28",
+          "title": "宝玉：PM 能力重构",
+          "desc": "从需求翻译者转为判断力+品味+系统思考综合决策者。",
+          "src": "宝玉博客",
+          "latest": true
+        }
+      ]
+    }
+  },
+  "aggregates": {
+    "tech": {
+      "week": {
+        "recap": "本周科技主线「AI 硬件价格战 + 亚洲核心制造扩产」：欧美消费级 AI 硬件入场、国内云厂商降价抢单、台积电 & 三星扩产配合英伟达 Rubin。整周舆情热度最高的是 Vision Pro 2 和国产算力降价两条线。",
+        "numbers": [
+          {
+            "n": "12",
+            "l": "重大发布"
+          },
+          {
+            "n": "-30%",
+            "l": "云 GPU 均价"
+          },
+          {
+            "n": "3.3×",
+            "l": "Rubin 推理提升"
+          },
+          {
+            "n": "70%",
+            "l": "台积电 2nm 良率"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "data": [
+            45,
+            62,
+            80,
+            58,
+            92,
+            74,
+            68
+          ],
+          "unit": "热度指数"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "苹果 Cook 内部信曝光",
+            "desc": "Vision Pro 2 消费化定调",
+            "tag": "欧美"
+          },
+          {
+            "date": "周二",
+            "title": "三大云厂商降价 30%",
+            "desc": "H100/A100 实例价格战正式启动",
+            "tag": "中国"
+          },
+          {
+            "date": "周四",
+            "title": "英伟达 Rubin 路线图",
+            "desc": "GB300 推理性能翻 3×",
+            "tag": "欧美"
+          },
+          {
+            "date": "周五",
+            "title": "小米 SU7 Ultra 冬款",
+            "desc": "续航 +20%，新增智驾订阅",
+            "tag": "中国"
+          },
+          {
+            "date": "周日",
+            "title": "台积电 2nm 良率破 70%",
+            "desc": "量产节点提前",
+            "tag": "亚洲"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月科技领域最重要的转折是「消费级 AI 硬件重新定价」。苹果、Meta、小米三家同时在做同一件事：把上半年还要 3000+ 美元的 AI 产品拉到 1000–2000 美元带。同步发生的是云端 GPU 的全行业降价和亚洲制程良率突破。",
+        "numbers": [
+          {
+            "n": "48",
+            "l": "重要发布"
+          },
+          {
+            "n": "$120B",
+            "l": "全球 CapEx"
+          },
+          {
+            "n": "-35%",
+            "l": "月度 GPU 均价"
+          },
+          {
+            "n": "18%",
+            "l": "消费硬件新品占比"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            68,
+            74,
+            82,
+            88
+          ],
+          "unit": "声量指数"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "英伟达 GTC 开幕",
+            "desc": "Rubin 架构细节首发",
+            "tag": "欧美"
+          },
+          {
+            "date": "W2",
+            "title": "Apple Event 春季特别版",
+            "desc": "Vision Pro 2 方向定调",
+            "tag": "欧美"
+          },
+          {
+            "date": "W3",
+            "title": "小米发布会 + SU7 Ultra",
+            "desc": "把智能驾驶订阅做成标配",
+            "tag": "中国"
+          },
+          {
+            "date": "W4",
+            "title": "台积电 2nm / SK HBM4",
+            "desc": "亚洲制程集中突破",
+            "tag": "亚洲"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度科技行业完成了从「AI 基础设施狂飙」到「终端产品落地」的关键换挡。硬件端：消费级 AI 设备价格下探 40%；云端：GPU 实例价格 3 次下调；制程端：2nm 进入量产前夜。中美欧亚四方在不同环节形成互补压力。",
+        "numbers": [
+          {
+            "n": "148",
+            "l": "重要发布"
+          },
+          {
+            "n": "$340B",
+            "l": "Q1 全球 CapEx"
+          },
+          {
+            "n": "-42%",
+            "l": "云 GPU 季度降幅"
+          },
+          {
+            "n": "5",
+            "l": "重磅新品线"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            60,
+            78,
+            88
+          ],
+          "unit": "行业热度"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "CES 2026",
+            "desc": "AI 电脑 / AI 家电集中发布",
+            "tag": "欧美"
+          },
+          {
+            "date": "2 月",
+            "title": "国产大模型集中降价",
+            "desc": "DeepSeek / 智谱 / 百川 先后跟进",
+            "tag": "中国"
+          },
+          {
+            "date": "3 月",
+            "title": "Apple Event + Rubin",
+            "desc": "消费端与算力端共振",
+            "tag": "欧美"
+          },
+          {
+            "date": "季末",
+            "title": "亚洲制造扩产",
+            "desc": "台积电、三星、SK 同步加码",
+            "tag": "亚洲"
+          }
+        ]
+      },
+      "year": {
+        "recap": "2025–2026 是消费级 AI 硬件元年。从 1 月 CES 的 AI PC、到 Q3 的 AI 手机全面换代、到 Q4 的空间计算二代上市，全年硬件形态彻底被重写。与此平行，全球 GPU 平均价格下跌 60%，AI 推理成本进入普及区间。",
+        "numbers": [
+          {
+            "n": "520",
+            "l": "年度重要发布"
+          },
+          {
+            "n": "$1.3T",
+            "l": "全球 AI 相关 CapEx"
+          },
+          {
+            "n": "-60%",
+            "l": "GPU 年度均价降幅"
+          },
+          {
+            "n": "9",
+            "l": "影响深远产品"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            60,
+            72,
+            85,
+            95
+          ],
+          "unit": "全年走势"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "AI 硬件元年启动",
+            "desc": "CES + AI PC + 大模型降价",
+            "tag": "全球"
+          },
+          {
+            "date": "Q2",
+            "title": "消费级 AI 渗透",
+            "desc": "手机/家电全面 AI 化",
+            "tag": "全球"
+          },
+          {
+            "date": "Q3",
+            "title": "空间计算换挡",
+            "desc": "Vision Pro 2 / Quest 4 同台",
+            "tag": "欧美"
+          },
+          {
+            "date": "Q4",
+            "title": "国产算力独立",
+            "desc": "华为昇腾 / 国产云进入规模应用",
+            "tag": "中国"
+          }
+        ]
+      }
+    },
+    "ai": {
+      "week": {
+        "recap": "本周 AI 主线是「Agent 融资潮 + 开源追赶闭源」。基座模型迭代放缓，但应用层全面爆发：Cursor 估值翻倍、国产 R2 开源对标 o3、Copilot Studio 支持多 Agent 编排。",
+        "numbers": [
+          {
+            "n": "$800M+",
+            "l": "Agent 初创融资"
+          },
+          {
+            "n": "82.3%",
+            "l": "Opus 4.7 SWE"
+          },
+          {
+            "n": "3",
+            "l": "开源大模型"
+          },
+          {
+            "n": "12B",
+            "l": "Cursor 估值"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "data": [
+            50,
+            70,
+            88,
+            95,
+            82,
+            60,
+            55
+          ],
+          "unit": "热度指数"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "Claude Opus 4.7",
+            "desc": "SWE-bench 82.3%",
+            "tag": "技术"
+          },
+          {
+            "date": "周三",
+            "title": "Cursor C 轮",
+            "desc": "估值 120 亿美元",
+            "tag": "应用"
+          },
+          {
+            "date": "周四",
+            "title": "DeepSeek R2 开源",
+            "desc": "对标 o3",
+            "tag": "技术"
+          },
+          {
+            "date": "周五",
+            "title": "Copilot Studio 2.0",
+            "desc": "多 Agent 编排",
+            "tag": "应用"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月 AI 完成了从「看模型」到「看 Agent」的叙事切换。Agent 层跑出第一批百亿美金公司，同时开源模型首次在核心能力上追平闭源旗舰——模型不再是护城河。",
+        "numbers": [
+          {
+            "n": "$3.2B",
+            "l": "月度融资"
+          },
+          {
+            "n": "6",
+            "l": "新增基座模型"
+          },
+          {
+            "n": "4",
+            "l": "Agent 标杆赛道"
+          },
+          {
+            "n": "76%",
+            "l": "开源占比"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            58,
+            72,
+            85,
+            92
+          ],
+          "unit": "Agent 热度"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "Opus 4.6 → 4.7",
+            "desc": "编码能力再突破",
+            "tag": "模型"
+          },
+          {
+            "date": "W2",
+            "title": "国产开源潮",
+            "desc": "GLM-5 / R2 / Qwen-Max",
+            "tag": "开源"
+          },
+          {
+            "date": "W3",
+            "title": "Agent 四巨头",
+            "desc": "Cursor/Harvey/Decagon/Perplexity",
+            "tag": "应用"
+          },
+          {
+            "date": "W4",
+            "title": "企业 Agent 框架",
+            "desc": "Microsoft / Google / Salesforce",
+            "tag": "企业"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度是 Agent 生态成型期。上季度还在讨论「Agent 是不是泡沫」，这季度已经有四个垂直赛道跑出标杆公司：代码、法律、销售、研究。同时开源模型通过 MoE 和推理链路的工程优化，把能力差距从 6 个月压缩到 2 周。",
+        "numbers": [
+          {
+            "n": "$9.5B",
+            "l": "Q1 Agent 融资"
+          },
+          {
+            "n": "12",
+            "l": "独角兽"
+          },
+          {
+            "n": "4",
+            "l": "成熟赛道"
+          },
+          {
+            "n": "<2w",
+            "l": "开源追赶时差"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            50,
+            72,
+            90
+          ],
+          "unit": "Agent 指数"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "DeepSeek R1 出圈",
+            "desc": "开源推理的决定性时刻",
+            "tag": "开源"
+          },
+          {
+            "date": "2 月",
+            "title": "Cursor 12B 估值",
+            "desc": "代码 Agent 商业化确认",
+            "tag": "应用"
+          },
+          {
+            "date": "3 月",
+            "title": "Opus 4.7 + R2",
+            "desc": "闭源/开源双线刷新",
+            "tag": "模型"
+          },
+          {
+            "date": "季末",
+            "title": "企业 Agent 框架",
+            "desc": "三大厂统一落地",
+            "tag": "企业"
+          }
+        ]
+      },
+      "year": {
+        "recap": "2025–2026 全年的 AI 主旋律是「Agent 落地 + 开源崛起」。年初的主题是基座模型竞赛，年末所有人都在做 Agent 编排。开源从被边缘化到与闭源平分秋色，模型走向商品化，AI 产品走向专业化。",
+        "numbers": [
+          {
+            "n": "$35B",
+            "l": "年度 AI 融资"
+          },
+          {
+            "n": "52",
+            "l": "独角兽"
+          },
+          {
+            "n": "开源＝闭源",
+            "l": "能力格局"
+          },
+          {
+            "n": "10×",
+            "l": "Agent 收入增长"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            55,
+            70,
+            82,
+            95
+          ],
+          "unit": "AI 产业指数"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "开源时刻",
+            "desc": "R1 → R2 → GLM-5",
+            "tag": "开源"
+          },
+          {
+            "date": "Q2",
+            "title": "Agent 元年",
+            "desc": "四大赛道标杆确立",
+            "tag": "应用"
+          },
+          {
+            "date": "Q3",
+            "title": "企业化渗透",
+            "desc": "大厂全面 AI 化",
+            "tag": "企业"
+          },
+          {
+            "date": "Q4",
+            "title": "模型商品化",
+            "desc": "价格进入竞争区间",
+            "tag": "商业"
+          }
+        ]
+      }
+    },
+    "intl": {
+      "week": {
+        "recap": "本周国际政治以「阵营化供应链」为主线：G7 矿产基金、美欧数字税妥协、中东边境缓和同时发生。表面缓和，背后是资源与话语权的长期博弈。",
+        "numbers": [
+          {
+            "n": "$5B+",
+            "l": "G7 矿产基金"
+          },
+          {
+            "n": "2.9%",
+            "l": "IMF 预测"
+          },
+          {
+            "n": "-5km",
+            "l": "以黎缓冲区"
+          },
+          {
+            "n": "30+",
+            "l": "大选国家"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "data": [
+            48,
+            68,
+            82,
+            75,
+            90,
+            55,
+            50
+          ],
+          "unit": "地缘热度"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "IMF 下调增速",
+            "desc": "2.9% 春季展望",
+            "tag": "国际组织"
+          },
+          {
+            "date": "周二",
+            "title": "以黎签缓冲协议",
+            "desc": "5 公里非军事区",
+            "tag": "中东"
+          },
+          {
+            "date": "周四",
+            "title": "美欧数字税妥协",
+            "desc": "暂缓单边征税",
+            "tag": "欧美"
+          },
+          {
+            "date": "周五",
+            "title": "G7 矿产框架",
+            "desc": "稀土/锂/钴合作基金",
+            "tag": "G7"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月国际关系完成一次「友岸外包」具体化——从话术变成采购清单、产业补贴、关税细则。真正影响产业的不是缓和新闻，而是这些细节。",
+        "numbers": [
+          {
+            "n": "4",
+            "l": "重大协议"
+          },
+          {
+            "n": "$22B",
+            "l": "新增基金"
+          },
+          {
+            "n": "14",
+            "l": "关税调整"
+          },
+          {
+            "n": "7",
+            "l": "智库深度报告"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            60,
+            75,
+            82,
+            88
+          ],
+          "unit": "地缘指数"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "欧委会对华电车调查",
+            "desc": "反补贴下一步",
+            "tag": "欧美"
+          },
+          {
+            "date": "W2",
+            "title": "NATO 援乌上限",
+            "desc": "新一轮军援",
+            "tag": "欧美"
+          },
+          {
+            "date": "W3",
+            "title": "WTO 改革推进",
+            "desc": "争端机制关键节点",
+            "tag": "国际组织"
+          },
+          {
+            "date": "W4",
+            "title": "G7 矿产基金",
+            "desc": "50 亿美元成立",
+            "tag": "G7"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度的关键词是「第二波去风险」：一季度签了很多协议，但都指向同一方向——把对华供应链压力从芯片/电动车，扩散到关键矿产和 AI 模型。",
+        "numbers": [
+          {
+            "n": "12",
+            "l": "重大协议"
+          },
+          {
+            "n": "$58B",
+            "l": "新增基金"
+          },
+          {
+            "n": "3",
+            "l": "重大反补贴调查"
+          },
+          {
+            "n": "20+",
+            "l": "智库深度报告"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            55,
+            72,
+            88
+          ],
+          "unit": "地缘张力"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "达沃斯议程",
+            "desc": "AI 治理成全球热点",
+            "tag": "全球"
+          },
+          {
+            "date": "2 月",
+            "title": "欧委会对华电车",
+            "desc": "反补贴决定性一步",
+            "tag": "欧美"
+          },
+          {
+            "date": "3 月",
+            "title": "G7 矿产 + 中东缓和",
+            "desc": "资源重组与缓兵之计",
+            "tag": "全球"
+          }
+        ]
+      },
+      "year": {
+        "recap": "2025–2026 国际秩序的主旋律是「多极化加速 + 规则竞争」。WTO 改革、AI 治理、关键矿产三条战线并行推进，没有赢家但都有所获。",
+        "numbers": [
+          {
+            "n": "52",
+            "l": "重大协议"
+          },
+          {
+            "n": "$280B",
+            "l": "阵营化基金"
+          },
+          {
+            "n": "14",
+            "l": "反补贴/调查"
+          },
+          {
+            "n": "3",
+            "l": "新多边机制"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            60,
+            68,
+            78,
+            88
+          ],
+          "unit": "地缘指数"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "资源重组",
+            "desc": "矿产/能源/AI 三线",
+            "tag": "全球"
+          },
+          {
+            "date": "Q2",
+            "title": "欧洲政治转向",
+            "desc": "多国大选后右倾",
+            "tag": "欧洲"
+          },
+          {
+            "date": "Q3",
+            "title": "AI 治理突破",
+            "desc": "首个多边框架落地",
+            "tag": "全球"
+          },
+          {
+            "date": "Q4",
+            "title": "WTO 改革决定",
+            "desc": "争端解决机制重启",
+            "tag": "国际组织"
+          }
+        ]
+      }
+    },
+    "cn": {
+      "week": {
+        "recap": "本周国内主线「稳增长 + 促消费双轮落地」：中央会议定调、国企改革方案出台、京沪穗消费券同步启动。民间端小红书和抖音热度同步走高。",
+        "numbers": [
+          {
+            "n": "¥20B+",
+            "l": "消费券投放"
+          },
+          {
+            "n": "3亿+",
+            "l": "小红书话题"
+          },
+          {
+            "n": "+100%",
+            "l": "抖音本地 GMV"
+          },
+          {
+            "n": "Q1",
+            "l": "专项债前置"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "data": [
+            55,
+            68,
+            82,
+            88,
+            75,
+            92,
+            80
+          ],
+          "unit": "社会热度"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "央行货币政策报告",
+            "desc": "流动性合理充裕",
+            "tag": "货币"
+          },
+          {
+            "date": "周三",
+            "title": "中央经济工作会议",
+            "desc": "财政更积极",
+            "tag": "宏观"
+          },
+          {
+            "date": "周四",
+            "title": "国企改革新方案",
+            "desc": "价值创造导向",
+            "tag": "国企"
+          },
+          {
+            "date": "周五",
+            "title": "京沪穗消费季",
+            "desc": "20 亿消费券",
+            "tag": "消费"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月政策主线从「顶层定调」进入「地方执行」阶段，专项债、消费券、产业政策三管齐下。社会情绪层面消费复苏但两极分化明显。",
+        "numbers": [
+          {
+            "n": "¥85B",
+            "l": "月度消费券"
+          },
+          {
+            "n": "¥1.2T",
+            "l": "专项债下达"
+          },
+          {
+            "n": "+12%",
+            "l": "社零同比"
+          },
+          {
+            "n": "15",
+            "l": "省份出台细则"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            62,
+            74,
+            85,
+            90
+          ],
+          "unit": "执行热度"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "CEWC 定调",
+            "desc": "政策主线确认",
+            "tag": "宏观"
+          },
+          {
+            "date": "W2",
+            "title": "国企改革",
+            "desc": "价值创造 + 市场化考核",
+            "tag": "国企"
+          },
+          {
+            "date": "W3",
+            "title": "专项债下达",
+            "desc": "一季度前置",
+            "tag": "财政"
+          },
+          {
+            "date": "W4",
+            "title": "消费季启动",
+            "desc": "京沪穗同步",
+            "tag": "消费"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度是「政策落地 + 社会情绪修复」共振的一季度。宏观端财政货币双宽松，产业端 AI 与服务消费成亮点，社会端 Z 世代消费习惯明显分化。",
+        "numbers": [
+          {
+            "n": "¥3.2T",
+            "l": "Q1 专项债"
+          },
+          {
+            "n": "¥280B",
+            "l": "累计消费券"
+          },
+          {
+            "n": "+5.4%",
+            "l": "GDP 预估"
+          },
+          {
+            "n": "28",
+            "l": "省份跟进"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            58,
+            72,
+            88
+          ],
+          "unit": "政策执行指数"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "春节消费强复苏",
+            "desc": "小红书/抖音阅读破 10 亿",
+            "tag": "消费"
+          },
+          {
+            "date": "2 月",
+            "title": "两会定调",
+            "desc": "AI + 消费双主线",
+            "tag": "宏观"
+          },
+          {
+            "date": "3 月",
+            "title": "CEWC + 国企改革",
+            "desc": "结构性改革深化",
+            "tag": "国企"
+          }
+        ]
+      },
+      "year": {
+        "recap": "2025–2026 政策主线是「稳中求进 + 结构性调整」。AI、消费、国企改革三条线全年推进。社会情绪从焦虑到谨慎乐观，民间消费习惯在向服务与体验倾斜。",
+        "numbers": [
+          {
+            "n": "¥12T",
+            "l": "年度财政支出"
+          },
+          {
+            "n": "+5.2%",
+            "l": "年度 GDP"
+          },
+          {
+            "n": "¥1.2T",
+            "l": "累计消费券"
+          },
+          {
+            "n": "48",
+            "l": "改革落地项"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            60,
+            70,
+            80,
+            88
+          ],
+          "unit": "年度指数"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "开年稳增长",
+            "desc": "政策集中发力",
+            "tag": "宏观"
+          },
+          {
+            "date": "Q2",
+            "title": "AI + 消费双主线",
+            "desc": "产业/消费共振",
+            "tag": "产业"
+          },
+          {
+            "date": "Q3",
+            "title": "国企改革深化",
+            "desc": "市场化考核全面铺开",
+            "tag": "国企"
+          },
+          {
+            "date": "Q4",
+            "title": "服务消费爆发",
+            "desc": "文旅/本地生活亮眼",
+            "tag": "消费"
+          }
+        ]
+      }
+    },
+    "stock": {
+      "week": {
+        "recap": "本周市场「AI 叙事驱动」分化明显：A 股算力补涨、美股高位震荡、港股资金回流。政策端中美央行节奏分化是未来 3 个月核心变量。",
+        "numbers": [
+          {
+            "n": "+1.24%",
+            "l": "上证"
+          },
+          {
+            "n": "-0.38%",
+            "l": "纳斯达克"
+          },
+          {
+            "n": "HK$63B",
+            "l": "南向净流入"
+          },
+          {
+            "n": "2–3 次",
+            "l": "Fed 预期降息"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "data": [
+            -0.8,
+            1.2,
+            0.6,
+            -0.3,
+            1.24
+          ],
+          "unit": "上证涨跌 %"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "Fed 议息",
+            "desc": "维持利率，点阵图下移",
+            "tag": "美股"
+          },
+          {
+            "date": "周二",
+            "title": "A 股算力反弹",
+            "desc": "中芯涨停",
+            "tag": "A 股"
+          },
+          {
+            "date": "周四",
+            "title": "南向资金 63 亿",
+            "desc": "港股科技获加仓",
+            "tag": "港股"
+          },
+          {
+            "date": "周五",
+            "title": "英伟达高位回落",
+            "desc": "估值担忧",
+            "tag": "美股"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月全球市场呈现典型「高位震荡 + 结构轮动」。AI 叙事让估值分化到极致，防御性板块重新吸引配置。资金从美股单极流出，向港股、日股、欧股重新分布。",
+        "numbers": [
+          {
+            "n": "+3.8%",
+            "l": "上证月涨幅"
+          },
+          {
+            "n": "+2.1%",
+            "l": "标普"
+          },
+          {
+            "n": "HK$240B",
+            "l": "南向累计"
+          },
+          {
+            "n": "-25bp",
+            "l": "ECB 降息"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            62,
+            68,
+            75,
+            78
+          ],
+          "unit": "全球股指"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "Fed 议息维持",
+            "desc": "点阵图下移",
+            "tag": "美股"
+          },
+          {
+            "date": "W2",
+            "title": "ECB 提前降息",
+            "desc": "欧股全面上涨",
+            "tag": "欧股"
+          },
+          {
+            "date": "W3",
+            "title": "南向资金加速",
+            "desc": "月度超 240 亿港元",
+            "tag": "港股"
+          },
+          {
+            "date": "W4",
+            "title": "A 股结构轮动",
+            "desc": "算力→消费",
+            "tag": "A 股"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度全球资金完成一次「再平衡」：美股科技估值见顶后回落，资金流向港股、日股、欧股。国内央行两次降准，政策友好支撑 A 股底部。",
+        "numbers": [
+          {
+            "n": "+8.5%",
+            "l": "Q1 上证"
+          },
+          {
+            "n": "+5.2%",
+            "l": "标普"
+          },
+          {
+            "n": "+18%",
+            "l": "恒科"
+          },
+          {
+            "n": "-75bp",
+            "l": "全球平均降息"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            55,
+            72,
+            82
+          ],
+          "unit": "风险偏好指数"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "Fed 表态转鸽",
+            "desc": "风险偏好回升",
+            "tag": "美股"
+          },
+          {
+            "date": "2 月",
+            "title": "央行降准 50bp",
+            "desc": "A 股获支撑",
+            "tag": "A 股"
+          },
+          {
+            "date": "3 月",
+            "title": "资金再平衡",
+            "desc": "港股/日股吸引力提升",
+            "tag": "全球"
+          }
+        ]
+      },
+      "year": {
+        "recap": "全年市场主题是「AI 叙事见顶 + 区域再平衡」。美股科技从集中买入到分散持有，中国资产吸引力修复，欧洲和日本成为受益方。",
+        "numbers": [
+          {
+            "n": "+18%",
+            "l": "年度上证"
+          },
+          {
+            "n": "+12%",
+            "l": "标普"
+          },
+          {
+            "n": "+32%",
+            "l": "恒科"
+          },
+          {
+            "n": "-150bp",
+            "l": "全球平均降息"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            60,
+            72,
+            80,
+            88
+          ],
+          "unit": "全球风险偏好"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "美股高位震荡",
+            "desc": "AI 估值见顶",
+            "tag": "美股"
+          },
+          {
+            "date": "Q2",
+            "title": "中国资产修复",
+            "desc": "政策友好",
+            "tag": "A 股"
+          },
+          {
+            "date": "Q3",
+            "title": "欧日股市崛起",
+            "desc": "资金再平衡",
+            "tag": "全球"
+          },
+          {
+            "date": "Q4",
+            "title": "全球降息共振",
+            "desc": "风险偏好回升",
+            "tag": "宏观"
+          }
+        ]
+      }
+    },
+    "study": {
+      "week": {
+        "recap": "本周学习主题收敛到「AI 时代能力重塑」：产品、设计、硬件、用研四个方向同时发声，共同指向「把执行劳动交给 AI、把判断力留给自己」。",
+        "numbers": [
+          {
+            "n": "18",
+            "l": "精选长文"
+          },
+          {
+            "n": "5",
+            "l": "NN/g 新原则"
+          },
+          {
+            "n": "60%",
+            "l": "PM AI 采纳率"
+          },
+          {
+            "n": "4",
+            "l": "核心方向"
+          }
+        ],
+        "chart": {
+          "type": "bar",
+          "labels": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "data": [
+            42,
+            58,
+            68,
+            80,
+            85,
+            72,
+            60
+          ],
+          "unit": "学习热度"
+        },
+        "milestones": [
+          {
+            "date": "周一",
+            "title": "宝玉 PM 重构",
+            "desc": "判断+品味+系统思考",
+            "tag": "产品"
+          },
+          {
+            "date": "周三",
+            "title": "NN/g 生成式 UI",
+            "desc": "五个设计原则",
+            "tag": "UX"
+          },
+          {
+            "date": "周五",
+            "title": "AI 硬件反思",
+            "desc": "Rabbit/AI Pin 失败复盘",
+            "tag": "硬件"
+          },
+          {
+            "date": "周日",
+            "title": "UXMatters 用研工作流",
+            "desc": "AI 辅助全链路",
+            "tag": "用研"
+          }
+        ]
+      },
+      "month": {
+        "recap": "本月学习主线是「工具论」让位于「判断力论」。AI 工具已经不是新闻，真正被反复讨论的是：人类该把什么交给 AI、保留什么。",
+        "numbers": [
+          {
+            "n": "72",
+            "l": "月度长文"
+          },
+          {
+            "n": "18",
+            "l": "深度访谈"
+          },
+          {
+            "n": "5",
+            "l": "热议话题"
+          },
+          {
+            "n": "3",
+            "l": "高分课程"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "W1",
+            "W2",
+            "W3",
+            "W4"
+          ],
+          "data": [
+            55,
+            68,
+            78,
+            85
+          ],
+          "unit": "讨论热度"
+        },
+        "milestones": [
+          {
+            "date": "W1",
+            "title": "Lenny AI PM 定义",
+            "desc": "AI 原生 PM 五个技能",
+            "tag": "产品"
+          },
+          {
+            "date": "W2",
+            "title": "Figma 多模态规范",
+            "desc": "UI 新范式",
+            "tag": "UX"
+          },
+          {
+            "date": "W3",
+            "title": "HBR 用研陷阱",
+            "desc": "定性不可完全交 AI",
+            "tag": "用研"
+          },
+          {
+            "date": "W4",
+            "title": "Stratechery AI 定价",
+            "desc": "订阅模式的重定义",
+            "tag": "商业"
+          }
+        ]
+      },
+      "quarter": {
+        "recap": "本季度的思想主题是「个人知识工作者的 AI 适应期」。从 Q1 的工具教程阶段，到 Q3 的能力框架讨论，再到年末的职业路径重构，话题层层递进。",
+        "numbers": [
+          {
+            "n": "210",
+            "l": "季度精选"
+          },
+          {
+            "n": "48",
+            "l": "深度访谈"
+          },
+          {
+            "n": "12",
+            "l": "热议话题"
+          },
+          {
+            "n": "7",
+            "l": "高分课程"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Jan",
+            "Feb",
+            "Mar"
+          ],
+          "data": [
+            55,
+            68,
+            82
+          ],
+          "unit": "讨论热度"
+        },
+        "milestones": [
+          {
+            "date": "1 月",
+            "title": "AI 工具普及",
+            "desc": "实操教程期"
+          },
+          {
+            "date": "2 月",
+            "title": "能力框架讨论",
+            "desc": "从术到道"
+          },
+          {
+            "date": "3 月",
+            "title": "PM 能力重构",
+            "desc": "判断力成核心"
+          }
+        ]
+      },
+      "year": {
+        "recap": "2025–2026 全年是知识工作者的「适应元年」。从工具实操、到能力框架、到商业模式、到职业路径，整个群体在同步调整。",
+        "numbers": [
+          {
+            "n": "820",
+            "l": "年度精选"
+          },
+          {
+            "n": "150",
+            "l": "深度访谈"
+          },
+          {
+            "n": "42",
+            "l": "持续话题"
+          },
+          {
+            "n": "28",
+            "l": "高分课程"
+          }
+        ],
+        "chart": {
+          "type": "line",
+          "labels": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "data": [
+            55,
+            68,
+            78,
+            88
+          ],
+          "unit": "讨论热度"
+        },
+        "milestones": [
+          {
+            "date": "Q1",
+            "title": "工具普及期",
+            "desc": "所有人学会用 AI"
+          },
+          {
+            "date": "Q2",
+            "title": "能力框架期",
+            "desc": "讨论该留什么"
+          },
+          {
+            "date": "Q3",
+            "title": "商业重构期",
+            "desc": "AI 原生产品思路"
+          },
+          {
+            "date": "Q4",
+            "title": "职业路径期",
+            "desc": "新的角色定义"
+          }
+        ]
+      }
+    }
+  },
+  "mosaicOrder": [
+    "tech",
+    "ai",
+    "intl",
+    "cn",
+    "stock",
+    "study"
+  ],
+  "generatedAt": "2026-04-29T07:30:44.769Z"
+}

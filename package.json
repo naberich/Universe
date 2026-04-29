@@ -1,0 +1,17 @@
+{
+  "name": "universe-info-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "python3 -m http.server 8765",
+    "dev": "python3 -m http.server 8765"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

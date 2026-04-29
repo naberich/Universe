@@ -1,0 +1,44 @@
+{
+  "tech": [
+    { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "market": "欧美" },
+    { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "market": "欧美" },
+    { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "market": "欧美" },
+    { "name": "Hacker News Front", "url": "https://hnrss.org/frontpage", "market": "欧美" },
+    { "name": "36氪", "url": "https://36kr.com/feed", "market": "中国" },
+    { "name": "少数派", "url": "https://sspai.com/feed", "market": "中国" }
+  ],
+  "ai": [
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml" },
+    { "name": "Anthropic News", "url": "https://www.anthropic.com/news/rss.xml" },
+    { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml" },
+    { "name": "HuggingFace Daily", "url": "https://huggingface.co/blog/feed.xml" },
+    { "name": "机器之心", "url": "https://www.jiqizhixin.com/rss" }
+  ],
+  "intl": [
+    { "name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "Reuters World", "url": "https://www.reutersagency.com/feed/?best-topics=world&post_type=best" },
+    { "name": "FT World", "url": "https://www.ft.com/world?format=rss" },
+    { "name": "The Economist", "url": "https://www.economist.com/international/rss.xml" },
+    { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml" }
+  ],
+  "cn": [
+    { "name": "新华社要闻", "url": "http://www.xinhuanet.com/politics/news_politics.xml" },
+    { "name": "人民日报", "url": "http://www.people.com.cn/rss/politics.xml" },
+    { "name": "澎湃新闻", "url": "https://feedx.net/rss/thepaper.xml" },
+    { "name": "财新网", "url": "https://rsshub.app/caixin/latest" }
+  ],
+  "stock": [
+    { "name": "华尔街见闻", "url": "https://wallstreetcn.com/news/global/feed" },
+    { "name": "财联社要闻", "url": "https://rsshub.app/cls/depth/1000" },
+    { "name": "WSJ Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml" },
+    { "name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss" },
+    { "name": "FT Markets", "url": "https://www.ft.com/markets?format=rss" }
+  ],
+  "study": [
+    { "name": "Lenny's Newsletter", "url": "https://www.lennysnewsletter.com/feed" },
+    { "name": "Stratechery", "url": "https://stratechery.com/feed/" },
+    { "name": "Nielsen Norman", "url": "https://www.nngroup.com/feed/rss/" },
+    { "name": "Hacker News Ask", "url": "https://hnrss.org/ask" },
+    { "name": "宝玉的分享", "url": "https://baoyu.io/rss.xml" }
+  ]
+}
