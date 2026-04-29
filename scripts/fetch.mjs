@@ -116,14 +116,53 @@ async function callClaude(messages, maxTokens = 1500) {
   }
 }
 
+// 批量翻译新闻标题/摘要（非必需，只在 TRANSLATE_NEWS=1 时启用）
+async function translateNewsBatch(news) {
+  if (process.env.TRANSLATE_NEWS !== "1") return news;
+  // 只翻译非中文标题
+  const targets = news.filter(n => !/[一-龥]/.test(n.title));
+  if (!targets.length) return news;
+
+  const lines = targets.map((n, i) => `${i+1}. title: ${n.title}\n   summary: ${n.summary || ""}`).join("\n\n");
+  const prompt = `请把下列英文新闻标题和摘要翻译成简体中文。严格返回 JSON 数组（不要解释、不要用代码块）：
+${lines}
+
+返回格式：
+[
+  {"title": "中文标题", "summary": "中文摘要"},
+  ...
+]
+每条必须和输入顺序一一对应，保留事实、数字、公司/人名译成通用中文（如 Apple→苹果、Google→谷歌）。`;
+
+  const text = await callClaude([{ role: "user", content: prompt }], 2500);
+  if (!text) return news;
+  try {
+    const match = text.match(/\[[\s\S]*\]/);
+    if (!match) return news;
+    const arr = JSON.parse(match[0]);
+    if (!Array.isArray(arr) || arr.length !== targets.length) return news;
+    // 替换
+    const map = new Map();
+    targets.forEach((n, i) => map.set(n, arr[i]));
+    return news.map(n => {
+      const t = map.get(n);
+      if (!t) return n;
+      return { ...n, title: t.title || n.title, summary: t.summary || n.summary };
+    });
+  } catch (e) {
+    console.warn("[translate] parse failed:", e.message);
+    return news;
+  }
+}
+
 async function generateAIBrief(catId, news) {
   const cat = CATEGORY_NAMES[catId];
   const titles = news.slice(0, 10).map((n, i) => `${i+1}. ${n.title} (${n.source})`).join("\n");
-  const prompt = `你是一名资深信息策展人。以下是今天「${cat.nameCN}」板块的原始新闻标题：
+  const prompt = `你是一名资深信息策展人。以下是今天「${cat.nameCN}」板块的原始新闻标题（可能是中文或英文混排）：
 
 ${titles}
 
-请用中文输出一份 JSON，严格按照以下格式（不要加任何解释、不要用代码块）：
+请**完全用简体中文**输出一份 JSON，严格按照以下格式（不要加任何解释、不要用代码块）：
 {
   "summary": "60-80 字的今日总结，要具体、带数字和关键事件",
   "lead": "一句话主论点，20-30 字",
@@ -139,7 +178,12 @@ ${titles}
     {"n": "数字", "l": "标签"},
     {"n": "数字", "l": "标签"}
   ]
-}`;
+}
+
+【语言规范】
+- 所有字段（summary / lead / sections.h / sections.p / keyNumbers.l）必须用简体中文
+- 英文新闻涉及的公司名、人名翻译成中文（如 Apple → 苹果、Sam Altman → 萨姆·奥特曼、Bloomberg → 彭博社）
+- AI / API / GPU 等技术术语可保留英文缩写，但要用中文语境描述`;
   const text = await callClaude([{ role: "user", content: prompt }], 1500);
   if (!text) return null;
   try {
@@ -167,7 +211,9 @@ async function main() {
   for (const catId of Object.keys(CATEGORY_NAMES)) {
     const meta = CATEGORY_NAMES[catId];
     const list = feeds[catId] || [];
-    const news = await fetchCategoryNews(catId, list);
+    let news = await fetchCategoryNews(catId, list);
+    // 可选：把英文新闻翻译成中文（需要 TRANSLATE_NEWS=1 环境变量 + ANTHROPIC_API_KEY）
+    news = await translateNewsBatch(news);
     const oldCat = categories[catId] || {};
 
     const brief = await generateAIBrief(catId, news);
