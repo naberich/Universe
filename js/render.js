@@ -1418,25 +1418,60 @@ function runSearch() {
   box.innerHTML = closeBtn + `<div class="ai-searching"><span class="spin"></span>正在联网检索「${escapeHtml(kw)}」并生成 AI 综合总结…</div>`;
   box.classList.add("show");
 
-  setTimeout(() => {
-    const ans = fakeAIWebAnswer(kw);
-    const kwEsc = escapeHtml(kw);
-    box.innerHTML = closeBtn + `
-      <div class="search-section ai-web-card">
-        <div class="ai-web-tag"><span class="pulse"></span>AI Web Search · 联网综合</div>
-        <div class="ai-web-title">${ans.title}</div>
-        <div class="ai-web-body">${ans.body.replace(/\n/g,"<br>")}</div>
-        <div class="ai-web-refs"><b>REFERENCES</b><br>${ans.refs.map(r => "· " + r).join("<br>")}</div>
-        <div class="ai-web-actions">
-          <span class="hint">◈ 还不够？把它加入长期追踪</span>
-          <button class="btn-ghost" onclick="runSearch()">重新检索</button>
-          <button class="btn-save-event" onclick='openEventModal(${JSON.stringify(kw)}, ${JSON.stringify(ans)})'>
-            ＋ 添加到 Events
-          </button>
+  // 真实调用 /api/search
+  fetchAIWebAnswer(kw)
+    .then(ans => {
+      const safeBody = escapeHtml(ans.body || "").replace(/\n/g, "<br>");
+      const refsHTML = (ans.refs || []).length
+        ? `<div class="ai-web-refs"><b>REFERENCES</b><br>${ans.refs.map(r => "· " + escapeHtml(r)).join("<br>")}</div>`
+        : "";
+      box.innerHTML = closeBtn + `
+        <div class="search-section ai-web-card">
+          <div class="ai-web-tag"><span class="pulse"></span>AI Web Search · 联网综合</div>
+          <div class="ai-web-title">${escapeHtml(ans.title || "关于「" + kw + "」")}</div>
+          <div class="ai-web-body">${safeBody}</div>
+          ${refsHTML}
+          <div class="ai-web-actions">
+            <span class="hint">◈ 还不够？把它加入长期追踪</span>
+            <button class="btn-ghost" onclick="runSearch()">重新检索</button>
+            <button class="btn-save-event" onclick='openEventModal(${JSON.stringify(kw)}, ${JSON.stringify(ans)})'>
+              ＋ 添加到 Events
+            </button>
+          </div>
         </div>
-      </div>
-    `;
-  }, 1400);
+      `;
+    })
+    .catch(err => {
+      box.innerHTML = closeBtn + `
+        <div class="search-section ai-web-card">
+          <div class="ai-web-tag"><span class="pulse"></span>AI Web Search</div>
+          <div class="ai-web-title">检索失败</div>
+          <div class="ai-web-body">${escapeHtml(err.message || "未知错误")}<br>请稍后重试，或在看板里直接浏览已聚合的信息。</div>
+          <div class="ai-web-actions">
+            <button class="btn-ghost" onclick="runSearch()">重新检索</button>
+          </div>
+        </div>
+      `;
+    });
+}
+
+// 调后端 /api/search；失败时回退到 fakeAIWebAnswer
+async function fetchAIWebAnswer(kw) {
+  try {
+    const res = await fetch("/api/search", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ q: kw })
+    });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    if (!data || !data.body) throw new Error("empty response");
+    return data;
+  } catch (e) {
+    console.warn("[search] api failed, fallback:", e.message);
+    // 在静态部署（如 GitHub Pages）下 /api/search 不存在，降级到假文案
+    return fakeAIWebAnswer(kw);
+  }
 }
 
 // ESC 收起搜索结果

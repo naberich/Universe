@@ -51,14 +51,36 @@ GitHub Pages 检测到提交后自动重新部署。
 
 Actions 页签 → 选 `Update Universe Data` → `Run workflow`。
 
-## 部署到 Vercel（更快的 CDN）
+## 部署到 Vercel（推荐：支持实时 AI 搜索）
 
-1. 推到 GitHub
-2. 登录 https://vercel.com → Import Project → 选你的仓库
-3. Framework Preset 选 `Other`，其他默认，Deploy
-4. 在 Vercel 项目 **Settings → Environment Variables** 加 `ANTHROPIC_API_KEY`（让预览环境也能跑）
-5. 生产 URL：`https://<项目名>.vercel.app`
-6. GitHub Actions 里的 workflow 依然负责抓取 data.json 并 push；Vercel 监听 push 自动重新部署
+GitHub Pages 只能部署静态，**不能跑 `/api/search` 搜索**。想要真 AI 联网检索必须走 Vercel。
+
+### 步骤
+
+1. 代码已在 GitHub
+2. 登录 https://vercel.com → `Add New Project` → Import 你的 `Universe` 仓库
+3. Framework Preset 选 `Other`，Root Directory 保持默认（`./`），Deploy
+4. 部署完成后去 **Settings → Environment Variables**：
+   - Name: `ANTHROPIC_API_KEY`
+   - Value: 你的 key（`sk-ant-...`）
+   - Environment: 全选（Production / Preview / Development）
+   - 保存后需要重新 Deploy 一次（Deployments → 最新一次 → ⋯ → Redeploy）
+5. 生产 URL 形如 `https://universe-xxx.vercel.app`
+6. GitHub Actions 的 workflow 依然负责每小时抓取 `data.json` 并 push；Vercel 监听 push 自动重新部署
+
+### API 端点
+
+- `POST /api/search` — body `{ q: "关键词" }`，返回 `{ title, body, refs[] }`（内部调用 Claude）
+
+### GitHub Pages vs Vercel
+
+| 功能 | GitHub Pages | Vercel |
+|---|---|---|
+| 静态网页展示 | ✅ | ✅ |
+| 每日 RSS 抓取 | ✅ Actions | ✅ Actions |
+| **实时 AI 搜索** | ❌ 不支持 | ✅ `/api/search` |
+| 自定义域名 | ✅ | ✅ |
+| 免费额度 | 完全免费 | 免费（个人） |
 
 ## 添加 / 调整 RSS 源
 
