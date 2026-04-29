@@ -10,3 +10,6 @@ scripts/node_modules/
 .dev.vars*
 !.dev.vars.example
 !.env.example
+
+# 对话备份（本地保留，不上传）
+backup/
