@@ -86,8 +86,85 @@ async function fetchCategoryNews(catId, feeds) {
   return all.slice(0, 10);
 }
 
-// --- 可选：调 Claude 做摘要 + AI Brief ---
+// --- 通用 AI 调用（多厂商） ---
+// 通过环境变量配置：
+//   AI_PROVIDER=deepseek|qwen|zhipu|anthropic|openai   （默认自动从 key 格式猜）
+//   AI_KEY=xxx                                          （任意厂商的 key）
+//   AI_MODEL=xxx                                        （可选，覆盖默认模型）
+//   ANTHROPIC_API_KEY=xxx                               （向后兼容）
+
+const PROVIDER_PRESETS = {
+  deepseek:  { endpoint: "https://api.deepseek.com/v1/chat/completions",                       model: "deepseek-chat",    format: "openai" },
+  qwen:      { endpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions", model: "qwen-turbo",       format: "openai" },
+  zhipu:     { endpoint: "https://open.bigmodel.cn/api/paas/v4/chat/completions",              model: "glm-4-flash",      format: "openai" },
+  anthropic: { endpoint: "https://api.anthropic.com/v1/messages",                              model: "claude-haiku-4-5-20251001", format: "anthropic" },
+  openai:    { endpoint: "https://api.openai.com/v1/chat/completions",                         model: "gpt-4o-mini",      format: "openai" }
+};
+
+function resolveAIConfig() {
+  const key = process.env.AI_KEY || process.env.ANTHROPIC_API_KEY || process.env.OPENAI_API_KEY || "";
+  if (!key) return null;
+  let provider = (process.env.AI_PROVIDER || "").toLowerCase();
+  if (!provider) {
+    // 根据 key 格式猜
+    if (/^sk-ant-/.test(key)) provider = "anthropic";
+    else if (/^[A-Za-z0-9]+\.[A-Za-z0-9]+/.test(key) && !key.startsWith("sk-")) provider = "zhipu";
+    else provider = "deepseek"; // 默认 deepseek（国内可用）
+  }
+  const preset = PROVIDER_PRESETS[provider];
+  if (!preset) {
+    console.warn(`[ai] unknown provider: ${provider}`);
+    return null;
+  }
+  const model = process.env.AI_MODEL || preset.model;
+  return { provider, key, model, endpoint: preset.endpoint, format: preset.format };
+}
+
+async function callAI(messages, maxTokens = 1500) {
+  const cfg = resolveAIConfig();
+  if (!cfg) return null;
+  try {
+    let res;
+    if (cfg.format === "anthropic") {
+      res = await fetch(cfg.endpoint, {
+        method: "POST",
+        headers: {
+          "x-api-key": cfg.key,
+          "anthropic-version": "2023-06-01",
+          "content-type": "application/json"
+        },
+        body: JSON.stringify({ model: cfg.model, max_tokens: maxTokens, messages })
+      });
+    } else {
+      // OpenAI 兼容格式
+      res = await fetch(cfg.endpoint, {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${cfg.key}`,
+          "content-type": "application/json"
+        },
+        body: JSON.stringify({ model: cfg.model, messages, max_tokens: maxTokens })
+      });
+    }
+    if (!res.ok) {
+      console.warn(`[ai:${cfg.provider}] HTTP ${res.status}: ${(await res.text()).slice(0,200)}`);
+      return null;
+    }
+    const json = await res.json();
+    if (cfg.format === "anthropic") return json.content?.[0]?.text || null;
+    return json.choices?.[0]?.message?.content || null;
+  } catch (e) {
+    console.warn(`[ai] failed:`, e.message);
+    return null;
+  }
+}
+
+// 向后兼容：旧代码还在调 callClaude，保留别名
 async function callClaude(messages, maxTokens = 1500) {
+  return callAI(messages, maxTokens);
+}
+// 下面是被删除的旧实现，保留占位：
+async function __unused_callClaude_old__(messages, maxTokens = 1500) {
   const key = process.env.ANTHROPIC_API_KEY;
   if (!key) return null;
   try {

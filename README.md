@@ -113,11 +113,37 @@ GitHub Pages 只能部署静态，**不能跑 `/api/search` 搜索**。想要真
 - 不要超过 8 个/板块（过多会拉长抓取时间）
 - 境内源可能需要走 [rsshub.app](https://rsshub.app) 转发
 
-## 环境变量
+## 环境变量（GitHub Actions 用）
 
-| 变量 | 作用 | 必需 |
+推荐新方式：只存一个通用 `AI_KEY`，自动识别厂商。
+
+| 变量 | 作用 | 示例 |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | 生成 AI Brief 摘要 | 否（无则用上次的 brief） |
+| `AI_KEY` | **Secret**：任意厂商的 API key | `sk-xxx` / `sk-ant-xxx` / `abc.xyz` |
+| `AI_PROVIDER` | **Variable**（可选）：指定厂商 | `deepseek` / `qwen` / `zhipu` / `anthropic` / `openai` |
+| `AI_MODEL` | **Variable**（可选）：覆盖默认模型 | `deepseek-reasoner` / `qwen-max` |
+| `TRANSLATE_NEWS` | 设为 `1` 开启英文新闻批量中文翻译 | `1` |
+
+自动识别规则（不填 `AI_PROVIDER` 时）：
+- `sk-ant-` 开头 → Anthropic Claude
+- 含点号（如 `abc.xyz`）→ 智谱 GLM
+- 其他 `sk-` 开头 → 默认按 DeepSeek 处理
+
+**切换厂商只需要改 Secret 的 key 和（可选）Variable 的 provider，代码不用改**。
+
+### 默认模型
+
+| Provider | 默认模型 |
+|---|---|
+| `deepseek` | `deepseek-chat` |
+| `qwen` | `qwen-turbo` |
+| `zhipu` | `glm-4-flash` |
+| `anthropic` | `claude-haiku-4-5-20251001` |
+| `openai` | `gpt-4o-mini` |
+
+### 向后兼容
+
+原 `ANTHROPIC_API_KEY` 仍然生效，作为 `AI_KEY` 的 fallback。
 
 ## License
 
