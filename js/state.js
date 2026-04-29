@@ -157,9 +157,15 @@ function setApiKey(k) {
   if (trimmed) safeStorage.set(API_KEY_STORE, trimmed);
   else safeStorage.remove(API_KEY_STORE);
 }
+function detectKeyProvider(k) {
+  if (!k) return null;
+  if (/^sk-ant-/.test(k)) return "anthropic";
+  if (/^sk-(proj-)?[A-Za-z0-9_-]{20,}/.test(k)) return "openai";
+  return null;
+}
 function hasApiKey() {
   const k = getApiKey();
-  return !!k && /^sk-ant-/.test(k);
+  return !!detectKeyProvider(k);
 }
 
 // ================= 日期 / 粒度 =================
@@ -459,7 +465,7 @@ Object.assign(window, {
   getCurrentGranularity: () => currentGranularity,
   // 工具
   safeStorage, safeFetch, safeNotify,
-  getApiKey, setApiKey, hasApiKey,
+  getApiKey, setApiKey, hasApiKey, detectKeyProvider,
   rebuildEvents, saveCustomEvents, isCustomEvent,
   saveReadState, markNewsRead, markEventRead, isNewsRead, isEventRead, unreadCount,
   saveNotifPersist,

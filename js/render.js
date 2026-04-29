@@ -905,34 +905,63 @@ function showEvent(id) {
 function openApiKeyModal() {
   const el = document.getElementById("apikey-input");
   if (el) el.value = getApiKey();
+  setApiKeyMsg("", "");
+  if (el) el.classList.remove("input-error");
   document.getElementById("apikey-modal").classList.add("open");
   setTimeout(() => el && el.focus(), 80);
 }
 function closeApiKeyModal() {
   document.getElementById("apikey-modal").classList.remove("open");
 }
-function saveApiKeyFromModal() {
-  const v = document.getElementById("apikey-input").value.trim();
-  if (!v) {
-    showToast("未填写 key");
+
+// 设置 modal 内联消息
+function setApiKeyMsg(text, type) {
+  const msg = document.getElementById("apikey-msg");
+  if (!msg) return;
+  if (!text) {
+    msg.style.display = "none";
+    msg.textContent = "";
     return;
   }
-  if (!/^sk-ant-/.test(v)) {
-    showToast("key 格式不正确（应以 sk-ant- 开头）");
+  msg.textContent = text;
+  msg.className = "modal-inline-msg " + (type || "info");
+  msg.style.display = "";
+}
+
+function saveApiKeyFromModal() {
+  const input = document.getElementById("apikey-input");
+  const v = input.value.trim();
+  input.classList.remove("input-error");
+  if (!v) {
+    input.classList.add("input-error");
+    input.focus();
+    showToast("请填写 API key");
+    return;
+  }
+  const provider = detectKeyProvider(v);
+  if (!provider) {
+    input.classList.add("input-error");
+    input.focus();
+    input.select();
+    showToast("key 格式不正确（支持 sk-ant- 或 sk-... 开头）");
     return;
   }
   setApiKey(v);
   closeApiKeyModal();
   refreshKeyIndicator();
-  showToast("API key 已保存到本地");
+  showToast(`API key 已保存（${provider === "anthropic" ? "Claude" : "OpenAI"}）`);
 }
+
 function clearApiKey() {
   if (!confirm("确定清除已保存的 API key？")) return;
   setApiKey("");
   const el = document.getElementById("apikey-input");
-  if (el) el.value = "";
+  if (el) {
+    el.value = "";
+    el.classList.remove("input-error");
+  }
+  setApiKeyMsg("已清除本地保存的 key", "info");
   refreshKeyIndicator();
-  showToast("API key 已清除");
 }
 function refreshKeyIndicator() {
   const btn = document.querySelector(".nav-key");
@@ -1374,13 +1403,33 @@ function showToast(msg, eventIdForLink) {
   const link = document.getElementById("toast-link");
   if (eventIdForLink) {
     link.style.display = "";
-    link.onclick = () => { showEvent(eventIdForLink); t.classList.remove("show"); };
+    link.onclick = () => { showEvent(eventIdForLink); hideToast(); };
   } else {
     link.style.display = "none";
   }
-  t.classList.add("show");
+
+  // 用 popover API 进入浏览器 top-layer，绝对在所有 modal 之上
+  try {
+    if (t.matches && t.matches(":popover-open")) t.hidePopover();
+    if (typeof t.showPopover === "function") t.showPopover();
+  } catch {}
+
+  // 触发动画（等 popover 进入渲染树后下一帧加 class）
+  requestAnimationFrame(() => requestAnimationFrame(() => t.classList.add("show")));
+
   clearTimeout(__toastTimer);
-  __toastTimer = setTimeout(() => t.classList.remove("show"), 3200);
+  __toastTimer = setTimeout(hideToast, 3200);
+}
+
+function hideToast() {
+  const t = document.getElementById("toast");
+  if (!t) return;
+  t.classList.remove("show");
+  setTimeout(() => {
+    try {
+      if (typeof t.hidePopover === "function" && t.matches(":popover-open")) t.hidePopover();
+    } catch {}
+  }, 380);
 }
 
 // ================= 搜索 =================
