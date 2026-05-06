@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3797276726893569?f=rss"
+          "title": "OpenAI president forced to read his personal diary entries to jury",
+          "src": "Hacker News Front",
+          "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
         },
         {
           "idx": 2,
-          "title": "Ombudsman column: The Pentagon is trying to silence me",
+          "title": "Australia will run an overt command economy by 2040",
           "src": "Hacker News Front",
-          "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html"
+          "url": "https://caseyhandmer.wordpress.com/2026/04/16/australia-will-run-an-overt-command-economy-by-2040/"
         },
         {
           "idx": 3,
-          "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
-          "src": "Hacker News Front",
-          "url": "https://github.com/microsoft/vscode/issues/314311"
+          "title": "Google&#8217;s AI search summaries will now quote Reddit",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links"
         },
         {
           "idx": 4,
-          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-          "src": "Hacker News Front",
-          "url": "https://blog.cloudflare.com/agents-stripe-projects/"
+          "title": "It’s time to let my iPhone Mini go",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass"
         },
         {
           "idx": 5,
-          "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3797224394284033?f=rss"
+          "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+          "src": "Hacker News Front",
+          "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-          "summary": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W ",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3797276726893569?f=rss",
+          "title": "OpenAI president forced to read his personal diary entries to jury",
+          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/ Comments URL: https://news.ycombinator.com/item?id=48035969 Points: 11 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
           "time": "just now",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "Ombudsman column: The Pentagon is trying to silence me",
-          "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html Comments URL: https://news.ycombinator.com/item?id=48031769 Points: 41 # Comments: 1",
+          "title": "Australia will run an overt command economy by 2040",
+          "summary": "Article URL: https://caseyhandmer.wordpress.com/2026/04/16/australia-will-run-an-overt-command-economy-by-2040/ Comments URL: https://news.ycombinator.com/item?id=48035874 Points: 5 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+          "url": "https://caseyhandmer.wordpress.com/2026/04/16/australia-will-run-an-overt-command-economy-by-2040/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Google&#8217;s AI search summaries will now quote Reddit",
+          "summary": "Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge Google is updating its AI Search features to make it easier for users to find information from so",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "It’s time to let my iPhone Mini go",
+          "summary": "Good night, sweet prince. | Photo: Vjeran Pavic / The Verge It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. A",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+          "summary": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48035223 Points: 0 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
-          "summary": "Article URL: https://github.com/microsoft/vscode/issues/314311 Comments URL: https://news.ycombinator.com/item?id=48031707 Points: 27 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://github.com/microsoft/vscode/issues/314311",
+          "title": "The Remarkable Paper Pure is the best digital notepad I&#8217;ve ever used",
+          "summary": "Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell. The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premium color E Ink tablets. As wi",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-          "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/ Comments URL: https://news.ycombinator.com/item?id=48031684 Points: 43 # Comments: 10",
-          "source": "Hacker News Front",
-          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+          "title": "Remarkable’s next E Ink digital notepad skips the color screen",
+          "summary": "Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features an upgraded version of",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-          "summary": "“传统工业软件太难用了。” 这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。 “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，Orthogonal想做的，是把“vibe”的方式带入硬件开发。 Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3797224394284033?f=rss",
+          "title": "Energizer’s new coin batteries won’t cause ingestion burns if swallowed",
+          "summary": "The safer coin batteries are available in 2032, 2025, and 2016 varieties. | Image: Energizer Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
           "time": "1h ago",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
-          "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/109288",
+          "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
+          "summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
           "time": "1h ago",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "StarFighter 16-Inch",
-          "summary": "Article URL: https://us.starlabs.systems/pages/starfighter Comments URL: https://news.ycombinator.com/item?id=48031261 Points: 99 # Comments: 63",
-          "source": "Hacker News Front",
-          "url": "https://us.starlabs.systems/pages/starfighter",
+          "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+          "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sou",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
           "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Telus Uses AI to Alter Call-Agent Accents",
-          "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 65 # Comments: 30",
-          "source": "Hacker News Front",
-          "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
-          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。 此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授���下ICANX基金等。本轮资金将用于旗下DTC消费医疗产品的上",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3682907323150215?f=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "YouTube, your RSS feeds are broken",
-          "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken Comments URL: https://news.ycombinator.com/item?id=48030964 Points: 11 # Comments: 4",
-          "source": "Hacker News Front",
-          "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-          "time": "3h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
+          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
+        },
+        {
+          "idx": 2,
           "title": "GPT-5.5 Instant System Card",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/gpt-5-5-instant-system-card"
         },
         {
-          "idx": 2,
+          "idx": 3,
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/mrc-supercomputer-networking"
+        },
+        {
+          "idx": 4,
           "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/gpt-5-5-instant"
         },
         {
-          "idx": 3,
+          "idx": 5,
           "title": "New ways to buy ChatGPT ads",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
-        },
-        {
-          "idx": 4,
-          "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/openai-pwc-finance-collaboration"
-        },
-        {
-          "idx": 5,
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,29 @@
       },
       "news": [
         {
+          "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "GPT-5.5 Instant System Card",
           "summary": "",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-          "time": "18h ago",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/mrc-supercomputer-networking",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +305,7 @@
           "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/gpt-5-5-instant",
-          "time": "18h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +341,7 @@
           "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/ai-co-clinician/",
-          "time": "5d ago",
+          "time": "6d ago",
           "tags": [],
           "market": null
         },
@@ -344,24 +362,6 @@
           "time": "6d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "Granite 4.1 LLMs: How They’re Built",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-          "time": "6d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Building the compute infrastructure for the Intelligence Age",
-          "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-          "time": "6d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Introducing: The Story of Money",
+          "title": "Uber hit by Middle East conflict despite strong bookings",
           "src": "FT World",
-          "url": "https://www.ft.com/tsom"
+          "url": "https://www.ft.com/content/da045c04-d3e1-48d1-b665-664c1d641e87"
         },
         {
           "idx": 2,
-          "title": "Samsung Electronics hits $1tn value on AI euphoria",
+          "title": "PayPal, Mastercard and Visa probed over alleged UK antitrust breaches",
           "src": "FT World",
-          "url": "https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8"
+          "url": "https://www.ft.com/content/c84f04db-026f-438e-a7a2-a23a6c8719cd"
         },
         {
           "idx": 3,
-          "title": "Kravis and Roberts on KKR at 50",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/f52559cf-0639-4746-8326-78c1b83da2d9"
+          "title": "Ben-Gvir ‘dreams’ of nooses in video posted to TikTok",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/ben-gvir-dreams-of-nooses-in-video-posted-to-tiktok?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Private equity benefits as spending on social care providers jumps 20%",
+          "title": "Russia pavilion drags Venice Biennale into EU sanctions dispute",
           "src": "FT World",
-          "url": "https://www.ft.com/content/d4898db3-20a2-4d27-b754-e102324c8d74"
+          "url": "https://www.ft.com/content/a8114c95-4ee4-4a11-bf31-b85ff79ddbab"
         },
         {
           "idx": 5,
-          "title": "UK supermarkets ask competition watchdog to rein in Aldi and Lidl",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/7f1d47ad-7083-48a0-b976-f28587193643"
+          "title": "Prestianni could miss Argentina games as FIFA extends ban to World Cup",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/5/6/prestianni-could-miss-argentina-games-as-fifa-extends-ban-to-world-cup?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,53 +451,35 @@
       },
       "news": [
         {
-          "title": "Introducing: The Story of Money",
-          "summary": "A new video podcast from The FT exploring the history of finance",
+          "title": "Uber hit by Middle East conflict despite strong bookings",
+          "summary": "Ride-hailing company posts weaker than expected first-quarter revenues but issues optimistic outlook",
           "source": "FT World",
-          "url": "https://www.ft.com/tsom",
+          "url": "https://www.ft.com/content/da045c04-d3e1-48d1-b665-664c1d641e87",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Samsung Electronics hits $1tn value on AI euphoria",
-          "summary": "Memory chip giant’s surge pushes South Korea’s Kospi to new record",
+          "title": "PayPal, Mastercard and Visa probed over alleged UK antitrust breaches",
+          "summary": "Move is rare exercise of Financial Conduct Authority’s competition law powers",
           "source": "FT World",
-          "url": "https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8",
+          "url": "https://www.ft.com/content/c84f04db-026f-438e-a7a2-a23a6c8719cd",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Kravis and Roberts on KKR at 50",
-          "summary": "The original private equity barbarian celebrates its birthday as the $22tn private markets face a fraught moment",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/f52559cf-0639-4746-8326-78c1b83da2d9",
+          "title": "Ben-Gvir ‘dreams’ of nooses in video posted to TikTok",
+          "summary": "Ben-Gvir has posted a video saying he ‘dreams’ of nooses, in a nod to the death penalty targeting Palestinian detainees.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/ben-gvir-dreams-of-nooses-in-video-posted-to-tiktok?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Private equity benefits as spending on social care providers jumps 20%",
-          "summary": "Children’s sector offers steady revenues for buyout firms as cases of autism and other conditions increase",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/d4898db3-20a2-4d27-b754-e102324c8d74",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "UK supermarkets ask competition watchdog to rein in Aldi and Lidl",
-          "summary": "Sainsbury’s, Morrisons and Iceland are seeking to stop discounters preventing them opening stores nearby",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/7f1d47ad-7083-48a0-b976-f28587193643",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Russia pavilion drags Venice Biennale into EU sanctions row",
-          "summary": "Brussels has warned that allowing Moscow to participate would breach ban on providing services to Kremlin",
+          "title": "Russia pavilion drags Venice Biennale into EU sanctions dispute",
+          "summary": "Activists Pussy Riot hold protest outside pavilion as Brussels issues warning to Italian government and art fair’s organisers",
           "source": "FT World",
           "url": "https://www.ft.com/content/a8114c95-4ee4-4a11-bf31-b85ff79ddbab",
           "time": "just now",
@@ -505,38 +487,56 @@
           "market": null
         },
         {
-          "title": "Angela Rayner weighs options as leadership hopes fade",
-          "summary": "Neither the former deputy Labour leader nor her rivals have a clear path to replacing Sir Keir Starmer",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/8b319f45-d0b4-4e45-bbfd-8a3f35241ae3",
+          "title": "Prestianni could miss Argentina games as FIFA extends ban to World Cup",
+          "summary": "Gianluca Prestianni could miss Argentina's first two group games if he is selected in their World Cup squad.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/5/6/prestianni-could-miss-argentina-games-as-fifa-extends-ban-to-world-cup?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Imbalances are back on the global agenda",
-          "summary": "Policymakers must overcome the mercantilist fallacy that the way to get rich is by running surpluses forever",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/72ab51ed-8dcc-46c5-8457-6944d98bf280",
+          "title": "Australians slam ban on World Cup screenings at Federation Square",
+          "summary": "Matches from the World Cup 2026 will not be screened after poor fan behaviour at previous public watch parties in 2023.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/5/6/australians-slam-ban-on-world-cup-screenings-at-federation-square?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Don’t let the taxman grab your tax-free cash",
-          "summary": "It’s tempting to blow the lump sum on a sports car — but the more sensible option may be to take it in small amounts like regular income",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/d594e560-b99c-494e-9466-fd02915756c7",
+          "title": "What happened to Trump’s ‘Project Freedom’?",
+          "summary": "Donald Trump announced ‘Project Freedom’, an operation to escort stranded ships through the strait. Then paused it.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-happened-to-trumps-project?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bezos shakes up Blue Origin staff incentives ahead of SpaceX IPO",
-          "summary": "Rocket maker hopes to quell employee uproar after old options expired without a payout",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/8f8265bb-4305-476a-bce0-64dcbab1bda6",
+          "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+          "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
           "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Iran says Strait of Hormuz passage to be ensured after US pauses operation",
+          "summary": "Navy of Iran's Islamic Revolutionary Guard Corps (IRGC) says safe transit will be ensured with new procedures in place.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What is the FDD, the pro-Israel think tank shaping Trump’s Iran policy?",
+          "summary": "FDD's talking points on the US-Israel war on Iran have been picked up by the Trump administration.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/6/what-is-the-fdd-the-pro-israel-think-tank-shaping-trumps-iran-policy?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -549,38 +549,38 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "微视频｜“新”在中国",
+          "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm"
         },
         {
           "idx": 2,
-          "title": "疫情防控措施优化 各地复商复市进行时",
+          "title": "关于BQ.1，你需要知道的几件事——",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm"
         },
         {
           "idx": 3,
-          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "title": "6年、10年、12年，他们都经历了什么？",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm"
         },
         {
           "idx": 4,
-          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm"
         },
         {
           "idx": 5,
-          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm"
         }
       ],
       "aiBrief": {
@@ -628,51 +628,6 @@
       },
       "news": [
         {
-          "title": "微视频｜“新”在中国",
-          "summary": "新时代的中国，日新月异。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "疫情防控措施优化 各地复商复市进行时",
-          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
-          "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
-          "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
-          "summary": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
           "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
           "summary": "近日，我们接到群众对新冠肺炎疫情数据的有关疑问，现请中国疾控中心应急中心李群主任作出解答。",
           "source": "新华社要闻",
@@ -716,6 +671,51 @@
           "time": "recent",
           "tags": [],
           "market": null
+        },
+        {
+          "title": "微视频｜“新”在中国",
+          "summary": "新时代的中国，日新月异。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "summary": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
         }
       ]
     },
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Soy Oil Falls from Three-Year High After Trump’s Hormuz Pause",
+          "title": "Greer on EU Complying With Trade Deal, Trump to China",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/soy-oil-falls-from-three-year-high-after-trump-s-hormuz-pause"
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/greer-on-eu-complying-with-trade-deal-trump-to-china-video"
         },
         {
           "idx": 2,
-          "title": "Indian Small-Caps Rally 20% From March Lows to Near Bull Market",
+          "title": "Iran War Boosts Russia’s April Oil Tax Revenue to Six-Month High",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/indian-small-caps-rally-20-from-march-lows-to-near-bull-market"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/iran-war-boosts-russia-s-april-oil-tax-revenue-to-six-month-high"
         },
         {
           "idx": 3,
-          "title": "Momentum Is Trampling Quality in Market Records",
+          "title": "Trump Will Address China Buying Iranian Oil, Greer Says",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-05-06/stocks-rally-momentum-is-trampling-quality-in-market-records"
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/trump-will-address-iran-with-xi-greer-says-video"
         },
         {
           "idx": 4,
-          "title": "Oil Shock Drives Thailand Inflation to Near Top End of Target",
+          "title": "Eli Lilly Looks to Sell About $8 Billion of Bonds to Fund Deals",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/eli-lilly-kicks-off-high-grade-bond-sale-in-push-to-fund-deals"
         },
         {
           "idx": 5,
-          "title": "Asian Currencies Rally on AI Enthusiasm, US-Iran Peace Hopes",
+          "title": "US Gasoline at $5 ‘Not Likely,’ Oil Analyst Schork Says",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/asian-currencies-rally-on-ai-enthusiasm-us-iran-peace-hopes"
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/us-gasoline-at-5-not-likely-oil-analyst-schork-says-video"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Soy Oil Falls from Three-Year High After Trump’s Hormuz Pause",
-          "summary": "Soybean oil contracts fell from their highest in three-and-a-half years, following a slump in crude after President Donald Trump said he would pause US-led efforts to guide ships through the Strait of Hormuz.",
+          "title": "Greer on EU Complying With Trade Deal, Trump to China",
+          "summary": "US Trade Representative Jamieson Greer says he expects the European Union to keep \"its side of the trade deal\" that was agreed to in July. The EU has not ratified the package yet. Greer also says President Donald Trump w",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/soy-oil-falls-from-three-year-high-after-trump-s-hormuz-pause",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/greer-on-eu-complying-with-trade-deal-trump-to-china-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Indian Small-Caps Rally 20% From March Lows to Near Bull Market",
-          "summary": "India’s small-cap stocks are staging a sharp comeback, underscoring a revival in risk appetite among investors after months of steep losses.",
+          "title": "Iran War Boosts Russia’s April Oil Tax Revenue to Six-Month High",
+          "summary": "Russia’s oil tax revenues jumped to a six-month high last month as the Kremlin started reaping the benefits of a crude rally driven by the war in Iran. With oil still trading near $100 a barrel, the windfall is set to co",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/indian-small-caps-rally-20-from-march-lows-to-near-bull-market",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/iran-war-boosts-russia-s-april-oil-tax-revenue-to-six-month-high",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Momentum Is Trampling Quality in Market Records",
-          "summary": "It can be dangerous to stand in the way of a rally like this.",
+          "title": "Trump Will Address China Buying Iranian Oil, Greer Says",
+          "summary": "US President Trump and Chinese President Xi will discuss China’s purchases of Iranian oil, Trade Representative Jamieson Greer said on \"Bloomberg Surveillance.\" The two leaders are scheduled to meet in Beijing on May 14 ",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-05-06/stocks-rally-momentum-is-trampling-quality-in-market-records",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/trump-will-address-iran-with-xi-greer-says-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Oil Shock Drives Thailand Inflation to Near Top End of Target",
-          "summary": "Higher oil prices linked to the Iran conflict pushed Thailand’s inflation to near the top end of the central bank’s target, ending a yearlong stretch of falling prices.",
+          "title": "Eli Lilly Looks to Sell About $8 Billion of Bonds to Fund Deals",
+          "summary": "Eli Lilly & Co. is seeking to raise about $8 billion from an investment-grade bond sale, according to people with direct knowledge of the matter, as part of the company’s effort to fund an acquisition spree.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/oil-shock-drives-thailand-inflation-to-near-top-end-of-target",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Asian Currencies Rally on AI Enthusiasm, US-Iran Peace Hopes",
-          "summary": "Asian currencies extended a rebound as the artificial intelligence trade gathered pace and sentiment improved on hopes of a peace deal between the US and Iran.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/asian-currencies-rally-on-ai-enthusiasm-us-iran-peace-hopes",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "China’s Tech Gauge Jumps to Record High on AI-Fueled Rally",
-          "summary": "A gauge of Chinese tech shares surged to a record high, joining a broader artificial intelligence-related rally sweeping across Asian markets as investors piled into growth sectors.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-06/china-s-tech-gauge-jumps-to-record-high-on-ai-fueled-rally",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/eli-lilly-kicks-off-high-grade-bond-sale-in-push-to-fund-deals",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Asia Central Banks Expected to Move to Higher Interest Rates: JPMorgan AM",
-          "summary": "Jason Pang of JPMorgan Asset Management says that \"higher oil for longer will translate into a more hawkish bias\" among central banks in Asia. He also tells Bloomberg Television that \"Malaysia, local, remains a good expo",
+          "title": "US Gasoline at $5 ‘Not Likely,’ Oil Analyst Schork Says",
+          "summary": "Stephen Schork, principal and editor at The Schork Group, explains how a potential deal to end the Iran war can impact the global oil market and why US gasoline prices are unlikely to reach $5 a gallon. (Source: Bloomber",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-06/asia-expected-to-move-to-higher-interest-rates-jpmorgan-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-06/us-gasoline-at-5-not-likely-oil-analyst-schork-says-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump says US will ‘pause’ plan to guide ships through Strait of Hormuz",
-          "summary": "US president says there has been ‘great progress’ on a deal with Iran",
+          "title": "Oil tumbles on hopes for US-Iran peace deal",
+          "summary": "Trump says US military campaign will end if Iran ‘agrees to give what has been agreed to’",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
-          "time": "5h ago",
+          "url": "https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Stocks Extend Record Rally, Oil Declines on Iran: Markets Wrap",
-          "summary": "Stocks climbed to a record after President Donald Trump signaled progress toward a final agreement with Iran, adding fresh momentum to markets already buoyed by a rally in technology shares. Crude oil declined.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-05/asian-stocks-to-track-us-gains-on-truce-optimism-markets-wrap",
-          "time": "6h ago",
+          "title": "US hardball tactics can’t sink the push for cleaner shipping",
+          "summary": "Countries clash over framework for regulating sector’s emissions",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/f27f3c01-84df-4def-ab6c-f86c5e254ca2",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Oil Extends Decline as Trump Says ‘Great Progress’ in Iran Talks",
-          "summary": "Oil fell a second day as US President Donald Trump said “Great Progress” has been made on a final agreement to end the war with Iran.",
+          "title": "CVS Boosts Outlook for 2026 After Aetna Profits Increase",
+          "summary": "CVS Health Corp. raised its earnings outlook for the year after profit and revenue in the first quarter exceeded analyst expectations, the latest in a string of positive reports from US health conglomerates.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-05/latest-oil-market-news-and-analysis-for-may-6",
-          "time": "6h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/cvs-boosts-outlook-for-2026-after-aetna-profits-increase",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Apollo asset-backed finance unit swings to loss after MFS hit",
+          "summary": "US private capital giant becomes latest financial institution to suffer from exposure to collapsed UK mortgage lender",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/33dd60c4-aba7-45ec-b25c-92f143a25f3d",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Oil and Gas Plunge as Iran Weighs New US Proposal to End War",
+          "summary": "Oil briefly dropped below $100 a barrel and gas slumped, as Iran evaluated a new proposal from the US to end their near 10-week war.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-06/oil-slumps-after-report-us-and-iran-near-deal-to-end-war",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 04:29 UTC",
+      "updated": "Updated 13:46 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Is reviewing phase on development getting worse?",
+          "title": "Opus 4.7 is unusable. I am tired of the apologies",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48031799"
+          "url": "https://news.ycombinator.com/item?id=48035637"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Ten Yrs from now, when only AI codes, what's the stack?",
+          "title": "Ask HN: How much trouble do you have with GitHub?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48031073"
+          "url": "https://news.ycombinator.com/item?id=48035527"
         },
         {
           "idx": 3,
-          "title": "Ask HN: The death of software development as a job?",
+          "title": "How to start up as an individual developer?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030736"
+          "url": "https://news.ycombinator.com/item?id=48035508"
         },
         {
           "idx": 4,
-          "title": "Ask HN: What Are You Building?",
+          "title": "Ask HN: Who needs contributors? (May 2026)",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030703"
+          "url": "https://news.ycombinator.com/item?id=48035307"
         },
         {
           "idx": 5,
-          "title": "Codex's precision and attention to detail is *crazy* when set up correctly",
-          "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030302"
+          "title": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
+          "src": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Is reviewing phase on development getting worse?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48031799 Points: 1 # Comments: 0",
+          "title": "Opus 4.7 is unusable. I am tired of the apologies",
+          "summary": "Sorry for the rant, but it's so annoying to use opus lately. Most of the information is inaccurate, it struggles with context and keeps self-contradicting throughout. Comments URL: https://news.ycombinator.com/item?id=48",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48031799",
+          "url": "https://news.ycombinator.com/item?id=48035637",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: How much trouble do you have with GitHub?",
+          "summary": "I've been seeing a lot of hackernews articles in the last 2 weeks talking about how people have issues with GitHub being down, Actions causing issues, people leaving GitHub, and even some building a website to show the o",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48035527",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Ten Yrs from now, when only AI codes, what's the stack?",
-          "summary": "Let's pretend that AI wins and us coders don't ever write code manually. What would be the stack and why? Do we still have 1000 JS frameworks? Comments URL: https://news.ycombinator.com/item?id=48031073 Points: 4 # Comme",
+          "title": "How to start up as an individual developer?",
+          "summary": "I have been trying to become an individual developer for a period, and have developed several tools or little projects (mainly open source). Some of them actually are very helpful at least to me, but unfortunately I am t",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48031073",
+          "url": "https://news.ycombinator.com/item?id=48035508",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Who needs contributors? (May 2026)",
+          "summary": "Looking for contributors to your project? Feel free to post any project that may interest HN readers, with a strong preference towards open source. Please follow this general format: Project Name Project Description Proj",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48035307",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
+          "summary": "Watch now | 🎙️Sendbird’s CEO turned AI adoption into a product, including quests, token tiers, and a marketing team that ships live swag stores in a day with zero engineers",
+          "source": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Who's Still Hand Coding?",
+          "summary": "I've been on sabbatical for the past year, but I've done some non-profit projects and I've vibecoded some tools. I'm still trying to figure out a balance between hand coding and LLM assisted coding. Where did you land? W",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48035224",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Is writing code by hand still a necessary skill for developers?",
+          "summary": "TLDR - My question is: For experienced developers, is writing code from scratch still a core skill worth learning? Is the future of development just using AI agents to orchestrate everything and just reviewing, debugging",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48034901",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: The death of software development as a job?",
-          "summary": "A lot of programmers I read here and elsewhere say LLM isn't going to change much, some say LLM is just going to make them more productive, and some even say not using LLM makes you some sort of relic. What is not debate",
+          "title": "YC demo video should be about usecase or product walkthrough?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48034686 Points: 3 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030736",
+          "url": "https://news.ycombinator.com/item?id=48034686",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What Are You Building?",
-          "summary": "Curious what everyone is working on Comments URL: https://news.ycombinator.com/item?id=48030703 Points: 4 # Comments: 1",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030703",
+          "title": "Microsoft Earnings, Apple Earnings",
+          "summary": "Microsoft unveils its new agentic business model, and Apple confronts shortages in memory and chips even as the Mac benefits from AI.",
+          "source": "Stratechery",
+          "url": "https://stratechery.com/2026/microsoft-earnings-apple-earnings/",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Codex's precision and attention to detail is *crazy* when set up correctly",
-          "summary": "Lately I've been working on a Tower Defense game with Codex, in part to learn how game development works and in part to see how far I can get using just Codex, no manual coding at all. I've got my AGENTS md & my CODESTYL",
+          "title": "Ask HN: Does your employer require everyone to use the same AI model?",
+          "summary": "I am consulting (software engineering) at two companies. At one company everyone is free to choose their preferred AI model while at the other the company imposes a strict AI policy that limits use to a single model. Fro",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48030302",
+          "url": "https://news.ycombinator.com/item?id=48034252",
           "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": ".de TLD Issue Solved",
-          "summary": "works again with chrome Comments URL: https://news.ycombinator.com/item?id=48029559 Points: 10 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48029559",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Is it just me, or is UTC an hour behind",
-          "summary": "This is probably just me, but I feel like all my clocks that are connected to the internet are a minute ahead of the ones that aren't. Any thoughts? Comments URL: https://news.ycombinator.com/item?id=48028137 Points: 1 #",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48028137",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How are you handling real-time data triggers for LLM agents?",
-          "summary": "Most LLM agents are reactive, they only work when you prompt them. I’m interested in how people are building \"proactive\" agents that trigger based on external world events (webhooks, sensor data, price changes). Are you ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48028035",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How do you and your partner decide what to do on date nights?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48027503 Points: 5 # Comments: 3",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48027503",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ML Engineer",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48027357 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48027357",
-          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-05-06T04:29:49.343Z"
+  "generatedAt": "2026-05-06T13:46:45.443Z"
 }
