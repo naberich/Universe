@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+          "title": "Internet Archive Switzerland",
           "src": "Hacker News Front",
-          "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml"
+          "url": "https://internetarchive.ch/"
         },
         {
           "idx": 2,
-          "title": "AI开始接管年轻人的「精神自留地」",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3801461350702855?f=rss"
+          "title": "The game that makes me actually want to exercise",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer"
         },
         {
           "idx": 3,
-          "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3801398177324550?f=rss"
+          "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led"
         },
         {
           "idx": 4,
-          "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3797202414820359?f=rss"
+          "title": "Forking the Web",
+          "src": "Hacker News Front",
+          "url": "https://dillo-browser.org/lab/web-fork/"
         },
         {
           "idx": 5,
-          "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3801348046151428?f=rss"
+          "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+          "src": "少数派",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260509"
         }
       ],
       "aiBrief": {
@@ -96,11 +96,83 @@
       },
       "news": [
         {
-          "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-          "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml Comments URL: https://news.ycombinator.com/item?id=48071496 Points: 17 # Comments: 1",
+          "title": "Internet Archive Switzerland",
+          "summary": "Article URL: https://internetarchive.ch/ Comments URL: https://news.ycombinator.com/item?id=48074265 Points: 35 # Comments: 9",
           "source": "Hacker News Front",
-          "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+          "url": "https://internetarchive.ch/",
           "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The game that makes me actually want to exercise",
+          "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old edition",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+          "summary": "RGB LED technology might be everyone’s focus for TV tech in 2026, but quantum-dot TVs still might be the better choice. | Photo by John Higgins / The Verge At the Los Angeles Convention Center, two 85-inch TVs sat side b",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Forking the Web",
+          "summary": "Article URL: https://dillo-browser.org/lab/web-fork/ Comments URL: https://news.ycombinator.com/item?id=48074087 Points: 13 # Comments: 2",
+          "source": "Hacker News Front",
+          "url": "https://dillo-browser.org/lab/web-fork/",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面",
+          "summary": "Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "source": "少数派",
+          "url": "https://sspai.com/prime/story/inside-release-notes-260509",
+          "time": "2h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Killswitch: Per-function short-circuit mitigation primitive",
+          "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/ Comments URL: https://news.ycombinator.com/item?id=48073394 Points: 15 # Comments: 2",
+          "source": "Hacker News Front",
+          "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "LLMs Corrupt Your Documents When You Delegate",
+          "summary": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 14 # Comments: 2",
+          "source": "Hacker News Front",
+          "url": "https://arxiv.org/abs/2604.15597",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感",
+          "summary": "母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/98902",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+          "summary": "Examples: https://thariqs.github.io/html-effectiveness/ Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven... Comments URL: https://news.ycombinator.com/item?id=48071940 Points: 207 # Comments: 119",
+          "source": "Hacker News Front",
+          "url": "https://twitter.com/trq212/status/2052809885763747935",
+          "time": "8h ago",
           "tags": [],
           "market": "欧美"
         },
@@ -109,81 +181,9 @@
           "summary": "撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂“",
           "source": "36氪",
           "url": "https://36kr.com/p/3801461350702855?f=rss",
-          "time": "1h ago",
+          "time": "10h ago",
           "tags": [],
           "market": "中国"
-        },
-        {
-          "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
-          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3801398177324550?f=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
-          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3797202414820359?f=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
-          "summary": "整理｜Kris 今日热点导览 香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局 油价上调，加满一箱92号汽油将多花12.5元 钱江摩托否认“围剿张雪机车” 30条中日航线4月取消全部航班 SpaceX冲刺上市，资本开支飙升数百亿 TOP3大新闻 DeepSeek拟募资最高500亿元 据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。(财联社) “全国销冠”任晓敏被刑拘，泰康人寿回应 5月7日，",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3801348046151428?f=rss",
-          "time": "3h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-          "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "San Francisco’s housing market has lost its mind",
-          "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-          "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging Comments URL: https://news.ycombinator.com/item?id=48069192 Points: 190 # Comments: 126",
-          "source": "Hacker News Front",
-          "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-          "time": "6h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Non-determinism is an issue with patching CVEs",
-          "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/ Comments URL: https://news.ycombinator.com/item?id=48068947 Points: 41 # Comments: 12",
-          "source": "Hacker News Front",
-          "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-          "time": "6h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Mux (YC W16) Is Hiring",
-          "summary": "Article URL: https://www.mux.com/jobs Comments URL: https://news.ycombinator.com/item?id=48068732 Points: 0 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://www.mux.com/jobs",
-          "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
         }
       ]
     },
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-          "time": "10h ago",
+          "time": "19h ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/allenai/emo",
-          "time": "12h ago",
+          "time": "20h ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/running-codex-safely",
-          "time": "15h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/parloa",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Photo London 2026",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/73dccd7d-b360-4689-8c23-7dbca9f39ff6"
+          "title": "Australia’s populist One Nation scores first-ever lower house victory",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "The comeback of Narendra Modi",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/f5bdb653-d60b-4ca2-921f-6e33f551fb0d"
+          "title": "Putin denounces Nato at scaled back Victory Day parade",
+          "src": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 3,
-          "title": "WHSmith’s new owner makes a contrarian bet on the UK high street",
+          "title": "Greens score some urban goals but undershoot the wider target",
           "src": "FT World",
-          "url": "https://www.ft.com/content/732cd961-4684-493e-8a8e-fd37e50a7f57"
+          "url": "https://www.ft.com/content/6b42a131-aca6-43d3-872b-6cfb54134217"
         },
         {
           "idx": 4,
-          "title": "The Iranian ‘mosquito fleet’ taking on the mighty US Navy",
+          "title": "Gordon Brown returns to No 10 as global finance envoy",
           "src": "FT World",
-          "url": "https://www.ft.com/content/2e95626f-2f95-470d-9854-5d272d0ef7cd"
+          "url": "https://www.ft.com/content/cffaea68-799f-4dff-8906-6b94661c198b"
         },
         {
           "idx": 5,
-          "title": "Trump, Xi and the bid for a ‘grand bargain’ between superpowers",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/5f510d2e-63b9-42e3-8c3e-46f4f5c72e68"
+          "title": "Displaced Lebanese children keep learning amid displacement",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Photo London 2026",
-          "summary": "To mark this year’s fair, we invited four artists to show us the capital through their eyes. Plus: feminist photo collage, Thomas Duffield on father-son relations and an interview with The Photographer’s Gallery director",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/73dccd7d-b360-4689-8c23-7dbca9f39ff6",
+          "title": "Australia’s populist One Nation scores first-ever lower house victory",
+          "summary": "The far-right party's winning candidate, David Farley, has advocated for stricter migration and farming reforms.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The comeback of Narendra Modi",
-          "summary": "Two years after losing its majority, the BJP is now taking opposition strongholds and paving the prime minister’s way for a fourth term in office",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/f5bdb653-d60b-4ca2-921f-6e33f551fb0d",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "WHSmith’s new owner makes a contrarian bet on the UK high street",
-          "summary": "Modella Capital plans to cut as many as 150 WHSmith stores out of the 480 it acquired and bring in new goods and services",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/732cd961-4684-493e-8a8e-fd37e50a7f57",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The Iranian ‘mosquito fleet’ taking on the mighty US Navy",
-          "summary": "Tehran’s hundreds of small, fast boats are vital in maintaining its stranglehold on global energy markets",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/2e95626f-2f95-470d-9854-5d272d0ef7cd",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump, Xi and the bid for a ‘grand bargain’ between superpowers",
-          "summary": "As the US president prepares to visit Beijing, America no longer holds all the cards — but China knows it must tread carefully",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/5f510d2e-63b9-42e3-8c3e-46f4f5c72e68",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Inside the White House’s most inscrutable marriage. (No not that one)",
-          "summary": "What the union of Stephen and Katie Miller says about Maga world",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/b94b7bab-7bef-4c65-b609-7710648c2085",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "We are living in the age of the middleman",
-          "summary": "Special envoys are the new peacemakers precisely because they are unburdened by diplomatic expertise",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/390fae73-8228-46a5-8583-7214fb4d2e1f",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Goldman’s big board bet",
-          "summary": "Bank’s management committee has swelled to a much larger size than those of its competitors",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/f56f5a44-1864-4803-a7d8-429d597e901c",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "China’s exports jump 14% ahead of Xi-Trump summit",
-          "summary": "Robust trade surplus shows US tariffs have done little to dent the country’s manufacturing prowess",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/c1a18633-09d4-4875-878a-8a06c157a8ab",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iran accuses US of 'reckless military adventure'",
-          "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+          "title": "Putin denounces Nato at scaled back Victory Day parade",
+          "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
           "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Greens score some urban goals but undershoot the wider target",
+          "summary": "Insurgents celebrate mayoral success in Hackney and Lewisham but fall short in large swaths of London",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/6b42a131-aca6-43d3-872b-6cfb54134217",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Gordon Brown returns to No 10 as global finance envoy",
+          "summary": "British prime minister’s team has been accused of lacking experience and depth",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/cffaea68-799f-4dff-8906-6b94661c198b",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Displaced Lebanese children keep learning amid displacement",
+          "summary": "A school in Sidon is now home to displaced families from southern Lebanon, but classes are still running.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US wildfires surge to decade high as drought fuels fears of brutal summer",
+          "summary": "Areas that historically have not been considered fire-prone are now experiencing more wildfires",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/4da67942-bf3f-44c1-b40f-8db98dec1301",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US military kills two people in new eastern Pacific Ocean attack",
+          "summary": "The killings mark the third attack in May alone by the US military in the eastern Pacific Ocean.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Gaza at the Venice Biennale: Where language falls short, threads take over",
+          "summary": "I co-commissioned the Gaza Genocide Tapestry which will be displayed at the Venice Biennale. Here's the story behind it.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/5/9/gaza-at-the-venice-biennale-where-language-falls-short-threads-take-over?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Scaled-back Victory Day parade held in Moscow",
+          "summary": "Russia marks downsized Victory Day parade as Putin pledges victory in Ukraine 'special military operation'.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Tory election losses cast doubt on Badenoch’s confidence",
+          "summary": "The wide electoral appeal that once propelled Boris Johnson to power continues to be dismantled by Reform UK and the Liberal Democrats",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/b1108564-5fce-4a0e-b29a-0237f2a9264b",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "China Gold Output Falls as Investor Demand for Bars, Coins Jumps",
+          "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-gold-output-falls-as-investor-demand-for-bars-coins-jumps"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace"
         },
         {
           "idx": 2,
-          "title": "Brazil ends IPO drought as Iran war fuels stock market rally",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/5550f96d-fd10-421e-af53-bdfe597db00a"
+          "title": "‘It’s Not Because They Want to Be Friends’: Brilliant on What to Expect From the Trump-Xi Summit",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-09/what-to-expect-from-the-trump-xi-summit-video"
         },
         {
           "idx": 3,
-          "title": "Middle East crisis day 70 as it happened: US strikes 2 Iranian-flagged oil tankers as ceasefire comes under new strains",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f"
+          "title": "UK Moves Warship to Middle East for Potential Hormuz Mission",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission"
         },
         {
           "idx": 4,
-          "title": "Colombia Inflation Ticks Up, Fueling Case For Renewed Rate Hikes",
+          "title": "Moving people and money across borders",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/colombia-inflation-ticks-up-fueling-case-for-renewed-rate-hikes"
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-09/moving-people-and-money-across-borders"
         },
         {
           "idx": 5,
-          "title": "Wall Street Week | High Stakes Summit, New Zealand's Brain Drain, Stablecoin Adoption, Bubbly Water",
+          "title": "Crypto Industry Throws Lap-Dance Party in Middle of Bear Market",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-08/wall-street-week-high-stakes-summit-talent-troubles-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/crypto-industry-throws-lap-dance-party-in-middle-of-bear-market"
         }
       ],
       "aiBrief": {
@@ -806,91 +806,91 @@
       },
       "news": [
         {
-          "title": "China Gold Output Falls as Investor Demand for Bars, Coins Jumps",
-          "summary": "China’s gold output declined in the first quarter of 2026, weighed down by safety inspections and production suspensions, according to data from the China Gold Association.",
+          "title": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
+          "summary": "The world has burned through oil inventories at a record speed as the Iran war throttles flows from the Persian Gulf, eating into the very buffer that protects against supply shocks.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-gold-output-falls-as-investor-demand-for-bars-coins-jumps",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Brazil ends IPO drought as Iran war fuels stock market rally",
-          "summary": "São Paulo exchange emerges as indirect beneficiary of turmoil in the Gulf",
+          "title": "‘It’s Not Because They Want to Be Friends’: Brilliant on What to Expect From the Trump-Xi Summit",
+          "summary": "The postponed Beijing summit between President Trump and China’s President Xi is back on the agenda, delayed by a war in Iran that has reshaped the dynamic between the two leaders. After a tumultuous 2025 that saw tariff",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-09/what-to-expect-from-the-trump-xi-summit-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "UK Moves Warship to Middle East for Potential Hormuz Mission",
+          "summary": "The UK will deploy one of its warships to the Middle East as part of planning for a European-led mission to escort ships through the Strait of Hormuz once there’s a stable ceasefire.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Moving people and money across borders",
+          "summary": "What happens when intellectual capital flows across borders?",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-09/moving-people-and-money-across-borders",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Crypto Industry Throws Lap-Dance Party in Middle of Bear Market",
+          "summary": "People lined up for blocks and waited for hours to get into the E11even club in Miami on Wednesday night, with several men talking excitedly about the lap dances they planned to get inside.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/crypto-industry-throws-lap-dance-party-in-middle-of-bear-market",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Iowa pension chief resigns amid concerns about performance figures",
+          "summary": "Former risk officer alleges executives used misleading benchmarks and risk measures to improve results",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/5550f96d-fd10-421e-af53-bdfe597db00a",
+          "url": "https://www.ft.com/content/ab28b1fe-f213-4f20-830f-617359892ac3",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Middle East crisis day 70 as it happened: US strikes 2 Iranian-flagged oil tankers as ceasefire comes under new strains",
-          "summary": "Donald Trump says truce between Washington and Tehran still in effect after the two sides exchanged fire",
+          "title": "The narrow ceasefire rally",
+          "summary": "Little love for the S&P 500’s gains",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f",
+          "url": "https://www.ft.com/content/abd225f9-4b02-4eb1-b25c-5f0dca4b690f",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Lagarde Says ECB Torn Between Risk of Acting Too Early, Too Late",
+          "summary": "The European Central Bank is carefully weighing its response to the Iran war and the impact on inflation to ensure it acts neither prematurely nor too late, President Christine Lagarde told Spain’s RTVE.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/lagarde-says-ecb-torn-between-risk-of-acting-too-early-too-late",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Colombia Inflation Ticks Up, Fueling Case For Renewed Rate Hikes",
-          "summary": "Colombian inflation sped up in April, moving further away from the central bank’s target and raising the likelihood it may need to resume interest rate hikes after an unexpected pause late last month.",
+          "title": "Goldman Sees Fed Cuts Delayed to December, March on Inflation",
+          "summary": "Goldman Sachs said it pushed back expectations for the US Federal Reserve’s next two rate cuts by one quarter to December 2026 and March 2027 as inflation proves stickier than anticipated.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/colombia-inflation-ticks-up-fueling-case-for-renewed-rate-hikes",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Wall Street Week | High Stakes Summit, New Zealand's Brain Drain, Stablecoin Adoption, Bubbly Water",
-          "summary": "This week, China thinks it's cracked the code on Trump heading into a summit in Beijing. And, what happens when a country's best and brightest travel overseas and stop coming back? Plus, the most useful thing about crypt",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-08/wall-street-week-high-stakes-summit-talent-troubles-video",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Florida, Louisiana-Focused Insurer Safepoint Files for IPO",
-          "summary": "Safepoint Holdings Inc., an underwriter of specialty homeowners and commercial insurance, filed for an initial public offering, disclosing growing profit and revenue.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/florida-and-louisiana-focused-insurer-safepoint-files-for-us-ipo",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Pakistan to Receive $1.32 Billion as IMF Board Approves Tranches",
-          "summary": "Pakistan will receive about $1.32 billion after the International Monetary Fund Board approved loan tranches under existing facilities, boosting the country’s ability to shield its economy from increased global risks.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/pakistan-to-receive-1-32-billion-as-imf-board-approves-tranches",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Winning the Degenerate Economy: Masters in Business with Howard Lindzon",
-          "summary": "Barry speaks with Howard Lindzon, co-founder and CEO of StockTwits, and founder and managing partner at Social Leverage. They discuss his outlook for venture capital investing including what he sees as potentially profit",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-08/winning-the-degenerate-economy-howard-lindzon-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-09/goldman-sees-fed-cuts-delayed-to-december-march-on-inflation",
           "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "BlackRock Readies Launch of Two Tokenized Money-Market Funds",
-          "summary": "BlackRock Inc. is planning to launch two money-market funds built for investors who hold their cash in stablecoins, not bank accounts, a sign the world’s largest asset manager sees a durable customer base in the digital-",
+          "title": "Iran War Drives Africa’s Fertilizer Crisis",
+          "summary": "Africa’s farmland could be worth $1 trillion, but global shocks are raising the stakes. Fertilizer shortages, rising costs and supply disruptions are putting pressure on food production across the continent. (Source: Blo",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Honeywell-Backed Computing Firm Quantinuum Files for US IPO",
-          "summary": "Quantinuum Inc., a quantum computing company backed by Honeywell International Inc., filed for a US initial public offering, capitalizing on enthusiasm around quantum computing stocks.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-08/honeywell-backed-computing-firm-quantinuum-files-for-us-ipo",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-09/iran-war-drives-africa-s-fertilizer-crisis",
           "time": "7h ago",
           "tags": [],
           "market": null
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 04:18 UTC",
+      "updated": "Updated 12:55 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "SoC 2 has no real edge",
+          "title": "Ask HN: What is the underlying stack behind multi-agent platforms?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48071158"
+          "url": "https://news.ycombinator.com/item?id=48074184"
         },
         {
           "idx": 2,
-          "title": "Ask Hacker News: AI music with feedback",
+          "title": "What if new proofs are included in LLM training so LLM rediscover it?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48070959"
+          "url": "https://news.ycombinator.com/item?id=48073325"
         },
         {
           "idx": 3,
-          "title": "Tell HN: \"Epstein files\" is getting buried by deliberate suppresion-propaganda",
+          "title": "Was Back‑to‑Office Enforced?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48070895"
+          "url": "https://news.ycombinator.com/item?id=48073244"
         },
         {
           "idx": 4,
-          "title": "Ask HN: What are the most joyful AI projects you've seen?",
+          "title": "Claude's signup workflow is terrible",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48070363"
+          "url": "https://news.ycombinator.com/item?id=48072594"
         },
         {
           "idx": 5,
-          "title": "Ask HN: How to do a Personal health audit",
+          "title": "Rough Week Thank God for Fridays",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48070002"
+          "url": "https://news.ycombinator.com/item?id=48071692"
         }
       ],
       "aiBrief": {
@@ -983,11 +983,56 @@
       },
       "news": [
         {
+          "title": "Ask HN: What is the underlying stack behind multi-agent platforms?",
+          "summary": "Recently, I am seeing lots of startups with multi-agent platform, where you can create your own agent template, attach tools and run it reliably. Which frameworks, platforms are you using for these kind of multi-agentic ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48074184",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What if new proofs are included in LLM training so LLM rediscover it?",
+          "summary": "If I were to sell the power of LLMs as powerful research agents, and if I had enough money, I could think about introducing little \"gems\" into the training set of LLM so that my model would be able to discover new theore",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48073325",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Was Back‑to‑Office Enforced?",
+          "summary": "Or did it end up being more of a suggestion in practice? What was your experience? Comments URL: https://news.ycombinator.com/item?id=48073244 Points: 1 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48073244",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Claude's signup workflow is terrible",
+          "summary": "I used claude via the web console for a while, then thought I'd want to go for higher limits, and API usage. I click and end up here https://claude.ai/upgrade. Does it say anything about API or not? Does it explain what ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48072594",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Rough Week Thank God for Fridays",
+          "summary": "This has been a really rough week. Thank God for Fridays. Stay well friends. Comments URL: https://news.ycombinator.com/item?id=48071692 Points: 3 # Comments: 1",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48071692",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "SoC 2 has no real edge",
           "summary": "lets face it - almost every company has soc 2, so its not gonna magically unlock your dream deal. there have been new certifications ai agents which a lot of fortune 500 companies are trusting - would you get your agents",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48071158",
-          "time": "1h ago",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
@@ -996,16 +1041,7 @@
           "summary": "Can someone make streaming music that changes based on input from the phone, or does this already exist and what app? Comments URL: https://news.ycombinator.com/item?id=48070959 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48070959",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Tell HN: \"Epstein files\" is getting buried by deliberate suppresion-propaganda",
-          "summary": "Here is the google trends over 90 days, you'll see the Iran war, and now gimmicks like \"UFO files\" work successfully to suppress the scandal: https://trends.google.com/trends/explore?date=today%203-m&q=epstein%20files On",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48070895",
-          "time": "2h ago",
+          "time": "11h ago",
           "tags": [],
           "market": null
         },
@@ -1014,7 +1050,7 @@
           "summary": "A lot of AI work I see is about automation, agents, productivity. Useful, but not exactly joyful. What AI projects have you built, used, or seen that felt genuinely fun, playful, weird, beautiful, or surprising? Comments",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48070363",
-          "time": "4h ago",
+          "time": "12h ago",
           "tags": [],
           "market": null
         },
@@ -1023,7 +1059,7 @@
           "summary": "In light of recent concerns about hantavirus, but more importantly, the outbreaks of measles popping up because the antivaxxer movement is growing, I am wondering, what, as an adult can I do day to day to ensure that my ",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48070002",
-          "time": "4h ago",
+          "time": "13h ago",
           "tags": [],
           "market": null
         },
@@ -1032,43 +1068,7 @@
           "summary": "TDD has become the default workflow for AI coding agents, for a lot of reasons. Something I recently started doing that I really like is, when building a feature, I write acceptance criteria and then I make sure the agen",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48069781",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "So that's why they call it \"YOLO-mode\"",
-          "summary": "And why it probably isn't a good idea to use it. Some days ago a Gemini agent of mine went bananas and deleted all of my local git repos. Thanks to Timeshift the damage was revertable (mainly) and so I only traded 1-2 ho",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48069567",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What kind of computer language will LLM use?",
-          "summary": "I think in little time LLM will have the capability to translate easily code from one computer language to another, for example the LLM could \"think\" in prolog + lisp instead python. LLM will be able to write thousands o",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48069336",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How do you find good personal blogs on Google nowadays?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48068913 Points: 4 # Comments: 7",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48068913",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How do you find good personal blogs on Google nowadays?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48068910 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48068910",
-          "time": "6h ago",
+          "time": "13h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-05-09T04:18:52.290Z"
+  "generatedAt": "2026-05-09T12:55:41.696Z"
 }
