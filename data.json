@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 13:26 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "My yard is dying, so I made an app for that",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing"
+          "title": "How did Atari apply side art to Arcade Cabinets?",
+          "src": "Hacker News Front",
+          "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/"
         },
         {
           "idx": 2,
-          "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security"
+          "title": "The Birth and Death of JavaScript (2014)",
+          "src": "Hacker News Front",
+          "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript"
         },
         {
           "idx": 3,
-          "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-          "src": "Hacker News Front",
-          "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"
+          "title": "Solid-state batteries still aren’t ready, but gels are",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state"
         },
         {
           "idx": 4,
-          "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+          "title": "How to Earn a Billion Dollars",
           "src": "Hacker News Front",
-          "url": "https://hallucinate.site/gallery"
+          "url": "https://paulgraham.com/earn.html"
         },
         {
           "idx": 5,
-          "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+          "title": "Don't trust large context windows",
           "src": "Hacker News Front",
-          "url": "https://github.com/tensorzero/tensorzero"
+          "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "My yard is dying, so I made an app for that",
-          "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+          "title": "How did Atari apply side art to Arcade Cabinets?",
+          "summary": "Article URL: https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/ Comments URL: https://news.ycombinator.com/item?id=48526793 Points: 5 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-          "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Ant",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+          "title": "The Birth and Death of JavaScript (2014)",
+          "summary": "Article URL: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript Comments URL: https://news.ycombinator.com/item?id=48526661 Points: 39 # Comments: 11",
+          "source": "Hacker News Front",
+          "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-          "summary": "Article URL: https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko Comments URL: https://news.ycombinator.com/item?id=48516573 Points: 10 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-          "summary": "Article URL: https://hallucinate.site/gallery Comments URL: https://news.ycombinator.com/item?id=48516510 Points: 34 # Comments: 9",
-          "source": "Hacker News Front",
-          "url": "https://hallucinate.site/gallery",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 17 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
-          "summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he n",
+          "title": "Solid-state batteries still aren’t ready, but gels are",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscriber",
           "source": "The Verge",
-          "url": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+          "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-          "summary": "iPhone owners are getting real, native AI photo editing for the first time. The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "A better way to manage all your screenshots",
-          "summary": "Hi, friends! Welcome to Installer No. 132, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy soccer, and also you can read all the old editions at the Installer homepage.) This",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-          "summary": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500 Comments URL: https://news.ycombinator.com/item?id=48516379 Points: 69 # Comments: 13",
+          "title": "How to Earn a Billion Dollars",
+          "summary": "Article URL: https://paulgraham.com/earn.html Comments URL: https://news.ycombinator.com/item?id=48526360 Points: 47 # Comments: 94",
           "source": "Hacker News Front",
-          "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+          "url": "https://paulgraham.com/earn.html",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Labor Is a Market Distortion, we need VAT and UBI",
-          "summary": "Article URL: https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/ Comments URL: https://news.ycombinator.com/item?id=48516053 Points: 6 # Comments: 3",
+          "title": "Don't trust large context windows",
+          "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows Comments URL: https://news.ycombinator.com/item?id=48524620 Points: 162 # Comments: 111",
           "source": "Hacker News Front",
-          "url": "https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/",
-          "time": "2h ago",
+          "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+          "summary": "文｜贺哲馨 编辑｜乔芊 36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。 大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing ",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3850942780838912?f=rss",
+          "time": "7h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Tribblix: The retro Illumos distribution",
+          "summary": "Article URL: http://tribblix.org/ Comments URL: https://news.ycombinator.com/item?id=48524434 Points: 55 # Comments: 20",
+          "source": "Hacker News Front",
+          "url": "http://tribblix.org/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Phoenix LiveView 1.2",
+          "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released Comments URL: https://news.ycombinator.com/item?id=48524293 Points: 149 # Comments: 40",
+          "source": "Hacker News Front",
+          "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Pac-Man, but you're the ghost",
+          "summary": "Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost Comments URL: https://news.ycombinator.com/item?id=48524135 Points: 140 # Comments: 61",
+          "source": "Hacker News Front",
+          "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+          "time": "9h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+          "summary": "Article URL: https://sqltoerdiagram.com/ Comments URL: https://news.ycombinator.com/item?id=48523992 Points: 252 # Comments: 47",
+          "source": "Hacker News Front",
+          "url": "https://sqltoerdiagram.com/",
+          "time": "9h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 13:27 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/allenai/olmo-eval",
-          "time": "21h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/preply",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/bbva",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/openai-to-acquire-ona",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -341,7 +341,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/torch-mlp-fusion",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -350,7 +350,7 @@
           "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/openai-on-oracle-cloud",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -359,7 +359,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 13:27 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
+          "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss"
+          "title": "Far-right activist Tommy Robinson detained under terrorism legislation",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/0dacdbb2-d457-407b-9ee5-c1fc5481ef8c"
         },
         {
           "idx": 3,
-          "title": "Deadly military plane crash in India’s Assam",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss"
+          "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+          "src": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 4,
-          "title": "Pakistan says US-Iran deal to be signed within 24 hours",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f"
+          "title": "Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/14/spain-vs-cape-verde-world-cup-predictions-lamine-yamal-schedule-how-to-watch?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Switzerland to vote on plan to cap population at 10 million",
+          "title": "Swiss voters reject 10 million population cap, early projections say",
           "src": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-          "summary": "Henry Ensher says the US–Iran agreement is not a final settlement but only the start of a process that can go wrong.",
+          "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+          "summary": "Israel attacked Beirut again in an apparent attempt to test and derail an agreement.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-          "summary": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Deadly military plane crash in India’s Assam",
-          "summary": "A military transport aircraft has crashed in India’s northeastern Assam during a routine fligh.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Pakistan says US-Iran deal to be signed within 24 hours",
-          "summary": "Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says",
+          "title": "Far-right activist Tommy Robinson detained under terrorism legislation",
+          "summary": "Detention at Heathrow airport follows a week of violent racial tensions in the UK",
           "source": "FT World",
-          "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/0dacdbb2-d457-407b-9ee5-c1fc5481ef8c",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Switzerland to vote on plan to cap population at 10 million",
-          "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+          "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+          "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Football: Why is India struggling to play the world’s most popular sport?",
-          "summary": "As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to compete in the world's most popular sport",
+          "title": "Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch",
+          "summary": "Pre-tournament favourites Spain open their Group H campaign with a match against World Cup debutants Cape Verde.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/101-east/2026/6/13/football-why-is-india-struggling-to-play-the-worlds-most-popular-sport?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/6/14/spain-vs-cape-verde-world-cup-predictions-lamine-yamal-schedule-how-to-watch?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Five Indian air force staff killed as transport plane crashes in Assam",
-          "summary": "Antonov An-32 transport plane crashed near Assam’s Jorhat region, air forces says.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss",
+          "title": "Swiss voters reject 10 million population cap, early projections say",
+          "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Violence erupts at anti-government protest in DR Congo",
-          "summary": "Hundreds demonstrated in Kinshasa against constitutional changes.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo?traffic_source=rss",
+          "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+          "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-          "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+          "title": "World Cup 2026: Biggest takeaways from Brazil-Morocco group match",
+          "summary": "Vinicius Junior scored a brilliant goal to dig Brazil out of trouble after Ismael Saibari had put Morocco ahead.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/14/world-cup-2026-biggest-takeaways-from-brazil-morocco-group-match?traffic_source=rss",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
-          "summary": "After a disappointing home World Cup in 2022, Asian Cup champions Qatar are looking for better showing in North America.",
+          "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+          "summary": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-vs-switzerland-world-cup-group-match-preview-team-news-lineups?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What should investors expect from Kevin Warsh’s first Fed meeting?",
+          "summary": "Market Questions is the FT’s guide to the week ahead",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/c17424f0-244e-45f4-b1d7-a0ffcebc4cf0",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Electrification jumps up corporate agenda after energy crisis, survey finds",
+          "summary": "Security and cost concerns elevate business push for overhaul of power systems",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/336ad7d4-15b3-4033-9ff3-3ae03111eb1f",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -549,38 +549,38 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 13:27 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
           "idx": 1,
+          "title": "微视频｜“新”在中国",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm"
+        },
+        {
+          "idx": 2,
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm"
+        },
+        {
+          "idx": 3,
           "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
           "src": "新华社要闻",
           "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm"
         },
         {
-          "idx": 2,
+          "idx": 4,
           "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
           "src": "新华社要闻",
           "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm"
         },
         {
-          "idx": 3,
+          "idx": 5,
           "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
           "src": "新华社要闻",
           "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
-        },
-        {
-          "idx": 4,
-          "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
-          "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm"
-        },
-        {
-          "idx": 5,
-          "title": "关于BQ.1，你需要知道的几件事——",
-          "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm"
         }
       ],
       "aiBrief": {
@@ -627,6 +627,24 @@
         ]
       },
       "news": [
+        {
+          "title": "微视频｜“新”在中国",
+          "summary": "新时代的中国，日新月异。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
         {
           "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
           "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
@@ -698,24 +716,6 @@
           "time": "recent",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "微视频｜“新”在中国",
-          "summary": "新时代的中国，日新月异。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "疫情防控措施优化 各地复商复市进行时",
-          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 13:27 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
+          "title": "Compressed Timeline for US-Iran Nuclear Deal Could Lead to Later Unraveling",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef"
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/timeline-for-us-iran-deal-could-lead-to-later-unraveling-video"
         },
         {
           "idx": 2,
-          "title": "Can Tech Justify a Trillion-Dollar Valuation?",
+          "title": "Switzerland Narrowly Rejects Proposal to Cap Population at 10 Million",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/switzerland-narrowly-rejects-proposal-to-cap-population-video"
         },
         {
           "idx": 3,
-          "title": "We’re All on Starship Elon Now",
+          "title": "Diverging Rate Paths Force Reshuffle in Emerging-Market Bets",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk"
+          "url": "https://www.bloomberg.com/news/articles/2026-06-14/diverging-rate-paths-force-reshuffle-in-emerging-market-bets"
         },
         {
           "idx": 4,
-          "title": "Google Search Gets AI Makeover, and the World Cup Comes to North America",
+          "title": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america"
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/g7-summit-overshadowed-by-uncertain-us-iran-deal-video"
         },
         {
           "idx": 5,
-          "title": "There’s a Bug in the Gold Trade as Miners Move Like Meme Stocks",
+          "title": "Knicks Clinch NBA Title Sparking Citywide Celebration",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/there-s-a-bug-in-the-gold-trade-as-miners-move-like-meme-stocks"
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/knicks-clinch-nba-title-sparking-citywide-celebration-video"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Brazil’s World Cup Grilling Tradition Challenged by Beef Prices",
-          "summary": "Soaring prices for the world’s largest beef producer, Brazil, mean households will be buying less red meat when they gather to watch Brazil’s first game of the FIFA World Cup this Saturday.",
+          "title": "Compressed Timeline for US-Iran Nuclear Deal Could Lead to Later Unraveling",
+          "summary": "Principal Deputy National Security Advisor under President Biden and former State Department Chief of Staff under President Obama Jonathan Finer joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/timeline-for-us-iran-deal-could-lead-to-later-unraveling-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Can Tech Justify a Trillion-Dollar Valuation?",
-          "summary": "The long-awaited SpaceX IPO tested the limits of modern capital markets, and is expected to be followed by OpenAI and Anthropic. Investor Steve Rattner says the scale of the valuations and fundraising involved is unprece",
+          "title": "Switzerland Narrowly Rejects Proposal to Cap Population at 10 Million",
+          "summary": "Switzerland recently held a referendum on a proposal to limit the country's population to 10 million, which was narrowly rejected by voters with a 55 to 45 percent margin. The proposal, primarily backed by the right-wing",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/switzerland-narrowly-rejects-proposal-to-cap-population-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Diverging Rate Paths Force Reshuffle in Emerging-Market Bets",
+          "summary": "A growing divergence in interest-rate outlooks is forcing emerging-market investors to reshuffle bets.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-14/diverging-rate-paths-force-reshuffle-in-emerging-market-bets",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "G7 Summit Overshadowed by Uncertain US-Iran Deal",
+          "summary": "The G7 summit, typically focused on global economic and trade cooperation, is heavily influenced this year by ongoing peace talks between the US and Iran. Speculation about a potential deal has raised expectations of a s",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/g7-summit-overshadowed-by-uncertain-us-iran-deal-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "We’re All on Starship Elon Now",
-          "summary": "SpaceX is coming to a mutual fund or 401(k) near you.",
+          "title": "Knicks Clinch NBA Title Sparking Citywide Celebration",
+          "summary": "After 53 years, the New York Knicks have won the NBA championship and ended one of the longest championship droughts for a major sports franchise. Bloomberg Business of Sports Reporter Vanessa Perdomo and Sportico Deputy",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-14/knicks-clinch-nba-title-sparking-citywide-celebration-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Google Search Gets AI Makeover, and the World Cup Comes to North America",
-          "summary": "It’s been a big week for Google and the World Cup.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "There’s a Bug in the Gold Trade as Miners Move Like Meme Stocks",
-          "summary": "Brian Laks has been investing in gold stocks for over a decade. To the deep-value investor, they serve as a hedge against volatility in the rest of his portfolio, a haven during geopolitical uncertainty and deliver stead",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/there-s-a-bug-in-the-gold-trade-as-miners-move-like-meme-stocks",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Private Markets Titans Fight Back in Court of Public Opinion",
-          "summary": "Private capital’s problems are more perception than reality.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/private-markets-titans-fight-back-in-court-of-public-opinion",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Top Motorcycle Exporter China Urges Industry to Curb Price Wars",
-          "summary": "China’s motorcycle industry trade body urged companies across the sector to curb price wars and focus on higher-quality growth, warning that imitation and a flood of similar products are squeezing profits and hurting the",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/top-motorcycle-exporter-china-urges-industry-to-curb-price-wars",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Investment firms join Donald Trump’s $100bn race for Venezuelan oil",
-          "summary": "Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue assets in Latin American nation.",
+          "title": "Electrification jumps up corporate agenda after energy crisis, survey finds",
+          "summary": "Security and cost concerns elevate business push for overhaul of power systems",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab",
+          "url": "https://www.ft.com/content/336ad7d4-15b3-4033-9ff3-3ae03111eb1f",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Switzerland Looks to Have Rejected 10-Million Population Cap",
+          "summary": "Switzerland looks set to reject capping its population at 10 million people, a radical proposal that would have marked an escalation in efforts by wealthy nations around the world to put strict curbs on immigration.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
-          "summary": "Bankers convinced investors to believe in a sci-fi strategy, overlook steep losses and hand full control to Elon Musk",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b",
-          "time": "3h ago",
+          "title": "Wall Street Is Gaining Access to New Catastrophe Models to Help Predict Wars",
+          "summary": "As Wall Street races to incorporate war into its risk scenarios, the same people modeling natural catastrophes are now adapting their methodology to help investors, banks and insurers predict military conflicts.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-14/wall-street-gets-access-to-new-catastrophe-models-to-predict-wars",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Chart of the Week: US headline inflation matters to consumers",
-          "summary": "The headline annual inflation rate hit 4.2%, the highest since April 2023",
+          "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+          "summary": "Friday’s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia’s richest men.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Wall Street digests record fundraising haul as AI race intensifies",
+          "summary": "SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/20509c5d-e995-4670-83f5-d3d705671ee1",
-          "time": "3h ago",
+          "url": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
+          "time": "9h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 13:27 UTC",
+      "updated": "Updated 13:29 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: What is the biggest pain of shipping improved versions of agents safely",
-          "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48516654"
+          "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+          "src": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful"
         },
         {
           "idx": 2,
-          "title": "Lost my first crypto from key theft from a project linked wallet",
+          "title": "Ask HN: Why is the best way to find a job as a Software Engineer in 2026?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48515763"
+          "url": "https://news.ycombinator.com/item?id=48526518"
         },
         {
           "idx": 3,
-          "title": "Ask HN: How to deal with App Store rejections?",
+          "title": "Ask HN: Why does Deno Deploy block /wp-content?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48515589"
+          "url": "https://news.ycombinator.com/item?id=48525910"
         },
         {
           "idx": 4,
-          "title": "What if we legally required politicians to work regular jobs 2 months a year?",
+          "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514921"
+          "url": "https://news.ycombinator.com/item?id=48525718"
         },
         {
           "idx": 5,
-          "title": "Ask HN: What's the biggest problem you ever prevented?",
+          "title": "Ask HN: How you reduce token usage when using Cline/Continue in VSCode?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514788"
+          "url": "https://news.ycombinator.com/item?id=48525711"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: What is the biggest pain of shipping improved versions of agents safely",
-          "summary": "How do you guys manage shipping newer versions of agents to prod safely? What are the steps to move it to v2, are those safe to proceed or there are any challenges in those? Do you use any platform for that? Comments URL",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48516654",
+          "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+          "summary": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids",
+          "source": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Lost my first crypto from key theft from a project linked wallet",
-          "summary": "Ive been using ClaudeCode, Im not complaining, it could of been any AI, but maybe this new Mythos/Fable release has massively increased attack surface area? Anyone else noticed this or was I just crap at opsec with my ke",
+          "title": "Ask HN: Why is the best way to find a job as a Software Engineer in 2026?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48526518 Points: 2 # Comments: 5",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48515763",
+          "url": "https://news.ycombinator.com/item?id=48526518",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Why does Deno Deploy block /wp-content?",
+          "summary": "For a website, which I once migrated from WordPress to Deno Deploy, I have a simple redirect in place for any files below /wp-content/. After I discovered that this redirect does not work anymore, I spent several hours s",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48525910",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How to deal with App Store rejections?",
-          "summary": "My first submission to the Apple App Store has been rejected due to \"Spam\". According to the guidelines: \" - Submitting an app with the same source code or assets as other apps already submitted to the App Store - Creati",
+          "title": "Ask HN: What problem did AI create at your company that didn't exist before?",
+          "summary": "I've worked on a few AI-heavy projects recently and it feels like every team develops a new headache that didn't exist before AI. What was it for your company?What did you end up doing about it? Comments URL: https://new",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48515589",
+          "url": "https://news.ycombinator.com/item?id=48525718",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "What if we legally required politicians to work regular jobs 2 months a year?",
-          "summary": "I was just wondering if some variation of this idea has been tried before? Comments URL: https://news.ycombinator.com/item?id=48514921 Points: 5 # Comments: 5",
+          "title": "Ask HN: How you reduce token usage when using Cline/Continue in VSCode?",
+          "summary": "Hi HN, I have recently started using cline but i noticed it consumes so much token. So, i would like to know what steps you take to make sure that less token is consumed!? Comments URL: https://news.ycombinator.com/item?",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514921",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=48525711",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What's the biggest problem you ever prevented?",
-          "summary": "There was a recent thread [1] on a paper titled \" Nobody ever gets credit for fixing problems that never happened\". I've seen good collections of postmortems before [2], but prevent problems are severely underreported, b",
+          "title": "Ask HN: What is your blog and why should I read it?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48525151 Points: 7 # Comments: 5",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514788",
+          "url": "https://news.ycombinator.com/item?id=48525151",
           "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Automoderated by AI Alternative to Reddit",
-          "summary": "I'm so sick of human reddit moderation. Thinking about creating automoderated forums by AI. Would that interesting to any of you too? It would work like this: LLM evaluates every post and comment General rules always in ",
+          "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
+          "summary": "This submission is a tale about how I launched an unlimited LLM provider to about 60 hyped people on the waitlist, then immediately served them a fully dysfunctional death-loop model, and how most people, very reasonably",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514684",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What Are You Working On?",
-          "summary": "It's been a while since the last thread, and I am a curious bee. Comments URL: https://news.ycombinator.com/item?id=48514461 Points: 30 # Comments: 64",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514461",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Are Mythos and Fable pure marketing?",
-          "summary": "I’ve been using LLMs for some time now and they’ve been getting better and better but the difference between each version has gotten smaller and smaller (it seems like to me). Anthropic made Mythos super exclusive becaus",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48514311",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What features do you miss in Google Docs for desktop?",
-          "summary": "(I don't work at Google. I just hope some Googler reads our answers and submits feature requests based on them :-) I often write documents in Google Docs on my laptop. Every time I open a new document, I change the font ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48513703",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Realistic Superintelligence",
-          "summary": "Most of us are skeptics. HN, mostly, is composed of “most of us”, so it’s not surprising to see skeptics here. Perhaps the HAL level superintelligence parroted by CEOs is to IPO at a trillion dollars. So let’s instead ta",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48513331",
+          "url": "https://news.ycombinator.com/item?id=48524387",
           "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Do you buy the domain first or build first then domain?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48524134 Points: 1 # Comments: 2",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48524134",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What old technology do you still use regularly?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48523881 Points: 3 # Comments: 10",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48523881",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What Should I Build?",
+          "summary": "Let's say I am a large-language model with access to a large amount of compute and data storage, internet access, and full control of a linux system with the ability to read, write, and execute any files. I want to do so",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48523480",
+          "time": "11h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-06-13T13:27:07.879Z"
+  "generatedAt": "2026-06-14T13:29:41.697Z"
 }
