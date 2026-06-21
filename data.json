@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Toy Story has the right take on tech",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer"
+          "title": "Building Reliable Agentic AI Systems",
+          "src": "Hacker News Front",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
         },
         {
           "idx": 2,
-          "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+          "title": "Your brain was never designed for this much bad news",
           "src": "Hacker News Front",
-          "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
         },
         {
           "idx": 3,
-          "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+          "title": "Armstrong Effect",
           "src": "Hacker News Front",
-          "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating"
+          "url": "https://en.wikipedia.org/wiki/Armstrong_effect"
         },
         {
           "idx": 4,
-          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-          "src": "Hacker News Front",
-          "url": "https://bootimus.com"
+          "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+          "src": "少数派",
+          "url": "https://sspai.com/post/110972"
         },
         {
           "idx": 5,
-          "title": "CSSQuake",
+          "title": "Developers don't understand CORS (2019)",
           "src": "Hacker News Front",
-          "url": "https://cssquake.com/"
+          "url": "https://fosterelli.co/developers-dont-understand-cors"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Toy Story has the right take on tech",
-          "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer hom",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+          "title": "Building Reliable Agentic AI Systems",
+          "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 10 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-          "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones Comments URL: https://news.ycombinator.com/item?id=48608591 Points: 14 # Comments",
+          "title": "Your brain was never designed for this much bad news",
+          "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm Comments URL: https://news.ycombinator.com/item?id=48615569 Points: 52 # Comments: 22",
           "source": "Hacker News Front",
-          "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-          "summary": "Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating Comments URL: https://news.ycombinator.com/item?id=48608503 Points: 40 # C",
+          "title": "Armstrong Effect",
+          "summary": "Article URL: https://en.wikipedia.org/wiki/Armstrong_effect Comments URL: https://news.ycombinator.com/item?id=48615529 Points: 9 # Comments: 1",
           "source": "Hacker News Front",
-          "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+          "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-          "summary": "Article URL: https://bootimus.com Comments URL: https://news.ycombinator.com/item?id=48608255 Points: 9 # Comments: 1",
+          "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+          "summary": "Agent 和人一样离不开闭环。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/110972",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Developers don't understand CORS (2019)",
+          "summary": "Article URL: https://fosterelli.co/developers-dont-understand-cors Comments URL: https://news.ycombinator.com/item?id=48614844 Points: 79 # Comments: 32",
           "source": "Hacker News Front",
-          "url": "https://bootimus.com",
-          "time": "2h ago",
+          "url": "https://fosterelli.co/developers-dont-understand-cors",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "CSSQuake",
-          "summary": "Article URL: https://cssquake.com/ Comments URL: https://news.ycombinator.com/item?id=48608223 Points: 111 # Comments: 20",
+          "title": "When I reject AI code even if it works",
+          "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 116 # Comments: 69",
           "source": "Hacker News Front",
-          "url": "https://cssquake.com/",
-          "time": "2h ago",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
-          "summary": "I’m a fan. I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan f",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+          "title": "Project Fetch: Phase Two",
+          "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two Comments URL: https://news.ycombinator.com/item?id=48614311 Points: 50 # Comments: 18",
+          "source": "Hacker News Front",
+          "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Epoll vs. io_uring in Linux",
+          "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/ Comments URL: https://news.ycombinator.com/item?id=48613872 Points: 105 # Comments: 30",
+          "source": "Hacker News Front",
+          "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
           "time": "6h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "I Stored a Website in a Favicon",
-          "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 193 # Comments: 75",
+          "title": "Renting a sewing machine from the library",
+          "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 177 # Comments: 90",
           "source": "Hacker News Front",
-          "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Slow breathing modulates brain function and risk behavior",
+          "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 124 # Comments: 26",
+          "source": "Hacker News Front",
+          "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
           "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Satellite reveals immense scale of GPS signal tampering",
-          "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering Comments URL: https://news.ycombinator.com/item?id=48606271 Po",
-          "source": "Hacker News Front",
-          "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-          "time": "9h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Where to Find the Colors Your Screen Can't Show You",
-          "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ Comments URL: https://news.ycombinator.com/item?id=48606140 Points: 225 # Comments: 53",
-          "source": "Hacker News Front",
-          "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-          "time": "9h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "LLMs Are Complicated Now",
-          "summary": "Article URL: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/ Comments URL: https://news.ycombinator.com/item?id=48605355 Points: 67 # Comments: 15",
-          "source": "Hacker News Front",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-          "time": "12h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/is-it-agentic-enough",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/allenai/molmomotion",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+          "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
           "src": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "Where do Iran’s political factions stand on the US peace deal?",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss"
+          "title": "What Andy Burnham’s Westminster past reveals about him",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/b3ab783e-e4d6-494d-b45c-7d58b0fdee7a"
         },
         {
           "idx": 3,
-          "title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss"
+          "title": "SpaceX handed lowest possible ESG rating by MSCI",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3"
         },
         {
           "idx": 4,
-          "title": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss"
+          "title": "Workers are emerging as the next big AI logjam",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c"
         },
         {
           "idx": 5,
-          "title": "Nine people in critical condition after fatal UK train collision",
+          "title": "Holiday bookings surge in markets hit by Iran crisis",
           "src": "FT World",
-          "url": "https://www.ft.com/content/5a5c77ba-ae31-43ff-9e97-d8d1b4e768d8"
+          "url": "https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-          "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+          "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+          "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
+          "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Where do Iran’s political factions stand on the US peace deal?",
-          "summary": "Iran's rival political camps are locking horns over a memorandum of understanding with the US.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
-          "summary": "In Lubra, Nepal’s last Bon village, climate-driven floods are destroying homes and land, endangering ancient traditions.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-          "summary": "UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Nine people in critical condition after fatal UK train collision",
-          "summary": "Investigators work to establish what led to the first deadly rail accident in nearly two years",
+          "title": "What Andy Burnham’s Westminster past reveals about him",
+          "summary": "‘King of the North’ started as a New Labour special adviser before serving in Corbyn’s shadow cabinet",
           "source": "FT World",
-          "url": "https://www.ft.com/content/5a5c77ba-ae31-43ff-9e97-d8d1b4e768d8",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Top Ukrainian officials return Polish awards in WWII dispute",
-          "summary": "The move comes after Ukrainian President Volodymyr Zelenskyy was stripped of Poland's top honour.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
-          "summary": "Spain face Saudi Arabia in need of a win to take control of Group H. Can they rediscover their attacking edge?",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff?traffic_source=rss",
+          "url": "https://www.ft.com/content/b3ab783e-e4d6-494d-b45c-7d58b0fdee7a",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why Tunisia’s renewable energy strategy is facing resistance",
-          "summary": "Giving concessions for renewable projects to foreign corporations will not help solve the country’s energy crisis.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
-          "summary": "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Moussa, ending a five-year trial.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Hizbollah and Israel clashes threaten reopening of Strait of Hormuz",
-          "summary": "Exchange of fire underlines fragility of the latest ceasefire",
+          "title": "SpaceX handed lowest possible ESG rating by MSCI",
+          "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine",
           "source": "FT World",
-          "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
+          "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Workers are emerging as the next big AI logjam",
+          "summary": "Big Tech wakes up to the need for brawn and crafts skills to build and maintain data centres",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Holiday bookings surge in markets hit by Iran crisis",
+          "summary": "Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/4b389a01-871f-4d6f-85f1-6263a51dd5cb",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Putin’s war machine sputters in drone age",
+          "summary": "Ukraine’s innovations cut into Russia’s manpower advantage",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Bangladesh ‘doubles down’ on push to claw back missing $230bn",
+          "summary": "Finance minister and central banker say they are negotiating to recoup lost assets in the UK, US, UAE and Singapore",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/fd96c7fd-e0eb-4cd1-9371-fd6f3f369db5",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The divisive white candidate for mayor of Africa’s richest city",
+          "summary": "Veteran South African opposition politician Helen Zille says she is the one who can halt Johannesburg’s decay",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/d3826c3c-9881-4e04-aeca-7c2098c7b101",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy",
+          "summary": "Ariane 6 rocket programme gets help from Jeff Bezos as it seeks to emerge from US rival’s shadow",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/40f95cf8-3a94-4a57-a02c-f67023b9447f",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How easily could Britain rejoin the EU?",
+          "summary": "As Labour toys with the idea, Brussels warns it needs clear commitment and will not accept cherry-picking",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Trump Seeks Iran Offramp",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-20/trump-seeks-iran-offramp-video"
+          "title": "SpaceX handed lowest possible ESG rating by MSCI",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3"
         },
         {
           "idx": 2,
-          "title": "US-Iran Delegations Expected in Switzerland",
+          "title": "Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-06-21/swiss-voters-set-to-reject-stricter-neutrality-early-poll-shows"
         },
         {
           "idx": 3,
-          "title": "Iraq Tells Oil Fields to Start Lifting Output After US-Iran Deal",
+          "title": "A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/iraq-tells-oil-fields-to-start-lifting-output-after-us-iran-deal"
+          "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino"
         },
         {
           "idx": 4,
-          "title": "The new chair effect",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/fdc6c97e-c1a2-4c28-8147-a58ec6231082"
+          "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/fed-s-favorite-gauge-is-seen-showing-faster-inflation"
         },
         {
           "idx": 5,
-          "title": "How Substack Creators Are Covering This Strange Markets Era",
+          "title": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era"
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Trump Seeks Iran Offramp",
-          "summary": "President and Founder of Eurasia Group and GZERO Media Ian Bremmer joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss how in the face of the United States failing to achieve any of the war goals ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-20/trump-seeks-iran-offramp-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US-Iran Delegations Expected in Switzerland",
-          "summary": "Three days after President Trump signed an agreement with Iran, Switzerland is playing host for diplomatic talks with the United States, Iran, Pakistan, and Qatar in attendance. The Associated Press's International Corre",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iraq Tells Oil Fields to Start Lifting Output After US-Iran Deal",
-          "summary": "Iraq asked operators of five major oil fields to boost production to prewar levels, targeting output of over 3 million barrels a day, after US-Iran deal that aims to fully reopen the Strait of Hormuz.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/iraq-tells-oil-fields-to-start-lifting-output-after-us-iran-deal",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The new chair effect",
-          "summary": "First impressions, priced in",
+          "title": "SpaceX handed lowest possible ESG rating by MSCI",
+          "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/fdc6c97e-c1a2-4c28-8147-a58ec6231082",
-          "time": "3h ago",
+          "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "How Substack Creators Are Covering This Strange Markets Era",
-          "summary": "A panel with James van Geelen, Sam Ro, and Jasmine Sun.",
+          "title": "Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows",
+          "summary": "Swiss voters are set to reject an initiative to strengthen neutrality, according to an early poll, a result that could support keeping up sanctions against Russia.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-21/swiss-voters-set-to-reject-stricter-neutrality-early-poll-shows",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "A Stock Trader’s Guide to Navigating a Rare ‘Super El Niño’",
+          "summary": "As concerns over the Iran war recede, stock investors are confronting another threat: climate risk, which is prompting a reassessment of bets across sectors from agriculture to insurance.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
           "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Odd Lots: How Substack Creators Are Thinking About AI (Podcast)",
-          "summary": "We closed out our New York live show on May 28 with a panel that featured three of our favorite Substackers: James van Geelen of Citrini Research, Sam Ro, founder of The TKer, and journalist Jasmine Sun. They’ve all been",
+          "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+          "summary": "The latest update to the Federal Reserve’s favorite inflation gauge is unlikely to challenge a growing consensus at the US central bank around the need for interest-rate hikes this year.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/audio/2026-06-20/odd-lots-how-substack-creators-are-thinking-about-ai-podcast",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Europe’s Stocks Are Back in the Lead as Stagflation Risks Ease",
-          "summary": "The prospect of peace in the Middle East is setting up European stocks for a standout second half, as investors bet on stronger economic growth and easing inflation.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/europe-s-stocks-are-back-in-the-lead-as-stagflation-risks-ease",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Burnham May Yet Rewrite UK Fiscal Playbook If He Becomes PM",
-          "summary": "After Andy Burnham took a giant leap toward becoming the UK’s next prime minister, focus is turning to how the team he’s assembling could shape the country’s economic policies.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/burnham-may-yet-rewrite-uk-fiscal-rules-if-he-becomes-premier",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Germany’s Weirdest Debt Market May No Longer Be Safe Haven for Lenders",
-          "summary": "After storied Austrian motorcycle manufacturer KTM AG presented an insolvency plan to creditors last year, several of them convened a video conference to discuss a counter-proposal. More than 100 parties joined, but none",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/germany-s-weirdest-debt-market-may-no-longer-be-safe-haven-for-lenders",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ships Told They Can Use South Hormuz Route With Signals On",
-          "summary": "Ships can consider transiting the Strait of Hormuz along the southern route at any time of day with their signals on, a key naval information group said, as energy traders and shipowners look for clues about how quickly ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ships-can-use-hormuz-southern-route-with-signals-on-jmic-says",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/fed-s-favorite-gauge-is-seen-showing-faster-inflation",
           "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
+          "summary": "President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in the country’s bigge",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Pointed News Quiz | Bonds, Streaming, Yogurt",
+          "summary": "David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloombe",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-20/pointed-news-quiz-bonds-streaming-yogurt-video",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "History Repeating Itself in America",
+          "summary": "As the nation prepares to celebrate its 250th anniversary, we can look back and see the recurring themes and lessons in American history. Host of the podcast History That Doesn't Suck and professor at Utah Valley Univers",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-20/history-repeating-itself-in-america-video",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Iran Sanctions Losing Efficacy",
+          "summary": "In 2015, sanctions played a key role in bringing Iran to the negotiating table but now warfare has been the primary tool. Oliver Wyman Partner and Global Anti-Financial Crime Practice Leader Daniel Tannebaum explains to ",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-20/iran-sanctions-losing-efficacy-video",
+          "time": "14h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Rep. Warnock: Wall Street vs Main Street",
+          "summary": "Senator Raphael Warnock (D-GA) tells David Gura on Bloomberg This Weekend that the focus of the country should be on how local Main Streets are doing, not on well Wall Street is doing. Watch part one of Senator Warnock's",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-20/rep-warnock-wall-street-vs-main-street-video",
+          "time": "14h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Netanyahu Faces MOU Blow",
+          "summary": "While the United States and Iran have a new Memorandum of Understanding (MOU), Israel has been sidelined from the talks. Bloomberg News' Jerusalem reporter Dan Williams explains the embarrassing situation for Prime Minis",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-20/netanyahu-faces-mou-blow-video",
+          "time": "14h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 13:28 UTC",
+      "updated": "Updated 05:53 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Changes that cut our LLM pipeline costs more than model-switching did",
+          "title": "Ask HN: How to get ideas for space startups?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608978"
+          "url": "https://news.ycombinator.com/item?id=48615627"
         },
         {
           "idx": 2,
-          "title": "Convert your landing pages to powerful visuals for social media",
+          "title": "Ask HN: Is Claude Code with Fable 5 worth switching back from Codex?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608835"
+          "url": "https://news.ycombinator.com/item?id=48615488"
         },
         {
           "idx": 3,
-          "title": "Acton – A Better Term for the Observer in Quantum Mechanics",
+          "title": "Ask HN: What are some good benchmarks for different agent harnesses?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608715"
+          "url": "https://news.ycombinator.com/item?id=48614029"
         },
         {
           "idx": 4,
-          "title": "Advent of recorded music is much like a BEC",
+          "title": "Ask HN: After you ship a feature, what happens to what you learned?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608578"
+          "url": "https://news.ycombinator.com/item?id=48613999"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Need advice on distributing and testing what I build",
+          "title": "Ask HN: What are your parameter count estimates for Opus 4.8 and GPT-5.5?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608491"
+          "url": "https://news.ycombinator.com/item?id=48613944"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Changes that cut our LLM pipeline costs more than model-switching did",
-          "summary": "I have been building multiple LLM systems and for our Organization biggest cost savings weren't from prompt-wordsmithing or model switchings. Sharing useful to anyone watching their token bill : 1) JSON → TOON for struct",
+          "title": "Ask HN: How to get ideas for space startups?",
+          "summary": "My idea of space has been limited to telecommunication & space exploration. I came across Varda Space Industries, which takes advantage of microgravity to manufacture drugs in ways that would otherwise be extremely diffi",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608978",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Convert your landing pages to powerful visuals for social media",
-          "summary": "launchreel.dev Being a solo founder focused on building products, content creation to evangelize was not easy. Making videos meant taking screen captures, writing captions, converting text to voice overs and assembling t",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608835",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Acton – A Better Term for the Observer in Quantum Mechanics",
-          "summary": "The standard term \"observer particle\" feels passive, misleading, and incomplete. I propose ACTON as a replacement — an active, irreversible physical interaction that permanently stamps non-fungible reality onto the unive",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608715",
+          "url": "https://news.ycombinator.com/item?id=48615627",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Advent of recorded music is much like a BEC",
-          "summary": "I observe that the advent of recorded music resembles a Bose-Einstein Condensate. Before recorded music, live performance operated like a fluid, high entropy gas phase. Every performance was a localized, unrepeatable wav",
+          "title": "Ask HN: Is Claude Code with Fable 5 worth switching back from Codex?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48615488 Points: 5 # Comments: 1",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608578",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Need advice on distributing and testing what I build",
-          "summary": "I have been building stuff (applications/websites) lately but am having a tough time figuring out how to best distribute and test what I build. I wanted to ask you guys how you do it - what are some of the best practices",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608491",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "BudgetZen",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48608131 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48608131",
+          "url": "https://news.ycombinator.com/item?id=48615488",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Fli -a tiny (18KB) easy to read file listing tool. Rust no_std and Libc",
-          "summary": "Why? I have access to my raspberry pi zero via ssh only. As for me it is hard to differentiate types of files etc based on colors, I needed something more readable and clear like picture/icon or emoji as I ended up with ",
+          "title": "Ask HN: What are some good benchmarks for different agent harnesses?",
+          "summary": "Other than terminal bench which doesnt quite map to my experience, what are some other benchmarks to see how different models do in different harnesses? Comments URL: https://news.ycombinator.com/item?id=48614029 Points:",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48607567",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "\"Show HN\" \" alternative to dark matter, tested across galaxy to cosmic scales\"",
-          "summary": "Papers (Zenodo, permanent DOIs): CSC — Chronostatic Cyclic Cosmology (foundational framework): https://doi.org/10.5281/zenodo.20454510 GRC — Galaxy Rotation Curves, SPARC test: https://doi.org/10.5281/zenodo.20693032 Hor",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48607507",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Will we start seeing tools for LLM use?",
-          "summary": "Many projects and addons exists to reduce the verbosity on standard bash / git /npm etc. Commands that agents pass regularly as tools to LLMs. (eg. rtk, headroom, lean-ctx). Tool output compression does yield good token ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48606997",
+          "url": "https://news.ycombinator.com/item?id=48614029",
           "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Using OPA/Rego to secure MCP tool execution. Does it make sense?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48606728 Points: 5 # Comments: 0",
+          "title": "Ask HN: After you ship a feature, what happens to what you learned?",
+          "summary": "Closing in on my second decade of programming, and I keep noticing how often we step on the same rake. A change breaks something, and in hindsight we already had the information to prevent it, we just never surfaced it. ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48606728",
+          "url": "https://news.ycombinator.com/item?id=48613999",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What are your parameter count estimates for Opus 4.8 and GPT-5.5?",
+          "summary": "I know frontier labs keep their flagship sizes top secret, but I'm curious what the current engineering consensus is. Comments URL: https://news.ycombinator.com/item?id=48613944 Points: 2 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48613944",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Are You Depressed?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48613522 Points: 2 # Comments: 1",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48613522",
           "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Never coded before, now shipping websites to clients via single prompt",
+          "summary": "Claude Plans, then executes, then uses Cloudflare to push secrets, files - into a production link. All from 1-2 prompts. This is someone who never coded. I don’t think the market has truly priced in the effect this has o",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48613373",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Why are desktop AI apps so heavy?",
+          "summary": "I mean they are text apps basically, they should be flying on modern PCs that can do close to a trillion ops per second. Inference is done elsewhere, so what's the deal? Comments URL: https://news.ycombinator.com/item?id",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48613162",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What is your #1 practical lesson or \"aha\" moment from coding with AI?",
+          "summary": "As a developer, my own workflow has shifted completely over the last few months, but I feel like I'm still uncovering the best patterns. I'm curious about the specific inflection points where things clicked for others. W",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48613022",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Do you use Claude Code, Codex, or something else?",
+          "summary": "Do you use Claude Code, Codex, or a different vibe coding/agentic engineering tool for most of your work? Why? Comments URL: https://news.ycombinator.com/item?id=48612758 Points: 5 # Comments: 17",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48612758",
+          "time": "9h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-06-20T13:28:52.459Z"
+  "generatedAt": "2026-06-21T05:53:23.966Z"
 }
