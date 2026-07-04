@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 04:27 UTC",
+      "updated": "Updated 13:00 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3880770270425089?f=rss"
+          "title": "The square-ish phone that I wanted to love",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on"
         },
         {
           "idx": 2,
-          "title": "Synthesis is harder than analysis",
-          "src": "Hacker News Front",
-          "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/"
+          "title": "The fanfiction community is at war with AI — and itself",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
         },
         {
           "idx": 3,
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3880629882679301?f=rss"
+          "title": "Astrophysicists Puzzle over Webb’s New Universe",
+          "src": "Hacker News Front",
+          "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
         },
         {
           "idx": 4,
-          "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3879991356157952?f=rss"
+          "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+          "src": "少数派",
+          "url": "https://sspai.com/post/111645"
         },
         {
           "idx": 5,
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "src": "Hacker News Front",
-          "url": "https://mrbruh.com/msicenter/"
+          "title": "Qi fan fan",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works"
         }
       ],
       "aiBrief": {
@@ -96,94 +96,94 @@
       },
       "news": [
         {
+          "title": "The square-ish phone that I wanted to love",
+          "summary": "A great concept that falls flat. The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The fanfiction community is at war with AI — and itself",
+          "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movement has kicked off, with the aim to root o",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Astrophysicists Puzzle over Webb’s New Universe",
+          "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/ Comments URL: https://news.ycombinator.com/item?id=48783948 Points: 59 # Comments: 19",
+          "source": "Hacker News Front",
+          "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+          "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111645",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Qi fan fan",
+          "summary": "The Kuxiu D5 keeps Qi-compatible phones cool while also charging a watch and earbuds. Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The bottleneck might be the air in the room",
+          "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/ Comments URL: https://news.ycombinator.com/item?id=48783117 Points: 444 # Comments: 273",
+          "source": "Hacker News Front",
+          "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "David Beazley – Programming Courses",
+          "summary": "Article URL: https://www.dabeaz.com/courses.html Comments URL: https://news.ycombinator.com/item?id=48782918 Points: 113 # Comments: 31",
+          "source": "Hacker News Front",
+          "url": "https://www.dabeaz.com/courses.html",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Agentic coding notes from Galapagos Island",
+          "summary": "Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post Comments URL: https://news.ycombinator.com/item?id=48782671 Points: 119 # Comments: 59",
+          "source": "Hacker News Front",
+          "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Maybe you should learn something",
+          "summary": "Article URL: https://www.marginalia.nu/log/a_135_learn/ Comments URL: https://news.ycombinator.com/item?id=48782435 Points: 171 # Comments: 71",
+          "source": "Hacker News Front",
+          "url": "https://www.marginalia.nu/log/a_135_learn/",
+          "time": "9h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
           "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
           "summary": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园",
           "source": "36氪",
           "url": "https://36kr.com/p/3880770270425089?f=rss",
-          "time": "1h ago",
+          "time": "9h ago",
           "tags": [],
           "market": "中国"
-        },
-        {
-          "title": "Synthesis is harder than analysis",
-          "summary": "Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/ Comments URL: https://news.ycombinator.com/item?id=48782219 Points: 12 # Comments: 4",
-          "source": "Hacker News Front",
-          "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-          "summary": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3880629882679301?f=rss",
-          "time": "3h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-          "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3879991356157952?f=rss",
-          "time": "3h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "summary": "Article URL: https://mrbruh.com/msicenter/ Comments URL: https://news.ycombinator.com/item?id=48781688 Points: 45 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://mrbruh.com/msicenter/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "summary": "Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/ Comments URL: https://news.ycombinator.com/item?id=48781597 Points: 44 # Comments: 4",
-          "source": "Hacker News Front",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Scientists discover guidance system for migratory songbirds",
-          "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/ Comments URL: https://news.ycombinator.com/item?id=48781274 Points: 18 # Comm",
-          "source": "Hacker News Front",
-          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
-          "time": "4h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Odin, Wikipedia and engagement farming",
-          "summary": "Article URL: https://katamari64.se/posts/2026/odin-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=48781196 Points: 72 # Comments: 80",
-          "source": "Hacker News Front",
-          "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The circuit that lets your brain think and see",
-          "summary": "Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see Comments URL: https://news.ycombinator.com/item?id=48780996 Points: 61 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "summary": "Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/ Comments URL: https://news.ycombinator.com/item?id=48780913 Points: 55 # Comments: 12",
-          "source": "Hacker News Front",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
         }
       ]
     },
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 04:28 UTC",
+      "updated": "Updated 13:01 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-          "time": "14h ago",
+          "time": "22h ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-          "time": "3d ago",
+          "time": "4d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 04:28 UTC",
+      "updated": "Updated 13:01 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c"
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "Iran begins public mourning for Ayatollah killed in February",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+          "title": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "America at 250: What does the US see when it looks in the mirror?",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/7512ee34-e874-4d50-9048-c9d9db43d526"
+          "title": "Firefighters race to contain flames in northeastern Spain",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "UK farmers embrace regenerative methods after heatwave shock",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc"
+          "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Good vibes are masking a reset in markets",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/4787fc56-f131-4b3b-b90d-c22aa68e7354"
+          "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US",
-          "summary": "President kicked off 250th anniversary events with a preview of a likely line of attack against Democrats in coming elections",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iran begins public mourning for Ayatollah killed in February",
-          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "America at 250: What does the US see when it looks in the mirror?",
-          "summary": "As a nation of impossible ambition celebrates its founding, a special edition of FT Weekend Magazine asks writers, thinkers and leaders to reflect on the first 250 years",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/7512ee34-e874-4d50-9048-c9d9db43d526",
+          "title": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+          "summary": "Pontiff urges people in Europe and US to welcome and assist migrants during symbolic trip to Italy’s frontier island.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "UK farmers embrace regenerative methods after heatwave shock",
-          "summary": "High temperatures are leading farmers to cut out chemicals and intensive ploughing to improve soil quality so it retains water",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+          "title": "Firefighters race to contain flames in northeastern Spain",
+          "summary": "Firefighters race to contain flames in northeastern Spain",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Good vibes are masking a reset in markets",
-          "summary": "Stock market returns should not distract investors from the new AI trade taking hold",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/4787fc56-f131-4b3b-b90d-c22aa68e7354",
-          "time": "just now",
+          "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
+          "summary": "The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "It is investors vs gamers as Sony ditches discs",
-          "summary": "The move is being presented as zeitgeist rather than greedy rent extraction",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/67d7afb6-117c-4335-815c-72000e610b65",
-          "time": "just now",
+          "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+          "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Lack of data puts England’s ‘mansion tax’ valuations at risk",
-          "summary": "Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/eba7bbd5-56de-48af-8bf8-17a8c740eded",
-          "time": "just now",
+          "title": "Thousands protest in Germany as far-right AfD party meets",
+          "summary": "Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Burnham must learn from Starmer’s failures on UK growth",
-          "summary": "There are moments to prioritise other things, but after 18 years of historic economic slowdown this is not one of them",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/2a04cc0e-ed9f-46cd-8974-99745ef8df7a",
-          "time": "just now",
+          "title": "America250: How the US heatwave will affect Fourth of July celebrations",
+          "summary": "From Washington to LA, how plans to mark the United States' 250th anniversary could be disrupted by extreme heat.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Taylor Swift and the allure of a big celebrity wedding",
-          "summary": "These magnificent displays of vulgarity and vainglory offer a glimpse into the most private of worlds",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/29908876-f56c-457b-bf0f-00a25f2a3048",
-          "time": "just now",
+          "title": "In South Asia, America has stopped asking India for permission",
+          "summary": "Washington has started dealing with regional players without regard for Indian interests.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/7/4/in-south-asia-america-has-stopped-asking-india-for-permission?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Zack Polanski opposed to Greens debating ‘Zionism is Racism’ motion",
-          "summary": "Senior party figures worry that tensions over Israel could overshadow annual party conference",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/b48b6405-5ac7-440f-a4f4-3b40b70a217a",
-          "time": "just now",
+          "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+          "summary": "Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+          "summary": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 04:28 UTC",
+      "updated": "Updated 13:01 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 04:28 UTC",
+      "updated": "Updated 13:01 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "China Coast Guard Rotates Patrol Task Group East of Taiwan",
+          "title": "NY Harbor Celebration Echoes Revolutionary Past",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-coast-guard-rotates-patrol-task-group-east-of-taiwan"
+          "url": "https://www.bloomberg.com/news/videos/2026-07-04/ny-harbor-celebration-echoes-revolutionary-past-video"
         },
         {
           "idx": 2,
-          "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
+          "title": "Oil’s Stunning Reversal Rekindles Fears of a Global Glut",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis"
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-s-stunning-reversal-rekindles-fears-of-a-global-glut"
         },
         {
           "idx": 3,
-          "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
+          "title": "Celebrating '250' from the USS Intrepid",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-07-04/celebrating-250-from-the-uss-intrepid-video"
         },
         {
           "idx": 4,
-          "title": "1ドル200円の円安シナリオ、高市氏インド訪問、W杯ピッチ外の戦い─1週間のニュース5選",
+          "title": "Credit Agricole Increases BPM Stake, Boosting Position in Italy",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-03/THMAC1KGCTG300"
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy"
         },
         {
           "idx": 5,
-          "title": "Top investors oppose £5.7bn private equity bid for energy group DCC",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/8e4e34b4-f41d-4e79-9151-7f28bc66650a"
+          "title": "Tankers U-Turn in Hormuz, With Some Taking Iran Route Instead",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/tankers-u-turn-in-hormuz-with-some-taking-iran-route-instead"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "China Coast Guard Rotates Patrol Task Group East of Taiwan",
-          "summary": "China’s coast guard said a task group led by the CCGS Xiushan vessel replaced the team headed by CCGS Daishan on Saturday to continue law-enforcement patrols in waters east of Taiwan.",
+          "title": "NY Harbor Celebration Echoes Revolutionary Past",
+          "summary": "For the 4th of July, the Hudson River will have both the Naval Review and 'Sail4th 250' to celebrate the day. Retired Naval Vice Admiral Kevin Donegan and Rutgers University-Newark Professor of American Studies Robert Sn",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-coast-guard-rotates-patrol-task-group-east-of-taiwan",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-04/ny-harbor-celebration-echoes-revolutionary-past-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Oil’s Stunning Reversal Rekindles Fears of a Global Glut",
+          "summary": "Oil prices are tumbling everywhere as a peace deal between the US and Iran unleashes a wave of supply, overwhelming demand from buyers and prompting talk of a glut of crude.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-s-stunning-reversal-rekindles-fears-of-a-global-glut",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Celebrating '250' from the USS Intrepid",
+          "summary": "To celebrate America's 250th anniversary Bloomberg This Weekend is broadcasting Live from across New York City. David Gura and Christina Ruffini are on the Hudson River at the Intrepid Museum for the Navy Review and the ",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-04/celebrating-250-from-the-uss-intrepid-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Energy-Hungry Asia Is Already Drawing Lessons From Iran Crisis",
-          "summary": "There is still no lasting peace deal in the Persian Gulf, but energy-hungry Asia is already drawing energy lessons from four months of war: it needs bigger buffers, a greater diversity of fossil-fuel suppliers, and a bet",
+          "title": "Credit Agricole Increases BPM Stake, Boosting Position in Italy",
+          "summary": "",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-04/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis",
-          "time": "4h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
-          "summary": "Barry sits down with Kleiner Perkins Partner, Mamoon Hamid. They discuss Mamoon's thoughts on the AI revolution and his approach to early AI investing. Mamoon also breaks down how he became an early investor in giants li",
+          "title": "Tankers U-Turn in Hormuz, With Some Taking Iran Route Instead",
+          "summary": "At least eight ships attempting to leave the Persian Gulf along the Omani coast turned back between Friday and Saturday, in the latest sign that reopening the Strait of Hormuz remains complicated by Iran seeking to asser",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
-          "time": "7h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/tankers-u-turn-in-hormuz-with-some-taking-iran-route-instead",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "1ドル200円の円安シナリオ、高市氏インド訪問、W杯ピッチ外の戦い─1週間のニュース5選",
-          "summary": "マーケットで話題になったニュースから、1週間を振り返る五つのトピックを厳選して紹介します。",
+          "title": "Eastern US Heat Wave Starts to Retreat While Raising Storm Risk",
+          "summary": "Extreme heat that’s seared the eastern US, strained the power grid from Maine to the Carolinas and curtailed holiday celebrations is starting to break up.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/jp/news/newsletters/2026-07-03/THMAC1KGCTG300",
-          "time": "7h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/extreme-heat-breaks-across-eastern-us-severe-thunderstorms-to-follow",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Top investors oppose £5.7bn private equity bid for energy group DCC",
-          "summary": "Offer from KKR and Bridgepoint subsidiary fails to win support from Ninety One, Aviva Investors and Fidelity International",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/8e4e34b4-f41d-4e79-9151-7f28bc66650a",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Why US exceptionalism in markets is justified",
-          "summary": "An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/5ee80a17-7277-41dd-bc3d-8817b400a757",
-          "time": "11h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Shell alleged to have misled UK courts in Nigeria pollution case",
-          "summary": "Long-running trial over blighting of Niger Delta due to begin next year",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/088774f0-8b93-4dd2-99c0-c6b095c52e24",
-          "time": "11h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Artists allege ‘epic betrayal’ by collapsed fund that pooled works",
-          "summary": "APT’s model involved aggregating artworks over 20 years to then benefit participants when sold",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/57e4f80b-d6fc-4091-aa67-c49cac4aa5cb",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "CPP Invests $1.75 Billion in EQT’s AI Buildout",
-          "summary": "Canada Pension Plan Investment Board will invest $1.75 billion to support EQT AB’s artificial intelligence infrastructure buildout, it announced Friday.",
+          "title": "ECB Is in ‘Good Position’ Given Inflation Data, Moulin Says",
+          "summary": "The European Central Bank is in a “good position” following an interest-rate hike last month and data showing inflation has eased with the slump in oil prices, Governing Council member Emmanuel Moulin said on Saturday.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
-          "time": "12h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/ecb-is-in-good-position-given-inflation-data-moulin-says",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns",
-          "summary": "Netwealth boss condemns failure as FCA urges use of ‘plain English’",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/9e5b963c-6a5f-41bb-b6af-6d749f217075",
-          "time": "13h ago",
+          "title": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks",
+          "summary": "Middle East oil producers are desperate to sell crude stockpiled during the recent Persian Gulf conflict, but gasoline and diesel inventories remain constrained due to shipping worries, TotalEnergies SE Chief Executive P",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/total-ceo-sees-mideast-producers-desperate-to-sell-oil-stocks",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Modi Says India Will Keep Expanding Oil Refining Capacity",
+          "summary": "India will continue to build new crude oil refineries in order to ensure supply chain security even as Western nations shut processing units, Prime Minister Narendra Modi said.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/modi-says-india-will-continue-to-expand-oil-refining-capacity",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Zelenskyy Denies Putin Claim of Securing Donetsk Stronghold",
+          "summary": "Ukraine pushed back on a claim by Russian President Vladimir Putin that Kremlin forces have taken control of Kostiantynivka, a strategic logistics center in the Donetsk region, saying the heavily bombarded city remains u",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 04:28 UTC",
+      "updated": "Updated 13:01 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Where can I find or get in contact with farmers specifically in the US?",
+          "title": "Ask HN: How are you creating demo videos for your product?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48782568"
+          "url": "https://news.ycombinator.com/item?id=48784055"
         },
         {
           "idx": 2,
-          "title": "A fleshed-out IPv5 proposal",
+          "title": "Ask HN: Which AI model do you use for what?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48781622"
+          "url": "https://news.ycombinator.com/item?id=48783556"
         },
         {
           "idx": 3,
-          "title": "sf house sept 26",
+          "title": "The Media Pipeline Behind realtime Voice System Pacing, Jitter Buffers...",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48780260"
+          "url": "https://news.ycombinator.com/item?id=48783374"
         },
         {
           "idx": 4,
-          "title": "Cadreen – memory, governance, self-healing, and execution as one system",
+          "title": "Fable 5. Safety Taken to an Extreme",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48780219"
+          "url": "https://news.ycombinator.com/item?id=48783246"
         },
         {
           "idx": 5,
-          "title": "Ask HN: What did you fail at and what did you learn from it?",
+          "title": "Open source project for evaluating two models on specific task",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48779863"
+          "url": "https://news.ycombinator.com/item?id=48783156"
         }
       ],
       "aiBrief": {
@@ -983,11 +983,56 @@
       },
       "news": [
         {
+          "title": "Ask HN: How are you creating demo videos for your product?",
+          "summary": "I am building a SaaS product, which tools do you recommend? any open-source or free ones available that are extremely good? Comments URL: https://news.ycombinator.com/item?id=48784055 Points: 1 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48784055",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Which AI model do you use for what?",
+          "summary": "I use Grok for scanning X since it has direct access to the platform. Gemini for fact-checking. Claude for coding. GPT for image generation. Comments URL: https://news.ycombinator.com/item?id=48783556 Points: 1 # Comment",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48783556",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The Media Pipeline Behind realtime Voice System Pacing, Jitter Buffers...",
+          "summary": "So when you're building a real-time voice system, there are a lot of hard parts that need to be handled, like voice resampling, jitter buffers, and frame pacing. This blog shows you the mental model of what happens behin",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48783374",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Fable 5. Safety Taken to an Extreme",
+          "summary": "I finally decided to try out Fable 5 using the standard Claude.ai interface. I have a go-to test prompt that answers simple kids' questions in an absurdly scientific style. I asked a pretty straightforward one: \"Why don'",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48783246",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Open source project for evaluating two models on specific task",
+          "summary": "THinking about making a open source community where developers using different models could evaluate for different tasks. Imagine small model doing similarly like large model for a specific task. Comments URL: https://ne",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48783156",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Where can I find or get in contact with farmers specifically in the US?",
           "summary": "I would love to gain deeper context as to farming, regulation issues and further context relating to it. If it’s possible to get in contact with a farmer or be pointed to a community if it exists, it would be really help",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48782568",
-          "time": "just now",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
@@ -996,7 +1041,7 @@
           "summary": "Over 30 years after its introduction, IPv6 has still not replaced IPv4. I've seen those \"just add more bits to ipv4, call it ipv5\" proposals before. They tend to skip the important details and talk past others, but they ",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48781622",
-          "time": "3h ago",
+          "time": "12h ago",
           "tags": [],
           "market": null
         },
@@ -1005,7 +1050,7 @@
           "summary": "hey guys! I'm a 24 yo SWE @ scale and have previously worked at another YC startup. I'm passionate about building products, infra and eventually starting a company, it'd be great to live with other ambitious builders and",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48780260",
-          "time": "6h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         },
@@ -1014,61 +1059,16 @@
           "summary": "Hi HN — I’m launching the research preview for Cadreen. Cadreen is infrastructure for intelligent workflows — software that can remember, decide, act, ask permission, and leave an audit trail. It includes APIs, SDKs, CLI",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48780219",
-          "time": "7h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         },
         {
           "title": "Ask HN: What did you fail at and what did you learn from it?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48779863 Points: 5 # Comments: 0",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48779863 Points: 8 # Comments: 0",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=48779863",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "AI Is Boring",
-          "summary": "Everyone is building the same thing. Does anyone know of something genuinely exciting happening in AI? Comments URL: https://news.ycombinator.com/item?id=48779624 Points: 5 # Comments: 6",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48779624",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "SponsorBlock Critical Security Vulnerabilities",
-          "summary": "SponsorBlock had 7 critical vulnerabilities. Private data of 82k users was accessible. Full details: https://paste.rs/jVLQb.txt Data not leaked. Waiting for developer response. Comments URL: https://news.ycombinator.com/",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48779533",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: ChatGPT Go Plan",
-          "summary": "has anyone used it? what do you think of it? Is it worth it, especially compared to the free plan? I think the plus plan is expensive (I don't use it for programming), but my main concern is that go doesn't have any reas",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48779423",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "An AI Koan",
-          "summary": "If 1 pour my heart soul sweat blood tears into crafting the perfect one shot prompt, and get a perfect response, is that still vibe coding? Comments URL: https://news.ycombinator.com/item?id=48778522 Points: 2 # Comments",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48778522",
-          "time": "9h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Claude Fable is useless for bioinformaticians",
-          "summary": "It’s infuriating any simple request related to common bioinformatics work and computational biology is flagged. Like we are we are trying to weaponize viruses or create anthrax! Life science users, what’s been your exper",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48778446",
-          "time": "9h ago",
+          "time": "16h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-07-04T04:28:13.726Z"
+  "generatedAt": "2026-07-04T13:01:11.900Z"
 }
