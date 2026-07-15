@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "EverQuest’s biggest fans are leading its revival",
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
           "src": "The Verge",
-          "url": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers"
+          "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
         },
         {
           "idx": 2,
-          "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+          "title": "Jurassic Park computers in excruciating detail",
           "src": "Hacker News Front",
-          "url": "https://github.com/Danau5tin/ai-trains-ai"
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html"
         },
         {
           "idx": 3,
-          "title": "Beautiful Type Erasure with C++26 Reflection",
-          "src": "Hacker News Front",
-          "url": "https://ryanjk5.github.io/posts/rjk-duck/"
+          "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+          "src": "36氪",
+          "url": "https://36kr.com/p/3896298534520705?f=rss"
         },
         {
           "idx": 4,
-          "title": "Coding agents think ahead of time",
-          "src": "Hacker News Front",
-          "url": "https://arxiv.org/abs/2607.05188"
+          "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+          "src": "36氪",
+          "url": "https://36kr.com/p/3896295689569922?f=rss"
         },
         {
           "idx": 5,
-          "title": "Germany set to restrict its Freedom of Information Act",
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
           "src": "Hacker News Front",
-          "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695"
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/"
         }
       ],
       "aiBrief": {
@@ -96,94 +96,94 @@
       },
       "news": [
         {
-          "title": "EverQuest’s biggest fans are leading its revival",
-          "summary": "Lord Nagafen stares down a Froglok. | Image: Daybreak Game Company Live-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge ",
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+          "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival a",
           "source": "The Verge",
-          "url": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+          "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-          "summary": "Article URL: https://github.com/Danau5tin/ai-trains-ai Comments URL: https://news.ycombinator.com/item?id=48905919 Points: 7 # Comments: 0",
+          "title": "Jurassic Park computers in excruciating detail",
+          "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 16 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://github.com/Danau5tin/ai-trains-ai",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Beautiful Type Erasure with C++26 Reflection",
-          "summary": "Article URL: https://ryanjk5.github.io/posts/rjk-duck/ Comments URL: https://news.ycombinator.com/item?id=48905914 Points: 8 # Comments: 3",
-          "source": "Hacker News Front",
-          "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Coding agents think ahead of time",
-          "summary": "Article URL: https://arxiv.org/abs/2607.05188 Comments URL: https://news.ycombinator.com/item?id=48905764 Points: 7 # Comments: 1",
-          "source": "Hacker News Front",
-          "url": "https://arxiv.org/abs/2607.05188",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Germany set to restrict its Freedom of Information Act",
-          "summary": "Article URL: https://www.dw.com/en/germany-freedom-of-information-act/a-77939695 Comments URL: https://news.ycombinator.com/item?id=48905290 Points: 58 # Comments: 12",
-          "source": "Hacker News Front",
-          "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-          "summary": "Demis Hassabis, during a panel session at the World Economic Forum in Davos, Switzerland. | Image: Bloomberg via Getty Images Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if front",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Punch Yourself in the Face with Reality",
-          "summary": "Article URL: https://adi.bio/reality Comments URL: https://news.ycombinator.com/item?id=48905118 Points: 35 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://adi.bio/reality",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "No Spanish Reading Crisis?",
-          "summary": "Article URL: https://www.commonreader.co.uk/p/no-spanish-reading-crisis Comments URL: https://news.ycombinator.com/item?id=48905105 Points: 21 # Comments: 15",
-          "source": "Hacker News Front",
-          "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-          "summary": "Article URL: https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948 Comments URL: https://news.ycombinator.com/item?id=48905091 Points: 52 # Comments: 28",
-          "source": "Hacker News Front",
-          "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
-          "summary": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半年净利润同比增长约215%-235% 36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.",
+          "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家聚焦垂域工业智能体的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智",
           "source": "36氪",
-          "url": "https://36kr.com/p/3895322613185543?f=rss",
+          "url": "https://36kr.com/p/3896298534520705?f=rss",
           "time": "1h ago",
           "tags": [],
           "market": "中国"
+        },
+        {
+          "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后，智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立于2",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3896295689569922?f=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "summary": "Article URL: https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/ Comments URL: https://news.ycombinator.com/item?id=48915244 Points: 69 # Comments: 66",
+          "source": "Hacker News Front",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "summary": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 67 # Comments: 26",
+          "source": "Hacker News Front",
+          "url": "https://tailscale.com/security-bulletins",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Data centers have hiked electricity prices on the public by $23B",
+          "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/ Comments URL: https://news.ycombinator.com/item?id=48914683 Points: 105 # Comments: 55",
+          "source": "Hacker News Front",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
+          "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/112334",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+          "summary": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 63 # Comments: 15",
+          "source": "Hacker News Front",
+          "url": "https://www.starfleetmath.com/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
         }
       ]
     },
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
+          "title": "How to manage AI investments in the agentic era",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+        },
+        {
+          "idx": 2,
           "title": "How data science teams use ChatGPT Work",
           "src": "OpenAI Blog",
           "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
         },
         {
-          "idx": 2,
+          "idx": 3,
           "title": "How sales teams use ChatGPT Work",
           "src": "OpenAI Blog",
           "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
         },
         {
-          "idx": 3,
+          "idx": 4,
           "title": "Empowering India’s next generation of innovators with ATL Saathi",
           "src": "Google DeepMind",
           "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
         },
         {
-          "idx": 4,
+          "idx": 5,
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/deutsche-telekom"
-        },
-        {
-          "idx": 5,
-          "title": "Getting started with ChatGPT",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/academy/getting-started"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,20 @@
       },
       "news": [
         {
+          "title": "How to manage AI investments in the agentic era",
+          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "time": "17h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "How data science teams use ChatGPT Work",
           "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "time": "13h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +296,7 @@
           "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "time": "13h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +323,7 @@
           "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/academy/getting-started",
-          "time": "4d ago",
+          "time": "5d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +332,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/torch-attention-profile",
-          "time": "4d ago",
+          "time": "5d ago",
           "tags": [],
           "market": null
         },
@@ -353,15 +362,6 @@
           "time": "5d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "GPT-5.5 Bio Bug Bounty",
-          "summary": "Details about the OpenAI Bio Bounty program",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/bio-bug-bounty",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Brussels to propose easing banks’ capital requirements",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d"
+          "title": "Nearly 75% of Americans think there’s too much money in politics",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
+          "title": "China Evergrande liquidators warn PwC partners not to use divorce to shield assets",
           "src": "FT World",
-          "url": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b"
+          "url": "https://www.ft.com/content/89e3a153-2e87-4ba0-9174-69dcaa3bd5be"
         },
         {
           "idx": 3,
-          "title": "Inflation and interest rates tracker: see how your country compares",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2"
+          "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "IBM shares set to plunge 23% as customers shift spending to AI",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95"
+          "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Donald Trump returns to escalation against Iran",
+          "title": "China reports lowest GDP growth in more than 3 years",
           "src": "FT World",
-          "url": "https://www.ft.com/content/ef06822f-c107-4286-b35b-71e4bbaba0a5"
+          "url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Brussels to propose easing banks’ capital requirements",
-          "summary": "Proposal follows similar moves by US and UK as lenders push for loosening of regulation",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
-          "summary": "Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Inflation and interest rates tracker: see how your country compares",
-          "summary": "Explore the latest data through interactive charts",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "IBM shares set to plunge 23% as customers shift spending to AI",
-          "summary": "Chief executive Arvind Krishna says large deals slipped as clients redirected money into chips, servers and memory",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Donald Trump returns to escalation against Iran",
-          "summary": "Also in today’s newsletter, Lindsey Graham’s sudden death reverberates across Washington",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/ef06822f-c107-4286-b35b-71e4bbaba0a5",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Israel launches new illegal settlement expansion plan",
-          "summary": "Israel launches new illegal settlement expansion plan",
+          "title": "Nearly 75% of Americans think there’s too much money in politics",
+          "summary": "The US is set to have some of the most expensive elections in history.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/israel-launches-new-illegal-settlement-expansion-plan?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "UK borrowing costs hit highest level since May as oil surges",
-          "summary": "Ten-year yield climbs above 5% just days before Andy Burnham set to become prime minister",
+          "title": "China Evergrande liquidators warn PwC partners not to use divorce to shield assets",
+          "summary": "Letter to auditors of failed property group comes after reports of some taking steps to avoid potential damage payouts",
           "source": "FT World",
-          "url": "https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f",
+          "url": "https://www.ft.com/content/89e3a153-2e87-4ba0-9174-69dcaa3bd5be",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-          "summary": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Washington and Tehran send warnings by missile",
-          "summary": "The foes are in their most dangerous period of fighting since a fragile April truce. Many of their strikes are designed to send signals",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/42a27e37-9868-4465-9bde-8b5261088608",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
-          "summary": "Ukraine says drones hit 11 Russian vessels in the Azov Sea, targeting tankers, dry cargo ships, and a tugboat overnight.",
+          "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+          "summary": "US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/14/russia-readies-to-reroute-exports-from-sea-of-azov-after-ukrainian-attacks?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+          "summary": "Argentina are 'in good shape' and have no concerns over fatigue as the world champions look to book another final.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China reports lowest GDP growth in more than 3 years",
+          "summary": "Second-quarter figure falls at low end of annual target range as monthly indicators have highlighted economic pressures",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Trump’s return to war with Iran offers no clear path to victory",
+          "summary": "Gamble on resuming hostilities raises prospect that conflict will overshadow president’s second term",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+          "summary": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Spain crashes Paris party by beating France in the World Cup semis",
+          "summary": "Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
+          "summary": "Worsening violence in Balochistan imperils Islamabad’s resource ambitions",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
+          "summary": "Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,36 +726,36 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "IBM shares set to plunge 23% as customers shift spending to AI",
+          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f"
+        },
+        {
+          "idx": 2,
+          "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20"
+        },
+        {
+          "idx": 3,
+          "title": "IBM shares plunge 25% as customers shift spending to AI",
           "src": "FT Markets",
           "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95"
         },
         {
-          "idx": 2,
-          "title": "Fed Has ‘No Tolerance’ for Elevated Inflation, Warsh Says",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-14/fed-has-no-tolerance-for-elevated-inflation-warsh-video"
-        },
-        {
-          "idx": 3,
-          "title": "UK borrowing costs hit highest level since May as oil surges",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f"
-        },
-        {
           "idx": 4,
-          "title": "Treasuries Rally as Cool CPI Data Cuts July Fed Hike Bets to 20%",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/treasuries-rally-as-cool-cpi-data-cuts-july-fed-hike-bets-to-20"
+          "title": "Everything is awesome for banks",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058"
         },
         {
           "idx": 5,
-          "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
+          "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
           "src": "FT Markets",
           "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498"
         }
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "IBM shares set to plunge 23% as customers shift spending to AI",
-          "summary": "Chief executive Arvind Krishna says large deals slipped as clients redirected money into chips, servers and memory",
+          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
+          "summary": "Worsening violence in Balochistan imperils Islamabad’s resource ambitions",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-          "time": "just now",
+          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Fed Has ‘No Tolerance’ for Elevated Inflation, Warsh Says",
-          "summary": "Federal Reserve Chairman Kevin Warsh said, “The members of our committee have no tolerance for persistently elevated inflation,” as part of testimony he’s scheduled to deliver to the House Financial Services Committee on",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-14/fed-has-no-tolerance-for-elevated-inflation-warsh-video",
-          "time": "just now",
+          "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
+          "summary": "New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "IBM shares plunge 25% as customers shift spending to AI",
+          "summary": "Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Everything is awesome for banks",
+          "summary": "Lenders are riding the tech wave, too",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
+          "summary": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+          "time": "11h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How a financial crash created Britain’s first prime minister",
+          "summary": "Robert Walpole rescued Britain’s economy – and pulled himself up with it",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/c148573c-c6c6-424c-bdbf-e74bc309fb11",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brussels to propose easing banks’ capital requirements",
+          "summary": "Proposal follows similar moves by US and UK as lenders push for loosening of regulation",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
         {
           "title": "UK borrowing costs hit highest level since May as oil surges",
-          "summary": "Ten-year yield climbs above 5% just days before Andy Burnham set to become prime minister",
+          "summary": "Ten-year yield briefly climbs above 5% just days before Andy Burnham set to become prime minister",
           "source": "FT Markets",
           "url": "https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f",
-          "time": "just now",
+          "time": "15h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Treasuries Rally as Cool CPI Data Cuts July Fed Hike Bets to 20%",
-          "summary": "US Treasuries surged as traders pulled back from bets on Federal Reserve interest-rate hikes after consumer prices data came in lower than forecast.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/treasuries-rally-as-cool-cpi-data-cuts-july-fed-hike-bets-to-20",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-          "summary": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
+          "title": "The payments darling in Trump’s crosshairs",
+          "summary": "US tariff threats against Brazil over payments platform Pix provoke a political storm ahead of elections",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-          "time": "just now",
+          "url": "https://www.ft.com/content/efbec9a7-a3d9-45e6-8ade-c0660f31ecc7",
+          "time": "17h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US CPI Falls for the First Time Since 2020, Core Gauge Flat",
-          "summary": "US consumer prices declined in June for the first time in six years and a key gauge of underlying inflation was little changed, taking some pressure off the Federal Reserve to raise interest rates.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-core-gauge-unchanged",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Warsh Says Fed Has ‘No Tolerance’ for Elevated Inflation",
-          "summary": "Federal Reserve Chairman Kevin Warsh said policymakers at the central bank have no tolerance for high inflation, reiterating a vow to tame price growth that has been elevated for five years.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/warsh-says-fed-has-no-tolerance-for-elevated-inflation",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Dangote Ends Naira Pricing for Refined Oil Products in Nigeria",
-          "summary": "Dangote Refinery is halting the sale of petroleum products in naira within the Nigerian market, Punch Newspaper reported, citing failings in a landmark 2024 plan for the state-owned energy company to supply crude in loca",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/dangote-ends-naira-pricing-for-refined-oil-products-in-nigeria",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Software Stocks Sink as IBM Miss Delivers ‘Devastating Blow’",
-          "summary": "Shares of software and IT services companies plunged Tuesday after International Business Machines Corp. reported preliminary results that missed analyst expectations, reigniting questions over the sector’s prospects.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-14/software-stocks-sink-as-ibm-miss-delivers-devastating-blow",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Goldman Breaks Own Stock-Trading Revenue Record Again",
-          "summary": "Goldman Sachs just keeps on breaking its own records on Wall Street. It posted $7.42 billion for a quarter with record-breaking stock-trading results, driven by financing and taking profit in arranging bets. Chris Marina",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-07-14/goldman-breaks-own-stock-trading-revenue-record-again-video",
-          "time": "just now",
+          "title": "ECB recruits digital euro critics for pilot",
+          "summary": "Deutsche Bank, DZ Bank and Groupe BPCE among 36 institutions selected for test of digital currency next year",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/0ddbf3c0-bbe9-4d83-95c0-40e9ccb14b9b",
+          "time": "18h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 13:09 UTC",
+      "updated": "Updated 03:52 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Tell HN: Up/downvotes for comments on HN are silently ignored when using Tor",
+          "title": "Weird password rules for website to register",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48905560"
+          "url": "https://news.ycombinator.com/item?id=48915644"
         },
         {
           "idx": 2,
-          "title": "Why can't you commit a .env file?",
+          "title": "Read a book 703 words at a time",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904726"
+          "url": "https://news.ycombinator.com/item?id=48914927"
         },
         {
           "idx": 3,
-          "title": "Step by step guide to becoming a Cyber Security Expert in 2026",
+          "title": "eBay is down this looks like a global incident 07142026",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904639"
+          "url": "https://news.ycombinator.com/item?id=48914795"
         },
         {
           "idx": 4,
-          "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-          "src": "Stratechery",
-          "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/"
+          "title": "ChatGPT Remote Connection Failure",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48914572"
         },
         {
           "idx": 5,
-          "title": "Ask HN: US Equivalent of Anabin?",
+          "title": "Is ChatGPT Down?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904202"
+          "url": "https://news.ycombinator.com/item?id=48914471"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Tell HN: Up/downvotes for comments on HN are silently ignored when using Tor",
-          "summary": "I noticed that whenever I upvote or downvote a comment while connected through Tor, my vote is silently ignored. I still get the \"unvote/undown\" button, but the user karma in their profile remains unchanged. I can repeat",
+          "title": "Weird password rules for website to register",
+          "summary": "Do you know any websites which has password rules doesn't make any sense and it is really hard to work with. Here is one: https://arxiv.org/ Password must contain only letters, numbers, and underscores Comments URL: http",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48905560",
-          "time": "just now",
+          "url": "https://news.ycombinator.com/item?id=48915644",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why can't you commit a .env file?",
-          "summary": "\"You can't commit a .env file to Git\" is a sentence we've all heard. Most people accepted it and went on with their lives, using other tools to share environment variables. But the question we should ask is: why can't I ",
+          "title": "Read a book 703 words at a time",
+          "summary": "send an email to info@703words.com Comments URL: https://news.ycombinator.com/item?id=48914927 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904726",
+          "url": "https://news.ycombinator.com/item?id=48914927",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Step by step guide to becoming a Cyber Security Expert in 2026",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48904639 Points: 1 # Comments: 0",
+          "title": "eBay is down this looks like a global incident 07142026",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48914795 Points: 5 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904639",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-          "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
-          "source": "Stratechery",
-          "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+          "url": "https://news.ycombinator.com/item?id=48914795",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: US Equivalent of Anabin?",
-          "summary": "I'm wondering if there exists a US equivalent of Anabin[0] -- a German portal and database for evaluating foreign educational certificates. [0]: https://anabin.kmk.org/cms/public/startseite Comments URL: https://news.yco",
+          "title": "ChatGPT Remote Connection Failure",
+          "summary": "Humanity briefly regains critical thinking skills Comments URL: https://news.ycombinator.com/item?id=48914572 Points: 3 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904202",
+          "url": "https://news.ycombinator.com/item?id=48914572",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How do you manage your own recovery time?",
-          "summary": "We're doing hard work and it's increasingly harder because the easy stuff gets offloaded to AI so I'm asking, how do you manage your time such that you can recover from the hard stuff? Comments URL: https://news.ycombina",
+          "title": "Is ChatGPT Down?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48914471 Points: 8 # Comments: 4",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48904169",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Does anyone else find GPT-5.6 Sol in Codex slow?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48903663 Points: 5 # Comments: 1",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48903663",
+          "url": "https://news.ycombinator.com/item?id=48914471",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Anthropic banned my thirteen 20x accounts, what now?",
-          "summary": "Firstly, FAFO, I get it. I was using 13 Claude Code 20x subscriptions. Fable on ultra code. First, yes it was excessive. Yes I was using ultra code for everything unnecessarily, just because I cbf and the cost/month was ",
+          "title": "Ask HN: How useful is Gemini for Google Apps?",
+          "summary": "I recently wrote a Google doc to describe a presentation. I used a Heading 1 style for each \"Slide N: Description\" section, and it was otherwise cleanly formatted. Then I hit the magic Gemini button and asked (more or le",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48903047",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=48913970",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "I want to build an OTT app. Where should I start?",
-          "summary": "I am planning to build an OTT (video streaming) app. I am trying to understand the best approach. Should I build everything from scratch using cloud services and open-source components, or is it more practical to use whi",
+          "title": "Ask HN: How's the idea of creating LinkedIn styled character profiles",
+          "summary": "I am working on it so tell me how this idea sounds to you. Quick summary Anime character profiles with experiences, summary, education and other things along with their own character AI like that of characters.ai merging",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48903017",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=48913930",
+          "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What critical legacy system at work is everyone afraid to touch?",
-          "summary": "I recently inherited an old phone and call centre system at work It runs on Elastix/CentOS, a custom windows app, MySQL, GSM gateways with analogue devices and static ips, with almost no documentation at all. The strange",
+          "title": "Ask HN: How can I publish a paid app to Google Play without giving up my privacy",
+          "summary": "I am a British student in the United Kingdom who wants to publish their app (one-time fee, to be bought in Google Play Store). I have no other address other than my home address and I've been informed that by publishing ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48902652",
+          "url": "https://news.ycombinator.com/item?id=48912531",
           "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Startup Tax Myths Founders Believe",
+          "summary": "Startup Tax Myths Founders Believe: No revenue means no filing. I can ignore taxes until I raise money. Delaware franchise tax is the same as federal tax. Foreign founders don’t need US tax filings. My bank statements ar",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48911703",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: A DC Powered Home?",
+          "summary": "I’ve been thinking about the fact that contemporary home electrical wiring is heavily predicated on AC for power delivery which makes sense for power transmission as it’s been done for most of the last century or so, but",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48911702",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-07-14T13:09:55.816Z"
+  "generatedAt": "2026-07-15T03:52:37.531Z"
 }
