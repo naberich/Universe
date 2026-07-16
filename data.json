@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
+          "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+          "src": "Hacker News Front",
+          "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/"
         },
         {
           "idx": 2,
-          "title": "Jurassic Park computers in excruciating detail",
+          "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
           "src": "Hacker News Front",
-          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html"
+          "url": "https://arxiv.org/abs/2604.15379"
         },
         {
           "idx": 3,
-          "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
+          "title": "大厂医疗AI战，开始“卷”减重",
           "src": "36氪",
-          "url": "https://36kr.com/p/3896298534520705?f=rss"
+          "url": "https://36kr.com/p/3896639942592134?f=rss"
         },
         {
           "idx": 4,
-          "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
+          "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
           "src": "36氪",
-          "url": "https://36kr.com/p/3896295689569922?f=rss"
+          "url": "https://36kr.com/p/3897686922266244?f=rss"
         },
         {
           "idx": 5,
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
           "src": "Hacker News Front",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/"
+          "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency"
         }
       ],
       "aiBrief": {
@@ -96,91 +96,91 @@
       },
       "news": [
         {
-          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-          "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival a",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+          "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+          "summary": "Article URL: https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/ Comments URL: https://news.ycombinator.com/item?id=48930011 Points: 4 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Jurassic Park computers in excruciating detail",
-          "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 16 # Comments: 2",
+          "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
+          "summary": "Article URL: https://arxiv.org/abs/2604.15379 Comments URL: https://news.ycombinator.com/item?id=48929856 Points: 4 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "time": "just now",
+          "url": "https://arxiv.org/abs/2604.15379",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
-          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家聚焦垂域工业智能体的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智",
+          "title": "大厂医疗AI战，开始“卷”减重",
+          "summary": "文｜胡香赟 编辑｜海若镜 互联网大厂做医疗AI，越来越偏爱“减重”场景。 近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。 2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，",
           "source": "36氪",
-          "url": "https://36kr.com/p/3896298534520705?f=rss",
+          "url": "https://36kr.com/p/3896639942592134?f=rss",
           "time": "1h ago",
           "tags": [],
           "market": "中国"
         },
         {
-          "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
-          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后，智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立于2",
+          "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。 融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动机P4以及涡电发动机H4。涡轴发动机S4已进入挂飞测试阶段；涡桨发动机P4与涡电发动机H4预计将在今年下半年完成首装下线并开展地面试验。 在",
           "source": "36氪",
-          "url": "https://36kr.com/p/3896295689569922?f=rss",
+          "url": "https://36kr.com/p/3897686922266244?f=rss",
           "time": "1h ago",
           "tags": [],
           "market": "中国"
         },
         {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "summary": "Article URL: https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/ Comments URL: https://news.ycombinator.com/item?id=48915244 Points: 69 # Comments: 66",
+          "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+          "summary": "Article URL: https://pmbanugo.me/blog/why-async-await-complect-concurrency Comments URL: https://news.ycombinator.com/item?id=48929587 Points: 10 # Comments: 1",
           "source": "Hacker News Front",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+          "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3896586337978244?f=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Bluesky Trademarks ATProto",
+          "summary": "Article URL: https://atproto.com/blog/at-protocol-trademark Comments URL: https://news.ycombinator.com/item?id=48929351 Points: 26 # Comments: 6",
+          "source": "Hacker News Front",
+          "url": "https://atproto.com/blog/at-protocol-trademark",
           "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-          "summary": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 67 # Comments: 26",
-          "source": "Hacker News Front",
-          "url": "https://tailscale.com/security-bulletins",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-          "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Data centers have hiked electricity prices on the public by $23B",
-          "summary": "Article URL: https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/ Comments URL: https://news.ycombinator.com/item?id=48914683 Points: 105 # Comments: 55",
-          "source": "Hacker News Front",
-          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等",
-          "summary": "Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文",
+          "title": "派早报：国行版 Apple Intelligence 完成备案等",
+          "summary": "阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文",
           "source": "少数派",
-          "url": "https://sspai.com/post/112334",
+          "url": "https://sspai.com/post/112373",
           "time": "3h ago",
           "tags": [],
           "market": "中国"
         },
         {
-          "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-          "summary": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 63 # Comments: 15",
-          "source": "Hacker News Front",
-          "url": "https://www.starfleetmath.com/",
+          "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+          "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+          "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differen",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
           "time": "3h ago",
           "tags": [],
           "market": "欧美"
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "How to manage AI investments in the agentic era",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+          "title": "What building Shippy taught us about building agents",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
         },
         {
           "idx": 2,
-          "title": "How data science teams use ChatGPT Work",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+          "title": "Model Routing Is Simple. Until It Isn’t.",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt"
         },
         {
           "idx": 3,
-          "title": "How sales teams use ChatGPT Work",
+          "title": "The US is advancing AI safety through state and federal action",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
         },
         {
           "idx": 4,
-          "title": "Empowering India’s next generation of innovators with ATL Saathi",
-          "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
         },
         {
           "idx": 5,
-          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/deutsche-telekom"
+          "title": "Welcome Inkling by Thinking Machines",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling"
         }
       ],
       "aiBrief": {
@@ -274,19 +274,64 @@
       },
       "news": [
         {
-          "title": "How to manage AI investments in the agentic era",
-          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+          "title": "What building Shippy taught us about building agents",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Model Routing Is Simple. Until It Isn’t.",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The US is advancing AI safety through state and federal action",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
           "source": "OpenAI Blog",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
           "time": "17h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "How data science teams use ChatGPT Work",
-          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "title": "Welcome Inkling by Thinking Machines",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How to manage AI investments in the agentic era",
+          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
           "source": "OpenAI Blog",
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
           "time": "1d ago",
           "tags": [],
           "market": null
@@ -296,7 +341,16 @@
           "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "time": "1d ago",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,61 +359,7 @@
           "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/deutsche-telekom",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Getting started with ChatGPT",
-          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/academy/getting-started",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/torch-attention-profile",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/gpt-5-6",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ChatGPT is now a partner for your most ambitious work",
-          "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-          "time": "5d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Nearly 75% of Americans think there’s too much money in politics",
+          "title": "South Korea’s international adoptees seek justice, not homecoming",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
+          "url": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "China Evergrande liquidators warn PwC partners not to use divorce to shield assets",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/89e3a153-2e87-4ba0-9174-69dcaa3bd5be"
+          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 3,
-          "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
+          "title": "US military to start screening for testosterone deficiency, Hegseth says",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 4,
-          "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+          "title": "Toronto engulfed by wildfire smoke as US cities threatened",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "China reports lowest GDP growth in more than 3 years",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab"
+          "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Nearly 75% of Americans think there’s too much money in politics",
-          "summary": "The US is set to have some of the most expensive elections in history.",
+          "title": "South Korea’s international adoptees seek justice, not homecoming",
+          "summary": "South Korea's government has acknowledged wrongs, but advocates say accountability is still lacking.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss",
+          "url": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "China Evergrande liquidators warn PwC partners not to use divorce to shield assets",
-          "summary": "Letter to auditors of failed property group comes after reports of some taking steps to avoid potential damage payouts",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/89e3a153-2e87-4ba0-9174-69dcaa3bd5be",
+          "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+          "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
-          "summary": "US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
+          "title": "US military to start screening for testosterone deficiency, Hegseth says",
+          "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
-          "summary": "Argentina are 'in good shape' and have no concerns over fatigue as the world champions look to book another final.",
+          "title": "Toronto engulfed by wildfire smoke as US cities threatened",
+          "summary": "Monitor ranks Toronto as having the worst air quality on earth, surpassing Kinshasa, DR Congo, and New Delhi, India.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "China reports lowest GDP growth in more than 3 years",
-          "summary": "Second-quarter figure falls at low end of annual target range as monthly indicators have highlighted economic pressures",
+          "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+          "summary": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India Inc goes on a foreign buying spree",
+          "summary": "Outflows come as foreign investors flee country’s markets at fastest pace ever this year",
           "source": "FT World",
-          "url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+          "url": "https://www.ft.com/content/6ae0d120-0027-4351-a381-c73bb3a10808",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump’s return to war with Iran offers no clear path to victory",
-          "summary": "Gamble on resuming hostilities raises prospect that conflict will overshadow president’s second term",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
-          "summary": "France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.",
+          "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+          "summary": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Spain crashes Paris party by beating France in the World Cup semis",
-          "summary": "Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.",
+          "title": "France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals",
+          "summary": "The trip highlights how Paris and Rabat are turning a diplomatic rapprochement into a broader strategic partnership.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
-          "summary": "Worsening violence in Balochistan imperils Islamabad’s resource ambitions",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+          "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+          "summary": "Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
-          "summary": "Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
+          "title": "South Korea stocks slump after first rate rise in 3 years",
+          "summary": "Bank of Korea’s first move under Shin Hyun-song comes amid concern over won weakness and reliance on energy imports",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/bb1a1582-c522-4c5d-a769-45ba9f5a3054",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f"
+          "title": "Syngenta’s $5 Billion Hong Kong IPO Is Said to Face Fresh Delays",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/syngenta-s-5-billion-hong-kong-ipo-is-said-to-face-fresh-delays"
         },
         {
           "idx": 2,
-          "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20"
+          "title": "Asian Gas Prices Rise to Highest Since March on Mideast Tensions",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-gas-prices-rise-to-highest-since-march-on-mideast-tensions"
         },
         {
           "idx": 3,
-          "title": "IBM shares plunge 25% as customers shift spending to AI",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95"
+          "title": "China Seeks to Curb New Bond Sales by LGFVs With Increased Debt",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-seeks-to-curb-new-bond-sales-by-lgfvs-with-increased-debt"
         },
         {
           "idx": 4,
-          "title": "Everything is awesome for banks",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058"
+          "title": "Wheat Holds Near Two-Month High After Black Sea Attacks",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/wheat-holds-near-two-month-high-after-black-sea-attacks"
         },
         {
           "idx": 5,
-          "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498"
+          "title": "Adani Flagship Draws Mutual Fund Interest as Governance Risks Recede",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/adani-flagship-draws-mutual-fund-interest-as-governance-risks-recede"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
-          "summary": "Worsening violence in Balochistan imperils Islamabad’s resource ambitions",
+          "title": "Syngenta’s $5 Billion Hong Kong IPO Is Said to Face Fresh Delays",
+          "summary": "Syngenta Group’s planned $5 billion Hong Kong initial public offering is facing delays as the seed and pesticide company waits for better conditions in the agriculture sector, according to people familiar with the matter",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/syngenta-s-5-billion-hong-kong-ipo-is-said-to-face-fresh-delays",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Asian Gas Prices Rise to Highest Since March on Mideast Tensions",
+          "summary": "Asian liquefied natural gas prices rose to the highest since late March as fresh hostilities in the Middle East deepened concerns that shipping through the key Strait of Hormuz will remain disrupted for longer.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/asian-gas-prices-rise-to-highest-since-march-on-mideast-tensions",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China Seeks to Curb New Bond Sales by LGFVs With Increased Debt",
+          "summary": "A major Chinese bond regulator is taking fresh steps to curb debt sales by the nation’s municipal borrowers, according to people familiar with the matter, adding pressure on weaker issuers looking to refinance notes.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-seeks-to-curb-new-bond-sales-by-lgfvs-with-increased-debt",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Wheat Holds Near Two-Month High After Black Sea Attacks",
+          "summary": "Wheat futures held gains after jumping 5% on Wednesday, as Ukrainian and Russian strikes in the Black Sea threatened a key export route for the warring countries.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/wheat-holds-near-two-month-high-after-black-sea-attacks",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Adani Flagship Draws Mutual Fund Interest as Governance Risks Recede",
+          "summary": "Local mutual funds bought Adani Enterprises shares worth 46.60 billion rupees last month.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/adani-flagship-draws-mutual-fund-interest-as-governance-risks-recede",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India Inc goes on a foreign buying spree",
+          "summary": "Outflows come as foreign investors flee country’s markets at fastest pace ever this year",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+          "url": "https://www.ft.com/content/6ae0d120-0027-4351-a381-c73bb3a10808",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US hits tanker heading for Kharg Island under renewed Iran blockade",
+          "summary": "Military clashes over control of Strait of Hormuz threaten global oil supplies",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/c2325003-2199-491a-83d4-c1e70c7e8e44",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
-          "summary": "New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
+          "title": "Korea Plans Measures on Leveraged ETFs Driving Wild Volatility",
+          "summary": "South Korea will soon announce measures regarding the leveraged exchange-traded funds tied to shares of Samsung Electronics Co. and SK Hynix Inc. that have fueled a surge in market volatility.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/korea-to-announce-measures-on-single-stock-leveraged-etfs-soon",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Global Investors Hunt For Creative Backdoors Into China’s Mega CXMT IPO",
+          "summary": "Global investors largely shut out of China’s biggest IPO in nearly four years are looking at creative proxy trades as a way to profit from the country’s fast-rising memory-chip leader.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "IBM shares plunge 25% as customers shift spending to AI",
-          "summary": "Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Everything is awesome for banks",
-          "summary": "Lenders are riding the tech wave, too",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
-          "summary": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-          "time": "11h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How a financial crash created Britain’s first prime minister",
-          "summary": "Robert Walpole rescued Britain’s economy – and pulled himself up with it",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/c148573c-c6c6-424c-bdbf-e74bc309fb11",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Brussels to propose easing banks’ capital requirements",
-          "summary": "Proposal follows similar moves by US and UK as lenders push for loosening of regulation",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/f8c00d09-1cbd-4e40-86c5-55f5ab24700d",
-          "time": "14h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "UK borrowing costs hit highest level since May as oil surges",
-          "summary": "Ten-year yield briefly climbs above 5% just days before Andy Burnham set to become prime minister",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f",
-          "time": "15h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The payments darling in Trump’s crosshairs",
-          "summary": "US tariff threats against Brazil over payments platform Pix provoke a political storm ahead of elections",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/efbec9a7-a3d9-45e6-8ade-c0660f31ecc7",
-          "time": "17h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ECB recruits digital euro critics for pilot",
-          "summary": "Deutsche Bank, DZ Bank and Groupe BPCE among 36 institutions selected for test of digital currency next year",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/0ddbf3c0-bbe9-4d83-95c0-40e9ccb14b9b",
-          "time": "18h ago",
+          "title": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
+          "summary": "Gold declined, erasing a moderate gain from the previous session, as escalating tensions in the Middle East fueled concerns that energy prices and inflation will stay high.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/gold-steadies-as-soft-inflation-war-risk-cloud-fed-rate-outlook",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 03:52 UTC",
+      "updated": "Updated 03:55 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Weird password rules for website to register",
+          "title": "Ask HN: Is consciousness fundamentally a process of preserving identity?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48915644"
+          "url": "https://news.ycombinator.com/item?id=48929844"
         },
         {
           "idx": 2,
-          "title": "Read a book 703 words at a time",
+          "title": "Ask HN: How do you use Hacker News?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914927"
+          "url": "https://news.ycombinator.com/item?id=48929678"
         },
         {
           "idx": 3,
-          "title": "eBay is down this looks like a global incident 07142026",
+          "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914795"
+          "url": "https://news.ycombinator.com/item?id=48929304"
         },
         {
           "idx": 4,
-          "title": "ChatGPT Remote Connection Failure",
+          "title": "Back Up",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914572"
+          "url": "https://news.ycombinator.com/item?id=48928743"
         },
         {
           "idx": 5,
-          "title": "Is ChatGPT Down?",
+          "title": "Looking for Work",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914471"
+          "url": "https://news.ycombinator.com/item?id=48928442"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Weird password rules for website to register",
-          "summary": "Do you know any websites which has password rules doesn't make any sense and it is really hard to work with. Here is one: https://arxiv.org/ Password must contain only letters, numbers, and underscores Comments URL: http",
+          "title": "Ask HN: Is consciousness fundamentally a process of preserving identity?",
+          "summary": "{(Contradiction ->) Expression -> Violence (a circular response to contradiction, violence diverts attention and causes forgetfulness) => Implicitly, there’s an image containing contradictions, which is explicit because ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48915644",
+          "url": "https://news.ycombinator.com/item?id=48929844",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Read a book 703 words at a time",
-          "summary": "send an email to info@703words.com Comments URL: https://news.ycombinator.com/item?id=48914927 Points: 2 # Comments: 0",
+          "title": "Ask HN: How do you use Hacker News?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48929678 Points: 2 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914927",
+          "url": "https://news.ycombinator.com/item?id=48929678",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Is anyone else feeling bad about Reddit's mechanisms",
+          "summary": "Hello, I recently encountered a slew of events that didn't quite sit right with me and I needed to get this off my chest. Note that this is NOT an appeal to get un-infracted. I just feel really unhappy and I need to talk",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48929304",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "eBay is down this looks like a global incident 07142026",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48914795 Points: 5 # Comments: 2",
+          "title": "Back Up",
+          "summary": "Back up in paper are worth it? In case of a electrical break down. Comments URL: https://news.ycombinator.com/item?id=48928743 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914795",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ChatGPT Remote Connection Failure",
-          "summary": "Humanity briefly regains critical thinking skills Comments URL: https://news.ycombinator.com/item?id=48914572 Points: 3 # Comments: 2",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914572",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Is ChatGPT Down?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48914471 Points: 8 # Comments: 4",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48914471",
+          "url": "https://news.ycombinator.com/item?id=48928743",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How useful is Gemini for Google Apps?",
-          "summary": "I recently wrote a Google doc to describe a presentation. I used a Heading 1 style for each \"Slide N: Description\" section, and it was otherwise cleanly formatted. Then I hit the magic Gemini button and asked (more or le",
+          "title": "Looking for Work",
+          "summary": "Location:Plymouth, MA (Greater Boston Area) Remote:Yes Willing to relocate:No(I have 3 kids under 6 currently!), but always willing to travel! Technologies: Python, Ubuntu, Docker, Machine-learning, Unity engine, VS, SQL",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48913970",
+          "url": "https://news.ycombinator.com/item?id=48928442",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How's the idea of creating LinkedIn styled character profiles",
-          "summary": "I am working on it so tell me how this idea sounds to you. Quick summary Anime character profiles with experiences, summary, education and other things along with their own character AI like that of characters.ai merging",
+          "title": "Reverse Engineering Apple Wallet",
+          "summary": "Your iPhone walks up, the door unlocks. No app, no button. An open Aliro lock with secure UWB ranging + NFC tap, running end-to-end on an nRF5340 https://github.com/asxeem/openaliro Comments URL: https://news.ycombinator",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48913930",
+          "url": "https://news.ycombinator.com/item?id=48928394",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Is page 2 HN better?",
+          "summary": "Just wondering whether others have the same impression: are the articles better on the second page of HN? The front page is basically AI and associated slopationalism while the second (and further) pages are more down to",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48927922",
           "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How can I publish a paid app to Google Play without giving up my privacy",
-          "summary": "I am a British student in the United Kingdom who wants to publish their app (one-time fee, to be bought in Google Play Store). I have no other address other than my home address and I've been informed that by publishing ",
+          "title": "Ask HN: Who build production apps with out seeing code?",
+          "summary": "Cursor now defaults to agentic mode with no code editor at all, which got me wondering: who is writing or who is building production-grade apps with actual real user traction without ever seeing the code? I can't imagine",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48912531",
+          "url": "https://news.ycombinator.com/item?id=48927027",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Revised Polish Alphabet",
+          "summary": "Aa Bb Cc Çç Dd Ee Ęę Ff Gg Ɠɠ Hh Ii Jj Kk Ll Mm Nn Oo Ǫǫ Pp Rr Ss Şş Tt Uu Vv Ww Yy Zz Ȥȥ Ьь Ɠ W E R T Y U I O P Ç Ǫ A S D F G H J K L Ş Ę Z Ȥ C V B N M Ç ь , . Changes: Some letters were removed as they don't make disti",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=48926716",
           "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Startup Tax Myths Founders Believe",
-          "summary": "Startup Tax Myths Founders Believe: No revenue means no filing. I can ignore taxes until I raise money. Delaware franchise tax is the same as federal tax. Foreign founders don’t need US tax filings. My bank statements ar",
+          "title": "TermShepherd- AI that audits your SaaS legal pages for free",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=48926427 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48911703",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: A DC Powered Home?",
-          "summary": "I’ve been thinking about the fact that contemporary home electrical wiring is heavily predicated on AC for power delivery which makes sense for power transmission as it’s been done for most of the last century or so, but",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48911702",
-          "time": "8h ago",
+          "url": "https://news.ycombinator.com/item?id=48926427",
+          "time": "7h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-07-15T03:52:37.531Z"
+  "generatedAt": "2026-07-16T03:55:47.580Z"
 }
