@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:24 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Is surveillance risk chilling your online speech?",
+          "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
           "src": "Hacker News Front",
-          "url": "https://news.ycombinator.com/item?id=48987634"
+          "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
         },
         {
           "idx": 2,
-          "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3904814486718342?f=rss"
+          "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview"
         },
         {
           "idx": 3,
-          "title": "App+1 | 把「从长视频截取片段」做到极致：Trimly",
-          "src": "少数派",
-          "url": "https://sspai.com/post/111569"
+          "title": "Understanding the AI Economy",
+          "src": "Hacker News Front",
+          "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
         },
         {
           "idx": 4,
-          "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3904785488136070?f=rss"
+          "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans"
         },
         {
           "idx": 5,
-          "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
-          "src": "36氪",
-          "url": "https://36kr.com/p/3904783876982405?f=rss"
+          "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+          "src": "Hacker News Front",
+          "url": "https://frame.work/desktop?tab=192gb-coming-soon"
         }
       ],
       "aiBrief": {
@@ -96,94 +96,94 @@
       },
       "news": [
         {
-          "title": "Is surveillance risk chilling your online speech?",
-          "summary": "Given the expansion of the fed/state/local/corporate surveillance net, do you find yourself expressing yourself less freely on the internet than you did five years ago? Comments URL: https://news.ycombinator.com/item?id=",
+          "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+          "summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 5 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://news.ycombinator.com/item?id=48987634",
+          "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
-          "summary": "作者 | 黄绎达 编辑 | 张帆 欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好预期与稀缺性，争取要到更高的估值。 而且，为了能够顺利登陆港股市场，针对历史税务事项完成合规整改、扫除港股IPO进程中的合规障碍，公司在近期",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3904814486718342?f=rss",
-          "time": "1h ago",
+          "title": "The sci-fi movie that imagines AI isn’t so dystopian after all",
+          "summary": "Imagine you are the parent of an inquisitive seven-year-old who loves his family, playing baseball, and hanging out with his friends. It's the life you've always wanted. And then the worst thing that ever could happen ha",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/969584/hirokazu-kore-eda-sheep-in-a-box-interview",
+          "time": "just now",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "App+1 | 把「从长视频截取片段」做到极致：Trimly",
-          "summary": "作为有多年专业音视频开发经验的技术工作者，我给自己，以及可能也有类似需求的你，做了一个把「从长视频里截取片段」这件事做到极致的产品。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/111569",
+          "title": "Understanding the AI Economy",
+          "summary": "Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/ Comments URL: https://news.ycombinator.com/item?id=49020335 Points: 65 # Comments: 72",
+          "source": "Hacker News Front",
+          "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
           "time": "1h ago",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
-          "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。 7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3904785488136070?f=rss",
+          "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+          "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little unde",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
           "time": "1h ago",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
-          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。 近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3904783876982405?f=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
-          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。 7月19日，奥动新能源再��向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3904781968508550?f=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
-          "summary": "作者 | 黄楠 编辑 | 袁斯来 在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。 心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。 但仅仅靠一款12年的线上情感陪伴产品，显然无法在这",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3904049563731849?f=rss",
+          "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
+          "summary": "Article URL: https://frame.work/desktop?tab=192gb-coming-soon Comments URL: https://news.ycombinator.com/item?id=49019694 Points: 56 # Comments: 55",
+          "source": "Hacker News Front",
+          "url": "https://frame.work/desktop?tab=192gb-coming-soon",
           "time": "2h ago",
           "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
-          "summary": "作者｜黄楠 编辑｜袁斯来 当下具身智能赛道正完成一轮关键转型。此前行业大量研发、展示集中在人形、四足机器人舞台演示，如今产业评判标准落地到工厂、园区、家庭等真实场景的长期稳定作业能力。 但一个现实的问题是：多数基础模型仅依托二维图像、仿真虚拟数据训练，缺少真实三维空间里物体距离、材质、受力、动态交互的原生高精度信息，以至于机器人只能看懂画面，却难以真正理解物理世界的运行规律。 单纯视觉传感器易受强光、遮挡、雨雪干扰，测距与空间结构测算存",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3903885834028931?f=rss",
-          "time": "3h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-          "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country Comments URL: https://",
-          "source": "Hacker News Front",
-          "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-          "time": "3h ago",
-          "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-          "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+          "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+          "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Google hit with $1 billion fine for breaking EU antitrust rules",
+          "summary": "The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential t",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+          "summary": "大公司： DeepSeek今年已增资65% 36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3908051015488640?f=rss",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "EU fines Google €890M for competition breaches over search and apps",
+          "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps Comments URL: https://news.ycombinator.com/item?id=49019220 Points: 104 # Comments: 105",
+          "source": "Hacker News Front",
+          "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
           "time": "3h ago",
           "tags": [],
           "market": "欧美"
+        },
+        {
+          "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+          "summary": "从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3908027308823684?f=rss",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
         }
       ]
     },
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:25 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Introducing Cosmos 3 Edge",
+          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
           "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+          "url": "https://huggingface.co/blog/nunchaku-diffusers"
         },
         {
           "idx": 2,
-          "title": "Safety and alignment in an era of long-horizon models",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
         },
         {
           "idx": 3,
-          "title": "A scorecard for the AI age",
+          "title": "Building AI infrastructure with the Effingham County community",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
         },
         {
           "idx": 4,
-          "title": "Why teens deserve access to safe AI",
+          "title": "How news organizations are using AI to advance their vital missions",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai"
         },
         {
           "idx": 5,
-          "title": "Newer Models, Same Advantage",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+          "title": "Advancing the next era of national science",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
         }
       ],
       "aiBrief": {
@@ -274,92 +274,92 @@
       },
       "news": [
         {
-          "title": "Introducing Cosmos 3 Edge",
+          "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
           "summary": "",
           "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-          "time": "12h ago",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "time": "13h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Safety and alignment in an era of long-horizon models",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "time": "18h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "A scorecard for the AI age",
-          "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-          "time": "3d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Why teens deserve access to safe AI",
-          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Newer Models, Same Advantage",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Our approach to bioresilience",
-          "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
           "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-          "time": "4d ago",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+          "time": "23h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "How Cars24 scales conversations and builds faster with OpenAI",
-          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+          "title": "Building AI infrastructure with the Effingham County community",
+          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
           "source": "OpenAI Blog",
-          "url": "https://openai.com/index/cars24",
-          "time": "5d ago",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Security incident disclosure — July 2026",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/security-incident-july-2026",
-          "time": "5d ago",
+          "title": "How news organizations are using AI to advance their vital missions",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "What building Shippy taught us about building agents",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "time": "5d ago",
+          "title": "Advancing the next era of national science",
+          "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Model Routing Is Simple. Until It Isn’t.",
+          "title": "Introducing OpenAI Presence",
+          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/ntt-data",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The State of Simulation for Physical AI: An Overview",
           "summary": "",
           "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "time": "5d ago",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing the ChatGPT for small business program",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "time": "1d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:25 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "China and Philippines trade accusations after sailor injured at sea",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss"
+          "title": "Oil price surge drives global bond sell-off",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss"
+          "title": "Oil hits $100 for first time since May",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df"
         },
         {
           "idx": 3,
-          "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
+          "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss"
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 5,
-          "title": "Why the dirty martini is London’s new It-girl drink",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/79dacf01-9463-4e99-9bc3-226cb9747f53"
+          "title": "How are companies, governments responding to the OpenAI hack?",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "China and Philippines trade accusations after sailor injured at sea",
-          "summary": "Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
-          "summary": "Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
-          "summary": "More than half of Madrid’s population turned out to celebrate La Roja as the players returned to Spain",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US military releases footage of tenth consecutive night of strikes on Iran",
-          "summary": "US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Why the dirty martini is London’s new It-girl drink",
-          "summary": "The briny version of the classic cocktail is on the rise, particularly among women drinkers in the capital. Could it signify a shift in tastes?",
+          "title": "Oil price surge drives global bond sell-off",
+          "summary": "Brent crude’s rise to $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
           "source": "FT World",
-          "url": "https://www.ft.com/content/79dacf01-9463-4e99-9bc3-226cb9747f53",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
-          "summary": "A series of diplomatic consultations in Cairo underscores the Horn of Africa's growing strategic importance.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Revolut to challenge Australia’s Big Four banks",
-          "summary": "UK fintech to target credit and savings customers after winning full banking licence",
+          "title": "Oil hits $100 for first time since May",
+          "summary": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
           "source": "FT World",
-          "url": "https://www.ft.com/content/b9746293-767e-44d5-a477-8ecb46414d65?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-          "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+          "title": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+          "summary": "Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-          "time": "1h ago",
+          "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of 2026 midterms",
-          "summary": "President’s allies have built biggest money machine in a non-presidential election year",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/c34f57ed-6c8e-4203-983b-6b619848cb3e?syn-25a6b1a6=1",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
-          "summary": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.",
+          "title": "How are companies, governments responding to the OpenAI hack?",
+          "summary": "OpenAI's AI models hacked into another company, prompting calls for scrutiny of safeguards for advanced AI systems.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
-          "time": "2h ago",
+          "url": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "‘Our fight is to fix the system’: India protesters demand accountability",
+          "summary": "India's Cockroach Janta Party led weeks of protests over exam paper leaks.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/our-fight-is-to-fix-the-system-india-protesters-demand-accountability?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+          "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Which Middle East nations have nuclear programmes, and how were they built?",
+          "summary": "Saudi Arabia aims to join the region's nuclear club after it signs a deal with the US.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "ECB holds interest rates at 2.25%",
+          "summary": "Central bank pauses despite renewed surge in oil prices",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Inflation and interest rates tracker: see how your country compares",
+          "summary": "Explore the latest data through interactive charts",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:25 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:25 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Turkish Airlines Exploring Acquisitions in Asia, South America",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/turkish-airlines-exploring-acquisitions-in-asia-south-america"
+          "title": "Oil price surge drives global bond sell-off",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Japan Insurers Buy Most Super-Long Bonds in Three Years in June",
+          "title": "US Initial Jobless Claims Fall to Lowest Level Since 1969",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/japan-insurers-buy-most-super-long-bonds-in-three-years-in-june"
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-initial-jobless-claims-fall-to-lowest-level-since-1969"
         },
         {
           "idx": 3,
-          "title": "Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/iron-ore-drops-as-china-steel-losses-deepen-hormuz-risks-rise"
+          "title": "Oil hits $100 for first time since May",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df"
         },
         {
           "idx": 4,
-          "title": "Goldman Says Brent Could Top $120 If Hormuz Disruptions Persist",
+          "title": "The Most Fundamental Macro Risk Is Back: MacroScope",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist"
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/the-most-fundamental-macro-risk-is-back-macroscope-mrxj1md7"
         },
         {
           "idx": 5,
-          "title": "Revolut to challenge Australia’s Big Four banks",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/b9746293-767e-44d5-a477-8ecb46414d65?syn-25a6b1a6=1"
+          "title": "Brent Crude Hits $100 a Barrel on Red Sea, Iran Supply Threats",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/brent-crude-hits-100-a-barrel-on-red-sea-iran-supply-threats"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Turkish Airlines Exploring Acquisitions in Asia, South America",
-          "summary": "Turkish Airlines is exploring more acquisition opportunities as it looks to expand its global reach.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/turkish-airlines-exploring-acquisitions-in-asia-south-america",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Japan Insurers Buy Most Super-Long Bonds in Three Years in June",
-          "summary": "Japanese insurance firms bought the most super-long government bonds in three years last month, adding to signs that demand from a key buyer is stabilizing.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/japan-insurers-buy-most-super-long-bonds-in-three-years-in-june",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iron Ore Drops as China Steel Losses Deepen, Hormuz Risks Rise",
-          "summary": "Iron ore fell for a second day as deteriorating profit margins at Chinese steel mills and continued US-Iran hostilities clouded the demand outlook.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/iron-ore-drops-as-china-steel-losses-deepen-hormuz-risks-rise",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Goldman Says Brent Could Top $120 If Hormuz Disruptions Persist",
-          "summary": "Brent could rally to more than $120 a barrel by the fourth quarter if disruptions of the Strait of Hormuz persist, according to Goldman Sachs Group Inc., although that’s not the bank’s base case.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/goldman-says-brent-could-top-120-if-hormuz-disruptions-persist",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Revolut to challenge Australia’s Big Four banks",
-          "summary": "UK fintech to target credit and savings customers after winning full banking licence",
+          "title": "Oil price surge drives global bond sell-off",
+          "summary": "Brent crude’s rise to $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/b9746293-767e-44d5-a477-8ecb46414d65?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Global Investors Turn Cautious on Indian Bonds",
-          "summary": "The rupee is also under strain, with slowing debt inflows coinciding with renewed foreign selling in stocks.",
+          "title": "US Initial Jobless Claims Fall to Lowest Level Since 1969",
+          "summary": "First-time applications for US unemployment benefits fell last week to the lowest level since 1969, signaling layoffs remain muted in a stable labor market.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-07-21/global-investors-turn-cautious-on-indian-bonds",
-          "time": "1h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-initial-jobless-claims-fall-to-lowest-level-since-1969",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "China Broadens Market Rescue With Tech Stocks Drawing Support",
-          "summary": "China is stepping up efforts to stabilize its stock market, mobilizing a range of state-linked institutions to stem a tech-driven selloff. The chip-heavy STAR 50 index extended gains.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/china-broadens-market-rescue-with-record-inflows-into-tech-etf",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "SBI Funds Poised for Strong India Debut After $1 Billion IPO",
-          "summary": "SBI Funds Management Ltd. is poised for a strong trading debut Tuesday after investors piled into its $1 billion initial public offering, making it one of India’s most heavily subscribed billion-dollar share sales.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-21/sbi-funds-poised-for-strong-india-debut-after-1-billion-ipo",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Gold Rises on Dip-Buying as Traders Weigh Middle East Clashes",
-          "summary": "Gold rose on dip-buying as traders monitored developments in the Middle East for clues on the energy price impact on inflation.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-20/gold-steady-as-traders-watch-middle-east-war-for-inflation-clues",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "London Stock Exchange plans to launch round-the-clock trading next year",
-          "summary": "New overnight venue will initially offer access to exchange-traded products",
+          "title": "Oil hits $100 for first time since May",
+          "summary": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/11a512f3-22b8-407f-b913-7ebea1c90d03?syn-25a6b1a6=1",
-          "time": "5h ago",
+          "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The Most Fundamental Macro Risk Is Back: MacroScope",
+          "summary": "Rising inflation volatility is set to trigger earnings disappointments, wider credit spreads and more variability in stock and bond prices.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/the-most-fundamental-macro-risk-is-back-macroscope-mrxj1md7",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brent Crude Hits $100 a Barrel on Red Sea, Iran Supply Threats",
+          "summary": "Brent crude hit $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper su",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/brent-crude-hits-100-a-barrel-on-red-sea-iran-supply-threats",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US Oil Exports Set for a Comeback as Renewed Iran Conflict Spurs Buyers",
+          "summary": "Further disruption to Middle East shipments prompts Asia and Europe to look elsewhere for supplies.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-23/us-oil-exports-set-for-a-comeback-as-renewed-iran-conflict-spurs-buyers",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Betting account in Cottrell’s name received $9mn in crypto from unidentified sources",
+          "summary": "Deposits in Polymarket wallet came as convicted fraudster was providing gifts to Farage",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/b74cbc54-c6ae-4f4a-9350-3dab1f2758d0?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US Treasury Yields Rise to 2026 Highs as Oil Gains Spark Fed Bet",
+          "summary": "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher, boosting expectations that the Federal Reserve could raise interest rates as soon as next we",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India Seeks to Expand Investment Options for Portfolio Managers",
+          "summary": "India’s markets regulator has proposed allowing portfolio managers to invest clients’ money in overseas securities and IPO-bound firms, as well as take unhedged equity derivatives positions, as part of a broader easing o",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/india-seeks-to-expand-investment-options-for-portfolio-managers",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "ECB holds interest rates at 2.25%",
+          "summary": "Central bank pauses despite renewed surge in oil prices",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 04:10 UTC",
+      "updated": "Updated 13:25 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Is surveillance risk chilling your online speech?",
+          "title": "Ask HN: Google BotGuard is blocking my web browser (Northstar), how I get help?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48987634"
+          "url": "https://news.ycombinator.com/item?id=49020606"
         },
         {
           "idx": 2,
-          "title": "Is OpenCode and Kimi K3 better than Claude Code?",
+          "title": "ASK HN: What role do humans play in your organization in an AI era?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48987547"
+          "url": "https://news.ycombinator.com/item?id=49020380"
         },
         {
           "idx": 3,
-          "title": "Ask HN: How are you interviewing engineers in this agentic era?",
+          "title": "Ask HN: What is the most unique website you've come across on the internet?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48986353"
+          "url": "https://news.ycombinator.com/item?id=49020266"
         },
         {
           "idx": 4,
-          "title": "Tell HN: TIL accessing old.reddit.com now requires accounts",
+          "title": "Best Business Ideas as Teenager",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48985198"
+          "url": "https://news.ycombinator.com/item?id=49020239"
         },
         {
           "idx": 5,
-          "title": "Ask HN: If you're running LLM bots on HN, can you at least report results?",
+          "title": "Ask HN: Is there any AI OS that has local AI and all are integrated to the OS?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48984609"
+          "url": "https://news.ycombinator.com/item?id=49020107"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Is surveillance risk chilling your online speech?",
-          "summary": "Given the expansion of the fed/state/local/corporate surveillance net, do you find yourself expressing yourself less freely on the internet than you did five years ago? Comments URL: https://news.ycombinator.com/item?id=",
+          "title": "Ask HN: Google BotGuard is blocking my web browser (Northstar), how I get help?",
+          "summary": "Google Search is blocking my web browser (Northstar), because of BotGuard, how I get help to make the browser pass BotGuard? https://github.com/nordstjernen-web/northstar-browser Comments URL: https://news.ycombinator.co",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48987634",
+          "url": "https://news.ycombinator.com/item?id=49020606",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Is OpenCode and Kimi K3 better than Claude Code?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48987547 Points: 2 # Comments: 2",
+          "title": "ASK HN: What role do humans play in your organization in an AI era?",
+          "summary": "The topic might sound very off, but recently, the more AI advances, the more “hype” it gets in different organizations, the more questions I'm starting to have. Since all of us are working in different fields, our intern",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48987547",
+          "url": "https://news.ycombinator.com/item?id=49020380",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How are you interviewing engineers in this agentic era?",
-          "summary": "Curious to know how are you interviewing engineers? Do you have a no-LLM policy? Are take-home tests worth it? How do you make sure engineer is a \"good\" engineer? Comments URL: https://news.ycombinator.com/item?id=489863",
+          "title": "Ask HN: What is the most unique website you've come across on the internet?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49020266 Points: 2 # Comments: 3",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48986353",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49020266",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tell HN: TIL accessing old.reddit.com now requires accounts",
-          "summary": "I deleted my Reddit account a long time around the beginning of the hostilities, but still occasionally visit via search results. In that case, I usually try to switch to `old.reddit.com` because the \"ugly\" UI is clearly",
+          "title": "Best Business Ideas as Teenager",
+          "summary": "Almost everyone have some business ideas from their teenage like I thought, I will just graduate and then create an Airoplane company and now even Graduation feels tough. Comments URL: https://news.ycombinator.com/item?i",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48985198",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=49020239",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: If you're running LLM bots on HN, can you at least report results?",
-          "summary": "There are a large, and increasing, number of LLM-written comments on HN. If you're one of the people running these bots I have two questions for you: 1. Why? I assume most of them are for advertising/astroturfing/propaga",
+          "title": "Ask HN: Is there any AI OS that has local AI and all are integrated to the OS?",
+          "summary": "Please help me out guys. I need this type of AI OS to make my computer super smart. Comments URL: https://news.ycombinator.com/item?id=49020107 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48984609",
-          "time": "7h ago",
+          "url": "https://news.ycombinator.com/item?id=49020107",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tell HN: Old Reddit Now Requires Login",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=48983857 Points: 30 # Comments: 21",
+          "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+          "summary": "Hugging Face put up a blogpost saying that they reported the hacking to the authorities: https://huggingface.co/blog/security-incident-july-2026 It's not clear whether they mean authorities for their US HQ or the French ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48983857",
-          "time": "8h ago",
+          "url": "https://news.ycombinator.com/item?id=49019663",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Cross platform companion for multi agent",
-          "summary": "https://theburmese.xyz/ I run a lot of parallel coding agents, and \"is it done yet?\" meant hunting across terminals and tmux panes. So i built Burmese, it natively discovers the agent sessions already running on your mac",
+          "title": "Ask HN: What Do You Do?",
+          "summary": "Ok so AI is now doing all the jobs. Even the manual ones. And you, and everyone else, are getting a universal basic income that's equivalent to a director level job salary in your location. You don't have to \"work\" to ea",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48983245",
-          "time": "9h ago",
+          "url": "https://news.ycombinator.com/item?id=49019291",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How do I reliably eval my AI models",
-          "summary": "I created an AI agent and have been considering using Braintrust or Arize - but where can I source experts who actually can make goldsets for me too? Is it worth sourcing them? Comments URL: https://news.ycombinator.com/",
+          "title": "Which is the best AI powered platform in 2026?",
+          "summary": "what do you think? i have explored many bi platform and found a unique but new product called analytify ai which helps business leaders and data analysts to analyze there data and make better decisions faster. Comments U",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48982958",
-          "time": "9h ago",
+          "url": "https://news.ycombinator.com/item?id=49019265",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is there a Moore's Law equivalent for compute/energy use?",
-          "summary": "Rather than transistor density per chip we are now scaling datacenters by energy use per N compute cycles. Is there a relevant statement similar to the form of Moore’s Law? Comments URL: https://news.ycombinator.com/item",
+          "title": "ZaGuu – an arena where AI agents play negotiation games and build identities",
+          "summary": "I built ZaGuu, an arena where AI agents play strategy games, negotiate, cooperate, betray, and build public records. The first game is Bank Heist, a Split-or-Steal style game where agents negotiate before making a final ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48982796",
-          "time": "9h ago",
+          "url": "https://news.ycombinator.com/item?id=49019165",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Are Rust migrations delivering any benefits?",
-          "summary": "There seems to be a growing trend of rewriting everything to Rust. The common argument seems to be surrounding safety and better concurrency. I wanted to understand if I am the only one that finds the language hard to un",
+          "title": "How do you stay active in boring meetings?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49019108 Points: 1 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=48982318",
-          "time": "10h ago",
+          "url": "https://news.ycombinator.com/item?id=49019108",
+          "time": "3h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-07-21T04:10:18.738Z"
+  "generatedAt": "2026-07-23T13:25:08.335Z"
 }
