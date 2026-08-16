@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "We’re reaching peak camera with the Sony A7R VI",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review"
+          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+          "src": "Hacker News Front",
+          "url": "https://www.micdrop.gg/"
         },
         {
           "idx": 2,
-          "title": "The surprise must-see movie of the summer",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer"
+          "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+          "src": "Hacker News Front",
+          "url": "https://waku.sh"
         },
         {
           "idx": 3,
-          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+          "title": "Big Pickle on SWE Atlas – Codebase QnA",
           "src": "Hacker News Front",
-          "url": "https://sankalp.bearblog.dev/autoresearch/"
+          "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas"
         },
         {
           "idx": 4,
-          "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal"
+          "title": "Tea5767-Radio-Tuner",
+          "src": "Hacker News Front",
+          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner"
         },
         {
           "idx": 5,
-          "title": "Debian has begun voting on the future of AI/LLM contributions",
+          "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
           "src": "Hacker News Front",
-          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html"
+          "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "We’re reaching peak camera with the Sony A7R VI",
-          "summary": "Maximum camera. | Photo: Antonio G. Di Benedetto / The Verge It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. So",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The surprise must-see movie of the summer",
-          "summary": "Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer home",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 22 # Comments: 2",
+          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+          "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 6 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://sankalp.bearblog.dev/autoresearch/",
+          "url": "https://www.micdrop.gg/",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "When housing is unaffordable, this artist’s device makes pedaling harder",
-          "summary": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what t",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+          "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+          "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 7 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://waku.sh",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Debian has begun voting on the future of AI/LLM contributions",
-          "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html Comments URL: https://news.ycombinator.com/item?id=49309050 Points: 33 # Comments: 21",
+          "title": "Big Pickle on SWE Atlas – Codebase QnA",
+          "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 3 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
           "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-          "summary": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 33 # Comments: 11",
+          "title": "Tea5767-Radio-Tuner",
+          "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 21 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://uecker.codeberg.page/2026-07-14.html",
+          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+          "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind Comments URL: https://news.ycombinator.com/item?id=49315065 Points: 4 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+          "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 22 # Comments: 6",
+          "source": "Hacker News Front",
+          "url": "https://sugartrack-beta.vercel.app/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+          "summary": "Doh! | Image: Activision / 20th Century Fox At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some f",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/ Comments URL: https://news.ycombinator.com/item?id=49308553 Points: 47 # Comments:",
+          "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+          "summary": "Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 12 # Comments: 1",
           "source": "Hacker News Front",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "url": "https://xescu.re/keeta-consensus.pdf",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/111974",
-          "time": "5h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 50 # Comments: 14",
+          "title": "Bede Liu, a digital signal processing pioneer, has died",
+          "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 60 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://chenxiachan.github.io/thoughtdag/",
-          "time": "7h ago",
+          "url": "https://spectrum.ieee.org/digital-signal-processing",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "The other Sean Byrne doesn't exist",
-          "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 234 # Comments: 115",
+          "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+          "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 68 # Comments: 17",
           "source": "Hacker News Front",
-          "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-          "time": "7h ago",
+          "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -341,7 +341,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -350,7 +350,7 @@
           "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -359,7 +359,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+          "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Burnham calls for ‘reflection’ over death of Jason Arday",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1"
+          "title": "Army drops roses on Syrian crowds in a far cry from war",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+          "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
           "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-          "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+          "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+          "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Army drops roses on Syrian crowds in a far cry from war",
+          "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+          "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+          "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+          "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
+          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Burnham calls for ‘reflection’ over death of Jason Arday",
-          "summary": "Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-          "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
+          "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+          "summary": "Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
-          "summary": "The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.",
+          "title": "At least five reported dead amid flooding in US state of Indiana",
+          "summary": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-          "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Aftermath of deadly Indonesia earthquake",
-          "summary": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
+          "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+          "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
-          "summary": "Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversary of Japan's surrender in WWII.",
+          "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+          "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
-          "time": "1h ago",
+          "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "What the Taliban achieved and failed to achieve in five years",
-          "summary": "The Taliban government brought security and stability but is facing increasing alienation of the general population.",
+          "title": "Why is the latest Ebola outbreak worsening?",
+          "summary": "Virus spreading in DRC faster than containment efforts.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Labour’s rental reforms disrupt student market and lengthen lettings process",
-          "summary": "Renters’ Rights Act locks international students out of housing market while pushing prospective tenants into double rents",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/1c5f8995-ee2f-47cf-977b-69e65f0a8ccc",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-          "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-          "time": "1h ago",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -549,38 +549,38 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "title": "微视频｜“新”在中国",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm"
         },
         {
           "idx": 2,
-          "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
+          "title": "疫情防控措施优化 各地复商复市进行时",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm"
         },
         {
           "idx": 3,
-          "title": "关于BQ.1，你需要知道的几件事——",
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm"
         },
         {
           "idx": 4,
-          "title": "6年、10年、12年，他们都经历了什么？",
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm"
         },
         {
           "idx": 5,
-          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
+          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
           "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm"
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
         }
       ],
       "aiBrief": {
@@ -627,6 +627,42 @@
         ]
       },
       "news": [
+        {
+          "title": "微视频｜“新”在中国",
+          "summary": "新时代的中国，日新月异。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "疫情防控措施优化 各地复商复市进行时",
+          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
         {
           "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
           "summary": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
@@ -680,42 +716,6 @@
           "time": "recent",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "微视频｜“新”在中国",
-          "summary": "新时代的中国，日新月异。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "疫情防控措施优化 各地复商复市进行时",
-          "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
-          "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
-          "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Inflation Is Cooling. But is 2% Out of Reach?",
+          "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops"
         },
         {
           "idx": 2,
-          "title": "In the Inflation Ballpark",
+          "title": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-15/in-the-inflation-ballpark"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump"
         },
         {
           "idx": 3,
-          "title": "Iran Sanctions Could Put China Oil Trade in Focus",
+          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/iran-sanctions-could-put-china-oil-trade-in-focus-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
         },
         {
           "idx": 4,
-          "title": "South Korea’s inverse correlation",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/57d098e2-7cb7-426b-90b9-38bbd2a37eb3?syn-25a6b1a6=1"
+          "title": "Colombia Quake Tests New President Days Into Term",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video"
         },
         {
           "idx": 5,
-          "title": "China Film’s Sales Soar as Online Scorn Attracts Curious Viewers",
+          "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video"
         }
       ],
       "aiBrief": {
@@ -806,29 +806,83 @@
       },
       "news": [
         {
-          "title": "Inflation Is Cooling. But is 2% Out of Reach?",
-          "summary": "BlackRock’s Rick Rieder says the latest CPI report gave markets reason to celebrate, but inflation remains above the Fed’s 2% target. He argues the economy is now “in the ballpark” and that raising overnight rates may no",
+          "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+          "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/inflation-is-cooling-but-is-2-out-of-reach-video",
-          "time": "just now",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "In the Inflation Ballpark",
-          "summary": "We’re not at target yet.",
+          "title": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
+          "summary": "Peru’s economy unexpectedly slowed in June due to a slump in fishing and agriculture output amid unusual weather conditions.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-15/in-the-inflation-ballpark",
-          "time": "just now",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran Sanctions Could Put China Oil Trade in Focus",
-          "summary": "The Trump administration is considering additional sanctions on Iran as the Strait of Hormuz blockade squeezes oil flows and keeps pressure on US gasoline prices. Joining Bloomberg This Weekend is Axios Business Reporter",
+          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Joe Mathieu, Carol Massar and Lisa Mateo as they play",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/iran-sanctions-could-put-china-oil-trade-in-focus-video",
-          "time": "just now",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Colombia Quake Tests New President Days Into Term",
+          "summary": "Rescuers in western Colombia are still searching for survivors after a 7.4 magnitude earthquake killed at least 287 people. Bloomberg News Latin America Government Reporter Mie Dahl joins Bloomberg This Weekend from Bogo",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
+          "summary": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targets even when communications or GPS are d",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
+          "time": "11h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Lakers Deal Caps Billionaire Rush Into Sports",
+          "summary": "Bob Iger and Josh Kushner moved from pursuing a Las Vegas NBA expansion team to agreeing within days to buy the Los Angeles Lakers in a record $12.5 billion deal. Bloomberg News Host of Sports City Randall Williams is on",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/lakers-deal-caps-billionaire-rush-into-sports-video",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+          "summary": "PNC's Chief Investment Officer Amanda Agati is on Bloomberg This Weekend with hosts Joe Mathieu and Carol Massar and says that strong earnings and economic fundamentals continue to support US stocks, even as elevated Tre",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US-Iran War Risks Repeated Cycles of Fighting",
+          "summary": "Shifting US objectives and neither side able to secure a decisive military victory make a lasting resolution difficult and Bloomberg Economics Defense Lead Becca Wasser says risks the the US-Iran conflict becoming a prot",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "By The Way: Headline You May Have Missed",
+          "summary": "Mystery vacations, college campuses for sale, buying sorority unwritten rules, and half off sushi: Bloomberg News' Lisa Mateo joins Joe Mathieu and Carol Massar on Bloomberg This Weekend to share headlines you may have m",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/by-the-way-headline-you-may-have-missed-video",
+          "time": "12h ago",
           "tags": [],
           "market": null
         },
@@ -837,61 +891,7 @@
           "summary": "Kospi down, won up",
           "source": "FT Markets",
           "url": "https://www.ft.com/content/57d098e2-7cb7-426b-90b9-38bbd2a37eb3?syn-25a6b1a6=1",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "China Film’s Sales Soar as Online Scorn Attracts Curious Viewers",
-          "summary": "A Chinese animated film that generated only about $1,000 in ticket sales in its first 10 days at theaters became a social-media sensation after online ridicule helped propel its box-office revenue into six figures, accor",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Xi Urges Shift to Prevention in Disaster Management, Xinhua Says",
-          "summary": "President Xi Jinping called for China to shift disaster management toward prevention, saying safety and resilience should be integrated into planning and development, Xinhua News Agency reported on Saturday.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/xi-urges-shift-to-prevention-in-disaster-management-xinhua-says",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Malaysia’s Anwar Vows Faster Reforms After Electoral Defeats",
-          "summary": "Malaysian Prime Minister Anwar Ibrahim said he will speed up the pace of reforms and strengthen an anti-corruption drive as he seeks to rebuild public support after a string of electoral defeats and party departures.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/malaysia-s-anwar-vows-faster-reforms-after-electoral-defeats",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Modi Maps India’s Growth Push With Youth Focus",
-          "summary": "India's Prime Minister Narendra Modi renewed his pledge to make the country a developed nation within two decades in his Independence Day speech. (Source: Bloomberg)",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/modi-maps-india-s-growth-push-with-youth-focus-video",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Money Managers Chase €500 Billion Historic German Pension Shift",
-          "summary": "One of the biggest reforms in Germany’s pension system since Chancellor Otto von Bismarck founded it in the late 19th century is about to hand modern fund managers a new empire of cash to deploy.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/money-managers-chase-500-billion-historic-german-pension-shift",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "China Protests Japan PM, Defense Minister’s Yasukuni Actions",
-          "summary": "China lodged a formal protest with Japan after Prime Minister Sanae Takaichi sent an offering to Yasukuni shrine and Defense Minister Shinjiro Koizumi visited it on the anniversary of Japan’s surrender in World War II.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions",
-          "time": "8h ago",
+          "time": "16h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 12:18 UTC",
+      "updated": "Updated 02:15 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Have you worked or collaborated with anyone from HackerNews?",
+          "title": "Privacy is an underrated advantage in Slack apps",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309675"
+          "url": "https://news.ycombinator.com/item?id=49315895"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Which blogs and RSS feeds do you follow?",
+          "title": "Automating Microsoft Edge Rewards",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309188"
+          "url": "https://news.ycombinator.com/item?id=49314850"
         },
         {
           "idx": 3,
-          "title": "Alternative to Internet Archive",
+          "title": "Ask HN: I created a web browser using Claude, everybody hates it",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309061"
+          "url": "https://news.ycombinator.com/item?id=49314731"
         },
         {
           "idx": 4,
-          "title": "Wayland, Pipewire, Open Source Slowly Closing?",
+          "title": "Ask HN: What is your favorite lightweight tool or CLI utility in 2026?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308990"
+          "url": "https://news.ycombinator.com/item?id=49314700"
         },
         {
           "idx": 5,
-          "title": "OpenAI updates its Privacy Policy to include ads",
+          "title": "Ask HN: Anyone got a deauthentication attack script?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308738"
+          "url": "https://news.ycombinator.com/item?id=49314649"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Have you worked or collaborated with anyone from HackerNews?",
-          "summary": "Have you ever worked or collaborated with someone from here, whether you found them through the official \"Who is hiring / Who wants to be hired\" threads, \"What are you working on?\", \"Show HN\", or other general discussion",
+          "title": "Privacy is an underrated advantage in Slack apps",
+          "summary": "Maybe more of a big deal should be made about the flood of internal private company information that can pass through to third-party Slack app developers? I suspect most that install Slack apps aren't aware (or don't car",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309675",
-          "time": "just now",
+          "url": "https://news.ycombinator.com/item?id=49315895",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Which blogs and RSS feeds do you follow?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49309188 Points: 1 # Comments: 1",
+          "title": "Automating Microsoft Edge Rewards",
+          "summary": "Hey! anyone thought about automating edge rewards to gain points.. Thinking about using pyautogui and playwright to do it!! Comments URL: https://news.ycombinator.com/item?id=49314850 Points: 2 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309188",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Alternative to Internet Archive",
-          "summary": "Now; i use the archive to archive my prolithic output of music. (i have over 300 albums.) The music is of my own creation. Since the DDoS attack of 2024; Archive has been a hit or miss on the uploading factors. And many ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49309061",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Wayland, Pipewire, Open Source Slowly Closing?",
-          "summary": "I am kinda depressed over these factors. I have used linux since 2015 and really never ran into problems until the past five years. I am a composer with a prolithic output; and had a steady workflow for most of the years",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308990",
+          "url": "https://news.ycombinator.com/item?id=49314850",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "OpenAI updates its Privacy Policy to include ads",
-          "summary": "I got this email: Hi _____, We’re rolling out ads in ChatGPT and we’re updating our Privacy Policy to include information about how ads work and how you can control your experience. What’s changing Ads may appear on Free",
+          "title": "Ask HN: I created a web browser using Claude, everybody hates it",
+          "summary": "I created a web browser, Northstar web browser, using Claude, Gemini and Chatgpt Codex, everybody hates it, insults me personally and calls it AI slop. https://github.com/nordstjernen-web/northstar-browser Does this mean",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308738",
+          "url": "https://news.ycombinator.com/item?id=49314731",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tell HN: My open-source form builder has reached ~7k registered users",
-          "summary": "Project is: https://forms.md That's the post really. It recently reached ~7k registered users, and it's feels amazing. I built the project before the AI boom, and it's \"hand-written\". Revenue is small, but it doesn't rea",
+          "title": "Ask HN: What is your favorite lightweight tool or CLI utility in 2026?",
+          "summary": "Tools like ripgrep, fzf, and htop have saved me countless hours over the years. What small utilities do you rely on daily? Comments URL: https://news.ycombinator.com/item?id=49314700 Points: 5 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308631",
+          "url": "https://news.ycombinator.com/item?id=49314700",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "32GB+ Simulator Issac SIM your Browser",
-          "summary": "Hey Devs, Builders and Students, I've developed an physical ai cloud where you can use 32 gb+ NVIDIA Issac Sim Simulator in your browser only at $0.92/hr. You don't need to buy workstation setup worth $4k-$5k, extra memo",
+          "title": "Ask HN: Anyone got a deauthentication attack script?",
+          "summary": "Hey HN, I know this might sound sus lol, but I'd like to learn more about cyber security and today I've managed to build an arp spoofer today which cuts off network for anyone but the host (me), tho a deauth attack scrip",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308530",
+          "url": "https://news.ycombinator.com/item?id=49314649",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Open Commonplace – Protecting knowledge from being generalized by AI",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49308416 Points: 1 # Comments: 0",
+          "title": "DersCountsort: General-purpose sort with amortized O(N) complexity",
+          "summary": "Hi All! If you are interested in sorting algorithms, you will learn something new: 1. It's commonly believed that, on average, comparison sorting can't perform better than O(Nlog(N)). But this is incorrect! The sorting i",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308416",
-          "time": "5h ago",
+          "url": "https://news.ycombinator.com/item?id=49314420",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Could Anthropic's watermark be much simpler than we think?",
-          "summary": "Anthropic recently said they're working on watermarking Claude output, while also saying it won't interfere with generation quality. I'm wondering if is just hash-fingerprinting. For example, take the generated text and ",
+          "title": "Kimi Work attaches raw agent sessions to feedback reports",
+          "summary": "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd. Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308317",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How do you keep up with HN these days?",
-          "summary": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and mor",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49308059",
+          "url": "https://news.ycombinator.com/item?id=49313711",
           "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Has anyone solved reproducible deployment of native mobile platforms?",
+          "summary": "For the last several years, our team has been working on one question: does every new native mobile platform really need to be a new development project? We used to develop social and business platforms as separate proje",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49313412",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Ive quit six systems for tracking my illness. What works?",
+          "summary": "Hey everyone, I am a 20 year old college student who was recently diagnosed with seronegative spondyloarthropathy. Over the last 3 years, Ive tried apps, paper journal, Google Sheets, and notes to track/catalogue my jour",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49313346",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What non-technical skill boosted your engineering career the most?",
+          "summary": "For me it was learning how to communicate technical trade-offs clearly to non-technical stakeholders and writing concise documentation. What skills made a major difference for you? Comments URL: https://news.ycombinator.",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49312725",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-08-15T12:18:22.646Z"
+  "generatedAt": "2026-08-16T02:15:39.706Z"
 }
