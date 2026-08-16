@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+          "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
           "src": "Hacker News Front",
-          "url": "https://www.micdrop.gg/"
+          "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer"
         },
         {
           "idx": 2,
-          "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "src": "Hacker News Front",
-          "url": "https://waku.sh"
+          "title": "Rogue AI aren’t science fiction anymore",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
         },
         {
           "idx": 3,
-          "title": "Big Pickle on SWE Atlas – Codebase QnA",
+          "title": "Ask HN: Do you know of any company that went back to hand-written code?",
           "src": "Hacker News Front",
-          "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas"
+          "url": "https://news.ycombinator.com/item?id=49318906"
         },
         {
           "idx": 4,
-          "title": "Tea5767-Radio-Tuner",
+          "title": "Show HN: Grafana agent observability for Hermes Agent",
           "src": "Hacker News Front",
-          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner"
+          "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes"
         },
         {
           "idx": 5,
-          "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+          "title": "What happens when an LLM never sees material beyond fifth grade?",
           "src": "Hacker News Front",
-          "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind"
+          "url": "https://littlelearner-ll.github.io/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-          "summary": "Article URL: https://www.micdrop.gg/ Comments URL: https://news.ycombinator.com/item?id=49315742 Points: 6 # Comments: 2",
+          "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer Comments URL: https://news.ycombinator.com/item?id=49319215 Points: 0 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://www.micdrop.gg/",
-          "time": "1h ago",
+          "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+          "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-          "summary": "Article URL: https://waku.sh Comments URL: https://news.ycombinator.com/item?id=49315709 Points: 7 # Comments: 1",
-          "source": "Hacker News Front",
-          "url": "https://waku.sh",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Big Pickle on SWE Atlas – Codebase QnA",
-          "summary": "Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas Comments URL: https://news.ycombinator.com/item?id=49315563 Points: 3 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Tea5767-Radio-Tuner",
-          "summary": "Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 21 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
-          "summary": "Article URL: https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind Comments URL: https://news.ycombinator.com/item?id=49315065 Points: 4 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-          "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 22 # Comments: 6",
-          "source": "Hacker News Front",
-          "url": "https://sugartrack-beta.vercel.app/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
-          "summary": "Doh! | Image: Activision / 20th Century Fox At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some f",
+          "title": "Rogue AI aren’t science fiction anymore",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepb",
           "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+          "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+          "summary": "This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer. You've def",
+          "source": "Hacker News Front",
+          "url": "https://news.ycombinator.com/item?id=49318906",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Show HN: Grafana agent observability for Hermes Agent",
+          "summary": "Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes Comments URL: https://news.ycombinator.com/item?id=49318128 Points: 5 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "What happens when an LLM never sees material beyond fifth grade?",
+          "summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 150 # Comments: 115",
+          "source": "Hacker News Front",
+          "url": "https://littlelearner-ll.github.io/",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-          "summary": "Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 12 # Comments: 1",
+          "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+          "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/113495",
+          "time": "7h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Falstad Math and Physics Simulations",
+          "summary": "Article URL: https://www.falstad.com/mathphysics.html Comments URL: https://news.ycombinator.com/item?id=49316872 Points: 26 # Comments: 6",
           "source": "Hacker News Front",
-          "url": "https://xescu.re/keeta-consensus.pdf",
-          "time": "4h ago",
+          "url": "https://www.falstad.com/mathphysics.html",
+          "time": "7h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Bede Liu, a digital signal processing pioneer, has died",
-          "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 60 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://spectrum.ieee.org/digital-signal-processing",
-          "time": "4h ago",
+          "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+          "summary": "The compact Polaroid Go is great for road trips and adventures. | Image: Polaroid Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+          "time": "9h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-          "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 68 # Comments: 17",
+          "title": "Patterns and problems in emerging multi-agent systems",
+          "summary": "Article URL: https://www.anthropic.com/research/multiagent-systems Comments URL: https://news.ycombinator.com/item?id=49316271 Points: 119 # Comments: 66",
           "source": "Hacker News Front",
-          "url": "https://en.wikipedia.org/wiki/Wow!_signal",
-          "time": "4h ago",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "time": "10h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Guiding Ships with Moire Patterns",
+          "summary": "Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/ Comments URL: https://news.ycombinator.com/item?id=49315995 Points: 68 # Comments: 19",
+          "source": "Hacker News Front",
+          "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+          "time": "10h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -305,7 +305,7 @@
           "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/previewing-ultrafast",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+          "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
+          "title": "‘Limited options’ for many Iranians as war with US chokes economy",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss"
+          "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 4,
-          "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
+          "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
-          "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
+          "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+          "summary": "Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Army drops roses on Syrian crowds in a far cry from war",
-          "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+          "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+          "summary": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-          "time": "1h ago",
+          "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-          "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-          "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-          "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+          "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+          "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "time": "2h ago",
+          "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-          "summary": "Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-          "time": "2h ago",
+          "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+          "summary": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "At least five reported dead amid flooding in US state of Indiana",
-          "summary": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
+          "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+          "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-          "time": "2h ago",
+          "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-          "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-          "time": "3h ago",
+          "title": "How economics is changing",
+          "summary": "The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-          "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
-          "time": "3h ago",
+          "title": "Ralph Lauren is winning the workwear wars as America returns to the office",
+          "summary": "People are hanging up the casual aesthetic of the pandemic years to dress up again",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/8791db73-09d0-4fe9-a11e-1a9e0ce48739",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why is the latest Ebola outbreak worsening?",
-          "summary": "Virus spreading in DRC faster than containment efforts.",
+          "title": "Will the Fed minutes reveal any forward guidance?",
+          "summary": "Market Questions is the FT’s guide to the week ahead",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/f9eb497c-f8e0-4cba-8edc-619e55b74a59?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+          "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-          "time": "4h ago",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+          "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
+          "title": "Iran MOU Expires With Diplomacy Still in Play",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-16/iran-mou-expires-with-diplomacy-still-in-play-video"
         },
         {
           "idx": 2,
-          "title": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
+          "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video"
         },
         {
           "idx": 3,
-          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb"
         },
         {
           "idx": 4,
-          "title": "Colombia Quake Tests New President Days Into Term",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video"
+          "title": "Big Tech’s data centre boom poised to drive up carbon emissions",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
+          "title": "Malaysia’s DAP Hands Anwar Reprieve With Vote to Stay in Cabinet",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/malaysia-s-dap-hands-anwar-reprieve-with-vote-to-stay-in-cabinet"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
-          "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets",
+          "title": "Iran MOU Expires With Diplomacy Still in Play",
+          "summary": "Bloomberg News Middle East Reporter Dan Williams is on Bloomberg This Weekend discussing how the expiration of the US-Iran memorandum of understanding is unlikely by itself to trigger a return to all-out fighting, with d",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-16/iran-mou-expires-with-diplomacy-still-in-play-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Why Private Equity’s Playbook Is Losing to Public Markets",
+          "summary": "Private equity has long promised investors better returns than public markets, while offering entrepreneurs like Dan Namerow life-changing exits. But the market that made those deals work has changed. Higher interest rat",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-16/private-equity-s-playbook-is-losing-to-public-markets-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+          "summary": "As investors debate whether and when the Federal Reserve will raise interest rates, market expectations for further tightening are building around the world — and spelling trouble for bonds.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Big Tech’s data centre boom poised to drive up carbon emissions",
+          "summary": "FT analysis finds 60 largest planned facilities could emit equivalent of 27 coal plants or 24mn cars per year",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Malaysia’s DAP Hands Anwar Reprieve With Vote to Stay in Cabinet",
+          "summary": "Malaysia’s Democratic Action Party voted on Sunday to remain in Prime Minister Anwar Ibrahim’s cabinet, giving him a reprieve after a string of electoral setbacks and turmoil within his own party.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/malaysia-s-dap-hands-anwar-reprieve-with-vote-to-stay-in-cabinet",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India Readies Big LPG Output Boost as Hormuz Uncertainty Lingers",
+          "summary": "India has directed its state companies and private refiners to prepare for a sharp increase in cooking gas production, seeking to bolster domestic supplies as the Iran war prolongs uncertainty over the Strait of Hormuz, ",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Hong Kong’s First-Half Air Passenger Traffic Up 11.7%, Chan Says",
+          "summary": "Hong Kong’s airport passenger traffic jumped 11.7% on year in the first half, as the Asian financial hub hosted a variety of events and attracted more visitors, according to the city’s Financial Secretary Paul Chan.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/hong-kong-s-first-half-air-passenger-traffic-up-11-7-chan-says",
           "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
-          "summary": "Peru’s economy unexpectedly slowed in June due to a slump in fishing and agriculture output amid unusual weather conditions.",
+          "title": "China Plans to Speed Up New Energy Recycling, Waste Rules: CCTV",
+          "summary": "China is accelerating the establishment of rules governing the recycling and reuse of wind and solar equipment and aims to set up a closed-loop system for waste from the industry before 2030, China Central Television rep",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
-          "time": "10h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-          "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Joe Mathieu, Carol Massar and Lisa Mateo as they play",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Colombia Quake Tests New President Days Into Term",
-          "summary": "Rescuers in western Colombia are still searching for survivors after a 7.4 magnitude earthquake killed at least 287 people. Bloomberg News Latin America Government Reporter Mie Dahl joins Bloomberg This Weekend from Bogo",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Drone Swarms Push AI Deeper Into Modern Warfare",
-          "summary": "Bloomberg News Cyber Security & Tech Reporter Katrina Manson got a firsthand look at autonomous drone-swarm technology that allows multiple aircrafts to coordinate and strike targets even when communications or GPS are d",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video",
-          "time": "11h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Lakers Deal Caps Billionaire Rush Into Sports",
-          "summary": "Bob Iger and Josh Kushner moved from pursuing a Las Vegas NBA expansion team to agreeing within days to buy the Los Angeles Lakers in a record $12.5 billion deal. Bloomberg News Host of Sports City Randall Williams is on",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/lakers-deal-caps-billionaire-rush-into-sports-video",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
-          "summary": "PNC's Chief Investment Officer Amanda Agati is on Bloomberg This Weekend with hosts Joe Mathieu and Carol Massar and says that strong earnings and economic fundamentals continue to support US stocks, even as elevated Tre",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US-Iran War Risks Repeated Cycles of Fighting",
-          "summary": "Shifting US objectives and neither side able to secure a decisive military victory make a lasting resolution difficult and Bloomberg Economics Defense Lead Becca Wasser says risks the the US-Iran conflict becoming a prot",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/us-iran-war-risks-repeated-cycles-of-fighting-video",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "By The Way: Headline You May Have Missed",
-          "summary": "Mystery vacations, college campuses for sale, buying sorority unwritten rules, and half off sushi: Bloomberg News' Lisa Mateo joins Joe Mathieu and Carol Massar on Bloomberg This Weekend to share headlines you may have m",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-15/by-the-way-headline-you-may-have-missed-video",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "South Korea’s inverse correlation",
-          "summary": "Kospi down, won up",
+          "title": "World’s largest carmakers seek to avert motor oil crisis",
+          "summary": "Shortage of Group III base oils prompts auto manufacturers to turn to new blends",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/57d098e2-7cb7-426b-90b9-38bbd2a37eb3?syn-25a6b1a6=1",
-          "time": "16h ago",
+          "url": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China Revises Timing of July Economic Data Release, Briefing",
+          "summary": "China revised the release time for its July economic data to 3 p.m. Monday, breaking with recent practice.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/china-to-hold-july-economic-briefing-after-official-data-release",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 02:15 UTC",
+      "updated": "Updated 12:19 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Privacy is an underrated advantage in Slack apps",
+          "title": "TrueMath – An open-source exact symbolic math tool",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49315895"
+          "url": "https://news.ycombinator.com/item?id=49318921"
         },
         {
           "idx": 2,
-          "title": "Automating Microsoft Edge Rewards",
+          "title": "Ask HN: Do you know of any company that went back to hand-written code?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314850"
+          "url": "https://news.ycombinator.com/item?id=49318906"
         },
         {
           "idx": 3,
-          "title": "Ask HN: I created a web browser using Claude, everybody hates it",
+          "title": "Ask HN: Where to learn software engineering fundamentals?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314731"
+          "url": "https://news.ycombinator.com/item?id=49318324"
         },
         {
           "idx": 4,
-          "title": "Ask HN: What is your favorite lightweight tool or CLI utility in 2026?",
+          "title": "I'd love to feature your business in my newsletter",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314700"
+          "url": "https://news.ycombinator.com/item?id=49317360"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Anyone got a deauthentication attack script?",
+          "title": "Ask HN: How would you market this service?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314649"
+          "url": "https://news.ycombinator.com/item?id=49316403"
         }
       ],
       "aiBrief": {
@@ -983,11 +983,65 @@
       },
       "news": [
         {
+          "title": "TrueMath – An open-source exact symbolic math tool",
+          "summary": "I recently built TrueMath, an open-source tool for exact symbolic math and generative identity exploration. https://github.com/Sajidsaj/True-Math/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=493",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49318921",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+          "summary": "This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer. You've def",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49318906",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Where to learn software engineering fundamentals?",
+          "summary": "I have an open question for software engineers out there: As someone that has never studied CS but has written basic code most of my life (accelerated now with AI), where is the best place to learn software engineering f",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49318324",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "I'd love to feature your business in my newsletter",
+          "summary": "Next Saturday, my Substack Saturday newsletter will officially turn four months old. Wow. From forming the idea, to reaching out to the first guests, to slowly realizing how much effort actually goes into producing one f",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49317360",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: How would you market this service?",
+          "summary": "Hi all, I have a genuine problem here, I have been working for myself on a licensing layer for my personal apps. A few fellow developers are using it after seeing how good it is, but I've had a very hard time getting new",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49316403",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Has the hallucination problem in AI been solved?",
+          "summary": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me. Comments URL: https:",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49316330",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Privacy is an underrated advantage in Slack apps",
           "summary": "Maybe more of a big deal should be made about the flood of internal private company information that can pass through to third-party Slack app developers? I suspect most that install Slack apps aren't aware (or don't car",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49315895",
-          "time": "1h ago",
+          "time": "11h ago",
           "tags": [],
           "market": null
         },
@@ -996,7 +1050,7 @@
           "summary": "Hey! anyone thought about automating edge rewards to gain points.. Thinking about using pyautogui and playwright to do it!! Comments URL: https://news.ycombinator.com/item?id=49314850 Points: 2 # Comments: 2",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49314850",
-          "time": "3h ago",
+          "time": "13h ago",
           "tags": [],
           "market": null
         },
@@ -1005,70 +1059,16 @@
           "summary": "I created a web browser, Northstar web browser, using Claude, Gemini and Chatgpt Codex, everybody hates it, insults me personally and calls it AI slop. https://github.com/nordstjernen-web/northstar-browser Does this mean",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49314731",
-          "time": "4h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
         {
           "title": "Ask HN: What is your favorite lightweight tool or CLI utility in 2026?",
-          "summary": "Tools like ripgrep, fzf, and htop have saved me countless hours over the years. What small utilities do you rely on daily? Comments URL: https://news.ycombinator.com/item?id=49314700 Points: 5 # Comments: 2",
+          "summary": "Tools like ripgrep, fzf, and htop have saved me countless hours over the years. What small utilities do you rely on daily? Comments URL: https://news.ycombinator.com/item?id=49314700 Points: 18 # Comments: 26",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49314700",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Anyone got a deauthentication attack script?",
-          "summary": "Hey HN, I know this might sound sus lol, but I'd like to learn more about cyber security and today I've managed to build an arp spoofer today which cuts off network for anyone but the host (me), tho a deauth attack scrip",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314649",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "DersCountsort: General-purpose sort with amortized O(N) complexity",
-          "summary": "Hi All! If you are interested in sorting algorithms, you will learn something new: 1. It's commonly believed that, on average, comparison sorting can't perform better than O(Nlog(N)). But this is incorrect! The sorting i",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49314420",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Kimi Work attaches raw agent sessions to feedback reports",
-          "summary": "I reverse engineered the latest Kimi Work desktop app just for fun, I know I'm a nerd. Anyway, I found something a bit concerning: when you send a feedback report, it attaches the 5 latest sessions to the report with no ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49313711",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Has anyone solved reproducible deployment of native mobile platforms?",
-          "summary": "For the last several years, our team has been working on one question: does every new native mobile platform really need to be a new development project? We used to develop social and business platforms as separate proje",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49313412",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Ive quit six systems for tracking my illness. What works?",
-          "summary": "Hey everyone, I am a 20 year old college student who was recently diagnosed with seronegative spondyloarthropathy. Over the last 3 years, Ive tried apps, paper journal, Google Sheets, and notes to track/catalogue my jour",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49313346",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What non-technical skill boosted your engineering career the most?",
-          "summary": "For me it was learning how to communicate technical trade-offs clearly to non-technical stakeholders and writing concise documentation. What skills made a major difference for you? Comments URL: https://news.ycombinator.",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49312725",
-          "time": "8h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-08-16T02:15:39.706Z"
+  "generatedAt": "2026-08-16T12:19:09.031Z"
 }
