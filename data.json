@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Software Engineering in the Agentic Era",
-          "src": "Hacker News Front",
-          "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/"
+          "title": "Grand Theft Auto VI exists in its own universe",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe"
         },
         {
           "idx": 2,
-          "title": "US Military newspaper editor voices censorship fears after being fired",
+          "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
           "src": "Hacker News Front",
-          "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o"
+          "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o"
         },
         {
           "idx": 3,
-          "title": "NanoGPT Speedrun Frontier",
+          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
           "src": "Hacker News Front",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+          "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
         },
         {
           "idx": 4,
-          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+          "title": "The Sloppification of Peptides",
+          "src": "Hacker News Front",
+          "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides"
         },
         {
           "idx": 5,
-          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+          "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+          "src": "Hacker News Front",
+          "url": "https://skylens.yantraai.app/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Software Engineering in the Agentic Era",
-          "summary": "Article URL: https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/ Comments URL: https://news.ycombinator.com/item?id=49405117 Points: 8 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-          "time": "1h ago",
+          "title": "Grand Theft Auto VI exists in its own universe",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+          "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "US Military newspaper editor voices censorship fears after being fired",
-          "summary": "Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o Comments URL: https://news.ycombinator.com/item?id=49405110 Points: 39 # Comments: 13",
+          "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+          "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 10 # Comments: 3",
           "source": "Hacker News Front",
-          "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-          "time": "1h ago",
+          "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "NanoGPT Speedrun Frontier",
-          "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 45 # Comments: 13",
+          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+          "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 33 # Comments: 3",
           "source": "Hacker News Front",
-          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The Sloppification of Peptides",
+          "summary": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 43 # Comments: 13",
+          "source": "Hacker News Front",
+          "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+          "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 14 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://skylens.yantraai.app/",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+          "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "source": "少数派",
+          "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
           "time": "4h ago",
           "tags": [],
-          "market": "欧美"
+          "market": "中国"
         },
         {
-          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-          "time": "4h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-          "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+          "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+          "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 131 # Comments: 93",
+          "source": "Hacker News Front",
+          "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
           "time": "5h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "NetBSD and my life (2005)",
-          "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 97 # Comments: 24",
+          "title": "JIT Compiling Code in 5μs",
+          "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 84 # Comments: 48",
           "source": "Hacker News Front",
-          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-          "time": "7h ago",
+          "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-          "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 161 # Comments: 70",
+          "title": "The End of an Athlon",
+          "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 121 # Comments: 36",
           "source": "Hacker News Front",
-          "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-          "time": "7h ago",
+          "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating resea",
-          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-          "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Why your local LLM feels dumber than it is",
-          "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 185 # Comments: 64",
+          "title": "Fast and Hard Code",
+          "summary": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 51 # Comments: 15",
           "source": "Hacker News Front",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "time": "8h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-          "summary": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 29 # Comments: 1",
-          "source": "Hacker News Front",
-          "url": "https://marcua.net/minitools/figmimic/",
-          "time": "8h ago",
+          "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/introducing-ai-futures",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/replit",
-          "time": "3d ago",
+          "time": "4d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Swedish sword attack victim was 17-year-old girl, police say",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+          "title": "DR Congo miners risk Ebola to make a living",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+          "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Iran threatens countries that join US ‘economic D-Day’",
+          "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss"
+          "title": "Mark Carney says Canada ‘at war’ with US over trade",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss"
+          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Swedish sword attack victim was 17-year-old girl, police say",
-          "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+          "title": "DR Congo miners risk Ebola to make a living",
+          "summary": "DR Congo miners risk Ebola to make a living",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-          "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+          "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
+          "summary": "Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-          "time": "2h ago",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran threatens countries that join US ‘economic D-Day’",
-          "summary": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+          "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
+          "summary": "El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-          "time": "2h ago",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-          "summary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-          "time": "2h ago",
+          "title": "Mark Carney says Canada ‘at war’ with US over trade",
+          "summary": "Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-          "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-          "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Syria says Israeli strike near Damascus violation of international law",
-          "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+          "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-          "time": "4h ago",
+          "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Open-air cinema brings movie nights back to Khartoum",
-          "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
+          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
+          "summary": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-          "time": "4h ago",
+          "url": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Israeli army and settlers injure several Palestinians across West Bank",
-          "summary": "Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.",
+          "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
+          "summary": "The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-          "time": "5h ago",
+          "url": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-          "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+          "title": "Zelenskyy rejects election call from fired defence minister",
+          "summary": "President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Government can bring robotics to life",
+          "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Explosion injures 13 in Taiwan",
+          "summary": "Explosion injures 13 in Taiwan",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-          "time": "5h ago",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
+          "title": "Can Canada Still Trust America on Trade?",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-23/can-canada-still-trust-america-on-trade-video"
         },
         {
           "idx": 2,
-          "title": "Bloomberg Previews Jackson Hole Symposium",
+          "title": "Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/saudis-oil-logistics-roiled-again-by-houthis-red-sea-threat"
         },
         {
           "idx": 3,
-          "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt"
+          "title": "Occidental tries to free itself from the messy legacy of Anadarko deal",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Bloomberg This Weekend 8/22/2026",
+          "title": "Europe’s Luxury Giants Discern Green Shoots in Key China Market",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market"
         },
         {
           "idx": 5,
-          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "title": "F1 Reviews China Boy Band’s Logo for Similarities: Global Times",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/f1-reviews-china-boy-band-s-logo-for-similarities-global-times"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
-          "summary": "A historic stock selloff has driven South Korea’s retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.",
+          "title": "Can Canada Still Trust America on Trade?",
+          "summary": "Chrystia Freeland says a tentative US-Canada trade agreement may prevent new US tariffs from taking effect, but only if Canada makes major concessions including easing retaliation, allowing US alcohol back into provincia",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-23/can-canada-still-trust-america-on-trade-video",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Saudis Oil Logistics Roiled Again by Houthis’ Red Sea Threat",
+          "summary": "Saudi Arabia is yet again being forced to overhaul how its oil gets to customers around the world as Yemen’s Houthis make it harder for Riyadh to use a backup route that’s been vital to the global economy since the Iran ",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/saudis-oil-logistics-roiled-again-by-houthis-red-sea-threat",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Occidental tries to free itself from the messy legacy of Anadarko deal",
+          "summary": "Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bloomberg Previews Jackson Hole Symposium",
-          "summary": "Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Source: Bloomberg)",
+          "title": "Europe’s Luxury Giants Discern Green Shoots in Key China Market",
+          "summary": "Europe’s biggest luxury firms are turning a little more positive on the crucial Chinese market, as a fragile spending recovery takes shape in the country.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
-          "time": "6h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market",
+          "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
-          "summary": "Companies looking to finance data center projects are increasingly turning to junk bond investors to help them raise billions of dollars, even for debt that is investment-grade.",
+          "title": "F1 Reviews China Boy Band’s Logo for Similarities: Global Times",
+          "summary": "The Formula One group is reviewing and investigating information about a logo used in a concert tour by Chinese boy group Teens in Times, after fans alleged it resembled F1’s trademark, the Global Times reported on Sunda",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/f1-reviews-china-boy-band-s-logo-for-similarities-global-times",
           "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bloomberg This Weekend 8/22/2026",
-          "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former MI",
+          "title": "Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again",
+          "summary": "The Mexican governor accused by the US of conspiring with a cartel and abetting drug trafficking has once again requested leave, after returning to his post on Friday.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video",
-          "time": "10h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-          "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffi",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-          "time": "11h ago",
+          "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+          "summary": "European fund groups struggle as firms race to bulk up and expand globally",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US Colleges Face a Shrinking Student Pipeline",
-          "summary": "US colleges are confronting a prolonged demographic squeeze as the number of high school graduates, after peaking in 2025, is projected to decline 13% through 2041, putting particular pressure on regional schools with li",
+          "title": "Australia Reports First Bird Flu Case in a Mammal as Seal Dies",
+          "summary": "Australia reported its first confirmed case of the H5 bird flu in a mammal, after a long-nosed fur seal was found dead in South Australia.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/us-colleges-face-a-shrinking-student-pipeline-video",
-          "time": "11h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/australia-reports-first-bird-flu-case-in-a-mammal-as-seal-dies",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Sanctions Target Iran’s Weakened Regional Network",
-          "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning countries against maintaining trade ties ",
+          "title": "India Rescues Two of Ship’s 24 Crew Members After Distress Alert",
+          "summary": "India launched search-and-rescue operations for crew members of cargo ship MV OCEAN WINNER in the Bay of Bengal after receiving a distress alert on Aug. 22.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
-          "time": "11h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/india-rescues-two-of-ship-s-24-crew-members-after-distress-alert",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Small Dogs, Big Demand as Dachshund Popularity Takes Off",
-          "summary": "Dachshunds are enjoying a global popularity boom, climbing to No. 5 in the American Kennel Club’s 2025 rankings as owners embrace their small size and outsized personalities. The surge is supporting everything from breed",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/small-dogs-big-demand-as-dachshund-popularity-takes-off-video",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Study Shows AI Hitting Paychecks, Not Payrolls",
-          "summary": "Apollo Chief Economist Torsten Slok says early labor-market data suggest AI’s first impact is appearing more in wages than employment. In a study of hundreds of occupations, Slok found that jobs with higher exposure to A",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-22/study-shows-ai-hitting-paychecks-not-payrolls",
-          "time": "12h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Casinos Shift Focus From Gambling to Lure Gen Z With Sports, Dining",
-          "summary": "The new mission for casino operators: Look less like casinos.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-22/casinos-shift-focus-from-gambling-to-lure-gen-z-with-sports-dining",
-          "time": "12h ago",
+          "title": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
+          "summary": "Latest fundraising values the six-year-old company at about $650mn as it aims to be ‘daily luxury brand’",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/c202d7aa-481a-466b-b34f-2c4451f787a5?syn-25a6b1a6=1",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 02:18 UTC",
+      "updated": "Updated 12:24 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Are you aware of the popularity poll for official Japanese characters?",
+          "title": "Ask HN: What made you stop relying on tutorials?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49405257"
+          "url": "https://news.ycombinator.com/item?id=49407394"
         },
         {
           "idx": 2,
-          "title": "Ask HN: What's the current best research/understanding of healthy weight loss?",
+          "title": "Procura – Finance Manager",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49404822"
+          "url": "https://news.ycombinator.com/item?id=49407193"
         },
         {
           "idx": 3,
-          "title": "Ask HN: Where do you find things worth reading?",
+          "title": "I built a tool to generate Cornell notes from YouTube videos",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49404106"
+          "url": "https://news.ycombinator.com/item?id=49406926"
         },
         {
           "idx": 4,
-          "title": "Where are people finding GPU capacity?",
+          "title": "Ask HN: What websites do you visit daily to stay informed?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49403759"
+          "url": "https://news.ycombinator.com/item?id=49406588"
         },
         {
           "idx": 5,
-          "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a",
-          "src": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys"
+          "title": "Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49405684"
         }
       ],
       "aiBrief": {
@@ -983,20 +983,65 @@
       },
       "news": [
         {
-          "title": "Are you aware of the popularity poll for official Japanese characters?",
-          "summary": "Are you aware of the popularity poll for official Japanese characters? https://charagp.full-comi.jp/ You can vote online there, and the site operators are confident that their security is so robust that no one could poss",
+          "title": "Ask HN: What made you stop relying on tutorials?",
+          "summary": "I learned to program mostly by tutorials. I did what they told me and it all seemed to be straightforward. But when I started up the editor and tried to build something without the tutorial, I often found I didn't unders",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49405257",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=49407394",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Procura – Finance Manager",
+          "summary": "Hey everyone, i am building an ai powered finance manager called procura, it uses ai to find the cheapest listing of the product your business need and purchase it for you. i am looking to charge $500/mo for it. is it wo",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49407193",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "I built a tool to generate Cornell notes from YouTube videos",
+          "summary": "Hello people, I just released a new tool that would create your cornells notes on any given video on YouTube. I would like to get you some feedback, give me a try on the tool and get honest reviews for me. THanks, Link: ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49406926",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What websites do you visit daily to stay informed?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49406588 Points: 8 # Comments: 6",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49406588",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Anyone set up ways to easily obtain and read transcripts from Ted, YT?",
+          "summary": "I really absorb text a great deal better than listening to audio or watching video. I've heard others say the same and attribute to ADHD, so perhaps that's the case for me. TED very often has a transcript on their page, ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49405684",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+          "summary": "I've been puzzled by something: AI generation can produce an elaborate figurine, a cartoon character, even a convincing Super Mario — yet it can't reliably make a simple wedge ramp so my robot vacuum can climb a step. Fo",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49405520",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
           "title": "Ask HN: What's the current best research/understanding of healthy weight loss?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49404822 Points: 2 # Comments: 1",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49404822 Points: 2 # Comments: 4",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49404822",
-          "time": "2h ago",
+          "time": "13h ago",
           "tags": [],
           "market": null
         },
@@ -1005,7 +1050,7 @@
           "summary": "There’s more good writing and reporting available than ever, but I’m finding it harder to discover the stuff that’s actually worth reading. What are your goto sources for finding interesting things to read about your int",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49404106",
-          "time": "4h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -1014,7 +1059,7 @@
           "summary": "Is it just me or is GPU capacity surprisingly hard to find right now , even in Spot pools? I’ve been trying to get H100s and the Spot pools I’ve checked are pretty much always full. I ended up trying MI350/MI355s on Digi",
           "source": "Hacker News Ask",
           "url": "https://news.ycombinator.com/item?id=49403759",
-          "time": "5h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         },
@@ -1023,52 +1068,7 @@
           "summary": "Community Wisdom 198",
           "source": "Lenny's Newsletter",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What's your daily driver keyboard?",
-          "summary": "Inspired by the thread about typ.ing [0] and people talking about their setup, I wondered what HN users are using for their daily driver keyboard. Please list the model, switches, keycaps, layout and any other details yo",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49402769",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Is it time to run the LLM engines on the CPU?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49402551 Points: 3 # Comments: 4",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49402551",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ChatGPT Needs a Better Memory",
-          "summary": "ChatGPT needs a better memory, it just try to connect every question with what is there in the memory!! Not only when it is relevant Comments URL: https://news.ycombinator.com/item?id=49401956 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49401956",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: At what point does \"clean architecture\" become technical debt?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49401374 Points: 4 # Comments: 4",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49401374",
-          "time": "9h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: If you dislike AI, why don't you prove it?",
-          "summary": "I've seen so many people who absolutely hate AI, and want AI companies to fail, but then 2 seconds later, open up the coding tool made by frontier labs and willingly hand them money. Just recently convinced one of them t",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49401293",
-          "time": "9h ago",
+          "time": "17h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-08-23T02:18:44.299Z"
+  "generatedAt": "2026-08-23T12:24:48.524Z"
 }
