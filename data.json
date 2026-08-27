@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 10:45 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
-          "src": "少数派",
-          "url": "https://sspai.com/post/89194"
+          "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+          "src": "Hacker News Front",
+          "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/"
         },
         {
           "idx": 2,
-          "title": "Nvidia closes in on Hugging Face acquisition",
+          "title": "Rivian’s CFO is leaving the company",
           "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
+          "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/"
         },
         {
           "idx": 3,
-          "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
-          "src": "少数派",
-          "url": "https://sspai.com/post/113222"
+          "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/"
         },
         {
           "idx": 4,
-          "title": "Kusama Yayoi has died",
-          "src": "Hacker News Front",
-          "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html"
+          "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/"
         },
         {
           "idx": 5,
-          "title": "Laion Big Video Dataset",
-          "src": "Hacker News Front",
-          "url": "https://projects.laion.ai/bvd/"
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
-          "summary": "不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/89194",
-          "time": "3h ago",
+          "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+          "summary": "Article URL: https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/ Comments URL: https://news.ycombinator.com/item?",
+          "source": "Hacker News Front",
+          "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+          "time": "just now",
           "tags": [],
-          "market": "中国"
+          "market": "欧美"
         },
         {
-          "title": "Nvidia closes in on Hugging Face acquisition",
-          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "title": "Rivian’s CFO is leaving the company",
+          "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-          "time": "4h ago",
+          "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/113222",
-          "time": "7h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Kusama Yayoi has died",
-          "summary": "https://archive.ph/axjMF https://yayoi-kusama.jp/en/news4518/ Comments URL: https://news.ycombinator.com/item?id=49458709 Points: 183 # Comments: 13",
-          "source": "Hacker News Front",
-          "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-          "time": "8h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Laion Big Video Dataset",
-          "summary": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 66 # Comments: 18",
-          "source": "Hacker News Front",
-          "url": "https://projects.laion.ai/bvd/",
-          "time": "8h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-          "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive Comments URL: https://news.ycombinator.com/item?id=49458418 Points: 634 # Comments: 397",
-          "source": "Hacker News Front",
-          "url": "https://github.com/SenteLabsAI/OpenExecutive",
-          "time": "8h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "summary": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: https://news.ycombinator.com/item?id=49458161 Points: 1180 # Comme",
-          "source": "Hacker News Front",
-          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "time": "9h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+          "summary": "Sometimes people just want to post to their followers, Bluesky says.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-          "time": "10h ago",
+          "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Mechanical Turk shutting down September 30",
-          "summary": "Article URL: https://www.mturk.com/ Comments URL: https://news.ycombinator.com/item?id=49457545 Points: 380 # Comments: 104",
-          "source": "Hacker News Front",
-          "url": "https://www.mturk.com/",
-          "time": "10h ago",
+          "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+          "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Zohran and the Short Link",
-          "summary": "Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/ Comments URL: https://news.ycombinator.com/item?id=49457512 Points: 203 # Comments: 79",
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release dat",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Silicon Valley is in denial in face of widespread backlash",
+          "summary": "Article URL: https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers Comments URL: https://news.ycombinator.com/item?id=49470380 Points: 69 # Comments: 60",
           "source": "Hacker News Front",
-          "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-          "time": "10h ago",
+          "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+          "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "GTA VI looks just as great as we could hope for",
+          "summary": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story s",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Google’s AI note-taking app now allows you to interact with books",
+          "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Noteboo",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 10:45 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
           "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
         },
         {
           "idx": 2,
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
         },
         {
           "idx": 3,
-          "title": "Learning never stops: How AI makes learning continuous",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/learning-never-stops"
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
         },
         {
           "idx": 4,
-          "title": "The Hugging Face incident and the road ahead",
+          "title": "Expanding OpenAI’s presence in Brazil",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil"
         },
         {
           "idx": 5,
-          "title": "How loveholidays is making everyone a builder with Codex",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/loveholidays"
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,47 @@
       },
       "news": [
         {
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "summary": "",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "summary": "Piloting the world's first double-blind AI evaluations",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "time": "18h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Intelligent transcription with Gemini 3.5 Transcribe",
           "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-          "time": "17h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -326,42 +362,6 @@
           "time": "1d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The full stack behind abundant intelligence",
-          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-          "time": "2d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "time": "2d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 10:45 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Tanzania's VP expelled from ruling party for indiscipline as his successor named",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo?at_medium=RSS&at_campaign=rss"
+          "title": "Canada welcomes US shift on French language discoverability in trade talks",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/8/27/canada-welcomes-us-shift-on-french-language-discoverability-in-trade-talks?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+          "title": "Trump signs order to rename Lake Ontario as Lake America",
           "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 3,
-          "title": "Italy withdraws support for Infantino, but Cannavaro backs FIFA chief",
+          "title": "Video: Trump signs order to re-name Lake Ontario as Lake America",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/italy-withdraws-support-for-infantino-but-cannavaro-backs-fifa-chief?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Up to 1,300 people missing after Nepal flood disaster",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/7fbae161-96a0-4e72-9366-0f2f3f4667c8?syn-25a6b1a6=1"
+          "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 5,
-          "title": "Nepal-Tibet floods: What is a glacial collapse, how common is it?",
+          "title": "US Postal Service says mail-in ballot restrictions now in effect",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/27/nepal-tibet-floods-what-is-a-glacial-collapse-how-common-is-it?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,62 +451,53 @@
       },
       "news": [
         {
-          "title": "Tanzania's VP expelled from ruling party for indiscipline as his successor named",
-          "summary": "Nchimbi announced his resignation earlier this week after reportedly falling out with President Samia.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-          "summary": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Italy withdraws support for Infantino, but Cannavaro backs FIFA chief",
-          "summary": "Italian Football Federation says its decision is based on Infantino's recent initiatives on international competitions.",
+          "title": "Canada welcomes US shift on French language discoverability in trade talks",
+          "summary": "US trade officials downplay French language dispute, calling claims fabricated.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/27/italy-withdraws-support-for-infantino-but-cannavaro-backs-fifa-chief?traffic_source=rss",
+          "url": "https://www.aljazeera.com/economy/2026/8/27/canada-welcomes-us-shift-on-french-language-discoverability-in-trade-talks?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Up to 1,300 people missing after Nepal flood disaster",
-          "summary": "China warns of risk of further landslides as huge rescue effort gets under way",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/7fbae161-96a0-4e72-9366-0f2f3f4667c8?syn-25a6b1a6=1",
+          "title": "Trump signs order to rename Lake Ontario as Lake America",
+          "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Nepal-Tibet floods: What is a glacial collapse, how common is it?",
-          "summary": "More than 165 people are killed in floods triggered by a huge glacial collapse near Nepal-China border.",
+          "title": "Video: Trump signs order to re-name Lake Ontario as Lake America",
+          "summary": "US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/8/27/nepal-tibet-floods-what-is-a-glacial-collapse-how-common-is-it?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The battle plans in Trump’s tariff wars look more witless each time",
-          "summary": "Canada was right to resist US intimidation",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/e5fe61b7-ceb2-4b36-90c5-26a6aa736444?syn-25a6b1a6=1",
+          "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+          "summary": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US Postal Service says mail-in ballot restrictions now in effect",
+          "summary": "The US Supreme Court ruled in favor of changes backed by President Donald Trump, but new challenges have been filed.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/27/us-postal-service-says-mail-in-ballot-restrictions-now-in-effect?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
           "title": "What we know about deadly Nepal-Tibet floods",
-          "summary": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+          "summary": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
           "time": "just now",
@@ -514,28 +505,37 @@
           "market": null
         },
         {
-          "title": "‘Neets’ numbers dip below 1mn as Burnham prepares fresh push on welfare reform",
-          "summary": "Figures on 16- to 24-year-olds out of work and education remain at second-highest level in almost 13 years",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/4d7010e3-7e54-457f-b2e1-ea44cc1fddd3?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-          "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How far will the US-Canada trade war go?",
-          "summary": "Canada and the US risk a full-scale trade war after a breakdown in talks.",
+          "title": "‘Everything is covered in ash’: Indonesia wildfires leave people in crisis",
+          "summary": "Fires severely impacting people's health in West Kalimantan, with pregnant women and children particularly vulnerable.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/8/27/everything-is-covered-in-ash-indonesia-wildfires-leave-people-in-crisis?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada",
+          "summary": "US president’s executive order underscores fraying relations between allies after trade talks collapsed",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Belugas and dolphins rescued from Canada’s Marineland arrive in Spain",
+          "summary": "Two belugas and four dolphins from Canada’s Marineland were relocated to an aquarium in Spain.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/belugas-and-dolphins-rescued-from-canadas-marineland-arrive-in-spain?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Al Jazeera reporter witnesses wildfire smoke toll on kids inside Indonesia",
+          "summary": "Al Jazeera’s Jessica Washington reports from an Indonesian clinic treating children struggling to breathe amid wildfires",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/08-27-26-jess-wt-kalimantan-fires-reported?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 10:45 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 10:45 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "UBS Is Nudging Swiss Capital Debate Toward a Cheaper Compromise",
+          "title": "Jobs Data Is in Jeopardy",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/ubs-is-nudging-swiss-capital-debate-toward-a-cheaper-compromise"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/opinion-jobs-data-is-in-jeopardy-video"
         },
         {
           "idx": 2,
-          "title": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
+          "title": "Will LIV Survive Pro Golf's Civil War?",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-27/lockheed-martin-europe-ceo-on-deterrence-europe-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/liv-golf-from-disruptor-to-distressed-asset-video"
         },
         {
           "idx": 3,
-          "title": "Nvidia’s $100 Billion Shows Why AI Is Still the Trade",
+          "title": "RevMed’s Pancreatic Cancer Pill Priced Above $475K per Year",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/nvidia-s-100-billion-shows-why-ai-is-still-the-trade"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/revmed-s-pancreatic-cancer-pill-priced-above-475k-video"
         },
         {
           "idx": 4,
-          "title": "French Bank Stocks Hit Again by Country’s Political Uncertainty",
+          "title": "Investors Looking For Rate Clarity From Warsh Likely Disappointed, Says Jack Manley",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/french-bank-stocks-hit-again-by-country-s-political-uncertainty"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/not-expecting-rate-clarity-from-jackson-hole-manley-video"
         },
         {
           "idx": 5,
-          "title": "Shale Drillers Are Boosting US Oil Production With Better Soap",
+          "title": "Grading Value of High Ed Real Estate: Kleinman",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/shale-drillers-are-boosting-us-oil-production-with-better-soap"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/grading-value-of-high-ed-real-estate-kleinman-video"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "UBS Is Nudging Swiss Capital Debate Toward a Cheaper Compromise",
-          "summary": "Swiss lawmakers are focusing on a possible compromise in the debate over regulation of UBS Group AG which would potentially make it less expensive for the bank to meet the government’s $20 billion capital demand.",
+          "title": "Jobs Data Is in Jeopardy",
+          "summary": "Fed Chair Kevin Warsh announced a data task force last month, and Bloomberg Opinion columnist and economist Kathryn Anne Edwards thinks that’s a missed opportunity as well as step backward. (Source: Bloomberg)",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/ubs-is-nudging-swiss-capital-debate-toward-a-cheaper-compromise",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/opinion-jobs-data-is-in-jeopardy-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
-          "summary": "The European CEO of US defence company Lockheed Martin said transatlantic partnerships such as the one with Rheinmetall will build a credible deterrence and economic benefits on both sides. Dennis Goege spoke with Bloomb",
+          "title": "Will LIV Survive Pro Golf's Civil War?",
+          "summary": "Once seen as a lucrative alternative to the PGA, LIV Golf instead landed in the rough, part of an abortive effort by Saudi Arabia to exert soft power. Now LIV’s future is uncertain amid a search for new funding. (Source:",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-27/lockheed-martin-europe-ceo-on-deterrence-europe-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/liv-golf-from-disruptor-to-distressed-asset-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Nvidia’s $100 Billion Shows Why AI Is Still the Trade",
-          "summary": "Tech shares are rallying on the back of Nvidia’s stellar results.",
+          "title": "RevMed’s Pancreatic Cancer Pill Priced Above $475K per Year",
+          "summary": "Revolution Medicines won US approval for a breakthrough pill that lengthens the lives of patients with advanced pancreatic cancer, a major advance against one of the hardest-to-treat tumor types. The once-daily drug carr",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-08-27/nvidia-s-100-billion-shows-why-ai-is-still-the-trade",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/revmed-s-pancreatic-cancer-pill-priced-above-475k-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "French Bank Stocks Hit Again by Country’s Political Uncertainty",
-          "summary": "French bank stocks fell as concern about political instability resurfaced ahead of a key debate on Thursday where presidential candidates are expected to outline their visions for the country.",
+          "title": "Investors Looking For Rate Clarity From Warsh Likely Disappointed, Says Jack Manley",
+          "summary": "Jack Manley, Global Market Strategist at JPMorgan Asset Management, said that he's not expecting to get any information about the path of rates from Fed Chair Kevin Warsh's remarks in Jackson Hole. Manley said that he ex",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/french-bank-stocks-hit-again-by-country-s-political-uncertainty",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/not-expecting-rate-clarity-from-jackson-hole-manley-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Shale Drillers Are Boosting US Oil Production With Better Soap",
-          "summary": "Chemicals called surfactants can help the industry stem a slowdown in crude output growth.",
+          "title": "Grading Value of High Ed Real Estate: Kleinman",
+          "summary": "Margot Kleinman, head of municipal research and portfolio manager at Nuveen, joins Scarlet Fu on \"Bloomberg Real Yield.\" They discuss why Kleinman is approaching parts of the higher education market 'with great caution.'",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/shale-drillers-are-boosting-us-oil-production-with-better-soap",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/grading-value-of-high-ed-real-estate-kleinman-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Braidwell's Karnal on How AI Can Impact Bioscience",
-          "summary": "Alex Karnal, Co-Founder and CIO of Braidwell, joins Bloomberg's Anna Edwards on \"The Pulse\" to discuss the company's approach to investing in transformative medicines, technologies, and medical devices by integrating art",
+          "title": "Nvidia Adds $442 Billion in Second Biggest Ever Stock Surge",
+          "summary": "Nvidia Corp. added $442 billion to its market value on Thursday in the second-largest one-day gain by any stock in history.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-27/braidwell-s-karnal-on-how-ai-can-impact-bioscience-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-adds-442-billion-in-second-biggest-ever-stock-surge",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "How Much Hyperscaler Debt Can the Markets Absorb? Top JPMorgan Bond Banker Responds.",
-          "summary": "Following NVIDIA's earnings, JPMorgan's European Investment Grade Finance Head Matthias Reschke joins Bloomberg's Tom Mackenzie and Anna Edwards on The Opening Trade to discuss the major hyperscalers growing issuance vol",
+          "title": "Nvidia Fuels a Tech-Led Rally as Market Breadth Narrows | Closing Bell",
+          "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Lisa Mateo and Tim Stenovec. (Source: Bloomberg)",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-27/how-much-hyperscaler-debt-can-the-markets-absorb-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "EU states revive plan to use frozen Russian assets for Ukraine",
-          "summary": "Sweden, the Netherlands and Spain back plan to solve Kyiv’s latest funding crisis",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/6d272811-8d26-46f0-ae24-abed61aa1bf3?syn-25a6b1a6=1",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-fuels-a-tech-led-rally-closing-bell-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "AI revenue reporting: slop",
-          "summary": "Plus, more on bad weather",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/a9145db8-18c1-4476-aac5-d1b4fcf70040?syn-25a6b1a6=1",
-          "time": "5h ago",
+          "title": "Private Credit Investors Prefer Being Trapped Than Take Loss",
+          "summary": "Bloomberg's Olivia Fishlow joins Scarlet Fu on \"Bloomberg Real Yield.\" Bloomberg News reporting that Cox Capital Partners offered instant liquidity for some investors by purchasing their shares, up to $90 million worth, ",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/private-credit-investors-signal-weak-exit-appetite-video",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Indonesia’s Rupiah, Bonds Edge Lower as Investors Eye Protest in Jakarta",
-          "summary": "Indonesian lawmakers pledged to pass a law allowing the seizure of assets linked to corruption cases as thousands of protesters descended on the parliament in Jakarta Thursday.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-27/indonesia-s-rupiah-bonds-edge-lower-as-investors-eye-protest-in-jakarta",
-          "time": "5h ago",
+          "title": "Warsh goes to Jackson Hole",
+          "summary": "The Fed chair must reassure markets in his forthcoming speech",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/4f76326d-3d29-4b3c-b7cf-b339ee4134ae?syn-25a6b1a6=1",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "In asset management, the race for scale is becoming urgent",
+          "summary": "Even with markets at record highs, the pressure to find new clients is mounting",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/a7a5fadb-8e81-4047-9dc7-40feda9bacd0?syn-25a6b1a6=1",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 10:46 UTC",
+      "updated": "Updated 21:27 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Xcancel and Nitter have been taken down",
+          "title": "Ask HN: Does anyone have a VRAM tester? Something like MemTest86+ but for GPUs?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462427"
+          "url": "https://news.ycombinator.com/item?id=49470597"
         },
         {
           "idx": 2,
-          "title": "Ask HN: How does manual QA fit into your process?",
+          "title": "Ask HN: How do relay servers prevent direct peer IP exposure?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462397"
+          "url": "https://news.ycombinator.com/item?id=49470591"
         },
         {
           "idx": 3,
-          "title": "Fixing Status Updates – Our Manifesto",
+          "title": "Ask HN: Should we disclose AI use in our work?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462264"
+          "url": "https://news.ycombinator.com/item?id=49469914"
         },
         {
           "idx": 4,
-          "title": "Tell HN: PayPal Blocks GrapheneOS",
+          "title": "Ask HN: How many of you juggle multiple agent sessions at the same time?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462253"
+          "url": "https://news.ycombinator.com/item?id=49469723"
         },
         {
           "idx": 5,
-          "title": "Automating WhatsApp/telegram chats or personal chats with complete privacy",
+          "title": "Ask HN: Was Quad9 ECS down for anyone else today at UTC 1PM?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462077"
+          "url": "https://news.ycombinator.com/item?id=49469565"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Xcancel and Nitter have been taken down",
-          "summary": "Nitter.net and Xcancel.com have been both taken down by the X Corp \"cease and desist\" letter Comments URL: https://news.ycombinator.com/item?id=49462427 Points: 1 # Comments: 0",
+          "title": "Ask HN: Does anyone have a VRAM tester? Something like MemTest86+ but for GPUs?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49470597 Points: 5 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462427",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How does manual QA fit into your process?",
-          "summary": "We're seeing increasing efforts to improve developer cadence - LLM-improved auto-complete, agentic coding, agentic code review and agent-generated automated testing. So how does Manual QA still exist in your process? Is ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462397",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Fixing Status Updates – Our Manifesto",
-          "summary": "Our problem we solve is the issue of organizational friction and visibility. With each layer and each meeting, you get further from really knowing what is going on. We build a tool that lets anyone at the click of a butt",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462264",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Tell HN: PayPal Blocks GrapheneOS",
-          "summary": "It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exceptio",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462253",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Automating WhatsApp/telegram chats or personal chats with complete privacy",
-          "summary": "Just a thought here whatsapp allows users to chat with metaai inside whatsapp giving them privacy, by using a separate container to move user query from whatsapp to ai model. And following zero retention in order to make",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49462077",
+          "url": "https://news.ycombinator.com/item?id=49470597",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Mind sharing Google Colab pro or a VM?",
-          "summary": "have to run some research code on gpu, trying on colab with compute units but disk is creating issue. i would be grateful if you share. Comments URL: https://news.ycombinator.com/item?id=49461883 Points: 1 # Comments: 0",
+          "title": "Ask HN: How do relay servers prevent direct peer IP exposure?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49470591 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49461883",
+          "url": "https://news.ycombinator.com/item?id=49470591",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What happens to code review process when using LLMs?",
-          "summary": "I'm looking for some advice for small tech teams (~3 devs) developing quickly with LLMs. As most people are, we are leaning more and more on LLMs to generate code. We use Cursor in the side-panel to maintain strict contr",
+          "title": "Ask HN: Should we disclose AI use in our work?",
+          "summary": "Tim O'Reilly just published an essay arguing that AI is a medium, like photography or painting. His key line: \"I judge the output, not the means used to produce it.\" He describes his own process: a 300-word prompt become",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49461811",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Why Rust?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49461523 Points: 1 # Comments: 1",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49461523",
+          "url": "https://news.ycombinator.com/item?id=49469914",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: As a Software Dev, how do you hedge for a world where AI takes your job?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49461511 Points: 2 # Comments: 1",
+          "title": "Ask HN: How many of you juggle multiple agent sessions at the same time?",
+          "summary": "I hear a lot about the future of software engineering work being an engineer sitting with tons of sessions open and multitasking on many jira tickets all at once. I am relatively junior but I feel like I see more people ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49461511",
+          "url": "https://news.ycombinator.com/item?id=49469723",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Do you still do pair programming in this agentic age?",
-          "summary": "If you do: - What's the setup: two humans + one agent, or two humans + two agents - What do you actually pair on? - Do you find it more (or less) valuable than before? - And many more questions... Comments URL: https://n",
+          "title": "Ask HN: Was Quad9 ECS down for anyone else today at UTC 1PM?",
+          "summary": "I had a mess to clean up today. Comments URL: https://news.ycombinator.com/item?id=49469565 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49461326",
+          "url": "https://news.ycombinator.com/item?id=49469565",
           "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: AI agent acts. Your logs say so. But you wrote the logs",
+          "summary": "Hi I am really lost here, if you are deploying AI agents in production, how are you handling auditability? also what would make you trust an external witness protocol? fo reference, the Amazon vs Perplexisty use case!! C",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49468363",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Tell HN: Man, AI is killing my brain",
+          "summary": "I was among the last to resist, but then I was given a subtle hint that if I won't \"improve my productivity and be on par with my colleagues\" my work will be at risk. So I started to use Claude Code about a year ago. At ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49468252",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Flock contract cancellations grow among cities, other jurisdictions",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49468115 Points: 3 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49468115",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "GLM-5.3-Flash at 3.3 tok/s",
+          "summary": "A few months ago, I created the WARP engine (formerly WASTE) to run Kimi K3, the complete 2.78-trillion-parameter model, on macOS. GLM-5.3-Flash shares many architectural similarities with Kimi K3, so I added support for",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49467974",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What's your career / life plan for the next few years?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49467791 Points: 4 # Comments: 3",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49467791",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-08-27T10:46:02.392Z"
+  "generatedAt": "2026-08-27T21:27:12.888Z"
 }
