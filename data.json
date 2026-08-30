@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 15:56 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Parsing the Infamous Japanese Postal CSV",
+          "title": "Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
           "src": "Hacker News Front",
-          "url": "https://www.dampfkraft.com/posuto.html"
+          "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/"
         },
         {
           "idx": 2,
-          "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango"
+          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+          "src": "Hacker News Front",
+          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
         },
         {
           "idx": 3,
-          "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+          "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
           "src": "Hacker News Front",
-          "url": "https://uecker.codeberg.page/2026-08-29.html"
+          "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws"
         },
         {
           "idx": 4,
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "title": "FreeCORE TrueNAS Core – Continued",
           "src": "Hacker News Front",
-          "url": "https://lwn.net/Articles/1091231/"
+          "url": "https://freecore.org/"
         },
         {
           "idx": 5,
-          "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+          "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+          "src": "Hacker News Front",
+          "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/"
         }
       ],
       "aiBrief": {
@@ -96,91 +96,91 @@
       },
       "news": [
         {
-          "title": "Parsing the Infamous Japanese Postal CSV",
-          "summary": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 3 # Comments: 0",
+          "title": "Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+          "summary": "Article URL: https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/ Comments URL: https://news.ycombinator.com/item?id=49495947 Points: 10 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://www.dampfkraft.com/posuto.html",
+          "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
-          "summary": "10 out of 10 beard. | Photo: Ben Mekler Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-          "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 19 # Comments: 3",
+          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+          "summary": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt Comments ",
           "source": "Hacker News Front",
-          "url": "https://uecker.codeberg.page/2026-08-29.html",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 201 # Comments: 139",
-          "source": "Hacker News Front",
-          "url": "https://lwn.net/Articles/1091231/",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-          "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-          "summary": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
           "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Nvidia’s AI advantage is moving beyond the GPU",
-          "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Musicians-turned-detectives are hunting for AI grifters",
-          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of h",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+          "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.ycombinator.com/item?id=49495127 Points: 57 # Comments: 23",
+          "source": "Hacker News Front",
+          "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
           "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Iceland votes on whether to restart talks on joining EU",
-          "summary": "Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo Comments URL: https://news.ycombinator.com/item?id=49489057 Points: 255 # Comments: 302",
+          "title": "FreeCORE TrueNAS Core – Continued",
+          "summary": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 64 # Comments: 42",
           "source": "Hacker News Front",
-          "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+          "url": "https://freecore.org/",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Samsung's Processing-in-Memory (PIM)",
-          "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 181 # Comments: 62",
+          "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+          "summary": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Poi",
           "source": "Hacker News Front",
-          "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+          "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+          "summary": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 17 # Comments: 7",
+          "source": "Hacker News Front",
+          "url": "https://github.com/mk6i/open-oscar-server",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Bug Blindness",
+          "summary": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 159 # Comments: 65",
+          "source": "Hacker News Front",
+          "url": "https://danluu.com/bug-blind/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The Rise and Fall of Agent Civilizations",
+          "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 16 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+          "summary": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 226 # Comments: 111",
+          "source": "Hacker News Front",
+          "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+          "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
           "time": "9h ago",
           "tags": [],
           "market": "欧美"
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 15:56 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -341,7 +341,7 @@
           "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 15:56 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss"
+          "title": "WhatsApp chat used to send cash for crime and extremism",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 3,
-          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+          "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+          "title": "Protests as India’s Hindu nationalists take centre stage in New York",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1"
+          "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,20 +451,56 @@
       },
       "news": [
         {
-          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+          "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-          "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+          "title": "WhatsApp chat used to send cash for crime and extremism",
+          "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
+          "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Protests as India’s Hindu nationalists take centre stage in New York",
+          "summary": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
+          "summary": "Rebel fighters in Myanmar lose key towns as conscription, relentless air raids and Chinese support bolster the military.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
+          "summary": "Residents of Golo in Sudan’s central Darfur are clearing and repairing a rugged road by hand to help emergency vehicles.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
@@ -473,69 +509,33 @@
           "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
           "source": "BBC World",
           "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
-          "summary": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-          "summary": "The president says the countries’ joint venture will lower petrol prices for Americans",
+          "title": "Nicotine pouch sales jump in UK as companies step up marketing",
+          "summary": "Campaigns come ahead of ban on advertising and sponsorship for all non-medicinal products from next June",
           "source": "FT World",
-          "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
-          "summary": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "People stranded for days on dilapidated Nigerian highway",
-          "summary": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
-          "summary": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+          "url": "https://www.ft.com/content/407f90ed-fe14-4ed5-bfa8-50696b126c46?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Mladic died a happy man. He won",
-          "summary": "He fought for fascism to triumph. And it did.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
+          "title": "Burnham’s summer of quietly backing away from radical pledges",
+          "summary": "From Thames Water to electoral reform, the prime minister seems to be diverging from his campaign rhetoric",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/43718673-5c3f-46cc-a459-b0334e80aeb2?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-          "summary": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+          "title": "One fix for UK plc’s underperformance: equity for all",
+          "summary": "A new proposal suggests doubling the pay of board directors using stock options",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/e29502c0-50a9-4f77-ac87-4ba46d1ba98c?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 15:56 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 15:57 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Supercars Fuel a New Hybrid Boom",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/supercars-fuel-a-new-hybrid-boom-video"
+          "title": "What’s the fiscal hit from higher yields?",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5"
         },
         {
           "idx": 2,
-          "title": "A $2,000 Sweater Reveals Fashion’s True Cost",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/a-2-000-sweater-reveals-fashion-s-true-cost-video"
+          "title": "Incoming Swiss banking chief warns against regulatory over-reach",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/17c61dd3-fa39-4061-b3a1-2d2333d1eb7f?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "Warsh Sets the Tone for Fed’s Road Ahead",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-sets-the-tone-for-fed-s-road-ahead-video"
+          "title": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/bcb35264-a96c-49c0-984f-4b379d088581?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+          "title": "One fix for UK plc’s underperformance: equity for all",
           "src": "FT Markets",
-          "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/e29502c0-50a9-4f77-ac87-4ba46d1ba98c?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Can the US Defy Fiscal Gravity?",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/can-the-us-defy-fiscal-gravity-video"
+          "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Supercars Fuel a New Hybrid Boom",
-          "summary": "Hybrids are enjoying a resurgence as slower EV adoption and continued demand for combustion engines reshape the auto industry, with the technology increasingly appearing in high-performance and luxury cars. Co-host of Bl",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/supercars-fuel-a-new-hybrid-boom-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "A $2,000 Sweater Reveals Fashion’s True Cost",
-          "summary": "Content creator Macy Gilliam spent 90-hours over four months and about $2,000 making a sweater from scratch, starting with wool from a sheep at New York City’s Queens County Farm Museum. Gilliam joins Christina Ruffini o",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/a-2-000-sweater-reveals-fashion-s-true-cost-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Warsh Sets the Tone for Fed’s Road Ahead",
-          "summary": "Federal Reserve Chair Kevin Warsh’s first Jackson Hole speech gave central bankers and investors greater clarity on how he views the economy and the Fed’s path ahead, though questions remain about the timing and number o",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-sets-the-tone-for-fed-s-road-ahead-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-          "summary": "The president says the countries’ joint venture will lower petrol prices for Americans",
+          "title": "What’s the fiscal hit from higher yields?",
+          "summary": "A long answer to a simple question",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Can the US Defy Fiscal Gravity?",
-          "summary": "David Bianco of DWS says long-term Treasury yields and real rates have climbed to some of their highest levels in nearly 25 years, but he argues inflation is not the main driver. The bigger issues are structural: US defi",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/can-the-us-defy-fiscal-gravity-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "$700 Cash Grants Transform Lives in Malawi",
-          "summary": "The nonprofit GiveDirectly, with a large backing from Canva, is providing eligible adults in two Malawi districts with about $700 each, roughly equivalent to the country’s annual income per person, with virtually no rest",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/-700-cash-grants-transform-lives-in-malawi-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Russia Tests Ukraine and NATO With Escalation",
-          "summary": "Russia is intensifying missile and drone attacks on Ukraine as Kyiv faces shortages of Patriot interceptors, raising concerns about its ability to defend against ballistic missiles heading into winter. Joining Bloomberg ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/russia-tests-ukraine-and-nato-with-escalation-video",
+          "title": "Incoming Swiss banking chief warns against regulatory over-reach",
+          "summary": "Comments from chief executive of EFG International signal how opposition to new rules extends across the industry",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/17c61dd3-fa39-4061-b3a1-2d2333d1eb7f?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Nepal Rescuers Race to Find Thousands Missing",
-          "summary": "Rescue and recovery operations are continuing in Nepal after a glacial collapse triggered catastrophic flooding near the border with China, killing more than 600 people and leaving thousands missing. Bloomberg News Senio",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/nepal-rescuers-race-to-find-thousands-missing-video",
-          "time": "3h ago",
+          "title": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains",
+          "summary": "Anglo American and Teck promised investors $1.4bn in added profits annually from combined Chile copper mines but are still in talks with part-owner Glencore",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/bcb35264-a96c-49c0-984f-4b379d088581?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "By The Way: Headlines You Should See",
-          "summary": "Competitive subway speedrunning, fewer novels in schools, and an AI themed Bar: Nathan Hager, Christina Ruffini, and Bailey Lipschultz go over eye catching headlines from this week on Bloomberg This Weekend. (Source: Blo",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/by-the-way-headlines-you-should-see-video",
-          "time": "3h ago",
+          "title": "One fix for UK plc’s underperformance: equity for all",
+          "summary": "A new proposal suggests doubling the pay of board directors using stock options",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/e29502c0-50a9-4f77-ac87-4ba46d1ba98c?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran War Exposes Limits of US Military Endurance",
-          "summary": "Six months into the US conflict with Iran, oil flows from the Persian Gulf have recovered to about 40% of prewar levels, but risks remain as the Strait of Hormuz stays constrained and the Navy faces mounting pressure on ",
+          "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+          "summary": "World’s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
+          "summary": "Jointly owned independent oil and gas producers are an increasingly important part of the biggest players’ strategies",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
+          "summary": "An onerous mock trading course is becoming an effective tool for South Korea to cool investor fervor over risky products that have turned the country’s $4.3 trillion stock market extremely volatile.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/iran-war-exposes-limits-of-us-military-endurance-video",
-          "time": "3h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US oil deal denounced by both sides of Venezuelan politics",
+          "summary": "Hardliners cast agreement with Trump as looting and betrayal while opposition decries Washington’s meddling in country",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
+          "summary": "It had already been a tough 2026 for Acrisure. Part fintech, part insurance broker, the firm said in late May it would cut 11% of its workforce, or some 2,250 people, as part of a sweeping overhaul to modernize operation",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
+          "time": "11h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Warsh Says Inflation Isn’t Slowing, Vows to Reach 2% Target",
+          "summary": "Warsh reiterated that policymakers have a \"firm, fixed target\" of 2% inflation at the 2026 Jackson Hole Economic Policy Symposium. Bloomberg's Maria Eloisa Capurro explains. (Source: Bloomberg)",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
+          "time": "13h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 15:57 UTC",
+      "updated": "Updated 06:05 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Best way to archive 25 years of emails",
+          "title": "Test",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489306"
+          "url": "https://news.ycombinator.com/item?id=49495736"
         },
         {
           "idx": 2,
-          "title": "I compile one document layout into both PDF pages and editable PowerPoint slides",
+          "title": "I ran out of AI tokens in one app while holding unused tokens in another",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489192"
+          "url": "https://news.ycombinator.com/item?id=49495398"
         },
         {
           "idx": 3,
-          "title": "AniTroves Is Back Live",
+          "title": "Tell HN: STOP making Vibe Slop websites that LAG on my MBP and workstation",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489145"
+          "url": "https://news.ycombinator.com/item?id=49495392"
         },
         {
           "idx": 4,
-          "title": "Ask HN: Why still no unified standard file to describe all skills/mcps for repo?",
+          "title": "Ask HN: Hard Mode for LLMs",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489006"
+          "url": "https://news.ycombinator.com/item?id=49495324"
         },
         {
           "idx": 5,
-          "title": "Cut Claude Code Bill by Routing to DeepSeek or Grok",
+          "title": "Ask HN: How do you handle the yearly 5% price increases of SaaS subscriptions?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488963"
+          "url": "https://news.ycombinator.com/item?id=49494291"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Best way to archive 25 years of emails",
-          "summary": "I have emails from 1997-98 onwards all in one massive inbox, currently on gmail with emclient on Mac as the mail client (there have been probably a dozen services starting from self-hosted in the beginning). I would like",
+          "title": "Test",
+          "summary": "test Comments URL: https://news.ycombinator.com/item?id=49495736 Points: 2 # Comments: 1",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489306",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=49495736",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "I compile one document layout into both PDF pages and editable PowerPoint slides",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49489192 Points: 1 # Comments: 0",
+          "title": "I ran out of AI tokens in one app while holding unused tokens in another",
+          "summary": "The problem is simple: AI tokens are locked to individual products. context : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of tokens on the deployment agent. To keep using it, I ei",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489192",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=49495398",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "AniTroves Is Back Live",
-          "summary": "After redeveloping anitroves I am very glad to tell that its live again L Comments URL: https://news.ycombinator.com/item?id=49489145 Points: 2 # Comments: 0",
+          "title": "Tell HN: STOP making Vibe Slop websites that LAG on my MBP and workstation",
+          "summary": "I get it, you want to show off how \"cool\" you are with your hijacked scrolling and 50 million animations. Does marketing in 2026 mean your potential customer's computer starts lagging with horrendous layouts and designs?",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489145",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=49495392",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why still no unified standard file to describe all skills/mcps for repo?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49489006 Points: 2 # Comments: 1",
+          "title": "Ask HN: Hard Mode for LLMs",
+          "summary": "Does anyone have any experience or results with using system prompts that intentionally make LLMs more annoying to encourage better habits? I believe that consistently using an LLM for creative or solution building tasks",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49489006",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49495324",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Cut Claude Code Bill by Routing to DeepSeek or Grok",
-          "summary": "Tried this with Leanroute.dev MCP, it really works. Posted a blog post about this - https://leanroute.dev/blog/cut-claude-code-bills-60-percent-multi-provider-routing Try it out and let me know. Comments URL: https://new",
+          "title": "Ask HN: How do you handle the yearly 5% price increases of SaaS subscriptions?",
+          "summary": "Hello HN. If your company subscribes to SaaS services, you are probably all too familiar with the dreaded 5% uplift during the annual renewal of a SaaS contract. “Uplift” is a euphemistic term that obscures what is actua",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488963",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49494291",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Chain-aware (A2A) authorization using OPA as a sidecar pattern",
-          "summary": "I keep getting queries about A2A authorization and where should it sit, whether it should be done by AI Gateway and what is a better pattern. We at Leanroute, think that OPA as a sidecar pattern is suitable for this chai",
+          "title": "Did tvwatch.su also copy your GitHub profile?",
+          "summary": "I think tvwatch.su is a full copy of GitHub? test https://tvwatch.su/>>yournickhttps://news.ycombinator.com/item?id=49493659 Points: 3 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488952",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49493659",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Should one learn Rust as thier first programming language?",
-          "summary": "same as title Comments URL: https://news.ycombinator.com/item?id=49488930 Points: 2 # Comments: 2",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488930",
-          "time": "4h ago",
+          "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B",
+          "summary": "Community Wisdom 199",
+          "source": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+          "time": "11h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why is there a Default to 4G?",
-          "summary": "There is a toggle within the iOS Mobile data settings that allows you to select 4G or 5G. 4G that is at one bar of reception can be inferior, in some regards, for example when making calls, than 3G which may profer a str",
+          "title": "Is anyone else's GitHub search broken?",
+          "summary": "https://www.githubstatus.com says \"all systems operational\", but literally selecting function name and pressing \"search for this symbol\" gives no results Comments URL: https://news.ycombinator.com/item?id=49492040 Points",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488850",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49492040",
+          "time": "11h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why do we need MCP?",
-          "summary": "Why not just publish your API docs and let the client's bot chain together what calls need to be made. You could even repurpose the MCP so you only ever produce the API documentation as EVERY response. No LLM necessary. ",
+          "title": "Ask HN: Is OpenClaw Still Worth Exploring or Is It “So Last Year”?",
+          "summary": "Leaning into automation for tasks in my own life. Repurposed an old 2017 Intel MacBook to be an always on computer and for the moment it’s just fine*. Most of what I’ve done so far is deterministic and has no need for AI",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49488654",
-          "time": "5h ago",
+          "url": "https://news.ycombinator.com/item?id=49491979",
+          "time": "11h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Are these 13 free AV and Robotics engineering calculators are useful?",
-          "summary": "Let me know how i can improve https://www.udhy.com/tools/ Comments URL: https://news.ycombinator.com/item?id=49487030 Points: 1 # Comments: 0",
+          "title": "Ask HN: How to break Claude Code addiction?",
+          "summary": "TL;DR: How can I break my workaholic Claude Code addiction? Hello HN users, I really appreciate you reading this. I can't think of a better audience for this question. If this issue has affected you in any way, I would b",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49487030",
-          "time": "10h ago",
+          "url": "https://news.ycombinator.com/item?id=49491745",
+          "time": "12h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-08-29T15:57:04.224Z"
+  "generatedAt": "2026-08-30T06:05:35.013Z"
 }
