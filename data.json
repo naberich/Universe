@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+          "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+          "src": "Hacker News Front",
+          "url": "https://arxiv.org/abs/2608.29530"
         },
         {
           "idx": 2,
-          "title": "Microsoft 365 outage drags on, but things are improving",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"
+          "title": "WebFPGA",
+          "src": "Hacker News Front",
+          "url": "https://webfpga.io/"
         },
         {
           "idx": 3,
-          "title": "Shelly’s new $50 security camera watches your home without a subscription",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation"
+          "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+          "src": "少数派",
+          "url": "https://sspai.com/post/113581"
         },
         {
           "idx": 4,
-          "title": "Fambot introduces an ‘AI chief of staff’ for families",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+          "title": "True Rate of Unemployment",
+          "src": "Hacker News Front",
+          "url": "https://www.lisep.org/tru"
         },
         {
           "idx": 5,
-          "title": "Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10",
-          "src": "Hacker News Front",
-          "url": "https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/"
+          "title": "Larry Page’s flying car company Pivotal loses its CEO",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+          "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 19 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://arxiv.org/abs/2608.29530",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Microsoft 365 outage drags on, but things are improving",
-          "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-          "time": "just now",
+          "title": "WebFPGA",
+          "summary": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 18 # Comments: 9",
+          "source": "Hacker News Front",
+          "url": "https://webfpga.io/",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Shelly’s new $50 security camera watches your home without a subscription",
-          "summary": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's stil",
+          "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+          "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/113581",
+          "time": "2h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "True Rate of Unemployment",
+          "summary": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 75 # Comments: 19",
+          "source": "Hacker News Front",
+          "url": "https://www.lisep.org/tru",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Larry Page’s flying car company Pivotal loses its CEO",
+          "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+          "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/114093",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "The efficient frontier of LLM inference",
+          "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 73 # Comments: 17",
+          "source": "Hacker News Front",
+          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+          "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 99 # Comments: 31",
+          "source": "Hacker News Front",
+          "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+          "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Google needs Hollywood more than the studios need AI",
+          "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles o",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Fambot introduces an ‘AI chief of staff’ for families",
-          "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10",
-          "summary": "Article URL: https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/ Comments URL: https://news.ycombinator.com/item?id=49523033 Points: 33 # Comments: 18",
-          "source": "Hacker News Front",
-          "url": "https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "EFF to Governor Newsom: Veto California's AB 1709",
-          "summary": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709 Comments URL: https://news.ycombinator.com/item?id=49522954 Points: 34 # Comments: 17",
-          "source": "Hacker News Front",
-          "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Ask HN: Who is hiring? (September 2026)",
-          "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring c",
-          "source": "Hacker News Front",
-          "url": "https://news.ycombinator.com/item?id=49522897",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-          "summary": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "State of Open Models: Summer 2026 Observations",
-          "summary": "Article URL: https://huggingface.co/blog/state-of-open-models-summer-2026 Comments URL: https://news.ycombinator.com/item?id=49522816 Points: 11 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-          "summary": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
-          "time": "just now",
+          "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
           "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/webgpu-kernels"
+          "url": "https://huggingface.co/blog/allenai/benchmirt"
         },
         {
           "idx": 2,
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+          "title": "Introducing agentic video understanding with Gemini",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
         },
         {
           "idx": 3,
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title": "How AI-native companies turn workflows into operating capability",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/polimill"
+          "url": "https://openai.com/index/ai-native-company-workflows"
         },
         {
           "idx": 4,
-          "title": "A milestone in expanding access to AI",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+          "url": "https://openai.com/index/path-to-astra"
         },
         {
           "idx": 5,
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,65 @@
       },
       "news": [
         {
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing agentic video understanding with Gemini",
+          "summary": "",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How AI-native companies turn workflows into operating capability",
+          "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "time": "12h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/path-to-astra",
+          "time": "16h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "time": "17h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+          "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/gilbert-tobin",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/webgpu-kernels",
-          "time": "15h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -305,61 +359,7 @@
           "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Our decision on Cursor following its acquisition by SpaceX",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Supporting Thailand’s next generation of AI startups",
-          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-          "summary": "",
-          "source": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Gemini Omni 1.1 Flash lets you build with more control",
-          "summary": "",
-          "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-          "time": "4d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Piloting the world's first double-blind AI evaluations",
-          "summary": "Piloting the world's first double-blind AI evaluations",
-          "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-          "time": "5d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-          "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-          "time": "5d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Germany says Russia behind Leipzig airport drone attack",
+          "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
           "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "Global bond sell-off deepens amid inflation fears",
+          "title": "Germany loses its shine in the EU’s quest for green investment",
           "src": "FT World",
-          "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/a8df319d-5733-4adb-ab46-c5f52451e4e3?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss"
+          "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss"
+          "title": "FirstFT: US-Iran hostilities reignite",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/bc2e4206-a702-4a66-8b94-2538fa249862?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
+          "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Germany says Russia behind Leipzig airport drone attack",
-          "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+          "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+          "summary": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Global bond sell-off deepens amid inflation fears",
-          "summary": "UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s",
+          "title": "Germany loses its shine in the EU’s quest for green investment",
+          "summary": "Also in this newsletter: Brussels to turn a blind eye to exemptions in the bloc’s migration system",
           "source": "FT World",
-          "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/a8df319d-5733-4adb-ab46-c5f52451e4e3?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-          "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-          "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
+          "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+          "summary": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Jerusalem schools strike after Israel enforces curriculum and bans teachers",
-          "summary": "East Jerusalem schools strike as Israeli permit bans and forced curricula plunge the academic year into chaos.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/jerusalem-schools-strike-after-israel-enforces-curriculum-and-bans-teachers?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "France hits Shein and Temu with fast fashion fees",
-          "summary": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Summer 2026 was the hottest since records began in 1884, Met Office says",
-          "summary": "Top five warmest seasons have all occurred since 2003 as human-caused climate change takes hold, UK scientists say",
+          "title": "FirstFT: US-Iran hostilities reignite",
+          "summary": "Also in today’s newsletter: EU’s diplomatic service and German work hours",
           "source": "FT World",
-          "url": "https://www.ft.com/content/74bf27e2-7f9c-445f-ba2e-9f7280425054",
+          "url": "https://www.ft.com/content/bc2e4206-a702-4a66-8b94-2538fa249862?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
-          "summary": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
+          "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
+          "summary": "High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinian-farmers-inspect-olive-trees-bulldozed-by-israeli-forces?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Is Trump wooing Russia again – and why?",
-          "summary": "CIA chief's Moscow visit and Russian finance minister attending a G20 meeting in the US signal renewed dialogue.",
+          "title": "US launches further strikes on Iran as conflict flares up",
+          "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+          "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
+          "summary": "Arrests, prosecutions and suspensions are putting growing pressure on Tunisia’s civil society, Human Rights Watch says.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Football Fandom: Who owns your loyalty?",
-          "summary": "How is money changing football?",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss",
+          "title": "Ukraine considers relaxing curfew rules despite Russian attacks",
+          "summary": "Relentless air bombardments paralyse activity in Kyiv and surrounding regions",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/638974ef-2f93-4d64-a118-980e9edb56b6",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "ECB must be prepared to lift interest rates further, says top policymaker",
+          "summary": "Irish central bank governor Gabriel Makhlouf says combination of Eurozone inflation above 3% and robust growth makes him ‘uneasy’",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/2a41f6a2-468b-44ae-bee7-a6159186c83c?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Partners Group CEO Rejects Redemption Concerns",
+          "title": "Where Bond Yields Are Heading as Energy Prices Rise",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/partners-group-ceo-rejects-redemption-concerns-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/where-bond-yields-are-heading-as-energy-prices-rise"
         },
         {
           "idx": 2,
-          "title": "Redwire is Growing Strawberries in Space",
+          "title": "US-Iran Conflict Intensifies as Trump Downplays Desire for Deal",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/redwire-is-growing-strawberries-in-space-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/us-iran-conflict-intensifies-trump-downplays-deal-hopes-video"
         },
         {
           "idx": 3,
-          "title": "Global bond sell-off deepens amid inflation fears",
+          "title": "So how big *was* Bessent’s yentervention?",
           "src": "FT Markets",
-          "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/958aa5ab-78e0-40cb-9a18-25e9fd5de233"
         },
         {
           "idx": 4,
-          "title": "Senegal, IMF Reach Staff Agreement on $2.2 Billion Loan Program",
+          "title": "Climate Risk Is Repricing Indian Real Estate",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-01/senegal-imf-reach-staff-agreement-on-2-2-billion-loan-program"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/climate-risk-is-repricing-indian-real-estate-video"
         },
         {
           "idx": 5,
-          "title": "The Coming Shakeout in Private Credit",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/the-coming-shakeout-in-private-credit-video"
+          "title": "US launches further strikes on Iran as conflict flares up",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Partners Group CEO Rejects Redemption Concerns",
-          "summary": "Partners Group CEO David Layton joined Bloomberg Open Interest to push back on concerns that his move to CIO signals trouble at the private-markets giant. He explains why the leadership shake-up isn’t tied to redemption ",
+          "title": "Where Bond Yields Are Heading as Energy Prices Rise",
+          "summary": "Highlights from Bloomberg TV as contributors shed light on how rising energy prices are driving bond yields higher across markets and traders reposition in anticipation of further challenges. Meanwhile, the yield on 30-y",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/partners-group-ceo-rejects-redemption-concerns-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/where-bond-yields-are-heading-as-energy-prices-rise",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Redwire is Growing Strawberries in Space",
-          "summary": "Redwire CEO Peter Cannito joins Bloomberg Open Interest to break down the next phase of the space economy—from orbital data centers and cheaper space manufacturing to the growing US, China space race. He also explains wh",
+          "title": "US-Iran Conflict Intensifies as Trump Downplays Desire for Deal",
+          "summary": "The conflict between the US and Iran escalated sharply, with American forces carrying out a fresh wave of strikes and Iran saying it had retaliated. Meanwhile President Donald Trump downplayed the chances of a deal, writ",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/redwire-is-growing-strawberries-in-space-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/us-iran-conflict-intensifies-trump-downplays-deal-hopes-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Global bond sell-off deepens amid inflation fears",
-          "summary": "UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s",
+          "title": "So how big *was* Bessent’s yentervention?",
+          "summary": "Smaller than we had possibly imagined",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/958aa5ab-78e0-40cb-9a18-25e9fd5de233",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Senegal, IMF Reach Staff Agreement on $2.2 Billion Loan Program",
-          "summary": "Senegal and the International Monetary Fund reached a preliminary deal for a program that will resume lending to the West African nation, two years after funding was frozen following the discovery of billions of dollars ",
+          "title": "Climate Risk Is Repricing Indian Real Estate",
+          "summary": "India’s extreme weather is changing the economics of real estate. From Mumbai to Bengaluru, developers are spending millions to protect buildings from floods. Ranjani Raghavan explains how climate resilience is becoming ",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-01/senegal-imf-reach-staff-agreement-on-2-2-billion-loan-program",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-02/climate-risk-is-repricing-indian-real-estate-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The Coming Shakeout in Private Credit",
-          "summary": "Achilles Global Management CIO and Founder Sachin Khajuria says private credit is entering a decade-long shakeout as higher rates expose weaker managers and drive a flight to quality. He joins Bloomberg Open Interest to ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/the-coming-shakeout-in-private-credit-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "David Booth on His Book and Historic KU Athletics Donation",
-          "summary": "David Booth, Dimensional Fund Advisors founder and Chairman, discusses the theme of his new book \"Stay Calm: Learn to Embrace Uncertainty in Investing and Life,\" and his historic $300 Million gift to the University of Ka",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/david-booth-on-his-book-historic-ku-athletics-donation-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Stocks, Bonds Fall as Oil Jump Fuels Fed-Hike Bets",
-          "summary": "A renewed drop in bonds reduced bets on riskier corners of Wall Street, hitting stocks on worries that elevated oil prices will fuel inflation and force the Federal Reserve to lift rates. Jordan Jackson, Global Market St",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-01/stocks-bonds-fall-as-oil-jump-fuels-fed-hike-bets-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Wells Fargo, Barclays Backed Collapsed Headlam With £85 Million",
-          "summary": "Wells Fargo & Co. and Barclays Plc provided as much as £85 million ($115 million) to Headlam Group Plc just months before the British flooring distributor appointed insolvency officials.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-01/wells-fargo-barclays-backed-collapsed-headlam-with-85-million",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump summons US refiners as Iran war pushes up fuel prices",
-          "summary": "President to hold White House meeting on Tuesday as high living costs sap his popularity ahead of midterm elections",
+          "title": "US launches further strikes on Iran as conflict flares up",
+          "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c?syn-25a6b1a6=1",
-          "time": "2h ago",
+          "url": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Saudi and South Korean oil tankers hit in Strait of Hormuz",
-          "summary": "The increase in shipping attacks comes after a period of relative calm in the war",
+          "title": "China-US Yield Gap Nears Record High as Treasury Selloff Deepens",
+          "summary": "A fresh selloff in Treasuries has pushed the yield gap between US and Chinese 10-year bonds back toward an all-time high, raising the risk of capital outflow from the Asian nation.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/china-us-yield-gap-nears-record-high-as-treasury-selloff-deepens",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Corn Drops Most in Three Weeks as Profit-Taking Hits Grain Rally",
+          "summary": "Corn futures fell the most in almost three weeks with a wave of profit-taking pulling down US grains markets after a weekslong rally fueled by geopolitical and weather risks.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/corn-drops-most-in-three-weeks-as-profit-taking-hits-grain-rally",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Back to school: meet PE’s new headmasters",
+          "summary": "Top European private capital firms have fresh leadership",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1",
-          "time": "3h ago",
+          "url": "https://www.ft.com/content/2a2d9bab-7441-446b-8e2e-7463583738c2?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Advisory firm Interpath looking for its own US deal",
+          "summary": "New owners want foothold in top market for restructurings and other consulting work",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/0a019cc6-3ce3-4034-b88f-302a56888095?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russia secretly helping Iran develop supersonic missiles",
+          "summary": "FT investigation uncovers programme behind one of the most significant known transfers of military technology from Moscow to Tehran",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/8812dfb4-8bae-4459-8de5-016d919c43ff?syn-25a6b1a6=1",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 15:46 UTC",
+      "updated": "Updated 05:15 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Freelancer? Seeking freelancer? (September 2026)",
+          "title": "How is AWS console so broken?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522905"
+          "url": "https://news.ycombinator.com/item?id=49531472"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Who is hiring? (September 2026)",
+          "title": "OpenAI having an outage with 5.6 sol?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522897"
+          "url": "https://news.ycombinator.com/item?id=49530902"
         },
         {
           "idx": 3,
-          "title": "Ask HN: Who wants to be hired? (September 2026)",
+          "title": "Were Claude's Weekly Limits Cut in Half? (and obscured by another 50% \"deal\"?)",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522896"
+          "url": "https://news.ycombinator.com/item?id=49530888"
         },
         {
           "idx": 4,
-          "title": "Ask HN: Has X.com database been leaked?",
+          "title": "Ask HN: Why Groq didn't provide DeepSeek-v4-flash",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522373"
+          "url": "https://news.ycombinator.com/item?id=49530788"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Freelancer? Seeking freelancer? (September 2026)",
+          "title": "Ask HN: Anyone homeschooling their kids?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49521942"
+          "url": "https://news.ycombinator.com/item?id=49529929"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Freelancer? Seeking freelancer? (September 2026)",
-          "summary": "Please lead with either SEEKING WORK or SEEKING FREELANCER, your location, and whether remote work is a possibility. Please only post if you are looking to hire a freelancer or work as one. Small (2-5 person) agencies ar",
+          "title": "How is AWS console so broken?",
+          "summary": "A small rant, after painful user experience. I admit I visited it after a while spending on GCP space, but the console looks like it is either not maintained at all, or individual teams just throwing stuff at it and caus",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522905",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Who is hiring? (September 2026)",
-          "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring c",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522897",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Who wants to be hired? (September 2026)",
-          "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Readers: please only email these addresses to discuss work opportunities.",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522896",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Has X.com database been leaked?",
-          "summary": "Hundreds of people got dozens of reset password requests at the same time recently. Maybe its a bug, but its weird af. At least you need to know the user email to request it. Comments URL: https://news.ycombinator.com/it",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49522373",
+          "url": "https://news.ycombinator.com/item?id=49531472",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Freelancer? Seeking freelancer? (September 2026)",
-          "summary": "Please lead with either SEEKING WORK or SEEKING FREELANCER, your location, and whether remote work is a possibility. Please only post if you are looking to hire a freelancer or work as one. Small (2-5 person) agencies ar",
+          "title": "OpenAI having an outage with 5.6 sol?",
+          "summary": "For about 30 minutes now I keep getting the following from codex: Selected model is at capacity. Please try a different model. Anyone else seeing this? Their status page looks like everything is fine at the moment. Comme",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49521942",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Asked Reddit support to give me API key so I can delete my data. They refused",
-          "summary": "Asked reddit support to give me API key so I can securely delete my data via ereddicator. I was honest, filling all the required fields, stating my purpose explicitly. Here's their response: We have reviewed your request",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49521882",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How to turn your AI into a world-class designer",
-          "summary": "An end-to-end process for tapping into AI’s hidden creativity",
-          "source": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+          "url": "https://news.ycombinator.com/item?id=49530902",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Please hire me, I need to live in USA",
-          "summary": "\"Keep, ancient lands, your storied pomp!\" cries she With silent lips. \"Give me your tired, your poor, Your huddled masses yearning to breathe free, The wretched refuse of your teeming shore. Send these, the homeless, tem",
+          "title": "Were Claude's Weekly Limits Cut in Half? (and obscured by another 50% \"deal\"?)",
+          "summary": "The \"50% higher\" capacity through August 31 ended last night. Until then, 100% use of a 5-hour session would use 10% of my weekly capacity. Today, there's a new \"50% higher\" capacity message through September 13. But I'm",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49521022",
+          "url": "https://news.ycombinator.com/item?id=49530888",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is anyone else preparing for the EU Cyber Resilience Act?",
-          "summary": "I run a one-person GmbH in Germany. I am thinking about selling firmware for an off-the-shelf handheld - offline, no WiFi, no network stack compiled in at all, updates by reflashing over USB. I don't sell hardware, just ",
+          "title": "Ask HN: Why Groq didn't provide DeepSeek-v4-flash",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49530788 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49520688",
+          "url": "https://news.ycombinator.com/item?id=49530788",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What's a lesson about money you learned the expensive way?",
-          "summary": "Could be trading, investing, saving, taxes, a scam, a bad bet on yourself — anything. What happened, and what do you do differently now? Comments URL: https://news.ycombinator.com/item?id=49520625 Points: 2 # Comments: 4",
+          "title": "Ask HN: Anyone homeschooling their kids?",
+          "summary": "Looks like it's been a long time since this question was asked. Anyone on HN homeschooling their kids? Curious to know more about people's experiences: - Any online communities that have been helpful - Good app / platfor",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49520625",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49529929",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "GitHub Down Again?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49529067 Points: 1 # Comments: 1",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49529067",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Where do you announce your projects?",
+          "summary": "Over the years I’ve been working on quite the number of personal/hobby projects that turned out very good o think. But Ive always had the most trouble at the marketing/validation step. So as a single developer, where do ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49529002",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Does HN block mobile browsers?",
+          "summary": "Recently I have been unable to visit hn from my mobile phone over the cellular network. I have standard Android and I've tried multiple browsers including Firefox, Chrome, and Brave. I don't need or want to login while I",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49528768",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "UX Conference September Announced (Sep 14 - Sep 25)",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Training focused on long-lasting skills for UX professionals. September 14 - September 25, 2026.",
+          "source": "Nielsen Norman",
+          "url": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "summary": "In an interview with PC Gamer at Gamescom 2026, Dwarf Fortress creator Tarn Adams sharply criticizes studio executives' obsession with generative AI and the wave of layoffs across the games industry. He compares the beha",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49527773",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-09-01T15:46:30.830Z"
+  "generatedAt": "2026-09-02T05:15:36.526Z"
 }
