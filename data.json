@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-          "src": "少数派",
-          "url": "https://sspai.com/post/113159"
+          "title": "Google says its AI weather model is getting better",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
         },
         {
           "idx": 2,
-          "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-          "src": "少数派",
-          "url": "https://sspai.com/post/114113"
+          "title": "Dyson’s new straightener has liquid cooling pipes to reduce hair damage",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling"
         },
         {
           "idx": 3,
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
           "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/"
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
         },
         {
           "idx": 4,
-          "title": "Uber beats Waymo as first to launch robotaxis in London",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch"
+          "title": "Codex Is Down",
+          "src": "Hacker News Front",
+          "url": "https://github.com/openai/codex/issues/28756"
         },
         {
           "idx": 5,
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/"
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "src": "Hacker News Front",
+          "url": "https://anyhumanever.com/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
-          "summary": "聊聊 Hi-Fi 这件事。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/113159",
+          "title": "Google says its AI weather model is getting better",
+          "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Dyson’s new straightener has liquid cooling pipes to reduce hair damage",
+          "summary": "After expanding its health and beauty lineup earlier this week with a camera-equipped electric toothbrush, Dyson is also introducing two new hair care products this month. The $329 Corrale CoolShine straightener upgrades",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNex",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Codex Is Down",
+          "summary": "Article URL: https://github.com/openai/codex/issues/28756 Comments URL: https://news.ycombinator.com/item?id=49550769 Points: 56 # Comments: 24",
+          "source": "Hacker News Front",
+          "url": "https://github.com/openai/codex/issues/28756",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "summary": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 10 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://anyhumanever.com/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "ChatGPT Is Throwing 404",
+          "summary": "Article URL: https://chatgpt.com/ Comments URL: https://news.ycombinator.com/item?id=49550614 Points: 229 # Comments: 160",
+          "source": "Hacker News Front",
+          "url": "https://chatgpt.com/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Hohem’s tiny steadycam has a removable action cam",
+          "summary": "Hohem is trying something new with its Eyepic handheld stabilized camera to differentiate it from existing offerings from companies like DJI and Insta360. At its core, the camera is functionally similar to devices like t",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
           "time": "1h ago",
           "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-          "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/114113",
-          "time": "4h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-          "time": "6h ago",
-          "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Uber beats Waymo as first to launch robotaxis in London",
-          "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behin",
+          "title": "How Sonos rebooted itself",
+          "summary": "Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer of Pandora, VP of product at Snap, and the chief product officer of Quibi. He wa",
           "source": "The Verge",
-          "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-          "time": "6h ago",
+          "url": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-          "time": "6h ago",
+          "title": "SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it",
+          "summary": "Here you can see the Keypad Vision Pro (left) and the new Lock Ultra Max (right). | Image: SwitchBot SwitchBot has launched a new retrofit smart lock that gives owners multiple ways to enter European homes without a trad",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-          "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery.",
+          "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
+          "summary": "Article URL: https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere Comments URL: https://news.ycombinator.com/item?id=49549877 Points: 25 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://news.ycombinator.com/item?id=49543530",
-          "time": "6h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-          "time": "6h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Reasons robotics is hard",
-          "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 67 # Comments: 28",
-          "source": "Hacker News Front",
-          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-          "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-          "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-          "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-          "summary": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=49542486 Points: 0 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://nango.dev/careers",
-          "time": "8h ago",
+          "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Proactive cyber defense for governments and enterprises",
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
         },
         {
           "idx": 2,
-          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/Hcompany/neomme"
         },
         {
           "idx": 3,
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
           "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
         },
         {
           "idx": 4,
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/atv-big-air-tour"
+          "title": "Give Your Coding Agents a Memory You Own",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/funes"
         },
         {
           "idx": 5,
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/allenai/benchmirt"
+          "url": "https://huggingface.co/blog/train-to-paint-with-code"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,56 @@
       },
       "news": [
         {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "summary": "",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Give Your Coding Agents a Memory You Own",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/funes",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Proactive cyber defense for governments and enterprises",
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-          "time": "12h ago",
+          "time": "23h ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +332,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-          "time": "13h ago",
+          "time": "23h ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +341,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "time": "15h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +350,7 @@
           "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/atv-big-air-tour",
-          "time": "17h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -315,51 +360,6 @@
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/allenai/benchmirt",
           "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Introducing agentic video understanding with Gemini",
-          "summary": "",
-          "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How AI-native companies turn workflows into operating capability",
-          "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/ai-native-company-workflows",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/path-to-astra",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-          "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/gilbert-tobin",
-          "time": "2d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+          "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
           "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "Yen strengthens as traders bet on Japan interest rate rises",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1"
+          "title": "Five killed, dozens more feared dead in boat adrift off Canary Islands",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/3/five-killed-dozens-more-feared-dead-in-boat-adrift-off-canary-islands?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Former campaign chair: Trump ‘cares about Trump the most’",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss"
+          "title": "Leon Black sues US Congress over Epstein probe",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/c99a833b-337a-4cb9-913b-ef1e43a96c5c?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Girl rescued by free-climbing neighbour from balcony in Turkiye",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss"
+          "title": "Milei dials up Argentina’s claim to Falklands",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/2e08ef04-b75f-4511-9587-0fbe9b991e37?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "FirstFT: KPMG warned Guggenheim unit over weak controls",
+          "title": "Green Party leader Polanski to stand in seat vacated by Starmer",
           "src": "FT World",
-          "url": "https://www.ft.com/content/9d4cffdc-4d8b-4a8b-98be-42e17200b122?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/65c80957-5b37-4ec5-863d-386865796092?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-          "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+          "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+          "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Yen strengthens as traders bet on Japan interest rate rises",
-          "summary": "Currency falls under ¥157 to the dollar after sudden jump overnight",
+          "title": "Five killed, dozens more feared dead in boat adrift off Canary Islands",
+          "summary": "Spanish migrant NGO says more than 80 people likely perished on the boat that left The Gambia 27 days ago.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/3/five-killed-dozens-more-feared-dead-in-boat-adrift-off-canary-islands?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Leon Black sues US Congress over Epstein probe",
+          "summary": "Private-equity titan is among Wall Street figures targeted by House committee for their ties to late sex offender",
           "source": "FT World",
-          "url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/c99a833b-337a-4cb9-913b-ef1e43a96c5c?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Former campaign chair: Trump ‘cares about Trump the most’",
-          "summary": "Former Trump campaign chair says that US President Trump is focused on protecting both the Republican Party and himself.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Girl rescued by free-climbing neighbour from balcony in Turkiye",
-          "summary": "A man scaled a building to rescue a girl dangling from a 3rd floor balcony in the Turkish city of Diyarbakir.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "FirstFT: KPMG warned Guggenheim unit over weak controls",
-          "summary": "Also in today’s newsletter: Dutch gold bars and Google ads",
+          "title": "Milei dials up Argentina’s claim to Falklands",
+          "summary": "Domestic politics, oil drilling and UK-US tensions drive libertarian leader to amp up sovereignty dispute",
           "source": "FT World",
-          "url": "https://www.ft.com/content/9d4cffdc-4d8b-4a8b-98be-42e17200b122?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/2e08ef04-b75f-4511-9587-0fbe9b991e37?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV",
-          "summary": "Top medical groups say current evidence shows these vaccines protect against severe illness and death.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/3/us-medical-groups-issue-vaccine-guidance-urge-jabs-for-flu-covid-and-rsv?traffic_source=rss",
+          "title": "Green Party leader Polanski to stand in seat vacated by Starmer",
+          "summary": "Decision presents first electoral challenge for Andy Burnham as prime minister",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/65c80957-5b37-4ec5-863d-386865796092?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Niger displays arsenal seized after failed military mutiny",
-          "summary": "Niger’s authorities showed off the arsenal seized during fighting to put down a revolt against the government.",
+          "title": "Iranian drone damages residential building in Kuwait City",
+          "summary": "An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/niger-displays-arsenal-seized-after-failed-military-mutiny?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-          "summary": "Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss",
+          "title": "How state control of companies can drive innovation",
+          "summary": "India and China show that if done correctly, the UK’s plans to intervene in some industries could deliver benefits",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/24dd9e25-5752-4fbc-8070-b75ae39bc29d",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
-          "summary": "Energy firms sign deals in Caracas, days after Venezuela agreed to grant the US control of a fifth of its oil reserves.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/3/uss-chevron-italys-eni-to-expand-oil-projects-in-venezuela?traffic_source=rss",
+          "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+          "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US sailors roll into Thai resort after nine months at sea",
-          "summary": "USS Abraham Lincoln arrives after lengthy deployment that has become emblematic of Iran war’s strain on resources",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/bad69b88-da02-4859-8190-37c55039be75?syn-25a6b1a6=1",
+          "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
+          "summary": "Three intelligence officers were wounded in shootout that Zelenskyy has described as 'absolutely disgraceful'.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+          "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Why the World’s Dollar Exposure Risks Fueling a Selloff",
+          "title": "Hearn Reveals Fury-Joshua Location Battle",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-03/why-the-world-s-dollar-exposure-risks-fueling-a-selloff-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-03/hearn-reveals-fury-joshua-location-battle-video"
         },
         {
           "idx": 2,
-          "title": "Trump Says 'Doing Well' in Iran, Asserts Hormuz Control",
+          "title": "Odd Lots: What the Fed Needs to Do to Shrink Its Balance Sheet",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-03/trump-says-doing-well-in-iran-asserts-hormuz-control-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-03/odd-lots-what-the-fed-needs-to-do-to-shrink-its-balance-sheet"
         },
         {
           "idx": 3,
-          "title": "GPIF’s Unusual Meeting Fuels Speculation Over Allocation Change",
+          "title": "Your ETF of the Moment: Riding the Wild, War-Fueled Oil Market",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/gpif-s-unusual-meeting-fuels-speculation-over-allocation-change"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/your-etf-of-the-moment-riding-the-wild-war-fueled-oil-market"
         },
         {
           "idx": 4,
-          "title": "AI Drama Frenzy Sends China Broadcaster Mango Soaring 64%",
+          "title": "EU to See Progress on Savings Union by Year-End, Irish PM Says",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/ai-drama-frenzy-sends-china-broadcaster-mango-soaring-64"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/eu-to-see-progress-on-savings-union-by-year-end-irish-pm-says"
         },
         {
           "idx": 5,
-          "title": "Japan’s 30-Year Bond Sale Passes Smoothly With Yields Above 4%",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/japan-s-30-year-bond-sale-demand-stronger-than-12-month-average"
+          "title": "Blackstone stands firm with cap on private credit outflows",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/41017d78-2d1c-4a41-9dee-c9237179d616?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Why the World’s Dollar Exposure Risks Fueling a Selloff",
-          "summary": "Some of the biggest holders of US assets have little protection against a weaker dollar, while struggling to find alternatives if they wish to deleverage. Bloomberg's Mark Cranfield breaks down the risks. (Source: Bloomb",
+          "title": "Hearn Reveals Fury-Joshua Location Battle",
+          "summary": "Matchroom Sport Chairman Eddie Hearn reveals the battle over staging Tyson Fury versus Anthony Joshua at Wembley or Madison Square Garden, explains why Katie Taylor’s 83,000-seat farewell could redefine women’s sports, a",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-03/why-the-world-s-dollar-exposure-risks-fueling-a-selloff-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-03/hearn-reveals-fury-joshua-location-battle-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump Says 'Doing Well' in Iran, Asserts Hormuz Control",
-          "summary": "US President Donald Trump said renewed attacks on Iran would likely be short-lived, reiterating his claim Washington controls the Strait of Hormuz after fresh fighting spiked energy prices and rekindled fears of an open-",
+          "title": "Odd Lots: What the Fed Needs to Do to Shrink Its Balance Sheet",
+          "summary": "On this episode of the Odd Lots podcast, Stanford Professor Darrell Duffie joins Tracy Alloway and Joe Weisenthal to discuss what's driving the surge in US government bond yields and what the Fed could do to shrink its b",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-03/trump-says-doing-well-in-iran-asserts-hormuz-control-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-03/odd-lots-what-the-fed-needs-to-do-to-shrink-its-balance-sheet",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "GPIF’s Unusual Meeting Fuels Speculation Over Allocation Change",
-          "summary": "Government Pension Investment Fund’s recent announcement that its management team took the unusual step of meeting in August is fueling speculation that Japan’s biggest retirement fund may boost its allocation target for",
+          "title": "Your ETF of the Moment: Riding the Wild, War-Fueled Oil Market",
+          "summary": "The US-Israel war with Iran and the inability of Donald Trump to extricate himself from it have made one fund a good bet.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/gpif-s-unusual-meeting-fuels-speculation-over-allocation-change",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "AI Drama Frenzy Sends China Broadcaster Mango Soaring 64%",
-          "summary": "A frenzy for AI-generated dramas is sending investors rushing into Mango Excellent Media Co., putting the Chinese broadcaster on track to become Asia’s hottest stock this week.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/ai-drama-frenzy-sends-china-broadcaster-mango-soaring-64",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Japan’s 30-Year Bond Sale Passes Smoothly With Yields Above 4%",
-          "summary": "A closely watched auction of Japan’s 30-year government bonds Thursday passed smoothly with yields above 4%, offering some respite from the selloff in long-dated bonds.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/japan-s-30-year-bond-sale-demand-stronger-than-12-month-average",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/your-etf-of-the-moment-riding-the-wild-war-fueled-oil-market",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Yen Traders Brace for Holiday Intervention Risk Around BOJ",
-          "summary": "Yen traders are on heightened alert for possible intervention around the Bank of Japan’s upcoming policy meeting, with a three-day holiday following the decision offering authorities an opportunity to act in thinner trad",
+          "title": "EU to See Progress on Savings Union by Year-End, Irish PM Says",
+          "summary": "Progress on the European Union’s long-awaited savings and investment union will be possible by the end of the year, according to Ireland’s prime minister, Taoiseach Micheal Martin.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/yen-traders-brace-for-holiday-intervention-risk-around-boj",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/eu-to-see-progress-on-savings-union-by-year-end-irish-pm-says",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Blackstone stands firm with cap on private credit outflows",
+          "summary": "Flagship $43bn fund said it was hit with notices from investors to pull 10% of the vehicle’s value in the third quarter",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/41017d78-2d1c-4a41-9dee-c9237179d616?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Treasuries Rise After Fed’s Waller Notes Inflation Progress",
+          "summary": "Treasuries rose after Federal Reserve Governor Christopher Waller said he’d be inclined to leave interest rates unchanged as long as inflation continues to slow.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/treasuries-rise-after-fed-s-waller-notes-progress-on-inflation",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Yen surges as traders bet on Japan interest rate rises",
+          "summary": "Currency moves past ¥156 to the dollar after sudden jump overnight",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pakistan Sells Record $3 Billion of Junk Debt After Upgrades",
-          "summary": "Pakistan raised a record $3 billion from a junk bond sale after securing credit rating upgrades, taking advantage of hot debt markets.",
+          "title": "S&P 500 Rises After Fed’s Waller Signals Patience on Rate Hikes",
+          "summary": "The S&P 500 Index rose Thursday as investors weighed remarks from Federal Reserve Governor Christopher Waller, who offered optimism that inflation is showing some signs of slowing. Traders pared bets for interest-rate hi",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/pakistan-raises-3-billion-in-two-part-junk-bond-sale",
-          "time": "4h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/us-stock-futures-rise-as-traders-parse-fedspeak-earnings",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "World’s Unusually High Dollar Exposure Risks Fueling Selloff",
-          "summary": "Sift through the filings of pension funds and insurers around the world and one thing stands out: some of the biggest holders of US assets have little protection against a weaker dollar, leaving the currency at risk of s",
+          "title": "Blackstone Private Credit Fund Again Caps Redemptions at 5%",
+          "summary": "Blackstone Inc. moved to limit redemptions from its flagship private credit fund for a second consecutive quarter, providing an early glimpse at the lasting pressures facing the $1.8 trillion market.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-03/world-s-unusually-high-dollar-exposure-risks-fueling-selloff",
-          "time": "5h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/blackstone-s-bcred-caps-redemptions-again-after-10-seek-to-exit",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Latest Oil Market News and Analysis for Sept. 3",
-          "summary": "Oil dipped after a three-day rally as President Donald Trump said renewed attacks on Iran would be short-lived, while US officials signaled robust energy flows through the Strait of Hormuz.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/latest-oil-market-news-and-analysis-for-sept-3",
-          "time": "7h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Chevron to double Venezuela oil production with $7bn pledge",
-          "summary": "US major commits to expanding its joint ventures as White House pushes for huge increase in production in the country",
+          "title": "Entain exits the FTSE 100 in surprisingly good shape",
+          "summary": "Having bulked up in some ways, the gambling group could create value by slimming down in others",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1",
-          "time": "8h ago",
+          "url": "https://www.ft.com/content/eb7058a5-133e-4fef-b484-4cd965c0022e?syn-25a6b1a6=1",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 05:21 UTC",
+      "updated": "Updated 15:29 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Is anyone working on this? (Silent texts)",
+          "title": "Tell HN: Reddit bots banned my accounts for no apparent reason",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49546020"
+          "url": "https://news.ycombinator.com/item?id=49551103"
         },
         {
           "idx": 2,
-          "title": "Ask HN: A tool to share my data",
+          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545792"
+          "url": "https://news.ycombinator.com/item?id=49551096"
         },
         {
           "idx": 3,
-          "title": "After Show HN: Targeting the Bot Storm",
+          "title": "Major Model Providers Down",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545488"
+          "url": "https://news.ycombinator.com/item?id=49551064"
         },
         {
           "idx": 4,
-          "title": "Ask HN: Should you open-source your Claude Code project docs with the repo?",
+          "title": "Claude Is Down? Again?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545476"
+          "url": "https://news.ycombinator.com/item?id=49551025"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Looking for an Invite for Lobster.rs",
+          "title": "Claude Code UI Improvements",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545260"
+          "url": "https://news.ycombinator.com/item?id=49550800"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Is anyone working on this? (Silent texts)",
-          "summary": "I understand instagram has something somewhat similar, but I was wondering if any of you all were working on the idea that you could send a late night text message to someone with their phone on alert without alerting th",
+          "title": "Tell HN: Reddit bots banned my accounts for no apparent reason",
+          "summary": "Malicious activity on Reddit is crossing all boundaries and it looks like malicious LLMs may be carrying out targeted attacks, resulting in legitimate users facing serious problems. Are there any Reddit moderators here w",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49546020",
+          "url": "https://news.ycombinator.com/item?id=49551103",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: A tool to share my data",
-          "summary": "Hello HN, As a European citizen, I'd love a tool allowing me to easily collect and centralize data I've already shared with FAANG and other large US platforms, for the purpose of sharing (selling?) it to relevant Europea",
+          "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+          "summary": "https://status.openai.com https://status.claude.com https://status.x.ai Comments URL: https://news.ycombinator.com/item?id=49551096 Points: 7 # Comments: 4",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545792",
+          "url": "https://news.ycombinator.com/item?id=49551096",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Major Model Providers Down",
+          "summary": "https://status.x.ai https://status.claude.com https://status.openai.com Comments URL: https://news.ycombinator.com/item?id=49551064 Points: 2 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49551064",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Claude Is Down? Again?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49551025 Points: 1 # Comments: 1",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49551025",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Claude Code UI Improvements",
+          "summary": "- remove the clickable buttons in terminal that i always click when i need to refocus the window, terminal doesnt need buttons - when user types a message, associate it with a timestamp so that how slow claude ingests th",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49550800",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "I made a simple word building game supporting anagrams and one handed use",
+          "summary": "Hi everyone, Wanted to share a game I built. It's called Unscramble! and I believe it's the simplest word building game. Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a lette",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49550479",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How do you guys keep up with the most cost-effective AI models?",
+          "summary": "I see lots of post on here discussing the most cost-effective models for coding and people swapping around a lot. I use Claude Code for 20 bucks a month, but I'm interested in trying out other models. Do you guys have a ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49550324",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "After Show HN: Targeting the Bot Storm",
-          "summary": "After posting a Show HN on this platform, a veritable bot onslaught occurred within minutes. 175 bots were involved, generating over 1300 hits. Unfortunately, not a single real person was among the \"visitors\"—apparently ",
+          "title": "Semantic Browsing History Retrieval",
+          "summary": "guys no ai slop here, i built a saas to solve the one problem i ran into every week, tell me why google history doesnt have semantic retrieval, why do i gotta remember exact keywords to search for a page I KNOW I VISITED",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545488",
-          "time": "2h ago",
+          "url": "https://news.ycombinator.com/item?id=49549972",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Should you open-source your Claude Code project docs with the repo?",
-          "summary": "I want to open source a repo, but the repo has a lot of docs that were generated in the process over months - specs, milestones, project planning, etc. I am ok open sourcing it, but it seems a bit unnecessary - what is t",
+          "title": "Is Chasing Stripe Invoices a real issue?",
+          "summary": "Is anyone still manually chasing stripe invoices? Comments URL: https://news.ycombinator.com/item?id=49549855 Points: 1 # Comments: 1",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545476",
-          "time": "2h ago",
+          "url": "https://news.ycombinator.com/item?id=49549855",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Looking for an Invite for Lobster.rs",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49545260 Points: 3 # Comments: 1",
+          "title": "ARKM KERNEL approaching you soon",
+          "summary": "ARKM is officially in last phase of building and soon it will enter into competition phase and in this phase, we will try our best software to destroy it so that we can get the limitation of this kernel. This is because ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545260",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Does anyone know if something happened to stallman.org?",
-          "summary": "I have attempted to access it many times today and it seems to be down, at least from where I live, in Central America. Given his health state and his activism, I am curious if something happened that I am not aware of. ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49545206",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How to Trace Website Ownership",
-          "summary": "Hello devs, I want to know how to trace a website ownership. Comments URL: https://news.ycombinator.com/item?id=49544025 Points: 2 # Comments: 1",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49544025",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Did Vibe Coders win? Is this our end?",
-          "summary": "As much as I hate writing this, this has been bothering me for a while. I keep seeing experienced software engineers, people who have been coding for 20 or 30 years, saying that software engineering isn’t going anywhere ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49543923",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Are coding agents too cautious because they estimate work in human time?",
-          "summary": "I'm asking this because I've noticed that a model will tell me something is “several days of work,” but then I let it run in auto mode and it finishes most of it in 20–30 minutes. The same happens if it says “this will t",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49543917",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Omarchy Histerya",
-          "summary": "Is it just me or that thing seems extremely annoying and disrespectful? It seems there is a flood of \"influencers\" spamming about how amazing it is, while it has 0 improvements over a normal modern distro (like fedora kd",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49543858",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=49549805",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-09-03T05:21:44.014Z"
+  "generatedAt": "2026-09-03T15:29:39.845Z"
 }
