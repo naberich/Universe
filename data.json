@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 05:33 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable"
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/"
         },
         {
           "idx": 2,
-          "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-          "src": "Hacker News Front",
-          "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en"
+          "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/"
         },
         {
           "idx": 3,
-          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/"
+          "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+          "src": "Hacker News Front",
+          "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/"
         },
         {
           "idx": 4,
-          "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
-          "src": "少数派",
-          "url": "https://sspai.com/post/113668"
+          "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
         },
         {
           "idx": 5,
-          "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+          "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
           "src": "Hacker News Front",
-          "url": "https://gpu-lexer.vercel.app/"
+          "url": "https://github.com/Atomburstofficial/geiger"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-          "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-          "summary": "Article URL: https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en Comments URL: https://news.ycombinator.com/item?id=49621102 Points: 8 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-          "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+          "title": "Viral AI assistant Instinct now has its own email address",
+          "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+          "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+          "summary": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+          "summary": "Article URL: https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/ Comments URL: https://news.ycombinator.com/item?id=49627887 Points: 12 # Comments: 3",
+          "source": "Hacker News Front",
+          "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+          "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+          "summary": "Article URL: https://github.com/Atomburstofficial/geiger Comments URL: https://news.ycombinator.com/item?id=49627646 Points: 14 # Comments: 2",
+          "source": "Hacker News Front",
+          "url": "https://github.com/Atomburstofficial/geiger",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+          "summary": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+          "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
-          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/113668",
-          "time": "2h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-          "summary": "Article URL: https://gpu-lexer.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49619464 Points: 42 # Comments: 15",
+          "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+          "summary": "Article URL: https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html Comments URL: https://news.ycombinator.com/item?id=49626634 Points: 15 # Comments: 4",
           "source": "Hacker News Front",
-          "url": "https://gpu-lexer.vercel.app/",
-          "time": "4h ago",
+          "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "I resigned from Anthropic today",
-          "summary": "https://xcancel.com/hilbertspaess/status/2097476196791709843... Comments URL: https://news.ycombinator.com/item?id=49619227 Points: 273 # Comments: 326",
+          "title": "Playing whack-a-mole is losing",
+          "summary": "Article URL: https://dadrian.io/blog/posts/whack-a-mole-is-losing/ Comments URL: https://news.ycombinator.com/item?id=49626429 Points: 18 # Comments: 4",
           "source": "Hacker News Front",
-          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-          "time": "4h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
-          "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/114352",
-          "time": "5h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-          "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-          "time": "6h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "A Topological Picture Book, Rendered",
-          "summary": "Article URL: https://e-infinity.space/picture-book/ Comments URL: https://news.ycombinator.com/item?id=49618050 Points: 81 # Comments: 10",
-          "source": "Hacker News Front",
-          "url": "https://e-infinity.space/picture-book/",
-          "time": "7h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-          "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-          "time": "7h ago",
+          "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+          "time": "1h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 05:33 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "time": "12h ago",
+          "time": "22h ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "time": "15h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-          "time": "15h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/the-work-now-within-reach",
-          "time": "16h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "time": "18h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/navier-stokes-solution",
-          "time": "19h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/teen-development-research-grants",
-          "time": "20h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 05:33 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss"
+          "title": "Number 10 backs UK air traffic control boss as airlines hit out at disruption",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "The clock is ticking on Senegal’s ‘total return swaps’",
+          "title": "Police investigate Reform UK over donor sting",
           "src": "FT World",
-          "url": "https://www.ft.com/content/33d4674f-31db-4551-9ad3-c43d5c94c94c"
+          "url": "https://www.ft.com/content/73c6c2f1-349a-4aeb-9d90-0268e3dcdc65?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "600-year-old tomb of pre-Incan Chimu kingdom found in Peru",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss"
+          "title": "US Treasury to buy back up to $6bn in long-term bonds",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "FirstFT: Anthropic withheld AI model from UK testers",
+          "title": "The curse of Jets fandom",
           "src": "FT World",
-          "url": "https://www.ft.com/content/0715a142-311f-422f-a9dd-9e31bc3d7d61?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "The case for the US going back to the firing squad",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss"
+          "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open",
-          "summary": "Pegula claims a 3-6, 6-4, 6-3 win over Navarro in an all-American quarterfinal and will face Sabalenka on Thursday.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/9/9/jessica-pegula-beats-emma-navarro-to-set-up-sabalenka-semifinal-at-us-open?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The clock is ticking on Senegal’s ‘total return swaps’",
-          "summary": "Not such a FAB way to manage sovereign debt",
+          "title": "Number 10 backs UK air traffic control boss as airlines hit out at disruption",
+          "summary": "Pressure mounts on Martin Rolfe after software failure chaos that grounded flights on Tuesday stretches into second day",
           "source": "FT World",
-          "url": "https://www.ft.com/content/33d4674f-31db-4551-9ad3-c43d5c94c94c",
+          "url": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "600-year-old tomb of pre-Incan Chimu kingdom found in Peru",
-          "summary": "Archaeologists in Peru have uncovered an almost intact Chimu funerary platform.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/600-year-old-tomb-of-pre-incan-chimu-kingdom-found-in-peru?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "FirstFT: Anthropic withheld AI model from UK testers",
-          "summary": "Also in today’s newsletter: US bans Canadian dairy and Revolut targets business banking",
+          "title": "Police investigate Reform UK over donor sting",
+          "summary": "Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding",
           "source": "FT World",
-          "url": "https://www.ft.com/content/0715a142-311f-422f-a9dd-9e31bc3d7d61?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/73c6c2f1-349a-4aeb-9d90-0268e3dcdc65?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The case for the US going back to the firing squad",
-          "summary": "John Malcolm of the Meese Institute tells Al Jazeera that the US should ‘go back to a firing squad’.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss",
-          "time": "1h ago",
+          "title": "US Treasury to buy back up to $6bn in long-term bonds",
+          "summary": "Scott Bessent seeks to steady government debt market with expanded purchase programme",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Hong Kong's first leader after British handover dies",
-          "summary": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+          "title": "The curse of Jets fandom",
+          "summary": "Supporting the least successful American professional sports team of the past 15 years requires dedication and tailgate parties",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+          "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
-          "time": "1h ago",
+          "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump gifted top aide Natalie Harp a $45,000 holiday bonus",
-          "summary": "Executive assistant’s role has burst into public view in recent weeks",
+          "title": "France’s Le Pen stays silent on far-right victory in German election",
+          "summary": "Rassemblement National distances itself from Alternative for Germany ahead of next year’s French presidential vote",
           "source": "FT World",
-          "url": "https://www.ft.com/content/12791bc6-7cbc-4d80-b7fc-84fdff095157?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/8be9ce96-3307-43db-b755-c67f3c50be29?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
-          "summary": "The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
-          "summary": "The United States remains Taiwan's main international backer and arms supplier despite lack of formal diplomatic ties.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Hedge fund billionaires’ permanent holiday",
-          "summary": "Trader Chris Rokos is moving his tax residency from the UK to Greece as Athens woos hedge funds",
+          "title": "Oil hits $100 for first time since July",
+          "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
           "source": "FT World",
-          "url": "https://www.ft.com/content/8b38f9c8-8267-4078-92a8-655b5c0ef15f?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
+          "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
+          "summary": "Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Serbian leader Vučić calls snap elections",
+          "summary": "President plans to step down and run for prime minister despite long-running protests against his rule",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/06c80195-c7b7-4423-a4ef-90056d1864f9?syn-25a6b1a6=1",
+          "time": "just now",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 05:34 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 05:34 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Gavekal CEO on Market Outlook, Strategy",
+          "title": "US Treasury to Buy Up to $6 Billion in Long-Dated Debt",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/gavekal-ceo-on-market-outlook-strategy-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-09/us-treasury-to-buy-up-to-6-billion-in-long-dated-debt-video"
         },
         {
           "idx": 2,
-          "title": "DigitalBridge CEO on Investment Strategy",
+          "title": "US Treasury Triples Long-Dated Debt Buyback to $6 Billion",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/digitalbridge-ceo-on-investment-strategy-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-more-than-doubles-long-dated-debt-buyback-size-to-6-billion"
         },
         {
           "idx": 3,
-          "title": "Visa India’s Next Bet Beyond UPI Dominance",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/visa-india-s-next-bet-beyond-upi-dominance-video"
+          "title": "Oil hits $100 for first time since July",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Iraq Seeks Significant Output Quota Increase During OPEC+ Audit",
+          "title": "EU Carbon Reform Lead Lawmaker Weighs Smoother Emission Cuts",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/iraq-seeks-significant-output-quota-increase-during-opec-audit"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/eu-carbon-reform-lead-lawmaker-weighs-smoother-emission-cuts"
         },
         {
           "idx": 5,
-          "title": "Spanish Defense Tycoon Plots Family IPO After Shock Indra Exit",
+          "title": "South Africa Plans Oil-Refining Revival to Cut Import Dependence",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/spanish-defense-tycoon-plots-family-ipo-after-shock-indra-exit"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/south-africa-plans-oil-refining-revival-to-cut-import-dependence"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Gavekal CEO on Market Outlook, Strategy",
-          "summary": "Louis-Vincent Gave, CEO of Gavekal, discusses his outlook for investing in global markets. He speaks with Bloomberg's Stephen Engle on the sidelines of KBFG Korea Conference on \"Bloomberg: The Asia Trade\". (Source: Bloom",
+          "title": "US Treasury to Buy Up to $6 Billion in Long-Dated Debt",
+          "summary": "The US Treasury will purchase up to $6 billion of longer-dated government debt in the first operation under an expanded buybacks program. It's part of Treasury Secretary Scott Bessent's effort to stem the rise in borrowi",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/gavekal-ceo-on-market-outlook-strategy-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-09/us-treasury-to-buy-up-to-6-billion-in-long-dated-debt-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "DigitalBridge CEO on Investment Strategy",
-          "summary": "Marc Ganzi, CEO of digital infrastructure investment firm DigitalBridge, discusses his views on the AI supercycle and capex spending trends among global hyperscalers and tech companies. He speaks with Bloomberg's Stephen",
+          "title": "US Treasury Triples Long-Dated Debt Buyback to $6 Billion",
+          "summary": "The US Treasury said it will purchase up to $6 billion of longer-dated government debt in the first operation under an expanded buybacks program, showcasing Secretary Scott Bessent’s resolve to stem the recent rise in bo",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/digitalbridge-ceo-on-investment-strategy-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-more-than-doubles-long-dated-debt-buyback-size-to-6-billion",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Visa India’s Next Bet Beyond UPI Dominance",
-          "summary": "Visa Group India & South Asia Country Manager Suresh Sethi unpacks India’s evolving financial inclusion story in the age of Unified Payments Interface. He discusses Visa’s growth priorities, its strategy to keep cards re",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-09/visa-india-s-next-bet-beyond-upi-dominance-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Iraq Seeks Significant Output Quota Increase During OPEC+ Audit",
-          "summary": "Iraq is seeking a significant increase in the country’s oil production quota as OPEC and its allies conduct a review of members’ capacities aimed at determining how much they can pump next year, according to people famil",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/iraq-seeks-significant-output-quota-increase-during-opec-audit",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Spanish Defense Tycoon Plots Family IPO After Shock Indra Exit",
-          "summary": "Indra Sistemas SA Chairman Ángel Escribano looked at the top of his game in early 2025: He had ambitious plans to turn the Spanish defense company into a European champion and was feted by politicians on all sides.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/spanish-defense-tycoon-plots-family-ipo-after-shock-indra-exit",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Platinum Market Seen Swinging to Surplus on Investor Selling",
-          "summary": "The platinum market is set to swing into surplus this year after three years of shortfalls amid heavy investor selling and weaker Chinese jewelry demand, according to the World Platinum Investment Council.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/platinum-market-seen-swinging-to-surplus-on-investor-selling",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Palm Oil Dips on Outlook for Expanding Malaysian Inventories",
-          "summary": "Palm oil dipped ahead of Malaysian data due Thursday that are expected to show rising stockpiles and weaker exports from the world’s second-biggest grower.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-09/palm-oil-dips-on-outlook-for-expanding-malaysian-inventories",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "BP and Shell’s strategy counterpoint",
-          "summary": "Lacking natural advantages and national support of other energy majors, the companies need to be more nimble",
+          "title": "Oil hits $100 for first time since July",
+          "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/fe1cbd53-eeb8-4916-a4e0-4325b5bea425?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "EU Carbon Reform Lead Lawmaker Weighs Smoother Emission Cuts",
+          "summary": "The European Union’s lead lawmaker on its carbon market reform is considering proposing a smoother pace of emissions cuts next decade in a draft plan due to be unveiled Friday.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/eu-carbon-reform-lead-lawmaker-weighs-smoother-emission-cuts",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "South Africa Plans Oil-Refining Revival to Cut Import Dependence",
+          "summary": "South Africa’s Central Energy Fund outlined plans to revive oil-refining capacity that will see local processing of crude at least triple, potentially reducing dependence on fuel imports.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/south-africa-plans-oil-refining-revival-to-cut-import-dependence",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Europe Gas Prices Rise Above €80 for First Time Since 2023",
+          "summary": "European natural gas surged above €80 a megawatt-hour for the first time in more than three years, intensifying the threat to the region’s economy as the war in the Middle East drives up energy costs just as winter appro",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/europe-gas-prices-rise-above-80-for-first-time-since-2023",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "AI borrowing boom shakes up Swiss credit market",
-          "summary": "Bonds from the likes of Alphabet and Amazon have accounted for more than a quarter of Swiss franc corporate issuance this year",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "title": "US Firms Unleash Record Wave of Bond Sales in Europe",
+          "summary": "An unprecedented number of US companies are selling bonds in Europe, drawn by liquidity and attractive terms as their home market strains under a deluge of AI-related debt.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-firms-unleash-record-wave-of-bond-sales-in-european-markets",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran turns to crypto to get around sanctions",
-          "summary": "Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds",
+          "title": "How to fix the brittleness caused by Treasury basis trades",
+          "summary": "The trade fills a void the US government has the authority, the incentive and the ability to close",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "url": "https://www.ft.com/content/55a506e8-8cba-4d8e-bf1a-e5d3e6682677",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "FirstFT: Oil hits $100 as fears rise over global supplies",
+          "summary": "Also in today’s newsletter: Anthropic researcher quits and warns labs are ‘gambling’ with humanity’s future and Bessent warns traders not to bet against the Treasury",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/0715a142-311f-422f-a9dd-9e31bc3d7d61?syn-25a6b1a6=1",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Silver Lake to merge French software groups in €10bn deal",
+          "summary": "Plan comes as buyout groups grapple with impact of AI on software companies bought at high valuations",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/2cc88608-04b2-4dcb-8c89-698f251de170?syn-25a6b1a6=1",
+          "time": "5h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 05:34 UTC",
+      "updated": "Updated 15:34 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "HAE logged where the seconds go in coding-agent turn (TTFT vs. decode vs. tools)",
+          "title": "Ask HN: How to know when Claude has changed model itself during processing?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619830"
+          "url": "https://news.ycombinator.com/item?id=49628008"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Is ageism in tech still a problem in 2026?",
+          "title": "FinOps for LLM Spend – why your bill has changed",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619524"
+          "url": "https://news.ycombinator.com/item?id=49627888"
         },
         {
           "idx": 3,
-          "title": "Ask HN: Would you hire a new engineer, or get 300k worth of tokens for the team?",
+          "title": "Reddit saves your keystrokes in text boxes",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619184"
+          "url": "https://news.ycombinator.com/item?id=49627178"
         },
         {
           "idx": 4,
-          "title": "A Harvard PhD Is Designing Schizophrenia Drugs in His Garage with ChatGPT",
+          "title": "YC created Flock 10 years ago",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619183"
+          "url": "https://news.ycombinator.com/item?id=49627080"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Are you leveraging Spec-Driven / Spec-Anchored development?",
+          "title": "Why becoming rich is not evli?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49618556"
+          "url": "https://news.ycombinator.com/item?id=49626972"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "HAE logged where the seconds go in coding-agent turn (TTFT vs. decode vs. tools)",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49619830 Points: 1 # Comments: 0",
+          "title": "Ask HN: How to know when Claude has changed model itself during processing?",
+          "summary": "When I use fable sometimes during processing it shows the complete tenses like \"Determining the true cost of the tool\" instead of \" Mulling or Honing etc \" so does it mean that Claude has changed the model itself when it",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619830",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=49628008",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is ageism in tech still a problem in 2026?",
-          "summary": "7 years ago, I launched a job board trying to fight ageism in tech (https://news.ycombinator.com/item?id=20252097) This seems to be a current problem but what's the solution? Comments URL: https://news.ycombinator.com/it",
+          "title": "FinOps for LLM Spend – why your bill has changed",
+          "summary": "I wrote a post which may help in identifying what may have caused savings on the LLM bill. https://leanroute.dev/blog/finops-for-llm-spend-three-axes-of-cost-variance Comments URL: https://news.ycombinator.com/item?id=49",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619524",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49627888",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Would you hire a new engineer, or get 300k worth of tokens for the team?",
-          "summary": "This seems to be question that is being posed to engineering managers Comments URL: https://news.ycombinator.com/item?id=49619184 Points: 3 # Comments: 6",
+          "title": "Reddit saves your keystrokes in text boxes",
+          "summary": "If you type a comment in Reddit text boxes and then delete them, too bad it was already too late. Comments URL: https://news.ycombinator.com/item?id=49627178 Points: 8 # Comments: 3",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619184",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49627178",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "A Harvard PhD Is Designing Schizophrenia Drugs in His Garage with ChatGPT",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49619183 Points: 2 # Comments: 3",
+          "title": "YC created Flock 10 years ago",
+          "summary": "YC created the company and HN spread total disinformation and propaganda about it to us, blaming governments who actually banned it. Some local governments have caved and are cutting deals with Flock now though, so it’s ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49619183",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=49627080",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Are you leveraging Spec-Driven / Spec-Anchored development?",
-          "summary": "I am specifically interested in hearing from anyone who is working on actual production services, legacy services, etc. I have done quite a bit of LLM-assisted coding but starting to work towards (and educate others in m",
+          "title": "Why becoming rich is not evli?",
+          "summary": "I use to believe that becoming rich is something that an evil person keep it as their goal. I do not believe that anymore. When you are rich you have agency. You have what others want and this can help you make an exchan",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49618556",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=49626972",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "A Century-Old Physics Puzzle Solved: The Arrow of Time",
-          "summary": "https://dxspacescience.org/ You can read the paper's abstract https://x.com/DxSpaceScience/status/2097401147862696372 Comments URL: https://news.ycombinator.com/item?id=49618382 Points: 1 # Comments: 4",
+          "title": "Ask HN: Would you support an anti-AI organization financially?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=49626949 Points: 2 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49618382",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=49626949",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is September 8th AGI Day?",
-          "summary": "Today should be celebrated as the day that \"AGI\" actually means something now. That an AI model gave a solution to the Navier-Stokes problem which was one of the 7 unsolved millennium prize problems. Keep in mind that 1 ",
+          "title": "Ask HN: I don't want better models, just faster ones",
+          "summary": "Anyone else satisfied with the current models on offer but just want them to be faster? I feel like the exhausting context switching work-flow that AI has created could be solved if they were 10x, 100x, 1000x faster. Bac",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49618229",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=49626831",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "The universal programming language of LLMs",
-          "summary": "How do you imagine the universal programming language of future LLMs will look? I mean a language built by LLMs for LLMs, not for humans to read or modify. A language that can be used to build any kind of application: ba",
+          "title": "Ask HN: Anyone still coding like 2021? Where do you work?",
+          "summary": "I can close an eye on using LLMs for research only. These days I feel I am the only one that hasn’t changed their way of writing software at all. I’d honestly switch careers rather than manage agents. But I’m currently o",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49617509",
-          "time": "7h ago",
+          "url": "https://news.ycombinator.com/item?id=49626431",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Meta Just Launched Muse",
-          "summary": "Few days ago Anthropic launched Claude Fable 5.1, then came OpenAI with Gpt-6 Astra and now Meta came up with Muse. The AGI competition is getting crazier, just waiting what Google drops now. Comments URL: https://news.y",
+          "title": "Slideforge",
+          "summary": "AI based presentation maker. It enhances the prompts to desired number of prompts and ensures to generate images in every slide. Templates are not the focus, rather the quality of content is the focus. You can access it ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49617166",
-          "time": "8h ago",
+          "url": "https://news.ycombinator.com/item?id=49626247",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: As AI becomes more capable what's the value of knowledge?",
-          "summary": "I genuinely don't know. I'm currently upskilling myself with Math Academy but I am wondering whether it makes any sense. I like the discipline and grit aspect of it though and I'm making great strides in that. So not sto",
+          "title": "Ask HN: What non-IT/Software industries have benefitted the most from AI?",
+          "summary": "Where have costs been greatly reduced, or performance increased, etc? Comments URL: https://news.ycombinator.com/item?id=49625958 Points: 1 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49617135",
-          "time": "8h ago",
+          "url": "https://news.ycombinator.com/item?id=49625958",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-09-09T05:34:04.823Z"
+  "generatedAt": "2026-09-09T15:34:46.612Z"
 }
