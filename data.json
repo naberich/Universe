@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:36 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-          "src": "少数派",
-          "url": "https://sspai.com/post/114395"
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
         },
         {
           "idx": 2,
-          "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-          "src": "Hacker News Front",
-          "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire"
+          "title": "Here’s the Tesla Semi… again",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer"
         },
         {
           "idx": 3,
-          "title": "Ideas on modernizing the open-source desktop",
-          "src": "Hacker News Front",
-          "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand"
         },
         {
           "idx": 4,
-          "title": "Australia says OpenAI agent hacked into government website",
-          "src": "Hacker News Front",
-          "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411"
+          "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
         },
         {
           "idx": 5,
-          "title": "FLAWED's Flaws and What This Means for Industry Research",
-          "src": "Hacker News Front",
-          "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"
+          "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-          "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/114395",
-          "time": "1h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-          "summary": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines. Comments URL: https://news.ycombinator.com/item?id=49826059 Points: 37 # Co",
-          "source": "Hacker News Front",
-          "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Ideas on modernizing the open-source desktop",
-          "summary": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 21 # Comments: 7",
-          "source": "Hacker News Front",
-          "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Australia says OpenAI agent hacked into government website",
-          "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411 Comments URL: https://news.ycombinator.com/item?id=49825024 Points: 81 # Comments: 55",
-          "source": "Hacker News Front",
-          "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-          "time": "4h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "FLAWED's Flaws and What This Means for Industry Research",
-          "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/ Comments URL: https://news.ycombinator.com/item?id=49824969 Points: 17 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-          "time": "4h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Everything new coming to Meta’s AI agent Muse",
-          "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "time": "just now",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Here’s the Tesla Semi… again",
+          "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evenin",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-          "summary": "Article URL: https://github.com/nestrilabs/virtio-nvgpu Comments URL: https://news.ycombinator.com/item?id=49824864 Points: 47 # Comments: 19",
-          "source": "Hacker News Front",
-          "url": "https://github.com/nestrilabs/virtio-nvgpu",
-          "time": "4h ago",
+          "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+          "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+          "time": "5h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+          "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+          "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound El",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-          "time": "4h ago",
+          "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-          "summary": "Article URL: https://carbon.ms/self-hosted Comments URL: https://news.ycombinator.com/item?id=49824715 Points: 17 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://carbon.ms/self-hosted",
-          "time": "4h ago",
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "summary": "Microsoft vice chair and president Brad Smith. | Image: Getty Images Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise cha",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+          "time": "7h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Feds Target AI Critics as \"Foreign Agents\"",
-          "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 177 # Comments: 161",
+          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+          "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stre",
           "source": "Hacker News Front",
-          "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-          "time": "4h ago",
+          "url": "https://koi.rest",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The Board Game of the Alpha Nerds (2014)",
+          "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 71 # Comments: 26",
+          "source": "Hacker News Front",
+          "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+          "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+          "time": "8h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:36 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "src": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+        },
+        {
+          "idx": 2,
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "src": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+        },
+        {
+          "idx": 3,
           "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "src": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
         },
         {
-          "idx": 2,
+          "idx": 4,
           "title": "Advancing Private AI Compute with secure, server-side memory",
           "src": "Google DeepMind",
           "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
         },
         {
-          "idx": 3,
+          "idx": 5,
           "title": "Two years of OpenAI Academy",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/two-years-of-openai-academy"
-        },
-        {
-          "idx": 4,
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
-        },
-        {
-          "idx": 5,
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "src": "OpenAI Blog",
-          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,29 @@
       },
       "news": [
         {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "summary": "",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "time": "15h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "time": "10h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +305,7 @@
           "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "time": "13h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +314,7 @@
           "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/two-years-of-openai-academy",
-          "time": "13h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +323,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "time": "14h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +332,7 @@
           "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "time": "16h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +341,7 @@
           "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "time": "17h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +350,7 @@
           "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "time": "17h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -341,25 +359,7 @@
           "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "time": "17h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/ringg",
-          "time": "17h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Introducing MentalHealthBench",
-          "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/introducing-mentalhealthbench",
-          "time": "19h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:36 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy",
+          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Sikorski: Russia doesn’t have the forces to invade NATO",
+          "title": "Israeli football player sent off after gun-firing goal celebration",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_russia-doesnt-have-theforces-to-invade-nato-240926?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Why have some nations developed while others struggle?",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss"
+          "title": "FirstFT: EU floats customs union option for Burnham",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/91f6e99d-b953-4056-ae72-30464b87ab5c?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
+          "title": "Bank of England to raise rates in November if energy prices remain high",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/eb8cd27d-cffc-4d43-bf4e-7a46943a0f68"
         },
         {
           "idx": 5,
-          "title": "FirstFT: UK weighs smaller fiscal buffer to curb tax rises",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/916603fa-c0c4-49e9-911a-a536ec3e245d?syn-25a6b1a6=1"
+          "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy",
-          "summary": "Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)",
+          "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+          "summary": "Ukraine has targeted an industrial plant in Russia's Perm region with a massive drone swarm.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Sikorski: Russia doesn’t have the forces to invade NATO",
-          "summary": "In an interview with Al Jazeera, Polish FM Radoslaw Sikorski says Russia ‘doesn’t have the force to invade NATO.",
+          "title": "Israeli football player sent off after gun-firing goal celebration",
+          "summary": "Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_russia-doesnt-have-theforces-to-invade-nato-240926?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why have some nations developed while others struggle?",
-          "summary": "At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.",
+          "title": "FirstFT: EU floats customs union option for Burnham",
+          "summary": "Also in today’s newsletter: Russian fleet and Heathrow expansion",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/91f6e99d-b953-4056-ae72-30464b87ab5c?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Bank of England to raise rates in November if energy prices remain high",
+          "summary": "Read the September forecast from the FT’s Monetary Policy Radar team",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/eb8cd27d-cffc-4d43-bf4e-7a46943a0f68",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+          "summary": "Pakistan's security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-          "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "FirstFT: UK weighs smaller fiscal buffer to curb tax rises",
-          "summary": "Also in today’s newsletter: Reform’s civil service overhaul and Belgium’s Trump warning",
+          "title": "Innovative Lawyers: Europe",
+          "summary": "Top 50 innovative law firms ranked. Plus: pressure on pricing from clients and AI-powered start-ups; lawyers as an extra weapon in rearmament efforts; legal expertise supports companies’ hunt for funds for growth; and 26",
           "source": "FT World",
-          "url": "https://www.ft.com/content/916603fa-c0c4-49e9-911a-a536ec3e245d?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/reports/innovative-lawyers-europe?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
-          "summary": "AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Global bond sell-off deepens as oil holds above $100",
-          "summary": "Rising yields strain public finances as expectations of Fed rate rise in October jump to about 70%",
+          "title": "Xi says US and China must ‘coexist in peace’",
+          "summary": "Donald Trump and Chinese leader hold wide-ranging talks covering AI, Taiwan and Iran war",
           "source": "FT World",
-          "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Hasan Piker: the Republican Party’s bogeyman",
-          "summary": "The leftwing streamer, recently banned from the UK, tells the FT why he has become US conservatives’ midterm hate figure",
+          "title": "The shale wildcatter lambasting Exxon",
+          "summary": "Scott Sheffield has some barbs for the oil major that acquired his Pioneer Natural Resources in 2024",
           "source": "FT World",
-          "url": "https://www.ft.com/content/e73aeb7e-a408-4272-9d87-743a040db0dc?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/e2658a67-32f7-4444-b0f1-e0e8eddd2d59?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "VW’s painful recovery plan is fragile",
-          "summary": "Supervisory board approval of its necessary restructuring was based on a truce that will need to hold",
+          "title": "Peter Hargreaves: Britain cannot afford to lose more ‘big taxpayers’",
+          "summary": "Lancashire-born entrepreneur who co-founded Hargreaves Lansdown says people with private wealth ‘have been disenfranchised’",
           "source": "FT World",
-          "url": "https://www.ft.com/content/d5264683-7466-4b7e-947f-b7e3f360b7d0?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/88526316-f378-4e59-ae52-75dbffdbe049?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "How Trump’s tariff war is clobbering the Hanks of America",
-          "summary": "The end of the ‘de minimis’ exception can inflict major damage on niche companies",
+          "title": "Brussels pushes Trump to maintain ‘free flow’ of diesel",
+          "summary": "Bloc’s energy commissioner warns the continent is already facing its ‘worst winter’ for energy prices since 2022",
           "source": "FT World",
-          "url": "https://www.ft.com/content/15bfe2fb-6b13-48dc-99dd-b732f3564b8f?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/91684f96-6c7b-4b25-8486-d810d2088f9e?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:36 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:36 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Masia: Concerned About South African Growth Next Year (Video)",
+          "title": "Trump, Tech Titans Fete China's Xi at Lavish State Dinner",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-24/masia-concerned-about-south-african-growth-next-year-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-asia-trade-9-25-2026-video"
         },
         {
           "idx": 2,
-          "title": "Smart: Lot of Issues Off the Table in US-China Talks (Video)",
+          "title": "Goldman Sees Yen Advancing to 150 in Reversal of Bearish Stance",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-24/smart-lot-of-issues-off-the-table-in-us-china-talks-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-sees-yen-advancing-to-150-in-reversal-of-bearish-stance"
         },
         {
           "idx": 3,
-          "title": "Are Big Tech bonds crowding out the US Treasury?",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/6354c1ec-286a-4251-bac8-ca0cd4ac7eac"
+          "title": "Malaysia’s Najib Seeks 1MDB Jail Term Halt Before House Arrest",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/malaysia-s-najib-seeks-1mdb-jail-term-halt-before-house-arrest"
         },
         {
           "idx": 4,
-          "title": "PB Fintech Leads Slump in India Insurance Stocks on Fee Cap Plan",
+          "title": "Romania Blood Bonds Target Retail Investors",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-24/pb-fintech-leads-slump-in-india-insurance-stocks-on-fee-cap-plan"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/romania-blood-bonds-target-retail-investors"
         },
         {
           "idx": 5,
-          "title": "Japan 10-Year Yield Climbs to 1996 High as Global Rout Deepens",
+          "title": "Grains Slump as Trump-Xi Summit Lacks Broader Trade Details",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-24/japan-10-year-bond-yield-jumps-10-basis-points-amid-global-rout"
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/grains-drop-with-trump-xi-summit-yet-to-offer-farm-trade-details"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Masia: Concerned About South African Growth Next Year (Video)",
-          "summary": "",
+          "title": "Trump, Tech Titans Fete China's Xi at Lavish State Dinner",
+          "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and ana",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-24/masia-concerned-about-south-african-growth-next-year-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Smart: Lot of Issues Off the Table in US-China Talks (Video)",
-          "summary": "",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-24/smart-lot-of-issues-off-the-table-in-us-china-talks-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Are Big Tech bonds crowding out the US Treasury?",
-          "summary": "Probably not",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/6354c1ec-286a-4251-bac8-ca0cd4ac7eac",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "PB Fintech Leads Slump in India Insurance Stocks on Fee Cap Plan",
-          "summary": "PB Fintech Ltd. led a slide in shares of Indian insurance companies, distributors and lenders on Thursday, after the country’s insurance regulator proposed caps on commissions and tighter management expenses.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-24/pb-fintech-leads-slump-in-india-insurance-stocks-on-fee-cap-plan",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Japan 10-Year Yield Climbs to 1996 High as Global Rout Deepens",
-          "summary": "Japan’s 10-year government bond yield climbed to its highest since 1996, joining a deepening global selloff as the market reopened after the Silver Week holidays.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-24/japan-10-year-bond-yield-jumps-10-basis-points-amid-global-rout",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-25/the-asia-trade-9-25-2026-video",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Global bond sell-off deepens as oil holds above $100",
-          "summary": "Rising yields strain public finances as expectations of Fed rate rise in October jump to about 70%",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+          "title": "Goldman Sees Yen Advancing to 150 in Reversal of Bearish Stance",
+          "summary": "Goldman Sachs Group Inc. expects the yen to appreciate to 150 per dollar over the next 12 months, reversing a bearish stance adopted in July as domestic policy shifts and potential capital repatriation strengthen the cur",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-sees-yen-advancing-to-150-in-reversal-of-bearish-stance",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Shale magnate accuses Exxon of ‘smear campaign’ to block board seat",
-          "summary": "Pioneer Natural Resources founder says oil major and regulators ‘orchestrated’ allegations of Opec collusion against him",
+          "title": "Malaysia’s Najib Seeks 1MDB Jail Term Halt Before House Arrest",
+          "summary": "Malaysia’s former premier Najib Razak has applied for a stay of his 15-year prison term and fine over last year’s 1MDB-related conviction, a move that would allow him to serve a separate sentence under house arrest follo",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/malaysia-s-najib-seeks-1mdb-jail-term-halt-before-house-arrest",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Romania Blood Bonds Target Retail Investors",
+          "summary": "Faced with heavy debt burdens, governments across the world are finding creative ways to borrow money.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/romania-blood-bonds-target-retail-investors",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Grains Slump as Trump-Xi Summit Lacks Broader Trade Details",
+          "summary": "Grains tumbled in Chicago after the presidential summit in Washington offered few immediate details on the US-China trade agreements that markets had been primed for.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/grains-drop-with-trump-xi-summit-yet-to-offer-farm-trade-details",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
+          "summary": "Gold was set to end to the week lower as elevated energy prices and inflation concerns drove bond yields higher and fueled expectations the Federal Reserve will need to raise interest rates further.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-24/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Treasury Selloff Eases as Oil Drops, Stocks Climb: Markets Wrap",
+          "summary": "A global bond selloff that drove yields to multi-decade highs began to stabilize in Asia as oil snapped a two-day surge, offering investors some respite after a bruising stretch for debt markets.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for DATE",
+          "summary": "Oil declined as US and Iranian negotiators explored a phased deal that would see Tehran reopen the Strait of Hormuz.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-24/latest-oil-market-news-and-analysis-for-date",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Shale oil magnate says Exxon chief ‘threw me under the bus’ after $60bn takeover",
+          "summary": "Scott Sheffield says supermajor launched ‘smear campaign’ to stop him joining company’s board",
           "source": "FT Markets",
           "url": "https://www.ft.com/content/ad6d56fa-6a6e-43bd-8f12-205a3f94ac0e?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Airtel Money IPO signals a route back for London’s market",
-          "summary": "What starts as a niche investment can attract more mainstream sector analysts and investors",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/cf60deee-553d-4232-83b6-966b539fa6b9?syn-25a6b1a6=1",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Emerging markets shrug off Iran war in record foreign borrowing spree",
-          "summary": "Fallout from conflict, rising interest rates and a strong dollar have not dented investor appetite for EM bonds",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "French far left sparks backlash with debt ‘fire’ plan",
-          "summary": "Proposal to cancel bonds accumulated during years of ECB quantitative easing is enraging economists but tempting voters",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/1b416427-0e86-40c0-9536-c31d76635313?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "title": "Hedge Fund With 235% Return Says Gold Decline Is Temporary",
+          "summary": "Australian hedge fund manager Raphael Lamm, whose long-short gold fund has delivered a net return of more than 200% to investors since its launch last year, sees the recent decline in bullion as temporary, arguing that t",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-24/hedge-fund-with-235-return-says-gold-price-decline-is-temporary",
+          "time": "8h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 05:39 UTC",
+      "updated": "Updated 05:37 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
+          "title": "Ask HN: Who is smarter than you that you listen to what they have to say?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49826029"
+          "url": "https://news.ycombinator.com/item?id=49839866"
         },
         {
           "idx": 2,
-          "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
+          "title": "Stripe Link exposes merchants to undefendable fraud risk",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49824887"
+          "url": "https://news.ycombinator.com/item?id=49839721"
         },
         {
           "idx": 3,
-          "title": "Making my vibe-coded app best as possible (I am perfectionist), umm for 0 users",
+          "title": "Ask HN: Where to Look for Jobs?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49824748"
+          "url": "https://news.ycombinator.com/item?id=49839405"
         },
         {
           "idx": 4,
-          "title": "I made a social media site",
+          "title": "What OS should I pick?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49823735"
+          "url": "https://news.ycombinator.com/item?id=49839159"
         },
         {
           "idx": 5,
-          "title": "Jevgpt – reinventing the wheel with another wheel",
+          "title": "Ask HN: Do you token max? Why or why not?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49823332"
+          "url": "https://news.ycombinator.com/item?id=49839082"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: I just talked to an AI-obsessed client, and I need a shower afterwards",
-          "summary": "Just to preface, this isn't the typical \"Am I being replaced by vibe coding\" post. I just had a talk with one of my first ongoing clients, who sort of helped me kickstart my freelancing \"career\". He is one of those peopl",
+          "title": "Ask HN: Who is smarter than you that you listen to what they have to say?",
+          "summary": "I am trying to figure out how business and world economics are going to evolve in the next 3, 5, 10 years. I am pretty smart, but I am surely not the smartest; and I enjoy listening to what Peter Thiel, Alex Karp, Dario ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49826029",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=49839866",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "AI startups with hyper ARR growth – what's happening inside these companies?",
-          "summary": "Seeing more and more people leave great big tech jobs or very smart new grads start AI companies that seem to hit $10m, $50m, $100m ARR incredibly quickly. What’s actually going on inside these companies? Are they profit",
+          "title": "Stripe Link exposes merchants to undefendable fraud risk",
+          "summary": "My business was recently hit by a fraudulent customer who spent over $1200 across multiple transactions over a few days. Every payment was made through Stripe Link. The problem I discovered afterward is that Link abstrac",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49824887",
+          "url": "https://news.ycombinator.com/item?id=49839721",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Where to Look for Jobs?",
+          "summary": "Since LinkedIn has \"revamped\" their job search functionality with AI my usual place to see what jobs are available is now pretty much gone. How do you look for jobs/new opportunities? Comments URL: https://news.ycombinat",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49839405",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What OS should I pick?",
+          "summary": "to start I want to leave windows and do know somewhat how to use Linux. If my specs are needed, please let me know Comments URL: https://news.ycombinator.com/item?id=49839159 Points: 1 # Comments: 4",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49839159",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Making my vibe-coded app best as possible (I am perfectionist), umm for 0 users",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49824748 Points: 2 # Comments: 0",
+          "title": "Ask HN: Do you token max? Why or why not?",
+          "summary": "I posit that: 1. I am faster using agentic coding than without 2. I am 10x faster using many agents in parallel 3. When I hit a limit (5h, week), its a good time to take a break - and focus on some slower work or step aw",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49824748",
+          "url": "https://news.ycombinator.com/item?id=49839082",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "I made a social media site",
-          "summary": "https://da-mo.lovable.app i don't know how to code, or really anything about technology, but i did cobble together a social media site using lovable and claude based on an idea i've had for a while. it basically has thre",
+          "title": "Tell HN: Apple urgently needs a way to disable Apple Intelligence",
+          "summary": "As title says, I/we dont’t need it. Comments URL: https://news.ycombinator.com/item?id=49838663 Points: 2 # Comments: 6",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49823735",
+          "url": "https://news.ycombinator.com/item?id=49838663",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: How do you feel about the new $500 OpenAI subscription?",
+          "summary": "So it seems like there'll be a new $500 plan [0]. I'll share some of my thoughts: It's been incredibly frustrating to have the quality of the subscriptions vary wildly. The model intelligence and quality is incredibly op",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49838409",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Internet domain subprocess.run redirects to the Python docs for subprocess.run()",
+          "summary": "Try: http://subprocess.run/ Comments URL: https://news.ycombinator.com/item?id=49837891 Points: 1 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=49837891",
           "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Jevgpt – reinventing the wheel with another wheel",
-          "summary": "Felt extra autistic today and made jev an autoregressive chatbot by classifier small token vocabularies. https://github.com/giga-james/jevgpt had some trouble getting it to explore enough token options so i did a small s",
+          "title": "Ask HN: Does a startup need both founder and company X accounts?",
+          "summary": "We are a small team. We recently launched an early-stage product on the App Store and started trying to build in public on X. In practice, I found it pretty difficult to get the official product account off the ground. X",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49823332",
-          "time": "7h ago",
+          "url": "https://news.ycombinator.com/item?id=49837729",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "I Built a Wine Atlas",
-          "summary": "Hi everyone, I have been chipping away at this for a while: grape lineage trees, region deep-dives, an interactive history timeline and a tool that plans a wine trip through a country for you. Still adding to it. ampelos",
+          "title": "Ask HN: Do you cuss at your agent?",
+          "summary": "Do you vent your frustrations at your agent when it keeps making stupid mistakes and asinine assumptions or asks obvious questions? I did it for the first time and I feel ashamed. Comments URL: https://news.ycombinator.c",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49822664",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Can you suggest an interesting skill?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49822227 Points: 4 # Comments: 8",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49822227",
-          "time": "9h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Dr Tricks Senior Dev N2 Taking Job W AI",
-          "summary": "I am a senior programmer with 23 years experience. I brought AI and my skills to a Men's Health Dr. and worked closely with the Dr at a low salary. The Men's Health Dr. talked me into working with him and teaching him vi",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49820723",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How do you test Lambda/ECS code before deploying?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=49820593 Points: 1 # Comments: 2",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49820593",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Do you offload your coding to AI, or keep your skills sharp?",
-          "summary": "I used to be a software engineer, but these days I find myself being more of an agents manager: constantly switching between 3-4 tasks that my agents are working on, and making sure that the features get shipped, the bug",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=49820486",
-          "time": "11h ago",
+          "url": "https://news.ycombinator.com/item?id=49837715",
+          "time": "6h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-09-24T05:39:25.216Z"
+  "generatedAt": "2026-09-25T05:37:08.454Z"
 }
