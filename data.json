@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 18:10 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "USA Today becomes the latest publisher to sue OpenAI",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+          "title": "Show HN: Quake ported to safe Rust, playable in browser",
+          "src": "Hacker News Front",
+          "url": "https://quake-srp.pages.dev/"
         },
         {
           "idx": 2,
-          "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson"
+          "title": "Keyboard differences between Windows and Macs",
+          "src": "Hacker News Front",
+          "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
         },
         {
           "idx": 3,
-          "title": "Older Pixel watches are losing free cellular access to several safety features",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending"
+          "title": "What should we tell our students?",
+          "src": "Hacker News Front",
+          "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/"
         },
         {
           "idx": 4,
-          "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+          "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+          "src": "少数派",
+          "url": "https://sspai.com/post/114869"
         },
         {
           "idx": 5,
-          "title": "Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance"
+          "title": "Reducing undefined behavior in the C language",
+          "src": "Hacker News Front",
+          "url": "https://lwn.net/Articles/1095811/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "USA Today becomes the latest publisher to sue OpenAI",
-          "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-          "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corp",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Older Pixel watches are losing free cellular access to several safety features",
-          "summary": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-          "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financia",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "title": "Show HN: Quake ported to safe Rust, playable in browser",
+          "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 109 # Comments: 83",
+          "source": "Hacker News Front",
+          "url": "https://quake-srp.pages.dev/",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access",
-          "summary": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance",
-          "time": "1h ago",
+          "title": "Keyboard differences between Windows and Macs",
+          "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 72 # Comments: 68",
+          "source": "Hacker News Front",
+          "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+          "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
-          "summary": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
-          "time": "1h ago",
+          "title": "What should we tell our students?",
+          "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 81 # Comments: 81",
+          "source": "Hacker News Front",
+          "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Are you ready for everything to look like TikTok?",
-          "summary": "Since TikTok burst into mainstream consciousness, many things have been called a \"TikTok clone\": YouTube Shorts, Instagram Reels, Snapchat Spotlight, Netflix's Clips, LinkedIn's vertical video feed, and countless other, ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
-          "time": "1h ago",
+          "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/114869",
+          "time": "4h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Reducing undefined behavior in the C language",
+          "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 91 # Comments: 60",
+          "source": "Hacker News Front",
+          "url": "https://lwn.net/Articles/1095811/",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-          "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, commu",
+          "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+          "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/115532",
+          "time": "6h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "OpenAI, the Partition Principle, and Mathematics",
+          "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 93 # Comments: 130",
+          "source": "Hacker News Front",
+          "url": "https://karagila.org/2026/openai-pp/",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Bevy 0.20",
+          "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 142 # Comments: 23",
+          "source": "Hacker News Front",
+          "url": "https://bevy.org/news/bevy-0-20/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+          "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-          "time": "1h ago",
+          "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+          "time": "8h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;",
-          "summary": "In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Android, instead of the custo",
+          "title": "US plans livestream of execution by firing squad",
+          "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army majo",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Apple announces surprise &#8216;Welcome home&#8217; launch event",
-          "summary": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET. The company is rumored to be launching smart home-focused products this month, and the event invite hints that'll be the c",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th",
-          "time": "2h ago",
+          "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+          "time": "8h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 18:11 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -211,21 +211,21 @@
         },
         {
           "idx": 3,
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/legalon-halves-codex-costs"
+        },
+        {
+          "idx": 4,
           "title": "Disrupting AI-enabled “false front” operations",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
         },
         {
-          "idx": 4,
-          "title": "Multimodal open d1 decision models for the edge",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/LiquidAI/open-d1"
-        },
-        {
           "idx": 5,
-          "title": "Introducing Falcon ASR",
+          "title": "The model that didn't exist, so you made it yourself",
           "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
+          "url": "https://huggingface.co/blog/building-with-ml-intern"
         }
       ],
       "aiBrief": {
@@ -278,7 +278,7 @@
           "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/oracle",
-          "time": "2h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,16 @@
           "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/pollo-ai",
-          "time": "6h ago",
+          "time": "18h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "time": "18h ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +305,16 @@
           "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "time": "18h ago",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The model that didn't exist, so you made it yourself",
+          "summary": "",
+          "source": "HuggingFace Daily",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -344,24 +362,6 @@
           "time": "1d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "GPT-6 and Intelligent UI for everyone",
-          "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/gpt-6-for-everyone",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/atlassian-partnership",
-          "time": "2d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 18:11 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+          "title": "Labour holds off Greens’ Polanski to win London by-election",
           "src": "FT World",
-          "url": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Trump bans Microsoft from sponsoring foreign workers for US residency",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1"
+          "title": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "OpenAI annualised revenues $20bn less than previously signalled",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1"
+          "title": "Trump says US will not strike Iran before midterm elections",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
+          "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Syria calls for independent probe into sinking of ship in Black Sea",
+          "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss"
+          "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
-          "summary": "Purchase of $41bn market-value burrito chain would rank as largest restaurant acquisition of all time",
+          "title": "Labour holds off Greens’ Polanski to win London by-election",
+          "summary": "UK’s ruling party wins Holborn and St Pancras by-election, seeing off challenge from Zack Polanski’s Greens",
           "source": "FT World",
-          "url": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump bans Microsoft from sponsoring foreign workers for US residency",
-          "summary": "Announcement impacting several tech groups marks latest attempt to limit immigration by the White House",
+          "title": "Afghanistan’s emerald miners struggle with tools but attract global buyers",
+          "summary": "Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Trump says US will not strike Iran before midterm elections",
+          "summary": "Oil prices drop as Trump dismisses speculation of pre-midterm military action against Iran.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+          "summary": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+          "summary": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
+          "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Microsoft and Indian IT groups banned from sponsoring workers for US residency",
+          "summary": "Announcement affecting several tech groups marks White House’s latest attempt to limit immigration",
           "source": "FT World",
           "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-          "time": "just now",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "OpenAI annualised revenues $20bn less than previously signalled",
-          "summary": "AI group recently told investors the critical figure was approaching $50bn in September, far less than the $70bn that was widely reported",
+          "title": "Photos: Gaza before and after – a city transformed by war",
+          "summary": "Archive and recent photos show how three years of war left Gaza's streets, landmarks and public spaces unrecognisable.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "EU capitals caught between markets and metrics as debt fears rise",
+          "summary": "Also in this newsletter: Putin meets his central Asian frenemies",
           "source": "FT World",
-          "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
-          "time": "just now",
+          "url": "https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+          "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+          "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Syria calls for independent probe into sinking of ship in Black Sea",
-          "summary": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-          "summary": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Setting up an African rating agency is the easy part",
-          "summary": "Governments should devote more effort to improving the investment climate itself",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/30034598-7ca3-4379-b91c-dc7ef419ad40?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Jerusalem Daily: Remembrance and mourning",
-          "summary": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-          "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Over 100 Riyadh flights cancelled after Houthis target airport",
-          "summary": "Saudi-led coalition said it intercepted missiles as residents hear booms over the capital",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1",
-          "time": "just now",
+          "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 18:11 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 18:11 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Some French IG Bonds Seem Safer Than Sovereign",
+          "title": "Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/zetwerk-is-said-to-plan-up-to-525-million-india-ipo-next-week"
         },
         {
           "idx": 2,
-          "title": "SpaceX Crew Capsule Splashes Down After ISS Stay",
+          "title": "Indonesia Cuts Travel Spending as Energy Costs Pressure Budget",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/spacex-crew-capsule-splashes-down-after-iss-stay-video-muzu3fbg"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/indonesia-cuts-travel-spending-as-energy-costs-pressure-budget"
         },
         {
           "idx": 3,
-          "title": "Rising Yields Creates Value: JPMorgan's Berro",
+          "title": "Luxury Stock Bulls Have to Wait Longer for a Revival",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/rising-yields-creates-value-jpmorgan-s-berro-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/luxury-stock-bulls-have-to-wait-longer-for-a-revival"
         },
         {
           "idx": 4,
-          "title": "Oryx Energies Sold for About $1 Billion in Management Buyout",
+          "title": "Europe’s Bond Market Turbulence Puts ECB Repo Funding Into Focus",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/oryx-energies-sold-for-about-1-billion-in-management-buyout"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/europe-s-bond-market-turbulence-puts-ecb-repo-funding-into-focus"
         },
         {
           "idx": 5,
-          "title": "Goldman Says Tech Bull Market Has Room to Run",
+          "title": "OpenAI's Revenue Report Deepens AI Bubble Fears, Firmus Shelves IPO",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/goldman-says-tech-bull-market-has-room-to-run-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-asia-trade-10-9-2026-video"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Some French IG Bonds Seem Safer Than Sovereign",
-          "summary": "Bloomberg's Ronan Martin joins Scarlet Fu on \"Bloomberg Real Yield.\" Nearly €215 billion ($241 billion) of France’s corporate bonds now trade as if they were safer than the government’s, an almost 18-fold increase since ",
+          "title": "Zetwerk Is Said to Plan Up to $525 Million India IPO Next Week",
+          "summary": "Zetwerk Pvt., an Indian manufacturing platform, is preparing to launch an initial public offering as early as next week that may raise as much as $525 million, according to people familiar with the matter.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/some-french-ig-bonds-seem-safer-than-sovereign-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/zetwerk-is-said-to-plan-up-to-525-million-india-ipo-next-week",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "SpaceX Crew Capsule Splashes Down After ISS Stay",
-          "summary": "A SpaceX capsule carrying four astronauts returned from space and splashed down off the coast of California on Thursday, capping the crew’s mission to the International Space Station. Bloomberg's space reporter joins Ed ",
+          "title": "Indonesia Cuts Travel Spending as Energy Costs Pressure Budget",
+          "summary": "Indonesia is tightening government spending toward year-end, ordering ministries and agencies to cut unspent travel allocations by 30% as higher oil prices and costly flagship programs put pressure on the budget.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/spacex-crew-capsule-splashes-down-after-iss-stay-video-muzu3fbg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/indonesia-cuts-travel-spending-as-energy-costs-pressure-budget",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Rising Yields Creates Value: JPMorgan's Berro",
-          "summary": "Brij Khurana, senior managing director and fixed income portfolio manager at Wellington, and Kelsey Berro, fixed income portfolio manager at JPMorgan Asset Management, join Scarlet Fu on \"Bloomberg Real Yield.\" A rally i",
+          "title": "Luxury Stock Bulls Have to Wait Longer for a Revival",
+          "summary": "It seems there’ll be few fireworks to spark a strong year-end for luxury’s biggest names, leaving investors to wait until 2027 for any potential upswing.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/rising-yields-creates-value-jpmorgan-s-berro-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/luxury-stock-bulls-have-to-wait-longer-for-a-revival",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Oryx Energies Sold for About $1 Billion in Management Buyout",
-          "summary": "Oryx Energies SA, an Africa-focused trader, was sold for around $1 billion in a management buyout, according to a source familiar with the deal.",
+          "title": "Europe’s Bond Market Turbulence Puts ECB Repo Funding Into Focus",
+          "summary": "Turbulence across Europe’s bonds is sparking debate over the tools policymakers use to keep markets functioning in the event of a broader financial crisis.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/oryx-energies-sold-for-about-1-billion-in-management-buyout",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/europe-s-bond-market-turbulence-puts-ecb-repo-funding-into-focus",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Goldman Says Tech Bull Market Has Room to Run",
-          "summary": "Goldman Sachs Wealth Management’s Matt Weir says the recent concentration of market gains among a handful of large technology stocks doesn’t signal the end of the bull market. He expects hyperscaler capital-spending grow",
+          "title": "OpenAI's Revenue Report Deepens AI Bubble Fears, Firmus Shelves IPO",
+          "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and ana",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-08/goldman-says-tech-bull-market-has-room-to-run-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/the-asia-trade-10-9-2026-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US mortgage rates rise for seventh straight week to hit highest since 2023",
-          "summary": "Benchmark borrowing costs continue to climb against backdrop of surging Treasury yields, elevated energy prices and expected tightening by Fed",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713?syn-25a6b1a6=1",
-          "time": "1h ago",
+          "title": "Chile Emerges As Global Hub For Ice Swimming",
+          "summary": "Chile’s glaciers, fjords and frigid southern seas are drawing a new generation of ice swimmers—and challenging the sport’s Nordic center of gravity. Bloomberg’s Antonia Mufarech has more. (Source: Bloomberg)",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-09/chile-emerges-as-global-hub-for-ice-swimming",
+          "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "French bond sell-off prompts ‘bottom fishing’ across Europe",
-          "summary": "Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
+          "title": "Airtel Money to Debut in London’s Biggest IPO for Five Years",
+          "summary": "Mobile payments firm Airtel Money is set to start trading on the London Stock Exchange later on Friday, a listing that may mark the largest initial public offering for the bourse in five years.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-09/airtel-money-to-debut-after-london-s-biggest-ipo-in-five-years",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz",
-          "summary": "Transit via vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
+          "title": "Five ways to tell if market trouble lies ahead",
+          "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Treasuries Rise as Lofty US Yields Lure Demand to 30-Year Sale",
-          "summary": "US Treasuries rose after an auction of 30-year debt drew solid demand as long-dated yields edge away from their highest levels in more than two decades.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/longer-dated-treasuries-rise-ahead-of-22-billion-30-year-sale",
-          "time": "3h ago",
+          "title": "The energy crisis is changing what investors want from oil majors",
+          "summary": "Iran conflict has snarled up usually free-flowing energy markets",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Repeated US Treasury interventions risk an erosion of credibility",
-          "summary": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
+          "title": "Some much-needed American optimism on Europe",
+          "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
-          "time": "3h ago",
+          "url": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 18:11 UTC",
+      "updated": "Updated 06:58 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Comprehension Audits: Do Developers Know What They Are Shipping?",
+          "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50008872"
+          "url": "https://news.ycombinator.com/item?id=50016644"
         },
         {
           "idx": 2,
-          "title": "Ask HN: What happened with quantum computers anyway?",
+          "title": "Ask HN: Matter: Doesn't Matter?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50008531"
+          "url": "https://news.ycombinator.com/item?id=50016520"
         },
         {
           "idx": 3,
-          "title": "Positive Text Origin Verification",
+          "title": "https://surf-alert.net - Simplified Surf Forecasts",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007938"
+          "url": "https://news.ycombinator.com/item?id=50013728"
         },
         {
           "idx": 4,
-          "title": "Intelligence Explosion",
+          "title": "ASK: HN Help and Forward Advice, Ideas: New Lossless cmpr MRT/CT, Astro",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007606"
+          "url": "https://news.ycombinator.com/item?id=50013450"
         },
         {
           "idx": 5,
-          "title": "Broke Prod",
+          "title": "Ask HN: Could someone share a lobste.rs invite?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007566"
+          "url": "https://news.ycombinator.com/item?id=50013203"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Comprehension Audits: Do Developers Know What They Are Shipping?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50008872 Points: 4 # Comments: 1",
+          "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+          "summary": "Could you briefly introduce the reason or what it's used for? Comments URL: https://news.ycombinator.com/item?id=50016644 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50008872",
+          "url": "https://news.ycombinator.com/item?id=50016644",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What happened with quantum computers anyway?",
-          "summary": "Back in 2024 there were a lot of news regarding quantum computers and even some claims of quantum supremacy, with famous bloggers like Scott Aaronson having very heated arguments online on whether those claims were real ",
+          "title": "Ask HN: Matter: Doesn't Matter?",
+          "summary": "In this world of agents that will have access and control your home devices does the Matter standard continue to play an important role? What if any device can simply document its APIs and agents will take care of the re",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50008531",
+          "url": "https://news.ycombinator.com/item?id=50016520",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Positive Text Origin Verification",
-          "summary": "Is anyone working on a positive text origin verification standard? Everyday it gets harder to distinguish between AI generated content and human generated content. This will never really work on the side of the labs but ",
+          "title": "https://surf-alert.net - Simplified Surf Forecasts",
+          "summary": "I am an (amateur) surfer, and for the last two years or so, I check the surf forecast (mostly windguru, sometimes surf-forecast.com) every single day. I also live next to the beach, so I look at the ocean pretty much eve",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007938",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50013728",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Intelligence Explosion",
-          "summary": "Current OpenAI chief scientist Jakub Pachocki, and Anthropic co-founder Jack Clark, and the scientists behind AI and LLMs have published a new paper warning we are reaching the point of no return. They say that we are ab",
+          "title": "ASK: HN Help and Forward Advice, Ideas: New Lossless cmpr MRT/CT, Astro",
+          "summary": "Hey HN, at first, i'm not from that subject field so I dont know what to do. I'm an ordinary engeneer with basics and unorthodox thinking. I used Claude to help me implement. Its a process of several months and bazills o",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007606",
-          "time": "2h ago",
+          "url": "https://news.ycombinator.com/item?id=50013450",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Broke Prod",
-          "summary": "We had 3 different stages of code reviews and something of a stripe minions thing running as well, but one small code change broke prod. What's the use of code reviews if they just keep putting p2 p3 comments and quietly",
+          "title": "Ask HN: Could someone share a lobste.rs invite?",
+          "summary": "Hello! I've been lurking in the irc chat for lobsters for a week or two and haven't caught anyone to ask for an invite! Would a kind soul help me out! I lurk alot in lobste.rs and lately I've been wanting to comment. Any",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007566",
-          "time": "2h ago",
+          "url": "https://news.ycombinator.com/item?id=50013203",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Thoughts on OSC 7501?",
-          "summary": "spec: https://mitchellh.com/writing/program-status-osc7501 Comments URL: https://news.ycombinator.com/item?id=50007406 Points: 2 # Comments: 1",
+          "title": "Ask HN: Any Insight Here into French High School Unrest?",
+          "summary": "I see certain groups (e.g.,farmers) periodically protest in France but high school? Comments URL: https://news.ycombinator.com/item?id=50011926 Points: 4 # Comments: 1",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50007406",
-          "time": "2h ago",
+          "url": "https://news.ycombinator.com/item?id=50011926",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why today's black banner at top on HN News",
-          "summary": "Hello all, I see a black banner at the top of HN News today and I know it normally to highlight an event that occurred that would be great significance to the HN community at large. I believe today's banner is for the pa",
+          "title": "Ask HN: What is up with wrangler deploy",
+          "summary": "today I had to deploy my site a few times. every other time I deployed I got a broken URL. One time it was a double 'e' in the domain name, The other time it was a double period instead of just .dev is it response now LL",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50006432",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50011861",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-          "summary": "Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour awa",
+          "title": "Google Search is down",
+          "summary": "The text says: \"We're sorry but it appears that there has been an internal server error while processing your request. Our engineers have been notified and are working to resolve the issue.\" Comments URL: https://news.yc",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50006366",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50011632",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Do employees vastly outnumber founders on Hacker News?",
-          "summary": "And if so, could that explain some of the negativity towards speculative and crazy ideas? Comments URL: https://news.ycombinator.com/item?id=50006326 Points: 2 # Comments: 3",
+          "title": "Arc AGI 1 400/400 No LLM running on my MacBook",
+          "summary": "We solved all 400 puzzles in around 2 minutes, NO LLM, on a Mac M1. No prize for us not sharing our IP. Comments URL: https://news.ycombinator.com/item?id=50011265 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50006326",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50011265",
+          "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Learning Practical System Design",
-          "summary": "Hi all. In the world of AI I might be late to the party, but hey, nothing ventured, nothing gained. I have worked as a programmer for some years, but I still feel absolutely incapable of designing a highly scalable syste",
+          "title": "Ask HN: Got a Mac for running agents? what's your setup?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50011229 Points: 2 # Comments: 4",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50004434",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=50011229",
+          "time": "11h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-10-08T18:11:20.570Z"
+  "generatedAt": "2026-10-09T06:58:58.586Z"
 }
