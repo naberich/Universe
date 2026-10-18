@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview"
+          "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+          "src": "Hacker News Front",
+          "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole"
         },
         {
           "idx": 2,
-          "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+          "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
           "src": "Hacker News Front",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+          "url": "https://sphinx-six-theta.vercel.app/"
         },
         {
           "idx": 3,
-          "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile"
+          "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "src": "Hacker News Front",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
         },
         {
           "idx": 4,
-          "title": "Making Chicken Transparent Using Dorito Dust",
+          "title": "NY announces game ownership bill requiring ownership rather than licensing",
           "src": "Hacker News Front",
-          "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
+          "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
         },
         {
           "idx": 5,
-          "title": "Websites are closing their doors to AI agents",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-          "summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-          "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 46 # Comments: 15",
+          "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+          "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 4 # Comments: 0",
           "source": "Hacker News Front",
-          "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-          "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Making Chicken Transparent Using Dorito Dust",
-          "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 10 # Comments: 2",
+          "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news",
           "source": "Hacker News Front",
-          "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+          "url": "https://sphinx-six-theta.vercel.app/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Websites are closing their doors to AI agents",
-          "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "summary": "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 44 # Comments: 19",
+          "source": "Hacker News Front",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Bose’s new wired earbuds are simple in the best way",
-          "summary": "Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wir",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Apple’s HomeView is just the latest threat to online recipe writers",
-          "summary": "The HomeView can simplify online recipe formatting into easy-to-follow steps. | Image: Apple When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "It’s a dream week for tech docs",
-          "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-          "summary": "Article URL: https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/ Comments URL: https://news.ycombinator.com/item?id=50129947 Points: 24 # Comments: 2",
+          "title": "NY announces game ownership bill requiring ownership rather than licensing",
+          "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functiona",
           "source": "Hacker News Front",
-          "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-          "time": "3h ago",
+          "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+          "time": "5h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129121 Points: 395 # Comments: 182",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "TikTok bans Musk documentary account",
+          "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "time": "9h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "time": "10h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Codex Desktop continuously generates Crashpad pending dumps",
+          "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 110 # Comments: 38",
           "source": "Hacker News Front",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "time": "6h ago",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "time": "11h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/itau-generative-ai",
-          "time": "19h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +287,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +296,7 @@
           "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/benefit-street-partners",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/reflection-beam",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -332,7 +332,7 @@
           "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -341,7 +341,7 @@
           "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -359,7 +359,7 @@
           "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/sullivan-cromwell",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         }
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+          "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+          "title": "St Petersburg under attack from Ukrainian drone swarm",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+          "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+          "title": "At least 19 dead in stampede at Kolkata Hindu festival",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+          "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
-          "summary": "Trudy is the latest in successive storms that have hit Mexico's Pacific coast this year.",
+          "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+          "summary": "Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
-          "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
+          "title": "St Petersburg under attack from Ukrainian drone swarm",
+          "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
-          "summary": "Egyptian president pledges 'any measure' to help defend Saudi Arabia 'if it is requested of us'.",
+          "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+          "summary": "Met Police determine X post by Sarah Helm, seen to endorse Palestine Action, does 'not meet the criminal threshold'.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-          "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
+          "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+          "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pope discharged from hospital days after lung cancer surgery",
-          "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Protesters clash with police during nationwide demonstrations in France",
-          "summary": "Thousands protest in Paris and other cities against rising cost of living.",
+          "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+          "summary": "Joblessness, failing services and rising costs deepen hardship across the country.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why Trump’s latest White House press secretary lasted just five days",
-          "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she's not the first to go.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-          "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+          "title": "‘Cash is making a comeback’ in digital India",
+          "summary": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface",
           "source": "FT World",
-          "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Child, four women among Palestinians injured in West Bank pogroms",
-          "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+          "title": "Deaths confirmed in major fire at Canada military base",
+          "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-          "summary": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
+          "title": "America’s $10tn AI infrastructure boom is starting to fray",
+          "summary": "A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The Trump administration has entered its utter shambles era",
+          "summary": "A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Far-right election gains threaten Germany’s investment drive",
+          "summary": "Surge in support for AfD is fuelling concerns among executives ahead of an investment summit in Berlin this week",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/fbba5e95-a6f1-4881-a42d-85ef32c28b7b?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Northwell CEO Says Health Care Model Must Change",
+          "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang"
         },
         {
           "idx": 2,
-          "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
+          "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months"
         },
         {
           "idx": 3,
-          "title": "Freeland Warns US Alliances Are Fraying",
+          "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns"
         },
         {
           "idx": 4,
-          "title": "Sports Fashion Finds a Growing Female Audience",
+          "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread"
         },
         {
           "idx": 5,
-          "title": "By The Way: Headlines You May Have Missed",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video"
+          "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Northwell CEO Says Health Care Model Must Change",
-          "summary": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prev",
+          "title": "China’s Anti-Graft Body Investigates Ex-Guangxi Official Huang",
+          "summary": "China is investigating Huang Ribuo, former vice chairman of the Guangxi Zhuang Autonomous Region Committee of the Chinese People’s Political Consultative Conference, for suspected “serious violations” of official duties,",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
-          "summary": "Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-l",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Freeland Warns US Alliances Are Fraying",
-          "summary": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-s-anti-graft-body-investigates-ex-guangxi-official-huang",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Sports Fashion Finds a Growing Female Audience",
-          "summary": "Terez founder and CEO Zara Terez Tisch tells Bloomberg This Weekend how the growing number of women sports fans is creating new demand for fashionable team apparel and expanding opportunities for her company across profe",
+          "title": "China Rail Logs Record 3.71 Billion Trips in First Nine Months",
+          "summary": "China’s railway network carried 3.71 billion passenger trips in the first three quarters, up 4.8% from a year earlier and marking a record for the period, China State Railway Group Co. said on Sunday.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/china-rail-logs-record-3-71-billion-trips-in-first-nine-months",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "By The Way: Headlines You May Have Missed",
-          "summary": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gott",
+          "title": "Guyana to Block Vape Product Imports Amid Youth Health Concerns",
+          "summary": "Guyana will ban imports of vaping products, tightening restrictions on electronic cigarettes as concern rises about their growing use and health risks, President Irfaan Ali said Saturday.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Global Aid Cuts Deepen Humanitarian Strain",
-          "summary": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises intensify around the wor",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Rockstar Rebuilt Itself to Make GTA VI",
-          "summary": "Bloomberg News video game reporter Jason Schreier tells Bloomberg This Weekend how Rockstar Games nearly doubled its workforce and overhauled its production culture while building the highly anticipated Grand Theft Auto ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump Puts New Russia Sanctions on Hold",
-          "summary": "Bloomberg News Russia economy and government editor Anthony Halpin and White House correspondent Jeff Mason tell Bloomberg This Weekend that President Donald Trump’s waiver of new Russia sanctions could offer Moscow econ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Stellantis Plans to Hire Hundreds More Engineers in Europe, US",
-          "summary": "Stellantis NV Chief Engineering and Technology Officer Ned Curic plans to continue hiring more engineers as the automaker rolls out dozens of new models as part of its turnaround plan.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/guyana-to-block-vape-product-imports-amid-youth-health-concerns",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
-          "summary": "Central Bank governor warns rapid development of AI is a major issue for financial stability",
+          "title": "Two India ‘Cockroach’ Leaders Set to Be Freed as Protests Spread",
+          "summary": "Two jailed leaders of India’s Cockroach Janta Party are expected to be released Sunday, according to its legal head, as police barricades and a heavy security presence underscore continuing tensions in New Delhi over a c",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+          "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
           "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Venezuela Sees Nearly $76 Billion Oil Investment Over Five Years",
+          "summary": "Venezuela expects almost $76 billion of investment in its oil and gas sector over the next five years, Acting President Delcy Rodríguez said Saturday, as the country seeks to draw private capital into a push to boost ene",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/venezuela-sees-nearly-76-billion-oil-investment-over-five-years",
+          "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Australian Home Auctions Decline as Rate Hikes Dampen Activity",
+          "summary": "The number of homes auctioned in Australia dropped over the past week as interest rates at a 15-year high weigh on activity in the housing market.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-17/australian-home-auctions-decline-as-rate-hikes-dampen-activity",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Avalanche in Chile Kills Three Climbers Amid Rare Snowy Spring",
+          "summary": "An avalanche killed three climbers and injured four others Saturday afternoon near the Portillo ski resort in the Chilean Andes, northeast of the capital Santiago.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-17/avalanche-in-chile-kills-three-climbers-amid-rare-snowy-spring",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Niger Halts Diesel, Petrol Exports to Protect Domestic Supply",
+          "summary": "Niger banned exports of diesel and premium petrol in a bid to address fuel supply challenges that the country has been facing in recent days, the ministry of trade and industry said in a statement on its Facebook page.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-17/niger-halts-diesel-petrol-exports-to-protect-domestic-supply",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+          "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescu",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+          "time": "12h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 14:40 UTC",
+      "updated": "Updated 05:16 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: How do I stop Gemini Live from asking.\"Would like to know more about..?\"",
+          "title": "Ask HN: How can we stop UX people from changing UIs to get promotions?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131248"
+          "url": "https://news.ycombinator.com/item?id=50137490"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Why people do not want to believe weight loss is possible without GLPs?",
+          "title": "Google Fonts as a Protest Piece?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131233"
+          "url": "https://news.ycombinator.com/item?id=50137303"
         },
         {
           "idx": 3,
-          "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising star",
-          "src": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents"
+          "title": "How do you deal with AI Output of your boss?",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50135854"
         },
         {
           "idx": 4,
-          "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
+          "title": "Poll: Stanford students preferred 22% less salary for annual equity liquidity",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131023"
+          "url": "https://news.ycombinator.com/item?id=50135643"
         },
         {
           "idx": 5,
-          "title": "Is there a temp phone number like temp email?",
+          "title": "For those using huge amount of tokens monthly for dev work, why do you need it?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50130923"
+          "url": "https://news.ycombinator.com/item?id=50135393"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: How do I stop Gemini Live from asking.\"Would like to know more about..?\"",
-          "summary": "In other words, how do I setup a AGENTS.md or behavior rules for Gemini Live? Comments URL: https://news.ycombinator.com/item?id=50131248 Points: 1 # Comments: 0",
+          "title": "Ask HN: How can we stop UX people from changing UIs to get promotions?",
+          "summary": "Every product seems to go through constant UI churn that has no benefit to users other than changing around whitespace or refreshing the look. If you have a full time UX person they _must_ change the UI of your product o",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131248",
-          "time": "just now",
+          "url": "https://news.ycombinator.com/item?id=50137490",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why people do not want to believe weight loss is possible without GLPs?",
-          "summary": "My last post got flagged when I claimed we provide guaranteed weight loss or gain results within 2–3 weeks without GLPs. Why are so many people on Hacker News hellbent on boosting GLPs as a cure for all weight loss? We'v",
+          "title": "Google Fonts as a Protest Piece?",
+          "summary": "I just noticed that all of the Google Fonts example text now reflects the Universal Declaration of Human Rights. This cannot be coincidence, given the context of the last 2 years. For example, see https://fonts.google.co",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131233",
-          "time": "just now",
+          "url": "https://news.ycombinator.com/item?id=50137303",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising star",
-          "summary": "Community Wisdom 302",
-          "source": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
-          "time": "just now",
+          "title": "How do you deal with AI Output of your boss?",
+          "summary": "So, my boss goes on a rampage. You can clearly see the joy and at the same time the rage and impatience. AI is the tool he always wanted. We are too slow. Process is out of the window. No need for sprints anymore. No pla",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50135854",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
-          "summary": "In the past, we made games for fun and showed them off here and there. Some people were amazed, others didn't care. So far, so good, completely normal. But what are people supposed to do today with such fun stuff when th",
+          "title": "Poll: Stanford students preferred 22% less salary for annual equity liquidity",
+          "summary": "I’m one of the founders of Street. We ran a poll with 500+ people in our Stanford network about how they’d choose between two startup offers. Both had the same role, vesting and $1m equity grant. One paid $180k, with the",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50131023",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50135643",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Is there a temp phone number like temp email?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50130923 Points: 5 # Comments: 1",
+          "title": "For those using huge amount of tokens monthly for dev work, why do you need it?",
+          "summary": "I can't even use 1b a month because I review everything LLMs write. I even used AI to code my own harness in C and my own VSCode like IDE in C++ (I hated how slow it felt) and I still used under 1b the months where it di",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50130923",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50135393",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Talk like Paul Dirac – less words is better",
-          "summary": "This is the entire contents of my home dir AGENTS.md file now. Does it help reduce the slop you have to read for you the same way it feels like it does it for me? Comments URL: https://news.ycombinator.com/item?id=501308",
+          "title": "Ask HN: What Got You into Rust?",
+          "summary": "Back in 2024 I was experimenting with prosthetic arms and trying to figure out how to build one with an EMG sensor. The problem I kept running into was that the EMG sensor kept crashing the Arduino IDE. It spat out data ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50130833",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50135186",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How much are developers trusting LLMs to write prod code?",
-          "summary": "I've been out of the dev role for a few years. I'd appreciate if you could help me better understand what its actually like out there. How much are you trusting LLMs for writing production code: 1. Chat-esque LLM assista",
+          "title": "Ianal?",
+          "summary": "looks like we've been kidding ourselves all these years prefixing our advice with \"IANAL\". Maybe let's switch to IANAA from now on. Comments URL: https://news.ycombinator.com/item?id=50134891 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50130686",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50134891",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "At what point is software considered \"vibe-coded\"?",
-          "summary": "We all use AI at some point when building software, but I don’t understand where the line is between AI-assisted development and vibe coding. What makes a project “vibe-coded”? Comments URL: https://news.ycombinator.com/",
+          "title": "Real knowledge dont matter any more",
+          "summary": "My X news feed are all about AI modules names , with tweets like Opus ! wow Sonnet OMG! and in the end either no body tried them or they have 1M $ sub . miss the days it was about code tricks and real knowledge in SE and",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50130038",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50134684",
+          "time": "9h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Softmap – readable flow map for Golang projects",
-          "summary": "I’m working as a developer in a fin-tech company and most of the time I work with system analysts. The most of the time is being taking by the research of the code in order to answer for the questions of the system analy",
+          "title": "I need an opinion on my app",
+          "summary": "Hi everyone! I am currently in the process of building Monetario AI (getmonetario.com), an app that shows how some macroeconomic events impact your personalized portfolio and your holdings. Story for context: I'm a unive",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50129836",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50134189",
+          "time": "9h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Looking for a Remote Engineering Role",
-          "summary": "Product Engineer. Former Team Lead at Community Phone (3 years). 15+ years in software development. Full-stack TypeScript (React, React Native, Node.js), Swift (native iOS apps), chatbots, automation. Currently looking f",
+          "title": "Pareto frontier lines for AI are great but where are the Pareto planes?",
+          "summary": "Pareto frontier lines are used a lot for comparing tradeoffs between two different attributes in AI models. I want to be able to see the Pareto frontier planes for 3 attributes (which probably look closer to a bumpy dome",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50129708",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=50133388",
+          "time": "11h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-10-17T14:40:22.011Z"
+  "generatedAt": "2026-10-18T05:16:23.124Z"
 }
