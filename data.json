@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:37 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Apple ‘Pro and Tell’ event: everything announced this week",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week"
+          "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+          "src": "Hacker News Front",
+          "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/"
         },
         {
           "idx": 2,
-          "title": "Apple launches its new touchscreen MacBook Pro",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+          "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+          "src": "Hacker News Front",
+          "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"
         },
         {
           "idx": 3,
-          "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video"
+          "title": "Claude Code regularly sends each background agent’s transcript to its model",
+          "src": "Hacker News Front",
+          "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"
         },
         {
           "idx": 4,
-          "title": "Hands-on with Apple’s touchscreen MacBook Pro",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on"
+          "title": "让 Agent 读懂你的身体：数据处理篇",
+          "src": "少数派",
+          "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent"
         },
         {
           "idx": 5,
-          "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date"
+          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+          "src": "少数派",
+          "url": "https://sspai.com/post/116686"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "Apple ‘Pro and Tell’ event: everything announced this week",
-          "summary": "Apple closed out its week of product announcements with a \"Pro and Tell\" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Apple launches its new touchscreen MacBook Pro",
-          "summary": "Apple's new touchscreen MacBook Pro starts at $2,899",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-          "summary": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Hands-on with Apple’s touchscreen MacBook Pro",
-          "summary": "The difference in thickness is small compared to the non-touch MacBook Pro models. Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one. Tod",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-          "summary": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Instagram doesn&#8217;t have a plan to pay long-form video creators",
-          "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, cr",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "MacBook Pro with Touch Enabled Proled XDR Display",
-          "summary": "Article URL: https://www.apple.com/macbook-pro/proled-xdr-display/ Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 71 # Comments: 78",
+          "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+          "summary": "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50284342 Points: 29 # Comme",
           "source": "Hacker News Front",
-          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-          "time": "just now",
+          "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "MacBook Pro with PROLED XDR Display and Touch",
-          "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/ Comments URL: https://news.ycombinator.com/item?id=50276928 Points: 10 # Comments: 0",
+          "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+          "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series Comments URL: https://news.ycombinator.com/item?id=50284329 Points: 74 # Comments: 38",
           "source": "Hacker News Front",
-          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-          "time": "just now",
+          "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-          "summary": "Why is it useful? - Present slides without sharing the screen and have every one be on the same page. - Present together with other cohosts and all control the current page. - Other features such as presentation collab f",
+          "title": "Claude Code regularly sends each background agent’s transcript to its model",
+          "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 226 # Comments: 65",
           "source": "Hacker News Front",
-          "url": "https://slidebyside.com/",
-          "time": "just now",
+          "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+          "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Apple announces its first touchscreen MacBook Pro",
-          "summary": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it's available to preorde",
+          "title": "让 Agent 读懂你的身体：数据处理篇",
+          "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "source": "少数派",
+          "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+          "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/116686",
+          "time": "3h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushin",
           "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-          "time": "just now",
+          "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+          "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/117750",
+          "time": "6h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 295 # Comments: 69",
+          "source": "Hacker News Front",
+          "url": "https://divagr.com/blog/qwenputer",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+          "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 139 # Comments: 62",
+          "source": "Hacker News Front",
+          "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "StackOverflow now gets fewer than 1000 questions a month",
+          "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 280 # Comments: 253",
+          "source": "Hacker News Front",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "time": "7h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:37 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -211,21 +211,21 @@
         },
         {
           "idx": 3,
-          "title": "Legora is building the agentic operating system for legal work",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         },
         {
           "idx": 4,
-          "title": "Legora is building the agentic operating system for legal work",
+          "title": "The future of the firm",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/legora"
+          "url": "https://openai.com/index/the-future-of-the-firm"
         },
         {
           "idx": 5,
-          "title": "Build specialized multimodal models with LFM3",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+          "title": "Legora is building the agentic operating system for legal work",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/legora"
         }
       ],
       "aiBrief": {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "time": "just now",
+          "time": "13h ago",
           "tags": [],
           "market": null
         },
@@ -287,16 +287,25 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "time": "2h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Legora is building the agentic operating system for legal work",
-          "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
           "source": "OpenAI Blog",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-          "time": "8h ago",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "time": "17h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The future of the firm",
+          "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "time": "20h ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +314,7 @@
           "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/legora",
-          "time": "8h ago",
+          "time": "21h ago",
           "tags": [],
           "market": null
         },
@@ -353,15 +362,6 @@
           "time": "1d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/check-point-daybreak",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:37 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
           "src": "FT World",
-          "url": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "The thwarted Budget of a thwarted government",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/de0f2126-01ac-4a25-a04b-5376b3540584?syn-25a6b1a6=1"
+          "title": "Chelsea beat Liverpool 6-5 on penalties to reach League Cup quarterfinals",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss"
+          "title": "Hello Kitty gets caught up in Japan-China spat",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Finally, after Liz Truss, an actual mini-Budget",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/e34efd2f-107c-410c-9976-d0b8c5b156e0?syn-25a6b1a6=1"
+          "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "European gas prices jump above €100 on fears of Iran war escalation",
+          "title": "EU can compete with US AI giants, says Brussels’ frontier-model champion",
           "src": "FT World",
-          "url": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/5e343e5c-5e4a-41a7-87b0-4850c77d9aec?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
-          "summary": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+          "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
           "source": "FT World",
-          "url": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The thwarted Budget of a thwarted government",
-          "summary": "While the political plan is obvious, the economic strategy is harder to discern",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/de0f2126-01ac-4a25-a04b-5376b3540584?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-          "summary": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+          "title": "Chelsea beat Liverpool 6-5 on penalties to reach League Cup quarterfinals",
+          "summary": "After a 1-1 draw in normal time, Chelsea win 6-5 to edge a narrow win after penalties in last-16 match at Liverpool.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Finally, after Liz Truss, an actual mini-Budget",
-          "summary": "Nosferatu lookalike John Healey is a modest Labour man. He trades in dull old HP sauce, not hot exciting blood",
+          "title": "Hello Kitty gets caught up in Japan-China spat",
+          "summary": "Sanrio apologises for collaboration with wartime spy thriller that drew outrage over depiction of torture",
           "source": "FT World",
-          "url": "https://www.ft.com/content/e34efd2f-107c-410c-9976-d0b8c5b156e0?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "European gas prices jump above €100 on fears of Iran war escalation",
-          "summary": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-          "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-          "summary": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
+          "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
+          "summary": "From drone incursions to an alleged campaign of assassinations, Russia is feared to be pressing a shadow war.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Fed to decide on interest rates as US midterm elections loom",
-          "summary": "Policymakers weigh whether to deliver back-to-back increases in effort to tame inflation exacerbated by Donald Trump’s war against Iran",
+          "title": "EU can compete with US AI giants, says Brussels’ frontier-model champion",
+          "summary": "Also in this newsletter: Are the EU’s short seller rules fit for purpose?",
           "source": "FT World",
-          "url": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/5e343e5c-5e4a-41a7-87b0-4850c77d9aec?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bank of Canada raises interest rates for the first time in three years",
-          "summary": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
+          "title": "What has caused the bad economic vibes, and does it actually matter?",
+          "summary": "Level-headed consumers",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/a3d8efb2-6553-46d6-af48-7886b1a14fa3",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Why a Democratic win in US midterms could adversely affect Europe",
+          "summary": "Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-          "time": "just now",
+          "url": "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bank of England able to take UK Budget in its stride despite slippage in deficit reduction",
-          "summary": "Higher energy prices and interest costs take their toll on borrowing outlook",
+          "title": "FirstFT: What’s next for Burnham after the Budget?",
+          "summary": "Also in today’s newsletter: US holds rates and Google shares tumble",
           "source": "FT World",
-          "url": "https://www.ft.com/content/4fe7b495-a682-4f69-a385-a02c892db0d7",
-          "time": "just now",
+          "url": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Can Turkiye’s Libya breakthrough reshape Eastern Mediterranean diplomacy?",
+          "summary": "Ankara wins backing from former adversaries in Libya for maritime border agreement, but other diplomatic tests remain.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/29/can-turkiyes-libya-breakthrough-reshape-eastern-mediterranean-diplomacy?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russia says more than 600 drones launched towards Moscow overnight",
+          "summary": "The attack is the latest in a series of major drone assaults targeting the Moscow region.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:37 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:38 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "DFW’s $12 Billion Transformation",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/dfw-s-12-billion-transformation-video"
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-is-said-to-plan-uk-share-offering-via-retailbook"
+          "title": "The Fed plays for time (but doesn’t have much)",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/65d84258-7b04-4064-ab76-6610bd522d65?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1"
+          "title": "AB InBev Volumes Lag Estimates on Slump in China Demand",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/ab-inbev-volumes-lag-estimates-stella-artois-budweiser-china-demand-slump"
         },
         {
           "idx": 4,
-          "title": "Baker Hughes 3Q EPS Beat Falls Short of High Bar",
+          "title": "ING Announces Job Cuts as Quarterly Profit Misses Estimates",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/baker-hughes-3q-eps-beat-falls-short-of-high-bar-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/ing-dutch-netherlands-job-cuts-quarterly-profit-misses-estimates"
         },
         {
           "idx": 5,
-          "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
+          "title": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid"
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead"
         }
       ],
       "aiBrief": {
@@ -806,91 +806,91 @@
       },
       "news": [
         {
-          "title": "DFW’s $12 Billion Transformation",
-          "summary": "One of the world’s busiest airports, Dallas-Fort Worth International Airport, is undergoing a $12 billion transformation. CEO Chris McLaughlin discusses the massive expansion as DFW targets 100 million annual passengers ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/dfw-s-12-billion-transformation-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Anthropic Is Said to Plan UK Share Offering Via RetailBook",
-          "summary": "Anthropic PBC is working with investment platform RetailBook to market its shares to UK retail traders as part of its mammoth initial public offering, according to people familiar with the matter.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-is-said-to-plan-uk-share-offering-via-retailbook",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
-          "summary": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
+          "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+          "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Baker Hughes 3Q EPS Beat Falls Short of High Bar",
-          "summary": "Baker Hughes beats Wall Street’s profit expectations but falls short of the high bar investors had set heading into earnings. CEO Lorenzo Simonelli discusses the third-quarter results and outlook on Bloomberg Open Intere",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/baker-hughes-3q-eps-beat-falls-short-of-high-bar-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-          "summary": "A high-speed rail service slammed into another train about 60 miles south of Madrid on Wednesday, killing at least 68 people — the second major accident on Spain’s rail network this year and the deadliest crash in over a",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "European gas prices jump above €100 on fears of Iran war escalation",
-          "summary": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
+          "title": "The Fed plays for time (but doesn’t have much)",
+          "summary": "Plus, tech results and UK bank taxes",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/65d84258-7b04-4064-ab76-6610bd522d65?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Boston Tower Owner Buys It Again at 68% Discount After Default",
-          "summary": "A real estate investment firm bought a Boston office tower at a foreclosure auction for one-third the price it paid in 2019, a stark illustration of how far building values have fallen in the wake of the pandemic.",
+          "title": "AB InBev Volumes Lag Estimates on Slump in China Demand",
+          "summary": "Anheuser-Busch InBev’s volumes missed analyst estimates last quarter as sluggish sales of beer and weak demand in China offset growth elsewhere at the world’s biggest brewer.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/boston-office-tower-sells-for-546-million-discount-at-auction",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/ab-inbev-volumes-lag-estimates-stella-artois-budweiser-china-demand-slump",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Machado Thrust Back Into Job as Unifier of Venezuela Opposition",
-          "summary": "After a year-long absence, María Corina Machado summoned thousands of followers to the streets as she returned to Caracas on Sunday. Now Venezuela’s most popular politician must reassert herself as the leader of oppositi",
+          "title": "ING Announces Job Cuts as Quarterly Profit Misses Estimates",
+          "summary": "ING Groep NV reported profit for the third quarter that missed estimates after costs rose and it set aside more money for souring loans. The Dutch lender also said it will cut about 400 staff to refocus its wholesale ban",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/machado-thrust-back-into-job-as-unifier-of-venezuela-opposition",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/ing-dutch-netherlands-job-cuts-quarterly-profit-misses-estimates",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Bank of England able to take UK Budget in its stride despite slippage in deficit reduction",
-          "summary": "Higher energy prices and interest costs take their toll on borrowing outlook",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/4fe7b495-a682-4f69-a385-a02c892db0d7",
+          "title": "Healey Defends UK Budget, Warns 'Tough Decisions' Ahead",
+          "summary": "Chancellor of the Exchequer John Healey defended his first budget against criticism that it lacked ambition, while warning the UK would face “tough decisions” about its spending priorities in the years ahead. Speaking to",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Mubadala Capital dealmaker to launch his own venture fund",
-          "summary": "Ibrahim Ajami, a senior executive at the private capital arm Abu Dhabi’s sovereign wealth fund, is set to leave next year",
+          "title": "Jio’s Halo Brightens Momentum for Mega Deals in India Pipeline",
+          "summary": "Jio Platforms Ltd.’s sparkling debut was met with enthusiasm among investors, paving the way for more potential offerings by some of the country’s largest privately held companies.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Anthropic IPO: How Investors in Asia Can Get In",
+          "summary": "For much of Asia, getting a piece of Anthropic’s blockbuster IPO may prove nearly impossible. Abhishek Vishnoi looks at how investors are getting creative through proxy trades. (Source: Bloomberg)",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/anthropic-ipo-how-investors-in-asia-can-get-in",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Tech Rally Stalls as Alphabet, Samsung Disappoint",
+          "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and ana",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/the-asia-trade-10-29-2026-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Private equity grows up",
+          "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Copper’s AI-fuelled boom gets a reality check",
+          "summary": "Tariff threats from the US may have driven up the price but the industry has shifted spending on the basis of long-term demand",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 17:39 UTC",
+      "updated": "Updated 06:38 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Tell HN: I know Firefox has update when it starts to glitch",
+          "title": "Ask HN: I Need Advice",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50276099"
+          "url": "https://news.ycombinator.com/item?id=50285134"
         },
         {
           "idx": 2,
-          "title": "Old.reddit.com Gone",
+          "title": "Ask HN: Why big LLMs use \"it's not A, it is B\" pattern? Shared dataset supplier?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50275640"
+          "url": "https://news.ycombinator.com/item?id=50284849"
         },
         {
           "idx": 3,
-          "title": "Ask HN: Does the \"domain expertise\" helps founders in this AI era?",
+          "title": "Ask HN: Nepal Government wants Google Play Merchant access for its Developers",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50275109"
+          "url": "https://news.ycombinator.com/item?id=50283533"
         },
         {
           "idx": 4,
-          "title": "Ask HN: What's the Culture at Google Like Now? For Core Teams Like Ads, Search?",
+          "title": "Ask HN: We tax labour, why not tax AI?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50274836"
+          "url": "https://news.ycombinator.com/item?id=50281372"
         },
         {
           "idx": 5,
-          "title": "A garbage collector for LLM context windows, written in Rust",
+          "title": "Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50274683"
+          "url": "https://news.ycombinator.com/item?id=50280719"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Tell HN: I know Firefox has update when it starts to glitch",
-          "summary": "I keep browser open forever on my media center. Everytime it starts to glitch when opening pages, I restart it, and voila, there is a new tab with \"whats new\". Amazing really! I don't even want to know the reasons... Com",
+          "title": "Ask HN: I Need Advice",
+          "summary": "Hello HN. I was laid off six months ago from my longest tenured job. Since then, I have been rotting. And I mean really rotting. I have been staying up late, sleeping in, skipping chores, neglecting my relationships, eat",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50276099",
+          "url": "https://news.ycombinator.com/item?id=50285134",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Why big LLMs use \"it's not A, it is B\" pattern? Shared dataset supplier?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50284849 Points: 3 # Comments: 2",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50284849",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Old.reddit.com Gone",
-          "summary": "It may just be me, but old.reddit.com is finally gone. And, at last, I am free Comments URL: https://news.ycombinator.com/item?id=50275640 Points: 8 # Comments: 3",
+          "title": "Ask HN: Nepal Government wants Google Play Merchant access for its Developers",
+          "summary": "Dear @google.com people working in the Google Play Merchant team, I’m assigned to find out exactly why Google Play doesn’t allow Nepalese developers to register for their Merchant account, which is necessary to sell Paid",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50275640",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Does the \"domain expertise\" helps founders in this AI era?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50275109 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50275109",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What's the Culture at Google Like Now? For Core Teams Like Ads, Search?",
-          "summary": "What's the culture at Google like these days? For Core Teams Like Gmail, Search, Ads. What's it like working in these traditionally critical departments now? Comments URL: https://news.ycombinator.com/item?id=50274836 Po",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50274836",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "A garbage collector for LLM context windows, written in Rust",
-          "summary": "Hi HN, Like many of you, I spend a lot of time coding with Codex and switching between cloud and local models. As a software engineer, something I never understood, and honestly hated—was `/compact` and the way it’s desi",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50274683",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: MCP vs. AI integrated in your software",
-          "summary": "If you were to choose, would you rather use built-in AI directly into your software or would you go for MCP? Really curious of your perspectives and pro/cons you see for each. Comments URL: https://news.ycombinator.com/i",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50274354",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What Are the User in Green?",
-          "summary": "Just looking around and I noticed some username in green ? what are they ? Comments URL: https://news.ycombinator.com/item?id=50273976 Points: 3 # Comments: 3",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50273976",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Should there be an open source license that bans model training",
-          "summary": "I can hear from here that \"it's not truly open source if you start banning things\" But hear me out: there's AGPLv3 to prevent competitors from selling your OSS project as SaaS. Shouldn't there be an open source license t",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50273836",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Breaking changes in third-party APIs are turning into a full-time job",
-          "summary": "For a few weeks I've been digging into breaking changes in the third-party APIs a company depends on. Nowadays, companies run more tools than they used to, and with time, it will drastically increase. First, because of v",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50273438",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Request for Startups – \"LLMs That Write Well\" – Why?",
-          "summary": "Folks, I've been looking into LLMs creativity and writing style recently, expiriencing the common fructration there. The problem is obvious, but it doesn't seem to me that there is a merit for a startup/company. Solution",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50272953",
+          "url": "https://news.ycombinator.com/item?id=50283533",
           "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: We tax labour, why not tax AI?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50281372 Points: 7 # Comments: 5",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50281372",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50280719 Points: 7 # Comments: 3",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50280719",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Advise on monetization model for my freemium app wanted",
+          "summary": "I'm an indie app dev and looking for some conceptual help with one of my freemium apps. I'm thinking about completely restructuring the business model i.e. the placement of the paywall and what amount of content stays fr",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50280505",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Alternative to Tldraw Draw Fast?",
+          "summary": "I’ve been looking for a tool that can translate rough sketches on my iPad to higher fidelity wireframes or illustrations in near real time. has anyone found such a tool? The closest was Tldraw that shuttered their Draw F",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50280452",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Founding in Job Title",
+          "summary": "Am I the only one who thinks the job title \"Founding [jobTitle]\" is stupid? Here are my reasons: a) You're creating unnecessary confusion between this Founding Engineer and each hire after. Is he the lead? Is she my boss",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50279768",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Watch Apple slowly become just another computer company",
+          "summary": "1. no one wants a folding iphone 2. no one wants touch on the mac stop blindly listening to journalists and have some taste. i have a UX maxim with a ton of evidence behind it that no one seems to talk about: if a produc",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50279039",
+          "time": "11h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What happened to our collective ethos?",
+          "summary": "I’m an outsider to both Silicon Valley and enterprise IT; I’m just a freelance consultant and web host plying my trade in the suburbs of Charlotte. But I have generally presumed that we all share a common nostalgic ideal",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50278335",
+          "time": "12h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-10-28T17:39:20.019Z"
+  "generatedAt": "2026-10-29T06:38:02.146Z"
 }
