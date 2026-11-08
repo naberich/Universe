@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions"
+          "title": "Kirlian Photography: Building Your Own Equipment",
+          "src": "Hacker News Front",
+          "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html"
         },
         {
           "idx": 2,
-          "title": "How Long Can Life Wait?",
+          "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
           "src": "Hacker News Front",
-          "url": "https://mceglowski.substack.com/p/how-long-can-life-wait"
+          "url": "https://github.com/dmunozv04/isponsorblocktv"
         },
         {
           "idx": 3,
-          "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+          "title": "Goodbye Claude, Hello Pi",
           "src": "Hacker News Front",
-          "url": "https://kevinboone.me/tpwin.html"
+          "url": "https://caleb.software/posts/claude-to-pi.html"
         },
         {
           "idx": 4,
-          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale"
+          "title": "Consumer brain wave headsets threaten privacy",
+          "src": "Hacker News Front",
+          "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F"
         },
         {
           "idx": 5,
-          "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview"
+          "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+          "src": "Hacker News Front",
+          "url": "https://github.com/crmne/zapfast"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-          "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "How Long Can Life Wait?",
-          "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 6 # Comments: 1",
+          "title": "Kirlian Photography: Building Your Own Equipment",
+          "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 15 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-          "summary": "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 13 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://kevinboone.me/tpwin.html",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-          "summary": "The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-          "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-          "summary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that wo",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The US let Nvidia sell chips to an empty office in China",
-          "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-          "summary": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/ Whenever XMPP or Matrix threads pop up on HN, several commente",
-          "source": "Hacker News Front",
-          "url": "https://news.ycombinator.com/item?id=50405250",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "AI broke the cybersecurity world. What’s next?",
-          "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
           "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Good riddance, Cybertruck!",
-          "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-          "time": "2h ago",
+          "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+          "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 5 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://github.com/dmunozv04/isponsorblocktv",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Goodbye Claude, Hello Pi",
+          "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 124 # Comments: 73",
+          "source": "Hacker News Front",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Consumer brain wave headsets threaten privacy",
+          "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/ite",
+          "source": "Hacker News Front",
+          "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+          "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 48 # Comments: 22",
+          "source": "Hacker News Front",
+          "url": "https://github.com/crmne/zapfast",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Commodore PET – The Worlds First Personal Computer",
+          "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 44 # Comments: 15",
+          "source": "Hacker News Front",
+          "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "GitHub New pull request overview page in public preview",
+          "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 112 # Comments: 80",
+          "source": "Hacker News Front",
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "IRA Velinsky – Commodore's Industrial Designer",
+          "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 28 # Comments: 1",
+          "source": "Hacker News Front",
+          "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Making any integer with four 2s (2025)",
+          "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 106 # Comments: 26",
+          "source": "Hacker News Front",
+          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+          "time": "8h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "time": "8h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -296,7 +296,7 @@
           "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -314,7 +314,7 @@
           "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,16 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "time": "1d ago",
+          "time": "2d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "summary": "",
+          "source": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -353,15 +362,6 @@
           "time": "2d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "Setting a new standard for responsible AI infrastructure",
-          "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "time": "2d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Italian foreign minister says hackers leaked his personal data",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+          "title": "There is reason to hope that the Democrats might deliver this time",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+          "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Israel builds 90km network of military roads across southern Lebanon",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
+          "title": "Crypto industry braces for reckoning over Trump ties",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+          "title": "America is craving a return to community",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Hundreds march in Pau, France against high living costs",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss"
+          "title": "UK must ‘catch up’ with Europe in opposing Russian threat, says military chief",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/9d49deb8-33f6-4375-9216-a95dbb915576?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Italian foreign minister says hackers leaked his personal data",
-          "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "title": "There is reason to hope that the Democrats might deliver this time",
+          "summary": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance — they better not blow it.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-          "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+          "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+          "summary": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Crypto industry braces for reckoning over Trump ties",
+          "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
           "source": "FT World",
-          "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Israel builds 90km network of military roads across southern Lebanon",
-          "summary": "Israel is building roads and military outposts across southern Lebanon.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-          "summary": "It happened in a region of the country known to have drug trafficking activity.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Hundreds march in Pau, France against high living costs",
-          "summary": "Hundreds march in Pau, France against high living costs",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+          "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Five killed and at least 10 injured in Krakow shooting",
-          "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+          "title": "America is craving a return to community",
+          "summary": "The midterms are only the latest sign of hope",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "No clear winner after tight New Zealand general election",
-          "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+          "title": "UK must ‘catch up’ with Europe in opposing Russian threat, says military chief",
+          "summary": "Sir Richard Knighton promises further action to counter Moscow’s submarines in the north Atlantic",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/9d49deb8-33f6-4375-9216-a95dbb915576?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-          "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+          "title": "‘Radical left’ get the headlines but centrists dominate new US Congress",
+          "summary": "Most of the Democrats who swept to power in the midterms blue wave are moderates",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-          "summary": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+          "title": "Is Europe getting serious about ending tech dependence?",
+          "summary": "Brussels is moving in the right direction but could push national governments further",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "At least five people killed in shooting in Poland’s Krakow",
-          "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+          "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
+          "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Groundscrapers: a low-rise innovation with high-rise prospects",
+          "summary": "Buildings that are longer than they are tall have started popping up in the busiest cities",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/3926d1c2-a32e-45b0-ab8a-cfcc96e90454?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russia races to build rival to Elon Musk’s Starlink",
+          "summary": "Moscow’s flagship space project would enable more deadly drone strikes deep inside Ukraine",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
           "time": "1h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+          "title": "Crypto industry braces for reckoning over Trump ties",
           "src": "FT Markets",
-          "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+          "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says"
         },
         {
           "idx": 3,
-          "title": "Ken Chenault on Leadership in an Age of AI",
+          "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress"
         },
         {
           "idx": 4,
-          "title": "A Historic First for Women at the Metropolitan Opera",
+          "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india"
         },
         {
           "idx": 5,
-          "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
+          "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery"
         }
       ],
       "aiBrief": {
@@ -806,11 +806,74 @@
       },
       "news": [
         {
+          "title": "Crypto industry braces for reckoning over Trump ties",
+          "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China Set to Lead World in Energy Investment in 2026, CCTV Says",
+          "summary": "China is expected to invest $940 billion in energy in 2026, the most by any country, according to the Global Energy Transition Report 2026 released by the China Enterprise Reform and Development Society, China Central Te",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-set-to-lead-world-in-energy-investment-in-2026-cctv-says",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "China Raises Delegate Count to 2,360 for 2027 Party Congress",
+          "summary": "China set a quota of 2,360 delegates for the Communist Party’s 21st national congress in 2027, 60 more than for the previous gathering, Xinhua News Agency reported Sunday, citing the party’s Organization Department.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/china-raises-delegate-count-to-2-360-for-2027-party-congress",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "AI Slump Revives Asia’s Forgotten Trades From China to India",
+          "summary": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from ea",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
+          "summary": "Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
+          "time": "6h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+          "summary": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "New Chief of Staff, Chain Reaction Tech Selloff",
+          "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Yorkville Ives & Co",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-07/bloomberg-this-weekend-11-7-2026-video",
+          "time": "13h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
           "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
           "source": "FT Markets",
           "url": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-          "time": "just now",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -819,7 +882,7 @@
           "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they ",
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/videos/2026-11-07/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-          "time": "1h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -828,70 +891,7 @@
           "summary": "On Bloomberg This Weekend, General Catalyst Chairman and Managing Director and former American Express CEO Ken Chenault discusses leadership, diversity and responsible AI, arguing that executives need the courage to stan",
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/videos/2026-11-07/ken-chenault-on-leadership-in-an-age-of-ai-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "A Historic First for Women at the Metropolitan Opera",
-          "summary": "On Bloomberg This Weekend, composer Missy Mazzoli discusses adapting George Saunders's Lincoln in the Bardo and becoming the first woman composer to have a world premiere at the Metropolitan Opera. Mazzoli tells hosts Da",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/a-historic-first-for-women-at-the-metropolitan-opera-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How the Iran War Is Making Alaskans Both Richer and Poorer",
-          "summary": "Oil prices have surged across the United States as a result of the ongoing war in Iran. This means higher costs for households in most states, but in Alaska, the state government is bringing in new revenue from its high ",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/inside-alaska-s-oil-paradox-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Protein Craze Fuels an Investment Boom in Livestock Health",
-          "summary": "Animal health companies are tapping into the protein craze, investing billions of dollars to build up businesses focused on making cattle, pigs and poultry healthier for human consumption.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-07/protein-craze-fuels-an-investment-boom-in-livestock-health",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Young Travelers Are Warming Up to Cruises",
-          "summary": "On Bloomberg This Weekend, Bloomberg News travel journalist Brittany Chang explains why cruises are attracting more Gen Z and millennial travelers as higher airfare and hotel costs make all-inclusive vacations increasing",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/young-travelers-are-warming-up-to-cruises-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Economy and Democracy Drove the Blue Wave",
-          "summary": "On Bloomberg This Weekend, Rutgers University's Ashley Koning says affordability, concerns about democracy and government corruption helped drive voters toward Democrats, with significant shifts among Latino, young and i",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/economy-and-democracy-drove-the-blue-wave-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Berkshire Makes Record $9.6 Billion Buyback",
-          "summary": "On Bloomberg This Weekend, Bloomberg Intelligence Senior Insurance Analyst Matthew Palazola breaks down Berkshire Hathaway's third-quarter results, including a record $9.6 billion in share buybacks and weaker insurance e",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-07/berkshire-makes-record-9-6-billion-buyback-video",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Turkey Arrests Former Regulatory Executive in Growing Fund Probe",
-          "summary": "Turkish authorities arrested the former deputy chairman of the country’s markets regulator, state-run Anadolu Agency reported on Saturday, the latest executive to be caught up in a widening fund scandal.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-07/turkey-arrests-former-regulatory-executive-in-growing-fund-probe",
-          "time": "3h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 17:10 UTC",
+      "updated": "Updated 06:49 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+          "title": "PolyNotes App",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50405250"
+          "url": "https://news.ycombinator.com/item?id=50410473"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Non-Malicious Bots",
+          "title": "I Build Qorqbot – OS Grokbot",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403901"
+          "url": "https://news.ycombinator.com/item?id=50410027"
         },
         {
           "idx": 3,
-          "title": "I turned an ESP32-S3 into a Tailscale gateway with recovery functions",
+          "title": "Streaming Sites, Endless Content, IDK What to Watch",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403882"
+          "url": "https://news.ycombinator.com/item?id=50409885"
         },
         {
           "idx": 4,
-          "title": "Is Programming That Easy?",
+          "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403687"
+          "url": "https://news.ycombinator.com/item?id=50409663"
         },
         {
           "idx": 5,
-          "title": "Ask HN: If you use Notion or Obsidian, what features should be added?",
+          "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403409"
+          "url": "https://news.ycombinator.com/item?id=50409438"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-          "summary": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/ Whenever XMPP or Matrix threads pop up on HN, several commente",
+          "title": "PolyNotes App",
+          "summary": "Show HN: Polynotes - brings handwriting, your course materials, and a grounded AI tutor into one calm place, so everything for a lecture lives on a single screen. Comments URL: https://news.ycombinator.com/item?id=504104",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50405250",
-          "time": "1h ago",
+          "url": "https://news.ycombinator.com/item?id=50410473",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Non-Malicious Bots",
-          "summary": "When I ask an AI to load a link, sometimes it can load it, and sometimes it can't (and I have to copy paste the text myself). Sometimes it can load it even when it has the \"checking if you're a malicious bot\". I'm wonder",
+          "title": "I Build Qorqbot – OS Grokbot",
+          "summary": "And I am looking for a CTO! Please message me if you are ultra technical - I have quant researcher background. Comments URL: https://news.ycombinator.com/item?id=50410027 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403901",
+          "url": "https://news.ycombinator.com/item?id=50410027",
+          "time": "3h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Streaming Sites, Endless Content, IDK What to Watch",
+          "summary": "Netflix, Hulu, Paramount, Youtube - This is what I circulate between, and between the four there is probably billions of hours of content to watch and yet at a certain point it's not enough. I find myself regularly looki",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50409885",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "I turned an ESP32-S3 into a Tailscale gateway with recovery functions",
-          "summary": "Hi, I’ve been working on ESP32 Tailnet Gateway, an open-source firmware that turns an ESP32-S3 into a small Tailscale/Headscale gateway The main use case is connecting IoT devices that can’t run a VPN client to services ",
+          "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50409663 Points: 1 # Comments: 5",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403882",
-          "time": "4h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Is Programming That Easy?",
-          "summary": "Am I the only one who finds it odd when I hear someone say \"coding was never the hard part\" I've been studying CS for 3 years at a college, and I'm slowly improving my programming skills, it's just mind blowing how much ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403687",
+          "url": "https://news.ycombinator.com/item?id=50409663",
           "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: If you use Notion or Obsidian, what features should be added?",
-          "summary": "If you use Notion, Obsidian or similar tools, what features/functionality do you think should be added or supported which might enhance the user experience by a lot? Comments URL: https://news.ycombinator.com/item?id=504",
+          "title": "Ask HN: If LLM reverse engineering is deemed illegal, is that precedent for OSS?",
+          "summary": "With the efforts to clamp down on LLM-assisted reverse engineering - I am wondering; If LLM assisted reverse engineering is deemed illegal by the courts, is that precedent for a class action that asserts OSS licenses are",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50403409",
+          "url": "https://news.ycombinator.com/item?id=50409438",
           "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What tech companies do you think have a good moral compass?",
-          "summary": "Interested to hear which companies come to mind for you. Comments URL: https://news.ycombinator.com/item?id=50402106 Points: 1 # Comments: 7",
+          "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+          "summary": "Why not give customers a binary they can run on their own Mac? Comments URL: https://news.ycombinator.com/item?id=50409433 Points: 1 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50402106",
-          "time": "10h ago",
+          "url": "https://news.ycombinator.com/item?id=50409433",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why Do We Build Fluxcut?",
-          "summary": "This article explains why we create Fluxcut to solve the issue of the AI video editor regenerating the video for a single edit from start again and again: https://fluxcut.substack.com/p/why-do-we-build-fluxcut Comments U",
+          "title": "Ask HN: What are you building that you're excited by",
+          "summary": "Please only if you're excited by it; it could be even because you're learning. Fire away! Comments URL: https://news.ycombinator.com/item?id=50409416 Points: 2 # Comments: 1",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50401948",
-          "time": "11h ago",
+          "url": "https://news.ycombinator.com/item?id=50409416",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Kimi K3.1 locally on one GPU",
-          "summary": "2 tokens/s decode and 40 tokens/s prefill https://argonautlabs.ai/ Comments URL: https://news.ycombinator.com/item?id=50401869 Points: 2 # Comments: 1",
+          "title": "Is YouTube starting to protect channel RSS feeds?",
+          "summary": "There have been previous outages that last 1-2 days, but I haven't been able to get RSS feeds for the last 4 days now. This goes for new channels and previous channels in a feed reader; Google displays a 404 page no matt",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50401869",
-          "time": "11h ago",
+          "url": "https://news.ycombinator.com/item?id=50409244",
+          "time": "6h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "FLEY a voice AIassistant thatwill notonly talkwith youbut canalso control yourPC",
-          "summary": "FLEY AI-Voce - a voice AI assistant that will not only talk with you but can also control your PC: open links, websites, and programs, create files, presentations, write code, and even shut down and turn on your PC, work",
+          "title": "Ask HN: How do you keep track of the articles, papers and videos you save?",
+          "summary": "Hi HN. This is my first post here and I would like to hear your experience on how you keep track of all the useful resources you save online. I constantly keep saving things that I find useful such as articles, papers, Y",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50400921",
-          "time": "15h ago",
+          "url": "https://news.ycombinator.com/item?id=50408438",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tell HN: You can have separate agent account on GitHub",
-          "summary": "You can have a separate GitHub account for your agent (GitHub ToS actually allows that since April) and that account can fork your repo and open PRs. This way it cannot do any real damage but can still push. See this use",
+          "title": "L Coding is the new Vibe Coding",
+          "summary": "The term 'vibe-coding', to some, implies non-seriousness. It implies fickleness. It implies slop. LLM generated code is becoming less sloppy. It is relied upon by serious and real software engineers. I have a proposal fo",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50400475",
-          "time": "16h ago",
+          "url": "https://news.ycombinator.com/item?id=50408002",
+          "time": "9h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-11-07T17:10:59.154Z"
+  "generatedAt": "2026-11-08T06:49:36.722Z"
 }
