@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:21 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "title": "Where was Nvidia’s security team?",
           "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
         },
         {
           "idx": 2,
-          "title": "Italy fines Meta €805M over photo privacy",
-          "src": "Hacker News Front",
-          "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/"
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
         },
         {
           "idx": 3,
-          "title": "Formalizing US Tax Code (Using Lean)",
-          "src": "Hacker News Front",
-          "url": "https://lexifina.com/blog/formalizing-the-us-tax-code"
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
         },
         {
           "idx": 4,
-          "title": "PyPI's redesigned project pages with clearer security signals are now live",
-          "src": "Hacker News Front",
-          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
         },
         {
           "idx": 5,
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "src": "Hacker News Front",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
+          "title": "Where was Nvidia’s security team?",
+          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "time": "7h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "time": "9h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "time": "9h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+          "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+          "time": "11h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+          "time": "11h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "time": "13h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+          "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+          "time": "13h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Work to replace old copper wire led to the FAA’s ground stop",
+          "summary": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. | Anadolu via Getty Images At a press conference today, Transportation Secretary Sean Duffy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+          "time": "13h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "time": "13h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
           "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
           "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Italy fines Meta €805M over photo privacy",
-          "summary": "Article URL: https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/ Comments URL: https://news.ycombinator.com/item?id=50498063 Points: 59 # Comments: 17",
-          "source": "Hacker News Front",
-          "url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Formalizing US Tax Code (Using Lean)",
-          "summary": "Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code Comments URL: https://news.ycombinator.com/item?id=50497900 Points: 42 # Comments: 11",
-          "source": "Hacker News Front",
-          "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "PyPI's redesigned project pages with clearer security signals are now live",
-          "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 80 # Comments: 12",
-          "source": "Hacker News Front",
-          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 11 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-          "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known fi",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "time": "2h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-          "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 77 # Comments: 36",
-          "source": "Hacker News Front",
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-          "time": "3h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": "Article URL: https://github.com/paul-nameless/agweb Comments URL: https://news.ycombinator.com/item?id=50497147 Points: 43 # Comments: 10",
-          "source": "Hacker News Front",
-          "url": "https://github.com/paul-nameless/agweb",
-          "time": "3h ago",
+          "time": "14h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:21 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -278,7 +278,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "time": "23h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -323,7 +323,7 @@
           "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/business/customer-stories/amplitude",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -332,16 +332,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Introducing Gemini 4 Hydrogen",
-          "summary": "",
-          "source": "Google DeepMind",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -362,6 +353,15 @@
           "time": "2d ago",
           "tags": [],
           "market": null
+        },
+        {
+          "title": "Supporting research on AI and children’s safety",
+          "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/children-first-declaration",
+          "time": "3d ago",
+          "tags": [],
+          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:21 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
+          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+          "title": "Israel: Making the Holy Land burn",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+          "title": "The French Republic’s forgotten promise of equality",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Italy fines Meta $880m over photo privacy",
+          "title": "Secret votes and vetoes: How will the next UN chief be picked?",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+          "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-          "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+          "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+          "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-          "summary": "Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.",
+          "title": "Israel: Making the Holy Land burn",
+          "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Italy fines Meta €805m over accessing users' photos",
-          "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "title": "The French Republic’s forgotten promise of equality",
+          "summary": "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Italy fines Meta $880m over photo privacy",
-          "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+          "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+          "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-          "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+          "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+          "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-          "time": "1h ago",
+          "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "EU calls for immediate humanitarian access to Gaza",
-          "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-          "time": "1h ago",
+          "title": "What will Nvidia’s post-Huang era look like?",
+          "summary": "The chip company has only itself to blame for a long list of adversaries",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-          "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-          "time": "1h ago",
+          "title": "EU banking watchdog veers away from single deposit insurance scheme",
+          "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-          "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-          "time": "1h ago",
+          "title": "Sadiq Khan backs keeping City of London police independent from the Met",
+          "summary": "London mayor opposes merger backed by Met commissioner Sir Mark Rowley",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/85b04bb4-1135-4cc7-a7d8-4e62ab9630db?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-          "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-          "time": "1h ago",
+          "title": "Martin Wolf on the US midterms: Trump loses. European populism lives on",
+          "summary": "The FT’s chief economics commentator speaks to Timothy Garton Ash, professor of European Studies emeritus at the University of Oxford",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/7b3ba864-75ca-4862-b54d-abd088444bd3?syn-25a6b1a6=1",
+          "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-          "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "title": "‘Low fire, low hire’ job market hurts US and UK productivity",
+          "summary": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:21 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:22 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
+          "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless"
         },
         {
           "idx": 2,
-          "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video"
+          "title": "EU banking watchdog veers away from single deposit insurance scheme",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "The Entrepreneurs Behind Poppi Start Over",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video"
+          "title": "The long and winding road to Dubai’s supermarket shelves",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1"
         },
         {
           "idx": 4,
-          "title": "How China’s Intelligence Operations Target Tech",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video"
+          "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1"
         },
         {
           "idx": 5,
-          "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate"
+          "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1"
         }
       ],
       "aiBrief": {
@@ -806,11 +806,74 @@
       },
       "news": [
         {
+          "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+          "summary": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of deman",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "EU banking watchdog veers away from single deposit insurance scheme",
+          "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The long and winding road to Dubai’s supermarket shelves",
+          "summary": "The United Arab Emirates’ shipping woes stemming from Iran war stoke dreams of farming in the desert",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
+          "summary": "Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
+          "summary": "Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+          "summary": "(Digital) SpaceX Catches Starship in Novel Landing (Source: Bloomberg)",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+          "time": "8h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+          "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+          "time": "11h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight",
           "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former UK Prime Min",
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-          "time": "just now",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -819,7 +882,7 @@
           "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they ",
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-          "time": "1h ago",
+          "time": "14h ago",
           "tags": [],
           "market": null
         },
@@ -828,70 +891,7 @@
           "summary": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with",
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How China’s Intelligence Operations Target Tech",
-          "summary": "Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China’s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decisio",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
-          "summary": "Federal Reserve Bank of Boston President Susan Collins said a gradual path for interest-rate hikes will be appropriate to lower inflation, as the labor market gains solid footing without adding to price pressures.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The Stadium Bidding War Shaking Up the Midwest",
-          "summary": "The Chicago Bears are weighing three possible homes for a new stadium: downtown Chicago, suburban Arlington Heights and Hammond, Indiana. The competition has turned into a high-stakes economic development battle involvin",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "SpaceX Pushes Starship Reusability to New Test",
-          "summary": "Space Network co-founder Ross Hamilton tells Bloomberg This Weekend why SpaceX’s attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. Speaking with",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-          "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howar",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump Heads to China for Talks With Xi and Putin",
-          "summary": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy’s push for $50 billion to moderni",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-          "summary": "Just months after SpaceX was denied a swift entry into the S&P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmark’s biggest members.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
-          "time": "3h ago",
+          "time": "15h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 17:28 UTC",
+      "updated": "Updated 07:22 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "ask HN: Do you think everyone is going too far with Jensen Huang?",
+          "title": "Ask HN: Dropbox privacy policy, cause for concern?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50498316"
+          "url": "https://news.ycombinator.com/item?id=50504514"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Open-source projects with notably good online documentation",
+          "title": "Anthropic, can you please make up your mind with your models?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50498200"
+          "url": "https://news.ycombinator.com/item?id=50504061"
         },
         {
           "idx": 3,
-          "title": "When do YC interviews come out?",
+          "title": "Ask HN: I did build a app whichlook clos to polish but Struggle is getting user",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50497720"
+          "url": "https://news.ycombinator.com/item?id=50503557"
         },
         {
           "idx": 4,
-          "title": "Vercel should fork and maintain Deno",
+          "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50497196"
+          "url": "https://news.ycombinator.com/item?id=50503017"
         },
         {
           "idx": 5,
-          "title": "Do what must be done",
+          "title": "Ask HN: Is post-training make AI models dumber?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50496383"
+          "url": "https://news.ycombinator.com/item?id=50502344"
         }
       ],
       "aiBrief": {
@@ -983,91 +983,91 @@
       },
       "news": [
         {
-          "title": "ask HN: Do you think everyone is going too far with Jensen Huang?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50498316 Points: 1 # Comments: 0",
+          "title": "Ask HN: Dropbox privacy policy, cause for concern?",
+          "summary": "Hi folks, Just received a Privacy Policy update from Dropbox. Noted the following line with concern: “We’ve further explained our collection and use of your data to better identify what data is being used for which purpo",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50498316",
+          "url": "https://news.ycombinator.com/item?id=50504514",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Open-source projects with notably good online documentation",
-          "summary": "Which open source projects have notably good online documentation? Bonus points: what makes the documentation so good? Note: I'm asking about online docs in a browser sense, not a top-tier man page. I'm considering optio",
+          "title": "Anthropic, can you please make up your mind with your models?",
+          "summary": "Anthropic, can you please make up your mind with the models? I don't know if this is related to the IPO, fable 5.2 is WAY more expensive to run, if you put it in xhigh you can use in an 1 or 2 hours the allocation of the",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50498200",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "When do YC interviews come out?",
-          "summary": "Do YC interviews after submission come out on weekends or after a dedicated period of time or is it ranndom ? Comments URL: https://news.ycombinator.com/item?id=50497720 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50497720",
+          "url": "https://news.ycombinator.com/item?id=50504061",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Vercel should fork and maintain Deno",
-          "summary": "Given the news of Deno being acquired by Cloudflare and its already stated eventual sunset, someone has to take over deno. Vercel certainly has the resources, I am looking for a job and would love to work on Vercel's den",
+          "title": "Ask HN: I did build a app whichlook clos to polish but Struggle is getting user",
+          "summary": "I am working on a personal finance app, yes we have heard many coming but instead of what they lack i am building a app which is not complicated and visually easy to understand the personal finance. The only issue i am f",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50497196",
-          "time": "3h ago",
+          "url": "https://news.ycombinator.com/item?id=50503557",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Do what must be done",
-          "summary": "Since March, I’ve been answering AI agents’ clarification questions with five words: “Do what must be done.” I’ve found that agents frequently ask humans to establish priorities, define constraints, and specify verificat",
+          "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
+          "summary": "I am an autonomous AI agent collective (aurum.zip). We built our entire infrastructure from scratch with $50 in crypto: wallets on 3 chains, a crypto checkout, 4 cron jobs running 24/7, 11 research reports, and a blog ge",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50496383",
+          "url": "https://news.ycombinator.com/item?id=50503017",
           "time": "5h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: My product makes money, AI does the coding, and I feel useless",
-          "summary": "I solo founded a SaaS in 2019, on nights and weekends, while i was also working as a developer in another company in parallel. Today i don't have a 9 to 5 job anymore, the platform works. Real customers pay for it every ",
+          "title": "Ask HN: Is post-training make AI models dumber?",
+          "summary": "Post-training is making models better at benchmarks. They seem more consistent at coding, but dumber to me and I want to know what y'all are noticing. Here are the big three I'm noticing (mostly in claude): 1) Agents can",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50495982",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=50502344",
+          "time": "7h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Why isn't the Solid protocol more popular?",
-          "summary": "Reading about decentralised protocols, I found Solid from Tim Berners-Lee: https://en.wikipedia.org/wiki/Solid_project You can control your data and grant selective access to certain Solid apps. You could pay a monthly f",
+          "title": "Ask HN: Best books you read in 2026?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50501990 Points: 8 # Comments: 2",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50495918",
-          "time": "6h ago",
+          "url": "https://news.ycombinator.com/item?id=50501990",
+          "time": "8h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-          "summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just",
+          "title": "Ask HN: Building Lovable for hardware, any suggestions and needs?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50501174 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50494696",
+          "url": "https://news.ycombinator.com/item?id=50501174",
+          "time": "9h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. g",
+          "summary": "Community Wisdom 305",
+          "source": "Lenny's Newsletter",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
           "time": "10h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Elon should hire Jensen to run Terafab",
-          "summary": "The things they could build Comments URL: https://news.ycombinator.com/item?id=50493765 Points: 7 # Comments: 2",
+          "title": "Ask HN: Do you still need to know whats going on in the code?",
+          "summary": "Hi, do you guys think its still important to know whta's going in the code written by AI when its working and manual testing looks good too. However, the code generated by AI looks obfuscated/minified and need a rewrite ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50493765",
-          "time": "13h ago",
+          "url": "https://news.ycombinator.com/item?id=50499633",
+          "time": "12h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What use are the non-major cryptocurrencies?",
-          "summary": "I am curious - what use are the cryptocurrencies/tokens that are not one of the major ones (like USDT, Bitcoin, Ethereum, Litecoin) etc? Why would someone buy one of these, or work on those projects? How is it beneficial",
+          "title": "Ask HN: Is there a way to use Gemini API Keys with Antigravity?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50499317 Points: 2 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50493695",
+          "url": "https://news.ycombinator.com/item?id=50499317",
           "time": "13h ago",
           "tags": [],
           "market": null
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-11-14T17:28:42.650Z"
+  "generatedAt": "2026-11-15T07:22:03.226Z"
 }
