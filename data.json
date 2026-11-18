@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 20:13 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "jQuery 4.1.0",
-          "src": "Hacker News Front",
-          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0"
+          "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+          "src": "少数派",
+          "url": "https://sspai.com/post/118732"
         },
         {
           "idx": 2,
-          "title": "Waymo suspends freeway rides nationwide after California DMV order",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+          "title": "AI is killing All About Berlin",
+          "src": "Hacker News Front",
+          "url": "https://nicolasbouliane.com/blog/death-by-ai"
         },
         {
           "idx": 3,
-          "title": "Framework’s better couch keyboard is now available for preorder",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open"
+          "title": "Why Fibonacci?",
+          "src": "Hacker News Front",
+          "url": "https://www.evilgeniuslabs.org/why-fibonacci"
         },
         {
           "idx": 4,
-          "title": "California just banned Waymo from all state freeways",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety"
+          "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+          "src": "Hacker News Front",
+          "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"
         },
         {
           "idx": 5,
-          "title": "Model ML raises $250M to automate investment banking grunt work",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+          "title": "Why is Gemini 4 Carbon taking so long?",
+          "src": "Hacker News Front",
+          "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "jQuery 4.1.0",
-          "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 3 # Comments: 0",
+          "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+          "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/118732",
+          "time": "1h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "AI is killing All About Berlin",
+          "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 54 # Comments: 21",
           "source": "Hacker News Front",
-          "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Waymo suspends freeway rides nationwide after California DMV order",
-          "summary": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Framework’s better couch keyboard is now available for preorder",
-          "summary": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went hands-on wit",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "California just banned Waymo from all state freeways",
-          "summary": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Model ML raises $250M to automate investment banking grunt work",
-          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "350 years ago, this man discovered that light has a finite speed",
-          "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 25 ",
-          "source": "Hacker News Front",
-          "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
-          "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-          "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+          "url": "https://nicolasbouliane.com/blog/death-by-ai",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-          "summary": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral ",
+          "title": "Why Fibonacci?",
+          "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 22 # Comments: 2",
           "source": "Hacker News Front",
-          "url": "https://starsling.dev",
-          "time": "1h ago",
+          "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-          "summary": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-          "time": "1h ago",
+          "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+          "summary": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 276 # Comments: 49",
+          "source": "Hacker News Front",
+          "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+          "time": "2h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Why is Gemini 4 Carbon taking so long?",
+          "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 55 # Comments: 29",
+          "source": "Hacker News Front",
+          "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Claude was trained on protein sequences at scale",
+          "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 35 # Comments: 8",
+          "source": "Hacker News Front",
+          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+          "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comments: 0",
+          "source": "Hacker News Front",
+          "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+          "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/119193",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+          "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/118975",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 20:13 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -205,15 +205,15 @@
         },
         {
           "idx": 2,
-          "title": "Strengthening NATO and allied cyber defenses with AI",
+          "title": "Introducing ChatGPT for Sales",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
         },
         {
           "idx": 3,
-          "title": "Introducing OpenAI for Chile",
+          "title": "Strengthening NATO and allied cyber defenses with AI",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/introducing-openai-for-chile"
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
         },
         {
           "idx": 4,
@@ -223,9 +223,9 @@
         },
         {
           "idx": 5,
-          "title": "Broadening access to AI for scientists",
+          "title": "Introducing OpenAI for Chile",
           "src": "OpenAI Blog",
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+          "url": "https://openai.com/index/introducing-openai-for-chile"
         }
       ],
       "aiBrief": {
@@ -278,7 +278,16 @@
           "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "time": "2h ago",
+          "time": "14h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing ChatGPT for Sales",
+          "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,16 +296,7 @@
           "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "time": "20h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Introducing OpenAI for Chile",
-          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "time": "20h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -305,7 +305,16 @@
           "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/astra-law-6-2",
-          "time": "20h ago",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Introducing OpenAI for Chile",
+          "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -353,15 +362,6 @@
           "time": "1d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "Our first phase of embedded assessments",
-          "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 20:13 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "US strikes Qeshm Island after Iran targets American base in Bahrain",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1"
+          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 2,
-          "title": "US tech stocks slide ahead of Nvidia results",
-          "src": "FT World",
-          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
+          "title": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "Can a robot pianist upstage a human musician?",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss"
+          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 4,
-          "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+          "title": "Africa’s economic future cannot depend on Washington",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "Russian military plane crashes killing all 19 on board",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+          "title": "How the Houthis fund war effort and tighten grip on Yemen",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "US strikes Qeshm Island after Iran targets American base in Bahrain",
-          "summary": "Two fuel tankers also struck in the Strait of Hormuz, according to Revolutionary Guards",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "US tech stocks slide ahead of Nvidia results",
-          "summary": "Nasdaq 100 down 1.4% after volatile run of trading",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Can a robot pianist upstage a human musician?",
-          "summary": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
-          "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Russian military plane crashes killing all 19 on board",
-          "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+          "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+          "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ugandan human trafficking survivor uses music to fight abuse",
-          "summary": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+          "title": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
+          "summary": "The exploitation of journalists is undermining independent reporting and the public’s right to know.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-          "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "More than 100,000 take part in France pay protests",
-          "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+          "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-          "summary": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
+          "title": "Africa’s economic future cannot depend on Washington",
+          "summary": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Monster waves threaten California coast as storms intensify",
-          "summary": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+          "title": "How the Houthis fund war effort and tighten grip on Yemen",
+          "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
           "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+          "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Deutsche Bank hired a Qatari royal. Why?",
+          "summary": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "When’s the crash? Ask a journalist",
+          "summary": "Because in 170 years of perma-anxiety, stopped clocks are right fairly regularly",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Deutsche Bank waved through thousands of potentially illicit transactions in Colombia",
+          "summary": "Findings from internal review exposed ‘alarming’ gaps in lender’s controls",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/f35ceb30-382e-4d77-8d16-32a74c11cee3?syn-25a6b1a6=1",
+          "time": "2h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "What’s in the air you breathe? How to stay safe during smog season",
+          "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 20:13 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 20:14 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Fed Officials Debate Pace of Rate Hikes as Williams Urges Measured Action",
+          "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move"
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises"
         },
         {
           "idx": 2,
-          "title": "One of the Biggest Weeks in the AI Industry’s History",
+          "title": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history"
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video"
         },
         {
           "idx": 3,
-          "title": "Trump Prepares for Power Flex at Putin-Xi Summit",
+          "title": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock"
         },
         {
           "idx": 4,
-          "title": "US tech stocks slide ahead of Nvidia results",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
+          "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals"
         },
         {
           "idx": 5,
-          "title": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
+          "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Fed Officials Debate Pace of Rate Hikes as Williams Urges Measured Action",
-          "summary": "Federal Reserve Bank of New York President John Williams said the central bank still has work to do to bring inflation back to its 2% goal, but dismissed the suggestion the Fed needs to consider an outsized rate hike.",
+          "title": "UK Inflation Print at Fastest in a Year Comes With Few Surprises",
+          "summary": "Plus, markets digest Nvidia’s strong earnings",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-williams-says-no-need-for-dramatic-rate-move",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/uk-inflation-print-at-fastest-in-a-year-comes-with-few-surprises",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "One of the Biggest Weeks in the AI Industry’s History",
-          "summary": "The ripple effects of a Jensen-less Nvidia are starting to show up.",
+          "title": "Trump Treated to Late-Night Jollibee Snacks by Marcos",
+          "summary": "“We are very proud to say we have surpassed KFC in the United States in terms of popularity.” Philippine President Ferdinand Marcos Jr. served up a taste of Jollibee diplomacy to Donald Trump, sending the US leader and h",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/one-of-the-biggest-weeks-in-the-ai-industry-s-history",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/trump-treated-to-late-night-jollibee-snacks-by-marcos-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump Prepares for Power Flex at Putin-Xi Summit",
-          "summary": "Bloomberg Economics senior geoeconomics analyst Adam Farrar said that the planned summit between Xi, Putin and Trump really amounts to a 'photo op.' Farrar said that despite the slate of topics laid out by President Trum",
+          "title": "Optimism About Europe Just Hit a Nine-Month High: Taking Stock",
+          "summary": "The view among investors about the outlook for European stocks has rarely been brighter this year, with expectations of further gains.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-prepares-for-power-flex-at-putin-xi-summit-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/optimism-about-europe-just-hit-a-nine-month-high-taking-stock",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "US tech stocks slide ahead of Nvidia results",
-          "summary": "Nasdaq 100 down 1.4% after volatile run of trading",
+          "title": "Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals",
+          "summary": "Private equity activity is picking up in Sweden as buyout firms return to the market after a quieter period for dealmaking, according to the chief executive of Advokatfirman Vinge KB, one of the country’s biggest law fir",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/top-swedish-law-firm-vinge-sees-pickup-in-private-equity-deals",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+          "summary": "Indian revenue officials are reviewing proposals from investors and economists to raise taxes on stock derivatives while lowering levies on share trading, in a bid to curb speculative bets and encourage broader participa",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Pound Sinks on Benign UK Inflation Data",
+          "summary": "",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-18/what-s-moving-uk-markets-right-now-markets-today",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Muzinich CEO on Higher Rates and Private Credit Risks",
+          "summary": "Justin Muzinich, CEO of Muzinich & Co., discusses sticky inflation, his outlook for higher rates and stress in private credit. He also explains how geopolitical risks are affecting AI data-center financing and opportunit",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/muzinich-ceo-on-higher-rates-and-private-credit-risks-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings",
+          "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insig",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-18/the-china-show-11-18-2026-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "The name’s bond",
+          "summary": "Fixed income is so box office right now",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-          "time": "just now",
+          "url": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Barclays Sees 2027 Muni Bond Supply Reaching Up to $600 Billion",
-          "summary": "Barclays Plc anticipates between $580 billion and $600 billion of municipal-bond issuance next year, pushing the market’s size closer to $5 trillion by the end of 2027, according to analysts led by Mikhail Foux.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/barclays-sees-2027-muni-bond-supply-reaching-up-to-600-billion",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Fed's Williams Doesn't See Need for 'Dramatic Action' on Rates",
-          "summary": "Federal Reserve Bank of New York President John Williams says he's seeing drivers pushing up inflation, including AI, but not necessarily a broadening of it at the Axios BFD Annual Summit. (Source: Bloomberg)",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/fed-s-williams-no-need-for-dramatic-action-on-rates-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Deutsche Bank Seeks to Curb Fallout From Data Leaks",
-          "summary": "Deutsche Bank sought to contain the fallout from a data leak which provided new details of payments tied to Jeffrey Epstein and efforts to expand its Russian business prior to the full scale invasion of Ukraine. Alex Mor",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-seeks-to-curb-fallout-from-data-leaks-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Trump Media investors learn the Truth about betting on bitcoin",
-          "summary": "A $1bn convertible bond is formally due for repayment, or conversion into TMTG shares if in the money, in 2028",
+          "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+          "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/2c686fe5-0a39-45ad-a26e-87c1f813ec7d?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
           "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
-          "summary": "SpaceX may kick off part of a $40 billion debt sale to fund its purchase of artificial intelligence chips as soon as this week, according to people with knowledge of the matter.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
-          "time": "5h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Saks, Neiman Marcus Parent Company CEO Says Growth Plan Is on Track",
-          "summary": "Exemplar Luxury Group CEO Geoffroy van Raemdonck says the Saks Fifth Avenue and Neiman Marcus parent company is profitable and aims to grow revenue from $7 billion to $9 billion. He talks about the demand for luxury good",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-17/exemplar-luxury-ceo-says-growth-plan-is-on-track-video",
-          "time": "6h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 20:14 UTC",
+      "updated": "Updated 08:03 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
+          "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50536334"
+          "url": "https://news.ycombinator.com/item?id=50542654"
         },
         {
           "idx": 2,
-          "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-          "src": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow"
+          "title": "Interesting Learnings Working for a Startup",
+          "src": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50542361"
         },
         {
           "idx": 3,
-          "title": "HN news: last week Microsoft today Apple",
+          "title": "Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50535206"
+          "url": "https://news.ycombinator.com/item?id=50542286"
         },
         {
           "idx": 4,
-          "title": "Ask HN: Is GitHub Down Again?",
+          "title": "How are large companies not ripshit about the frontier labs?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50535012"
+          "url": "https://news.ycombinator.com/item?id=50541857"
         },
         {
           "idx": 5,
-          "title": "Ask HN: What are you using for code search for internal repos?",
+          "title": "Microsoft disabled API permissions seemingly overnight",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50534358"
+          "url": "https://news.ycombinator.com/item?id=50541430"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50536334 Points: 2 # Comments: 0",
+          "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+          "summary": "I don't know, maybe it's just me. Does it feel to you like we're boiling the oceans in a desperate attempt to build something \"smarter than human?\" Do you notice that the idea that \"AI will cure cancer\" is predicated on ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50536334",
+          "url": "https://news.ycombinator.com/item?id=50542654",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-          "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
-          "source": "Lenny's Newsletter",
-          "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+          "title": "Interesting Learnings Working for a Startup",
+          "summary": "1. product isn't important, sales is important 2. infra isn't important, talent to build it is important 3. which stack you use to build the product isn't important, business taste is important 4. pushing employees isn't",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50542361",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "HN news: last week Microsoft today Apple",
-          "summary": "And yesterday the banks : Major U.S. banks—including JPMorgan Chase, Wells Fargo, Bank of America, and U.S. Bank—experienced widespread online access and service disruptions. Before that the FAA. No one is seeing the tre",
+          "title": "Ask HN: Can world models lead to racisim? Are there any Alignment frameworks?",
+          "summary": "I have never felt or believed in Dooms day theories about AI. But below is one of only 2 occasions where I am feeling AI can be too dangerous. While building world model for enterprise decisions, I am intrigued by how fa",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50535206",
+          "url": "https://news.ycombinator.com/item?id=50542286",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is GitHub Down Again?",
-          "summary": "Mac runners are stopping after few minutes without error Comments URL: https://news.ycombinator.com/item?id=50535012 Points: 1 # Comments: 0",
+          "title": "How are large companies not ripshit about the frontier labs?",
+          "summary": "I am utterly baffled that the entire world is not coming after Anthropic and OpenAI with pitchforks. We are essentially funding: 1.The largest intellectual property theft from humanity in history, including corporate IP ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50535012",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: What are you using for code search for internal repos?",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50534358 Points: 1 # Comments: 3",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50534358",
+          "url": "https://news.ycombinator.com/item?id=50541857",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Code is easy. What about marketing and sales?",
-          "summary": "It seems that code that was never the biggest problem for a SaaS app now with AI is easier but is still not the solution for a problem that didn't exist. Getting views (Marketing and Sales) to your app is still the bigge",
+          "title": "Microsoft disabled API permissions seemingly overnight",
+          "summary": "As of yesterday, Authorization.RoleAssignments.Write (a53c8130) now shows isEnabled: false on the Power Platform API service principal (8578e004), and Authorization.Write (440ac968) was added around October and seems to ",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50534271",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Are open-weight models like Qwen used in production?",
-          "summary": "I've seen some mentions of open weight models api usage going up on Vercel and governments pushing for sovereign AI and also Shopify using open weight and frontier models. But what's still not clear to me are the use cas",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50533464",
+          "url": "https://news.ycombinator.com/item?id=50541430",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Gemini is finally changing their privacy policy",
-          "summary": "Just received this: We’re updating your privacy settings in Gemini Apps to give you even more control over your data and help make Gemini safer. We’ll start rolling out these changes in the coming weeks. What’s changing:",
+          "title": "Ask HN: I read Blake Masters' notes for Zero to One went viral on HN",
+          "summary": "What exactly about the notes made them go viral on HN? Also, I would like to thank this community for getting that book published; it was extremely enlightening. Comments URL: https://news.ycombinator.com/item?id=5053939",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50533438",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=50539393",
+          "time": "9h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Asking for help on LinkedIn was a waste of time, so I'll try here",
-          "summary": "I am conducting personal research on the impact of compliance with CRA and NIS2 regulations on operational activities and product development in European and non-European companies. I thought LinkedIn would be the best w",
+          "title": "Ageing could be switched off by a new gene",
+          "summary": "Some fish exhibit negligible senescence and routinely live for over 100 years. It seems our team has identified the gene directly responsible for this phenomenon. Even more excitingly, this gene is switched off in many p",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50533058",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=50539381",
+          "time": "9h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: How to contribute to an Open Source project",
-          "summary": "I want to contribute to an Open source, but don't know where to start. Any recommendations ? Comments URL: https://news.ycombinator.com/item?id=50533043 Points: 2 # Comments: 1",
+          "title": "ArxCloud – SASE, ChatGPT Data Protection, and MCP Agent Gateway",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50538724 Points: 1 # Comments: 0",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50533043",
-          "time": "4h ago",
+          "url": "https://news.ycombinator.com/item?id=50538724",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Aren't the current cyber attacks suspicious?",
+          "summary": "Just looking at history and having some bayesian mindset the fact that: FAA,NSA,MSFT,APPLE,EQUINOR all got hacked in a week. Isn't it obvious that some nation state or activist/terrorist group has gotten hold of an AI ha",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50538449",
+          "time": "10h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
+          "summary": "Basically I just want a 230 volt relay that I can turn on/off with a Raspberry Pi/Ardunio, but I don't feel confident enough to tinker with mains electricity myself. I saw the Powerswitch tail 2 (https://www.adafruit.com",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50538108",
+          "time": "11h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-11-17T20:14:05.775Z"
+  "generatedAt": "2026-11-18T08:03:54.270Z"
 }
