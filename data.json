@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming"
+          "title": "Jujutsu Primer",
+          "src": "Hacker News Front",
+          "url": "https://ethanlowman.com/posts/jj-primer/"
         },
         {
           "idx": 2,
-          "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale"
+          "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+          "src": "Hacker News Front",
+          "url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
         },
         {
           "idx": 3,
-          "title": "You can now buy a Steam Machine without getting on a waitlist",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply"
+          "title": "FFmpeg 9.1 'Gauss'",
+          "src": "Hacker News Front",
+          "url": "https://ffmpeg.org/download.html#release_9.1"
         },
         {
           "idx": 4,
-          "title": "Some creators are skeptical of Instagram’s new affiliate program",
-          "src": "The Verge",
-          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads"
+          "title": "GIMP now has UI tests",
+          "src": "Hacker News Front",
+          "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"
         },
         {
           "idx": 5,
-          "title": "Anthropic’s IPO could deliver $156 billion to charity",
-          "src": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+          "title": "PostgreSQL 19",
+          "src": "Hacker News Front",
+          "url": "https://www.postgresql.org/docs/release/19.0/"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-          "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-          "time": "just now",
+          "title": "Jujutsu Primer",
+          "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 47 # Comments: 28",
+          "source": "Hacker News Front",
+          "url": "https://ethanlowman.com/posts/jj-primer/",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-          "summary": "All four colors of the WH-1000XM5 are in stock at the discounted price. Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you wa",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-          "time": "just now",
+          "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+          "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084 Comments URL: https://news.ycombinator.com/item?id=50570479 Points: 279 # Comments: 68",
+          "source": "Hacker News Front",
+          "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+          "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "You can now buy a Steam Machine without getting on a waitlist",
-          "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: you can now purchase ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-          "time": "just now",
+          "title": "FFmpeg 9.1 'Gauss'",
+          "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 68 # Comments: 16",
+          "source": "Hacker News Front",
+          "url": "https://ffmpeg.org/download.html#release_9.1",
+          "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Some creators are skeptical of Instagram’s new affiliate program",
-          "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-          "time": "just now",
+          "title": "GIMP now has UI tests",
+          "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 91 # Comments: 84",
+          "source": "Hacker News Front",
+          "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+          "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Anthropic’s IPO could deliver $156 billion to charity",
-          "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+          "title": "PostgreSQL 19",
+          "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 94 # Comments: 3",
+          "source": "Hacker News Front",
+          "url": "https://www.postgresql.org/docs/release/19.0/",
+          "time": "4h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+          "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/118879",
+          "time": "5h ago",
+          "tags": [],
+          "market": "中国"
+        },
+        {
+          "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+          "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 65 # Comments: 8",
+          "source": "Hacker News Front",
+          "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+          "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 179 # Comments: 111",
+          "source": "Hacker News Front",
+          "url": "https://github.com/openssl/openssl/pull/33652",
+          "time": "5h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Vint Cerf on why TCP/IP was never patented",
+          "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 90 # Comments: 29",
+          "source": "Hacker News Front",
+          "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+          "time": "6h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 11 # Comments: 8",
-          "source": "Hacker News Front",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-          "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 11 # Comments: 3",
-          "source": "Hacker News Front",
-          "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-          "summary": "The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has alrea",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Gemini on Mac can now use your computer",
-          "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-          "time": "1h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Leaked images reveal Motorola’s wide foldable",
-          "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared ",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-          "time": "1h ago",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "time": "6h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,7 +194,7 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
@@ -205,27 +205,27 @@
         },
         {
           "idx": 2,
-          "title": "Introducing Gemini 4 Neon",
-          "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+          "title": "Deploying Daybreak Red",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red"
         },
         {
           "idx": 3,
-          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+          "title": "See PR scans in action",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/pr-scans-demo"
         },
         {
           "idx": 4,
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+          "title": "Explore the Codex Security Plugin",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo"
         },
         {
           "idx": 5,
-          "title": "Genie 4 is now available",
-          "src": "Google DeepMind",
-          "url": "https://deepmind.google/blog/genie-4-is-now-available/"
+          "title": "Get started with Daybreak Blue",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
         }
       ],
       "aiBrief": {
@@ -278,7 +278,43 @@
           "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "time": "11h ago",
+          "time": "23h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "See PR scans in action",
+          "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Explore the Codex Security Plugin",
+          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "time": "1d ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Get started with Daybreak Blue",
+          "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -287,7 +323,7 @@
           "summary": "",
           "source": "Google DeepMind",
           "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-          "time": "22h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -296,7 +332,7 @@
           "summary": "",
           "source": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-          "time": "23h ago",
+          "time": "1d ago",
           "tags": [],
           "market": null
         },
@@ -326,42 +362,6 @@
           "time": "1d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "The Silent Consensus",
-          "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/the-silent-consensus",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/business/customer-stories/sumitomo-life",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Inside the Codex sandbox",
-          "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/index/inside-the-codex-sandbox",
-          "time": "1d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+          "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss"
+          "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss"
+          "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+          "src": "FT World",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
         },
         {
           "idx": 3,
-          "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+          "title": "The Gambia stood up for the Rohingya, now the world must act",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss"
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-          "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss"
+          "title": "UK and EU to agree youth mobility scheme, BBC understands",
+          "src": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
         },
         {
           "idx": 5,
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          "title": "EU and Britain to agree steps towards relations reset",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,92 +451,92 @@
       },
       "news": [
         {
-          "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-          "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
+          "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
+          "summary": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-          "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-          "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-          "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-          "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
-          "summary": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-          "summary": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Putin invites European leaders to Moscow for talks on Ukraine",
-          "summary": "Russian leader signals he is unwilling to relax hardline demands for ending war",
+          "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+          "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
           "source": "FT World",
-          "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "France awaits verdict six years after police beat Black music producer",
-          "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+          "title": "The Gambia stood up for the Rohingya, now the world must act",
+          "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-          "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+          "title": "UK and EU to agree youth mobility scheme, BBC understands",
+          "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
           "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "EU and Britain to agree steps towards relations reset",
+          "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+          "summary": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "A bubble in . . . defensive stocks?",
+          "summary": "Plus, crypto and desperation",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+          "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+          "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russian missile barrage damages Kyiv bridges",
+          "summary": "Waves of attacks targeting Ukraine come on heels of trilateral meeting between US, Chinese and Russian leaders",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1",
+          "time": "1h ago",
           "tags": [],
           "market": null
         }
@@ -549,38 +549,38 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "6年、10年、12年，他们都经历了什么？",
-          "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm"
-        },
-        {
-          "idx": 2,
-          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
-          "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm"
-        },
-        {
-          "idx": 3,
-          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
-          "src": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm"
-        },
-        {
-          "idx": 4,
           "title": "微视频｜“新”在中国",
           "src": "新华社要闻",
           "url": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm"
         },
         {
-          "idx": 5,
+          "idx": 2,
           "title": "疫情防控措施优化 各地复商复市进行时",
           "src": "新华社要闻",
           "url": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm"
+        },
+        {
+          "idx": 3,
+          "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm"
+        },
+        {
+          "idx": 4,
+          "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm"
+        },
+        {
+          "idx": 5,
+          "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+          "src": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm"
         }
       ],
       "aiBrief": {
@@ -627,33 +627,6 @@
         ]
       },
       "news": [
-        {
-          "title": "6年、10年、12年，他们都经历了什么？",
-          "summary": "为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
-          "summary": "外交部发言人华春莹14日宣布：国家主席习近平将于12月15日以视频方式向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
-          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
-          "source": "新华社要闻",
-          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
-          "time": "recent",
-          "tags": [],
-          "market": null
-        },
         {
           "title": "微视频｜“新”在中国",
           "summary": "新时代的中国，日新月异。",
@@ -716,6 +689,33 @@
           "time": "recent",
           "tags": [],
           "market": null
+        },
+        {
+          "title": "6年、10年、12年，他们都经历了什么？",
+          "summary": "为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "习近平将向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞",
+          "summary": "外交部发言人华春莹14日宣布：国家主席习近平将于12月15日以视频方式向《生物多样性公约》第十五次缔约方大会第二阶段高级别会议开幕式致辞。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206906.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+          "source": "新华社要闻",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+          "time": "recent",
+          "tags": [],
+          "market": null
         }
       ]
     },
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Big Checks and Big Blobs of Compute",
-          "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute"
+          "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+          "src": "FT Markets",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
         },
         {
           "idx": 2,
-          "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1"
+          "title": "Metro Bank Draws Early Interest From Barclays, Lone Star",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star"
         },
         {
           "idx": 3,
-          "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
+          "title": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals"
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/tech-valuation-plunge-brings-some-opportunities-taking-stock"
         },
         {
           "idx": 4,
-          "title": "Anthropic Leveraged ETF Race Heats Up",
+          "title": "Can Manchester United's New Coach Fix All the Problems?",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video"
         },
         {
           "idx": 5,
-          "title": "Anthropic IPO Sets New Standard: Rice Nelson",
+          "title": "India-US Trade Ties After Shenzhen Meeting",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/india-us-trade-ties-after-shenzhen-meeting-video"
         }
       ],
       "aiBrief": {
@@ -806,91 +806,91 @@
       },
       "news": [
         {
-          "title": "Big Checks and Big Blobs of Compute",
-          "summary": "Our first public frontier AI company is here.",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/big-checks-and-big-blobs-of-compute",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
-          "summary": "Currency has slipped from R$5 to R$5.90 to the dollar following leftwinger’s victory last month",
+          "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+          "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Crunch Fitness Sells $800 Million of ABS Tied to Franchise Deals",
-          "summary": "Crunch Fitness sold $800 million of asset backed securities on Thursday, the latest in a recent streak of whole-business bond deals.",
+          "title": "Metro Bank Draws Early Interest From Barclays, Lone Star",
+          "summary": "Metro Bank Holdings Plc is attracting early takeover interest from suitors including Barclays Plc after putting itself up for sale, according to people with knowledge of the matter.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/crunch-fitness-sells-800-million-of-abs-tied-to-franchise-deals",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/metro-bank-draws-early-interest-from-barclays-lone-star",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Anthropic Leveraged ETF Race Heats Up",
-          "summary": "Bilal Little, global ETF strategist at Direxion, joins Scarlet Fu on a special edition of “Bloomberg Markets.” Providers have filed for more than 20 exchange-traded products to amplify daily moves on Anthropic, both on t",
+          "title": "Tech Valuation Plunge Brings Some Opportunities: Taking Stock",
+          "summary": "The sharp drop in the valuations of technology stocks, especially those linked to the artificial intelligence trade, is fueling debate over whether too much negativity has already been priced in.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/tech-valuation-plunge-brings-some-opportunities-taking-stock",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Anthropic IPO Sets New Standard: Rice Nelson",
-          "summary": "Jaclyn Rice Nelson, co-founder & CEO of Tribe AI, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss the historic Anthropic IPO. (Source: Bloomberg)",
+          "title": "Can Manchester United's New Coach Fix All the Problems?",
+          "summary": "Manchester United's new coach Mauricio Pochettino is walking into a club beset by competing egos, poor commercial decisions and a clash between its owners, according to interviews with more than a dozen current and forme",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/can-manchester-united-s-new-coach-fix-all-the-problems-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027",
-          "summary": "The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.",
+          "title": "India-US Trade Ties After Shenzhen Meeting",
+          "summary": "Asia Society Australia Senior Fellow Premesha Saha discusses India-US relations following the ASEAN and APEC meetings. She says India is preserving its strategic autonomy while maintaining ties with the US. (Source: Bloo",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/india-us-trade-ties-after-shenzhen-meeting-video",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Anthropic IPO Backs Up Private Valuations: Schlossman",
-          "summary": "Evan Schlossman, principal at Neostellar, joins Scarlet Fu on a special edition of “Bloomberg Markets.” They discuss Anthropic’s public trading debut and what it tells us about private market valuations. (Source: Bloombe",
+          "title": "FTSE 100 to Fall as Global Stocks Selloff Worsens",
+          "summary": "",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-backs-up-private-valuations-schlossman-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Anthropic's Record-Breaking IPO",
-          "summary": "\"Bloomberg Markets\" follows the market moves across every global asset class and discusses the biggest issues for Wall Street. Today's guests: Neostellar Principal Evan Schlossman, Tribe AI Co-Founder & CEO Jaclyn Rice N",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-markets-11-19-2026-video",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
-          "summary": "Final COP31 sessions focusing on energy security rather than climate change",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/ftse-100-live-updates-pound-gilts-stocks-selloff-ai-what-s-moving-uk-markets-right-now-markets-today",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Trump administration plans further cuts at US audit regulator",
-          "summary": "Watchdog to scale back inspections and enforcement against accounting firms while investing in AI tools",
+          "title": "Goldman Sachs on India, Korea Opportunities",
+          "summary": "Goldman Sachs Chief Regional Equity Strategist for Asia Pacific Timothy Moe says uncertainty and de-risking are weighing on the broader AI trade. Speaking with Bloomberg's Haslinda Amin and Avril Hong, he also outlines t",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/goldman-sachs-on-anthropic-india-korea-opportunities-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Asia Stocks Drop in Wake of Anthropic's Record Debut",
+          "summary": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique ins",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "A bubble in . . . defensive stocks?",
+          "summary": "Plus, crypto and desperation",
           "source": "FT Markets",
-          "url": "https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e?syn-25a6b1a6=1",
+          "url": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "So, Anthropic is finally a public company. What now?",
+          "summary": "A blockbuster IPO postmortem",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 19:45 UTC",
+      "updated": "Updated 07:53 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "What advice would you give to your younger self about building a distribution",
+          "title": "Ask HN: Do you use computer-use heavily?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50564509"
+          "url": "https://news.ycombinator.com/item?id=50570982"
         },
         {
           "idx": 2,
-          "title": "Claude-code's outputs feel longer than usual",
+          "title": "Ask HN: Does AI slop require more marketing in the future?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50564298"
+          "url": "https://news.ycombinator.com/item?id=50570283"
         },
         {
           "idx": 3,
-          "title": "Ask HN: Which software fields or domains are least impacted by AI?",
+          "title": "Ask HN: Do you find Windows font rendering jagged?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50563364"
+          "url": "https://news.ycombinator.com/item?id=50570020"
         },
         {
           "idx": 4,
-          "title": "Terminator's chip moment for us was reinforcement learning (RL)",
-          "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50563274"
+          "title": "UX Conference March Announced (Mar 1 - Mar 4)",
+          "src": "Nielsen Norman",
+          "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication"
         },
         {
           "idx": 5,
-          "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
-          "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50562528"
+          "title": "UX Conference February Announced (Feb 22 - Feb 26)",
+          "src": "Nielsen Norman",
+          "url": "https://www.nngroup.com/training/february/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "What advice would you give to your younger self about building a distribution",
-          "summary": "We'll know building is getting easier every passing day. In fact, developers are now competing for a relatively slowly growing user base. imo every founder should start building a media company before hand if not in para",
+          "title": "Ask HN: Do you use computer-use heavily?",
+          "summary": "I wonder if you use computer-use heavily? If yes what are your use cases? I'm in-front of a breakthrough with a tool and trying to understand if its worth digging more into that direction. Comments URL: https://news.ycom",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50564509",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Claude-code's outputs feel longer than usual",
-          "summary": "anthropic pads claude's text because it wants you to read slower. claude-isms and the amount of text in a claude-code session are tailored so that you spend more time processing a large prompt. It's much easier to write ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50564298",
+          "url": "https://news.ycombinator.com/item?id=50570982",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Which software fields or domains are least impacted by AI?",
-          "summary": "Let's say you don't enjoy working with LLMs but you enjoy writing software. Which fields/industries/domains are best? Comments URL: https://news.ycombinator.com/item?id=50563364 Points: 1 # Comments: 0",
+          "title": "Ask HN: Does AI slop require more marketing in the future?",
+          "summary": "Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (ht",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50563364",
-          "time": "1h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Terminator's chip moment for us was reinforcement learning (RL)",
-          "summary": "Not the reward for success, but punishment for mistakes. We don't (usually) teach human (and even animal) kids with RL. Those who punish their kids (and animals) — look what they (and we all) get. Show me a positive exam",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50563274",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
-          "summary": "Anthropic (ANT) stock listed at nearly $2 Trillion valuation. It is the biggest IPO ever! Comments URL: https://news.ycombinator.com/item?id=50562528 Points: 38 # Comments: 10",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50562528",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: When do we stop switching and start resonating?",
-          "summary": "We are burning 99.9999% of chip power as waste heat trying to trap a continuous frequency inside a discrete grid of Os and 1s. Trapped between the heat wall and the memory wall—when do we finally get rid of the transisto",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50562350",
+          "url": "https://news.ycombinator.com/item?id=50570283",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Why do DuckDuckGo still depends on Bing",
-          "summary": "Do they want ad revenue that badly? ai is killing google revenue, i dont how their margins are going to survive. Comments URL: https://news.ycombinator.com/item?id=50562241 Points: 2 # Comments: 0",
+          "title": "Ask HN: Do you find Windows font rendering jagged?",
+          "summary": "I know this differs from person to person, but how many of you find the default font rendering in Windows (7+, ClearType enabled) jagged compared to the default rendering in GNOME/KDE/Xfce? If you do, is this an issue wi",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50562241",
+          "url": "https://news.ycombinator.com/item?id=50570020",
           "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Releasing Typemaid on NPM Turning your mermaid diagrams into AI workflows",
-          "summary": "I've been privately building a TypeScript SDK called TypeMaid and using it for my own projects over the past month. It's based on Typed DAGs, with Mermaid diagrams to define and visualize AI workflows. I've found this ap",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50561703",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
-          "summary": "What's going on at GitLab? They released their usual monthly release 19.6.0 to their package repos (https://packages.gitlab.com/gitlab/gitlab-ee/ubuntu/jammy/pool/main/g/gitlab-ee/) but did not announce it at all as of 3",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50561571",
+          "title": "UX Conference March Announced (Mar 1 - Mar 4)",
+          "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. March 1-4, 2027 (Americas) | March 205 (Asi",
+          "source": "Nielsen Norman",
+          "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
           "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "What is the future of cross-border payment",
-          "summary": "Comments URL: https://news.ycombinator.com/item?id=50561479 Points: 1 # Comments: 0",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50561479",
+          "title": "UX Conference February Announced (Feb 22 - Feb 26)",
+          "summary": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. February 22 - February 26, 2027.",
+          "source": "Nielsen Norman",
+          "url": "https://www.nngroup.com/training/february/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
           "time": "4h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "IFS – Kernel-enforced WORM file retention for Linux and XFS",
+          "summary": "Hi HN, I work at OliveTech and I am developing kernel file systems IFS stands for ImmutableFS. It includes a kernel with added WORM retention capabilities for standard Linux 9 servers and binary files available for CLI u",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50569356",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "delete me",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50569332 Points: 1 # Comments: 1",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50569332",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: What still makes you proud?",
+          "summary": "Larry Wall, who created Perl, a terse but expressive language more popular a few decades ago, used to say programmers should have \"laziness\" so they will complete tasks without extra yak-shaving, \"impatience\" so that the",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50569229",
+          "time": "5h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Are you SEO-ing (LLMO?) your job postings?",
+          "summary": "I run claude opportunistically looking at positions. It's finding forms of prompt injection on some job postings. Is this a generic thing now? Comments URL: https://news.ycombinator.com/item?id=50568364 Points: 4 # Comme",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50568364",
+          "time": "7h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+          "summary": "Anthropic and OpenAI should give Stack Overflow a percentage of their company. They used all of Stack Overflow's data to train their AI models at the beginning of LLMs without paying for it because it was publicly availa",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50566487",
+          "time": "10h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-11-19T19:45:34.093Z"
+  "generatedAt": "2026-11-20T07:53:51.377Z"
 }
