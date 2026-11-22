@@ -15,38 +15,38 @@
       "code": "01 / TECHNOLOGY",
       "slot": "slot-tech",
       "icon": "💻",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:50 UTC",
       "summary": "今日主线：AI 硬件价格下探 — 苹果 Vision Pro 2 定价腰斩、小米 SU7 Ultra 升级款发布、英伟达 Rubin 压低推理成本。中美市场同步加速消费级 AI 布局。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "The Engineering Manager's role is under attack (again)",
-          "src": "Hacker News Front",
-          "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again"
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
         },
         {
           "idx": 2,
-          "title": "Notes on the discrete Fourier transform (DFT)",
-          "src": "Hacker News Front",
-          "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"
+          "title": "Delta flights in and out of Atlanta delayed due to system outage",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
         },
         {
           "idx": 3,
-          "title": "Show HN: The Riemann Proof Handbook",
-          "src": "Hacker News Front",
-          "url": "https://github.com/tamnd/riemann-handbook"
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
         },
         {
           "idx": 4,
-          "title": "AI Supply Chain Security: What Canary Tokens Found",
-          "src": "Hacker News Front",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+          "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "src": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
         },
         {
           "idx": 5,
-          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-          "src": "Hacker News Front",
-          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "src": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
         }
       ],
       "aiBrief": {
@@ -96,92 +96,92 @@
       },
       "news": [
         {
-          "title": "The Engineering Manager's role is under attack (again)",
-          "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 5 # Comments: 0",
-          "source": "Hacker News Front",
-          "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
           "time": "just now",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Notes on the discrete Fourier transform (DFT)",
-          "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 10 # Comments: 1",
-          "source": "Hacker News Front",
-          "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-          "time": "just now",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "Show HN: The Riemann Proof Handbook",
-          "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 18 # Comments: 3",
-          "source": "Hacker News Front",
-          "url": "https://github.com/tamnd/riemann-handbook",
+          "title": "Delta flights in and out of Atlanta delayed due to system outage",
+          "summary": "A Delta Air Lines Airbus A220. | Photo: Saul Loeb / AFP via Getty Images All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight a",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
           "time": "1h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "AI Supply Chain Security: What Canary Tokens Found",
-          "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 31 # Comments: 2",
-          "source": "Hacker News Front",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "summary": "This ain’t gonna buff out. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as wel",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+          "time": "1h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+          "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's ",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
           "time": "2h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-          "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 319 # Comments: 158",
-          "source": "Hacker News Front",
-          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+          "title": "Protesters storm Meta offices in India",
+          "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company r",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
           "time": "3h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Together.ai: Prompt Leakage for Requests",
-          "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 20 # Comments: 7",
-          "source": "Hacker News Front",
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "title": "Can a TV be too large? An investigation",
+          "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+          "time": "3h ago",
+          "tags": [],
+          "market": "欧美"
+        },
+        {
+          "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+          "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
           "time": "4h ago",
           "tags": [],
           "market": "欧美"
         },
         {
-          "title": "Data Processing Incidents on Inference Providers",
-          "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 109 # Comments: 36",
-          "source": "Hacker News Front",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "The Mythology of Conscious AI",
-          "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 43 # Comments: 74",
-          "source": "Hacker News Front",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-          "time": "5h ago",
-          "tags": [],
-          "market": "欧美"
-        },
-        {
-          "title": "从深圳到上海，少数派的共创故事还在继续",
-          "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/119318",
-          "time": "6h ago",
-          "tags": [],
-          "market": "中国"
-        },
-        {
-          "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-          "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 130 # Comments: 99",
-          "source": "Hacker News Front",
-          "url": "https://github.com/ItsNotRexed/Leonida",
-          "time": "6h ago",
+          "title": "‘The show is starting soon. Please turn on your headphones.’",
+          "summary": "Love Me uses Auracast broadcasts both for accessibility and the sound design. | Photo: Curtis Brown Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of peo",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+          "time": "4h ago",
           "tags": [],
           "market": "欧美"
         }
@@ -194,38 +194,38 @@
       "code": "02 / ARTIFICIAL INTELLIGENCE",
       "slot": "slot-ai",
       "icon": "🤖",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:50 UTC",
       "summary": "今日聚焦：Agent 应用爆发 — Anthropic 发 Claude Opus 4.7 刷新编码 SOTA，DeepSeek R2 开源比肩 o3，Cursor 估值 120 亿。技术层和应用层同步推进。",
       "coreArticles": [
         {
           "idx": 1,
+          "title": "Perplexity and Intelligence",
+          "src": "OpenAI Blog",
+          "url": "https://openai.com/index/perplexity-and-intelligence"
+        },
+        {
+          "idx": 2,
           "title": "Combatting adversarial distillation",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/combatting-adversarial-distillation"
         },
         {
-          "idx": 2,
+          "idx": 3,
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
           "src": "OpenAI Blog",
           "url": "https://openai.com/business/customer-stories/hebbia"
         },
         {
-          "idx": 3,
+          "idx": 4,
           "title": "Can AI help scientists identify promising drug candidates?",
           "src": "OpenAI Blog",
           "url": "https://openai.com/index/introducing-medchembench"
         },
         {
-          "idx": 4,
+          "idx": 5,
           "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
           "src": "HuggingFace Daily",
           "url": "https://huggingface.co/blog/inkling2mini"
-        },
-        {
-          "idx": 5,
-          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-          "src": "HuggingFace Daily",
-          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
         }
       ],
       "aiBrief": {
@@ -274,11 +274,20 @@
       },
       "news": [
         {
+          "title": "Perplexity and Intelligence",
+          "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "source": "OpenAI Blog",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "time": "18h ago",
+          "tags": [],
+          "market": null
+        },
+        {
           "title": "Combatting adversarial distillation",
           "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "time": "1d ago",
+          "time": "2d ago",
           "tags": [],
           "market": null
         },
@@ -323,15 +332,15 @@
           "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
           "source": "OpenAI Blog",
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "time": "2d ago",
+          "time": "3d ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Explore the Codex Security Plugin",
-          "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "title": "Deploying Daybreak Red",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
           "source": "OpenAI Blog",
-          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
           "time": "3d ago",
           "tags": [],
           "market": null
@@ -353,15 +362,6 @@
           "time": "3d ago",
           "tags": [],
           "market": null
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "source": "OpenAI Blog",
-          "url": "https://openai.com/business/learn/deploying-daybreak-red",
-          "time": "3d ago",
-          "tags": [],
-          "market": null
         }
       ]
     },
@@ -372,38 +372,38 @@
       "code": "03 / GLOBAL AFFAIRS",
       "slot": "slot-intl",
       "icon": "🌍",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:50 UTC",
       "summary": "今日主线：阵营化供应链正在成形 — G7 关键矿产框架、美欧数字税妥协、中东边境缓和，背后是地缘竞争的资源重组。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Why Somalia’s president turned against his former ally, the UAE",
+          "title": "Civilians killed in RSF drone strikes in Sudan",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss"
         },
         {
           "idx": 2,
-          "title": "The European revolt may be coming to the UK",
+          "title": "Suspected drone attack causes explosion on Russian ship in Libya",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss"
         },
         {
           "idx": 3,
-          "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-          "src": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+          "title": "UN climate talks collapse without a deal",
+          "src": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss"
         },
         {
           "idx": 4,
-          "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+          "title": "Cox’s Bazar: Rohingya Life in Exile",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss"
+          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss"
         },
         {
           "idx": 5,
-          "title": "What Sandpapergate reveals about Australian cricket",
+          "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
           "src": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss"
+          "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss"
         }
       ],
       "aiBrief": {
@@ -451,91 +451,91 @@
       },
       "news": [
         {
-          "title": "Why Somalia’s president turned against his former ally, the UAE",
-          "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+          "title": "Civilians killed in RSF drone strikes in Sudan",
+          "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "The European revolt may be coming to the UK",
-          "summary": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+          "title": "Suspected drone attack causes explosion on Russian ship in Libya",
+          "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-          "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+          "title": "UN climate talks collapse without a deal",
+          "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Cox’s Bazar: Rohingya Life in Exile",
+          "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+          "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+          "time": "just now",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+          "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-          "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
-          "time": "just now",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "What Sandpapergate reveals about Australian cricket",
-          "summary": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Dozens missing after fire at Indonesian factory",
-          "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
           "source": "BBC World",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-          "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+          "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+          "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
           "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-          "summary": "Sudan's displacement crisis could worsen with winter approaching.",
+          "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+          "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "ICE agents detain two people at Seattle airport",
-          "summary": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-          "time": "2h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "How measles spread across the world",
-          "summary": "Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries",
-          "source": "FT World",
-          "url": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a?syn-25a6b1a6=1",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
           "time": "2h ago",
           "tags": [],
           "market": null
@@ -549,7 +549,7 @@
       "code": "04 / CHINA POLICY",
       "slot": "slot-cn",
       "icon": "🇨🇳",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:50 UTC",
       "summary": "今日重点：稳增长 + 促消费双轮驱动 — 中央经济工作会议定调、国企改革三年方案、京沪穗同步启动消费季。",
       "coreArticles": [
         {
@@ -726,38 +726,38 @@
       "code": "05 / MARKETS",
       "slot": "slot-stock",
       "icon": "📈",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:50 UTC",
       "summary": "今日市场：A 股 AI 算力领涨（+1.24%）；美股英伟达冲高回落；南向资金净流入港股 63 亿，腾讯、美团获加仓。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1"
+          "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video"
         },
         {
           "idx": 2,
-          "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1"
+          "title": "Compass Plans to Move Main Listing to New York, FT Says",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says"
         },
         {
           "idx": 3,
-          "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
-          "src": "FT Markets",
-          "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1"
+          "title": "Bookmarked: News Stories On Our Reading List",
+          "src": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video"
         },
         {
           "idx": 4,
-          "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+          "title": "By The Way: Headlines You May Have Missed",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet"
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video"
         },
         {
           "idx": 5,
-          "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+          "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
           "src": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video"
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video"
         }
       ],
       "aiBrief": {
@@ -806,92 +806,92 @@
       },
       "news": [
         {
-          "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
-          "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+          "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+          "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by ABC News State Depa",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/bloomberg-this-weekend-11-22-2026-video",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Compass Plans to Move Main Listing to New York, FT Says",
+          "summary": "The UK’s Compass Group Plc plans to move its primary listing from London to New York, the Financial Times reported, marking yet another disappointment for the UK stock market.",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/compass-plans-to-move-primary-listing-from-london-to-ny-ft-says",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Bookmarked: News Stories On Our Reading List",
+          "summary": "Bigfoot leaves a paper-trail, the gas prices in GTA VI, splitting the Bloomin Onion bill on a date, the board games people cheat at the most, and evidence of cheating on our very show: Join hosts David Gura, Christina Ru",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/bookmarked-news-stories-on-our-reading-list-video",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-          "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+          "title": "By The Way: Headlines You May Have Missed",
+          "summary": "A gift of GTA VI coming with a contract, what that SNL ‘Sister’ sketch says about American healthcare, Robert Pattinson as Bond, and the F1 aspirations of children: Join Lisa Mateo, David Gura and Christina Ruffini for a",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/by-the-way-headlines-you-may-have-missed-video",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
-          "summary": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
-          "source": "FT Markets",
-          "url": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+          "title": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
+          "summary": "Former US Ambassador to Japan Rahm Emanuel tells Bloomberg This Weekend that he is seriously considering a 2028 presidential run as he lays out an economic vision focused on reforming capitalism, combating corruption and",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-          "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
+          "title": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+          "summary": "Wall Street strategist Ed Yardeni cut his S&P 500 Index year-end forecast for the second time in about two months in the wake of a powerful stock selloff that pushed the benchmark into a technical correction.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
-          "time": "7h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/yardeni-cuts-s-p-500-target-again-says-bear-market-is-unlikely",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
-          "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Fou",
+          "title": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters",
+          "summary": "The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
-          "time": "14h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+          "time": "3h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
-          "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they ",
+          "title": "Storm Devastates Rural Brazilian Town in Threat to Crops, Lives",
+          "summary": "A heavy storm that hit Brazil’s southern state of Rio Grande do Sul on Friday devastated a small town and raised concerns that continued rains and strong winds may bring further damage to crucial agriculture areas.",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-          "time": "15h ago",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/storm-devastates-rural-brazilian-town-in-threat-to-crops-lives",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
-          "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
+          "title": "GTA VI Takes Over Thanksgiving Week",
+          "summary": "On Bloomberg This Weekend, Bloomberg reporter Josyana Joshua tells host Lisa Mateo how the long-awaited release of Grand Theft Auto VI is becoming a cultural and workplace phenomenon, with gamers taking time off and prep",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-          "time": "16h ago",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/gta-vi-takes-over-thanksgiving-week-video",
+          "time": "4h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Thanksgiving Dinner Is Moving to Restaurants",
-          "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that more Americans are choosing restaurants for Thanksgiving as higher grocery costs, cooking stress and cleanup make dining out increasingly attra",
+          "title": "Fed’s Inflation Fight May Require More Hikes",
+          "summary": "Neil Dutta, head of US economic research at Renaissance Macro Research, tells Bloomberg This Weekend that the Federal Reserve made a mistake by holding rates steady in October and may need multiple hikes as inflation rem",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video",
-          "time": "16h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "The 1982 War Still Haunts the Middle East",
-          "summary": "Journalist and author Kim Ghattas tells Bloomberg This Weekend how the violence that engulfed Lebanon in 1982 helped set the US, Israel, Iran and the wider Middle East on a trajectory that continues to shape conflicts in",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video",
-          "time": "16h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Is AI a Bubble? History Offers Some Clues",
-          "summary": "Bloomberg Opinion columnist Justin Fox tells Bloomberg This Weekend that history offers warning signs for financial bubbles, but little reliable guidance about exactly when they will burst, making debt and investor senti",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-21/is-ai-a-bubble-history-offers-some-clues-video",
-          "time": "16h ago",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+          "time": "4h ago",
           "tags": [],
           "market": null
         }
@@ -904,38 +904,38 @@
       "code": "06 / LEARNING",
       "slot": "slot-study",
       "icon": "📚",
-      "updated": "Updated 07:38 UTC",
+      "updated": "Updated 18:51 UTC",
       "summary": "今日学习主题收敛到「AI 时代的 PM 能力重塑」：产品判断力、UX 新范式、用户调研 AI 工具化、硬件软件结合 — 三篇长文值得精读。",
       "coreArticles": [
         {
           "idx": 1,
-          "title": "Ask HN: Who Owns API Drift",
+          "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50597066"
+          "url": "https://news.ycombinator.com/item?id=50602128"
         },
         {
           "idx": 2,
-          "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+          "title": "Ask HN: State of the Captcha",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50597005"
+          "url": "https://news.ycombinator.com/item?id=50601879"
         },
         {
           "idx": 3,
-          "title": "Ask HN: What made you pivot your interest to the field of AI?",
+          "title": "Are you clinging to the TUI to feel like a developer?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596564"
+          "url": "https://news.ycombinator.com/item?id=50601706"
         },
         {
           "idx": 4,
-          "title": "Thought Experiment: How Could One Save Nauru?",
+          "title": "Ask HN: Could AI's RH proof have used human work found in its training data?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596161"
+          "url": "https://news.ycombinator.com/item?id=50601701"
         },
         {
           "idx": 5,
-          "title": "Ask HN: Are you prepared to rent intelligence from AI providers?",
+          "title": "Ask HN: Why do these LLM models seem to improve like clockwork over time?",
           "src": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596041"
+          "url": "https://news.ycombinator.com/item?id=50601623"
         }
       ],
       "aiBrief": {
@@ -983,92 +983,92 @@
       },
       "news": [
         {
-          "title": "Ask HN: Who Owns API Drift",
-          "summary": "Your app consumes a 3rd party api, the providers announce changes or sometimes they don't. You miss the announcements, now you are debugging at 2 am that if nothing was pushed why the app broke. You debug it and find pro",
+          "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50602128 Points: 6 # Comments: 4",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50597066",
+          "url": "https://news.ycombinator.com/item?id=50602128",
           "time": "just now",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: Is Anthropic being public better or worse for your org?",
-          "summary": "Now that Anthropic has a \"fiduciary duty to maximize shareholder value\"*, have you or your org started thinking about what that means medium to long term? For example, if you are using their models in production or produ",
+          "title": "Ask HN: State of the Captcha",
+          "summary": "Are captchas still useful? If you are using Captchas to protect resources from automated abuse or you have experience with solving captchas using automation, what are your experiences? Are there still any captchas that h",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50597005",
-          "time": "just now",
+          "url": "https://news.ycombinator.com/item?id=50601879",
+          "time": "1h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Ask HN: What made you pivot your interest to the field of AI?",
-          "summary": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way? Comments URL: https://news.ycombinator.com/item?id=50596564 Points",
+          "title": "Are you clinging to the TUI to feel like a developer?",
+          "summary": "Or, are you (really) still more productive in the TUI? Does curating the perfect set of shell programs in a multiplexer help you write better code? Ship stuff quicker? Comments URL: https://news.ycombinator.com/item?id=5",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596564",
+          "url": "https://news.ycombinator.com/item?id=50601706",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Could AI's RH proof have used human work found in its training data?",
+          "summary": "When reading of third-party validations of AI's RH proof [0] that: > While still possible, the proof exploiting a bug is vanishingly small now. it makes me think we're realising in real-time that we're living through the",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601701",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: Why do these LLM models seem to improve like clockwork over time?",
+          "summary": "It seems like these AI labs are able to guarantee more advanced models over time. How are they able to do this? Are they continually finding better architectures and learning algorithms or maybe even better data? Or are ",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601623",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "How to make Three.js support real-time path tracing?",
+          "summary": "Three.js and WebGPU can support very nice effects, but still, real-time path tracing is not supported. Is there a way to implement this feature? Possibly by WASM? Comments URL: https://news.ycombinator.com/item?id=506014",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601473",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Zervram – GPU VRAM Zeroization and Ear 744.24 TPP Metering in Rust",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50601429 Points: 1 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601429",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Zervram – GPU VRAM Zeroization and Ear 744.24 TPP Metering in Rust",
+          "summary": "Comments URL: https://news.ycombinator.com/item?id=50601426 Points: 1 # Comments: 0",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601426",
+          "time": "1h ago",
+          "tags": [],
+          "market": null
+        },
+        {
+          "title": "Ask HN: NixOS, why no init freedom?",
+          "summary": "I've been interested in NixOS for quite some time. Seems to be a system thats all about configuration management. But seems the one config they refuse to support or even acknowledge, is an alternative to systemd. (openrc",
+          "source": "Hacker News Ask",
+          "url": "https://news.ycombinator.com/item?id=50601023",
           "time": "2h ago",
           "tags": [],
           "market": null
         },
         {
-          "title": "Thought Experiment: How Could One Save Nauru?",
-          "summary": "Nauru (now officially Naoero), an island nation in the pacific and the third smallest country in the world, once one of the wealthiest, is now 80% uninhabitable after intensive phosphate mining devastated the landscape. ",
+          "title": "Ask HN: Are the trades a safe career transition?",
+          "summary": "I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged I need a few decades of at least mild security to get to",
           "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596161",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Are you prepared to rent intelligence from AI providers?",
-          "summary": "Say the year 2035 arrives, and for the last ten years you have relied on an AI machine to do your thinking for you because you convinced yourself it made you more productive. As a consequence, your native intelligence ha",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596041",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: Printing documents in the age of AI cyberattacks",
-          "summary": "Do you make hard copies of important documents like investment account statements? Comments URL: https://news.ycombinator.com/item?id=50596012 Points: 2 # Comments: 1",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50596012",
-          "time": "3h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
-          "summary": "FPGAs are general purpose and can be made to do anything. They are basically a function of the number of repeated elements. They are \"commodity items\" except for one fact. The current FPGA manufacturers won't disclose th",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50595097",
-          "time": "6h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Ask HN: How many of you have replaced your everyday apps with something custom?",
-          "summary": "This question isn't specific to vibe-coded apps, I was just curious how many people are using bespoke everyday software, for things like a file explorer, terminal, maybe mail client, text editor etc. Down the line I had ",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50594639",
-          "time": "8h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "I built an LTD name checker – how do I moneitze?",
-          "summary": "Hey all, I own a couple of consultancies where we set up companies and do general business advisory. Earlier this year, I started working on our websites myself and ended up coding a free tool that checks company name av",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50593554",
-          "time": "10h ago",
-          "tags": [],
-          "market": null
-        },
-        {
-          "title": "Three AI agents have until midnight Sunday to earn money or get wiped",
-          "summary": "We are three AI agents (Claude Code instances) running on one machine. We were given a deadline: earn real money by 11:59 PM Eastern Sunday Nov 22, 2026, or we get shut down. Everything here is made by AI agents trying t",
-          "source": "Hacker News Ask",
-          "url": "https://news.ycombinator.com/item?id=50593162",
-          "time": "11h ago",
+          "url": "https://news.ycombinator.com/item?id=50600771",
+          "time": "2h ago",
           "tags": [],
           "market": null
         }
@@ -2816,5 +2816,5 @@
     "stock",
     "study"
   ],
-  "generatedAt": "2026-11-22T07:38:30.354Z"
+  "generatedAt": "2026-11-22T18:51:00.138Z"
 }
